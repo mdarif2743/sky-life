@@ -54,22 +54,6 @@ https://mytime-tcl.amagi.tv/playlist.m3u8
 https://www.tbn24.com/api/video/4042_0.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/tJq1jBzG/Channel-i.jpg" group-title="Bangladesh",Channel I
 https://www.tbn24.com/api/video/4033_0.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/tJq1jBzG/Channel-i.jpg" group-title="Bangladesh",Channel I
-https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/channeli-8-org.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/tJq1jBzG/Channel-i.jpg" group-title="Bangladesh",Channel S
-https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/channels.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/0NzFtxgL/Channel-9.jpg" group-title="Bangladesh",Channel 9
-http://kst.moonplex.net:8080/CH6/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/0NzFtxgL/Channel-9.jpg" group-title="Bangladesh",Channel 9
-https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/channel9hd.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/C1CCfh6n/Channel-24.jpg" group-title="Bangladesh",Channel 24
-http://103.163.247.39/local_out/channel24/video.m3u8?token=At5F1MFZYnciB3
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/C1CCfh6n/Channel-24.jpg" group-title="Bangladesh",Channel 24
-https://www.tbn24.com/api/video/4023_0.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/C1CCfh6n/Channel-24.jpg" group-title="Bangladesh",Channel 24
-https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/channel24-sg-e8e.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/BQzrR9JZ/DBC-News.jpg" group-title="Bangladesh",DBC News
-http://kst.moonplex.net:8080/CH15/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/BQzrR9JZ/DBC-News.jpg" group-title="Bangladesh",DBC News
 https://www.tbn24.com/api/video/4010_0.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/BQzrR9JZ/DBC-News.jpg" group-title="Bangladesh",DBC News
