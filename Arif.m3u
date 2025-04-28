@@ -12,16 +12,6 @@ https://www.tbn24.com/api/video/4028_0.m3u8
 http://125.209.88.166:45793/BRN/ArySports.stream/chunklist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/ZqCRJXN2/Willow-HD.jpg" group-title="Sports",Willow HD
 https://www.tbn24.com/api/video/4026_0.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/cC5zmCyv/Supersports-Cricket.jpg" group-title="Sports",Sky Sports Cricket
-http://103.122.74.6:8888/hls/SKY.SPORTS.CRICKET.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/cC5zmCyv/Supersports-Cricket.jpg" group-title="Sports",Super Sports Cricket
-http://103.122.74.6:8888/hls/SUPER.CRICKET.HD.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/5091KXGg/Sports-18.jpg" group-title="Sports",Bein Sports 1 English
-http://103.122.74.6:8888/hls/BEINSPORTS.1.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/5091KXGg/Sports-18.jpg" group-title="Sports",Bein Sports 3
-http://103.122.74.6:8888/hls/BEIN.SPORT.3.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/5091KXGg/Sports-18.jpg" group-title="Sports",Euro Sport HD
-http://103.122.74.6:8888/hls/EUROSPORTS.HD.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/m2sv0bW0/Sony-Sports-1-HD.jpg" group-title="Sports",Sony Sports 1 HD
 https://www.tbn24.com/api/video/4037_0.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/v8rY12Yw/Sony-Sports-2-HD.jpg" group-title="Sports",Sony Sports 2 HD
