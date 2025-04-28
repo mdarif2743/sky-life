@@ -42,20 +42,8 @@ http://fl5.moveonjoy.com/TSN_4/index.m3u8
 http://fl5.moveonjoy.com/TSN_5/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/nrz1NpPV/Red-Bull-TV.jpg" group-title="Others",Redbull TV
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/02CNFVwv/Star-Movies-HD.jpg" group-title="Others",&Flix HD
-http://103.122.74.6:8888/hls/AND.FLIX.HD.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/02CNFVwv/Star-Movies-HD.jpg" group-title="Others",Action Hollywood Movies
 https://amg01076-lightningintern-actionhollywood-samsungnz-82rry.amagi.tv/playlist/amg01076-lightningintern-actionhollywood-samsungnz/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/02CNFVwv/Star-Movies-HD.jpg" group-title="Others",BBC Lifestyle
-http://103.122.74.6:8888/hls/BBC.LIFESTYLE.HD.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/SKhYrRFf/National-Geographic.jpg" group-title="Others",Cinemax
-http://103.122.74.6:8888/hls/CINEMAX.HD.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/SKhYrRFf/National-Geographic.jpg" group-title="Others",CNBC
-http://103.122.74.6:8888/hls/LOVE.NATURE.HD.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/SKhYrRFf/National-Geographic.jpg" group-title="Others",Colors Infinity
-http://103.122.74.6:8888/hls/STAR.MOVIES.SEL.HD.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/aju4mRV.jpg" group-title="Others",HBO
-http://103.122.74.6:8888/hls/HBO.HD.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/aju4mRV.jpg" group-title="Others",HBO
 http://212.102.60.231/HBO/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/aju4mRV.jpg" group-title="Others",HBO Hits
