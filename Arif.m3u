@@ -148,42 +148,16 @@ https://server.thelegitpro.in/rongeentv/rongeentv/tracks-v1a1/mono.m3u8
 https://streams.spacetoon.com/live/stchannel/smil:livesmil.smil/chunklist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/FFwSjdzS/Pogo.jpg" group-title="Kids",Zoo Moo
 https://amg01553-blueantmediaasi-zoomoonz-samsungnz-rdufn.amagi.tv/playlist/amg01553-blueantmediaasi-zoomoonz-samsungnz/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/Y05S4Fjz/Animal-Planet.jpg" group-title="Infotainment",Animal Planet
-http://xtv.ooo:8080/live/Irfan99383/8888/206283.ts
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/Y05S4Fjz/Animal-Planet.jpg" group-title="Infotainment",BBC Earth
-http://103.122.74.6:8888/hls/BBC.Earth.HD.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/fTyctVD3/Discovery-HD.jpg" group-title="Infotainment",Discovery
-http://103.122.74.6:8888/hls/DISCOVERY.HD.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/fTyctVD3/Discovery-HD.jpg" group-title="Infotainment",Discovery Turbo
-http://103.122.74.6:8888/hls/DISCOVARY.TURBO.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/fTyctVD3/Discovery-HD.jpg" group-title="Infotainment",History TV
-http://103.122.74.6:8888/hls/HISTORY.TV.18.HD.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/fTyctVD3/Discovery-HD.jpg" group-title="Infotainment",Love Nature
-http://103.122.74.6:8888/hls/LOVE.NATURE.HD.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/fTyctVD3/Discovery-HD.jpg" group-title="Infotainment",Love Nature
 https://d18dyiwu97wm6q.cloudfront.net/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/SKhYrRFf/National-Geographic.jpg" group-title="Infotainment",National Geographic
-http://103.122.74.6:8888/hls/NATGEO.HD.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/SKhYrRFf/National-Geographic.jpg" group-title="Infotainment",Nat Geo Wild
-http://103.122.74.6:8888/hls/NATGEO.WILD.HD.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/SKhYrRFf/National-Geographic.jpg" group-title="Infotainment",Nat Geo Bangla
-http://xtv.ooo:8080/live/Irfan99383/8888/245967.ts\
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/SKhYrRFf/National-Geographic.jpg" group-title="Infotainment",Sony BBC Earth
-http://103.122.74.6:8888/hls/SONY.BBC.EARTH.HD.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/j28nsY5w/Travel-XP.jpg" group-title="Infotainment",Travel XP
-http://103.122.74.6:8888/hls/TRAVELXP.HD.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/j28nsY5w/Travel-XP.jpg" group-title="Infotainment",Travel XP
 https://travelxp-travelxp-1-eu.rakuten.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/HxDhtfTy/Wild-Earth.jpg" group-title="Infotainment",Wild Earth
-http://xtv.ooo:8080/live/Irfan99383/8888/238545.ts
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/e3cYtrb.jpg" group-title="News",Aaj Tak HD (IN)
 https://feeds.intoday.in/aajtak/api/aajtakhd/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/e3cYtrb.jpg" group-title="News",Aljazeera
 http://kst.moonplex.net:8080/CH14/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/e3cYtrb.jpg" group-title="News",Aljazeera
 https://live-hls-v3-aje.getaj.net/AJE-V3/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/ZnD8CtvQ/BBC.jpg" group-title="News",BBC World News
-http://103.122.74.6:8888/hls/BBC.NEWS.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/vH3MKVPY/CNN.jpg" group-title="News",CNA News
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/vH3MKVPY/CNN.jpg" group-title="News",CNN (US)
@@ -198,8 +172,6 @@ https://ndtv24x7elemarchana.akamaized.net/hls/live/2003678/ndtv24x7/master.m3u8
 https://ndtvindiaelemarchana.akamaized.net/hls/live/2003679/ndtvindia/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/RZJmcSt6/9XM.jpg" group-title="News",News Max
 https://nmxlive.akamaized.net/hls/live/529965/Live_1/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/RZJmcSt6/9XM.jpg" group-title="News",PTC News
-https://streaming.ptcplay.com/PTCNEWSINONE/smil:Live.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/e3cYtrb.jpg" group-title="News",TV9 India
 https://dyjmyiv3bp2ez.cloudfront.net/pub-iotv9hinjzgtpe/liveabr/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/ZnD8CtvQ/BBC.jpg" group-title="Religion",Madani TV
