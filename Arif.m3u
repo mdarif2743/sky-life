@@ -48,42 +48,8 @@ https://amg01076-lightningintern-actionhollywood-samsungnz-82rry.amagi.tv/playli
 http://212.102.60.231/HBO/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/aju4mRV.jpg" group-title="Others",Hollywood HD
 http://iptv.prosto.tv:7000/ch50/video.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/aju4mRV.jpg" group-title="Others",MNX
-http://103.122.74.6:8888/hls/MNX.HD.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/aju4mRV.jpg" group-title="Others",MN+
-http://103.122.74.6:8888/hls/MN.PLUS.HD.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/aju4mRV.jpg" group-title="Others",Movies Now HD
-http://103.122.74.6:8888/hls/MOVIES.NOW.HD.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/aju4mRV.jpg" group-title="Others",MTV
-http://103.122.74.6:8888/hls/UTSHOV.GOLD.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/aju4mRV.jpg" group-title="Others",My Time
 https://mytime-tcl.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/02CNFVwv/Star-Movies-HD.jpg" group-title="Others",Sony Pix HD
-http://103.122.74.6:8888/hls/SONY.PIX.HD.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/02CNFVwv/Star-Movies-HD.jpg" group-title="Others",Star Movies HD
-http://103.122.74.6:8888/hls/STAR.MOVIES.HD.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/02CNFVwv/Star-Movies-HD.jpg" group-title="Others",Star Movies Select HD
-http://103.122.74.6:8888/hls/COLOR.INFINITY.HD.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/nr9H8z0m/Tennis-Channel.jpg" group-title="Others",TBS
-http://kodistreamstv.com:8000/live/foxteamhd/VVPYpGd9wE/19.ts
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/nr9H8z0m/Tennis-Channel.jpg" group-title="Others",TLC
-http://103.122.74.6:8888/hls/TLC.HD.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/nr9H8z0m/Tennis-Channel.jpg" group-title="Others",Zee Cafe HD
-http://103.122.74.6:8888/hls/ZEE.CAFE.HD.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/t4bKChH4/Ananda-TV.jpg" group-title="Bangladesh",Ananda TV
-http://103.163.247.39/local_out/anandatv/video.m3u8?token=At5F1MFZYnciB3
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/BQkP0sG5/Alpha-TV-Canada.jpg" group-title="Bangladesh",Asian TV
-http://103.163.247.39/local_out/asiantv/video.m3u8?token=At5F1MFZYnciB3
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/ZqPGzW3x/ATN-Bangla.jpg" group-title="Bangladesh",ATN Bangla
-https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/atnbd-8-org.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/ZqPGzW3x/ATN-Bangla.jpg" group-title="Bangladesh",ATN News
-http://103.163.247.39/local_out/atnnews/video.m3u8?token=At5F1MFZYnciB3
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/ZqPGzW3x/ATN-Bangla.jpg" group-title="Bangladesh",ATN News
-https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/atnws-sg.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/Jnd8st5d/Bangla-21-TV.jpg" group-title="Bangladesh",Bijoy TV
-http://103.163.247.39/local_out/bijoytv/video.m3u8?token=At5F1MFZYnciB3
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/Jnd8st5d/Bangla-21-TV.jpg" group-title="Bangladesh",Bijoy TV
-https://aynaxpranto.vercel.app/api/stream/f7c89459-37bf-4129-904d-33b0a4c0d590.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/Sxq6KGNR/Banglavision.jpg" group-title="Bangladesh",Bangla TV
 http://103.163.247.39/local_out/banglatv/video.m3u8?token=At5F1MFZYnciB3
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/Sxq6KGNR/Banglavision.jpg" group-title="Bangladesh",Bangla TV
