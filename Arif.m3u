@@ -14,16 +14,10 @@ http://125.209.88.166:45793/BRN/ArySports.stream/chunklist.m3u8
 https://www.tbn24.com/api/video/4026_0.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/m2sv0bW0/Sony-Sports-1-HD.jpg" group-title="Sports",Sony Sports 1 HD
 https://www.tbn24.com/api/video/4037_0.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/v8rY12Yw/Sony-Sports-2-HD.jpg" group-title="Sports",Sony Sports 2 HD
-http://103.122.74.6:8888/hls/sony10.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/Zqvpmns1/Geo-Super.jpg" group-title="Sports",Geo Super
 http://125.209.88.166:45793/BRN/GeoSuper.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/G3NzLNgx/PTV-Sports.jpg" group-title="Sports",PTV Sports
-http://filex.tv:8080/live/shakeelmirza/4110440/453434.ts
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/x1VYmp0L/Ten-Sports.jpg" group-title="Sports",Ten Sports HD
 http://125.209.88.166:45793/BRN/TenSports.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/4yyTcJWn/GTV.jpg" group-title="Sports",TNT Sport 1
-http://zkbvzkj.megahdtv.xyz:900/live/1103581436/4099381829/401338315.ts
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/Kgfo9ty.jpg" group-title="Sports",Dubai Sports 2
 http://dmitwlvvll.cdn.mangomolo.com/dubaisportshd/dubaisportshd/chunklist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/Kgfo9ty.jpg" group-title="Sports",Dubai Sports 3
