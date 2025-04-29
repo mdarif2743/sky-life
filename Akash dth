@@ -2,5 +2,17 @@
 https://d1e7rcqq4o2ma.cloudfront.net/bpk-tv/1709/output/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.jagobd.com/wp-content/uploads/2024/12/btv-news-.jpg" group-title="All",BTV NEWS
 https://static.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/btvbd-office-sg.stream/tracks-v1a1/mono.ts.m3u8|referer=https://www.jagobd.com
-#EXTINF:-1 tvg-id="5" tvg-logo="https://s3.aynaott.com/storage/85e20cee815e7ee532133ad7ae4ac571" group-title="",ATN Bangla
-https://aynaxpranto.vercel.app/api/stream/9046949b-9847-4b5d-96c1-e82b0734444b.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://www.jagobd.com/wp-content/uploads/2015/12/atn-bangla1.jpg?x91288" group-title="All",ATN
+https://static.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/atnbd-8-org.stream/tracks-v1a1/mono.ts.m3u8|referer=https://www.jagobd.com
+#EXTINF:-1 tvg-id="" tvg-logo="http://www.jagobd.com/wp-content/uploads/2016/08/atn-news.jpg?x91288" group-title="All",ATN NESW
+https://static.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/atnws-sg.stream/tracks-v1a1/mono.ts.m3u8|referer=https://www.jagobd.com
+#EXTINF:-1 tvg-id="16" tvg-logo="https://s3.aynaott.com/storage/0fd66b697ff9717751acf57347acb615" group-title="",Asian TV
+https://aynaxpranto.vercel.app/api/stream/4d629b90-cfc2-4426-9eef-62b879efdb02.m3u8
+#EXTINF:-1 tvg-id="13" tvg-logo="https://s3.aynaott.com/storage/51a07e1b00483f51e0bd53a30f2c4c13" group-title="",Boishakhi TV
+https://aynaxpranto.vercel.app/api/stream/92890d5c-473a-454c-ad10-2c6c0c91062a.m3u8
+#EXTINF:-1 tvg-id="3" tvg-logo="https://s3.aynaott.com/storage/80d96d4a6b482d387a1a6b36f215c2d4" group-title="",Bangla Vision
+https://aynaxpranto.vercel.app/api/stream/21e75798-3b6a-4214-9d93-b3fecaa4e700.m3u8
+#EXTINF:-1 tvg-id="30" tvg-logo="https://s3.aynaott.com/storage/d0ce1e83699ef39de269d008206195af" group-title="",Bijoy TV
+https://aynaxpranto.vercel.app/api/stream/f7c89459-37bf-4129-904d-33b0a4c0d590.m3u8
+#EXTINF:-1 tvg-id="24" tvg-logo="https://s3.aynaott.com/storage/63df5e0bad98bac21d24e6f3f50d2891" group-title="",Bangla TV
+https://aynaxpranto.vercel.app/api/stream/addb7014-1d2e-41d8-982d-7cafbdc48770.m3u8
