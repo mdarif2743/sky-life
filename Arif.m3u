@@ -165,53 +165,6 @@ http://125.209.88.166:45793/BRN/PtvHome.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/ZnD8CtvQ/BBC.jpg" group-title="Pakistan",PTV News
 http://125.209.88.166:45793/BRN/PTVNews.stream/playlist.m3u8
 
-
-
-#EXTM3U
-#EXTINF:-1 tvg-id="balle-balle" tvg-logo="https://d388d59m61mm0v.cloudfront.net/optimized/content/common/logos/channel/logos/ejnlyj.png" group-title="Music",Balle Balle
-https://otttv.co.in/d2h/livestream/balle-balle/master.m3u8
-#EXTINF:-1 tvg-id="divya" tvg-logo="https://d388d59m61mm0v.cloudfront.net/optimized/content/common/logos/channel/logos/lkfhpj.jpeg" group-title="Spiritual",Divya
-https://otttv.co.in/d2h/livestream/divya/master.m3u8
-#EXTINF:-1 tvg-id="sanskar-tv" tvg-logo="https://d388d59m61mm0v.cloudfront.net/optimized/content/common/logos/channel/logos/odkbmd.png" group-title="Spiritual",Sanskar TV
-https://otttv.co.in/d2h/livestream/sanskar-tv/master.m3u8
-#EXTINF:-1 tvg-id="satsang-tv" tvg-logo="https://d388d59m61mm0v.cloudfront.net/optimized/content/common/logos/channel/logos/xtbali.png" group-title="Spiritual",Satsang HD
-https://otttv.co.in/d2h/livestream/satsang-tv/master.m3u8
-#EXTINF:-1 tvg-id="shubh-tv" tvg-logo="https://d388d59m61mm0v.cloudfront.net/optimized/content/common/logos/channel/logos/shubh-tv.png" group-title="Spiritual",Shubh TV HD
-https://otttv.co.in/d2h/livestream/shubh-tv/master.m3u8
-#EXTINF:-1 tvg-id="sai-leela" tvg-logo="https://d388d59m61mm0v.cloudfront.net/optimized/content/common/logos/channel/logos/qjucjr.jpeg" group-title="Spiritual",Sai Leela
-https://otttv.co.in/d2h/livestream/sai-leela/master.m3u8
-#EXTINF:-1 tvg-id="total-bhakti" tvg-logo="https://d388d59m61mm0v.cloudfront.net/optimized/content/common/logos/channel/logos/paokwh.png" group-title="Spiritual",Total Bhakti
-https://otttv.co.in/d2h/livestream/total-bhakti/master.m3u8
-#EXTINF:-1 tvg-id="france-24" tvg-logo="https://d388d59m61mm0v.cloudfront.net/optimized/content/common/logos/channel/logos/vrandh.png" group-title="News",France 24
-https://otttv.co.in/d2h/livestream/france-24/master.m3u8
-#EXTINF:-1 tvg-id="india-news-gujarat" tvg-logo="https://d388d59m61mm0v.cloudfront.net/optimized/content/common/logos/channel/logos/mhvtws.png" group-title="News",India New Gujarat
-https://otttv.co.in/d2h/livestream/india-news-gujarat/master.m3u8
-#EXTINF:-1 tvg-id="india-news-haryana" tvg-logo="https://d388d59m61mm0v.cloudfront.net/optimized/content/common/logos/channel/logos/gbtjgb.png" group-title="News",India News Haryana
-https://otttv.co.in/d2h/livestream/india-news-haryana/master.m3u8
-#EXTINF:-1 tvg-id="india-news-punjab" tvg-logo="https://d388d59m61mm0v.cloudfront.net/optimized/content/common/logos/channel/logos/india-news-punjab.png" group-title="News",India News Punjab
-https://otttv.co.in/d2h/livestream/india-news-punjab/master.m3u8
-#EXTINF:-1 tvg-id="india-news-uttar-pradesh--uttrakhand" tvg-logo="https://d388d59m61mm0v.cloudfront.net/optimized/content/common/logos/channel/logos/ddwhzh.png" group-title="News",India News Uttar Pradesh Uttrakhand
-https://otttv.co.in/d2h/livestream/india-news-uttar-pradesh--uttrakhand/master.m3u8
-#EXTINF:-1 tvg-id="india--news" tvg-logo="https://d388d59m61mm0v.cloudfront.net/optimized/content/common/logos/channel/logos/gwunjr.png" group-title="News",India News
-https://otttv.co.in/d2h/livestream/india--news/master.m3u8
-#EXTINF:-1 tvg-id="india-tv" tvg-logo="https://d388d59m61mm0v.cloudfront.net/optimized/content/common/logos/channel/logos/bgfvws.png" group-title="News",India TV
-https://otttv.co.in/d2h/livestream/india-tv/master.m3u8
-#EXTINF:-1 tvg-id="news-x" tvg-logo="https://d388d59m61mm0v.cloudfront.net/optimized/content/common/logos/channel/logos/slvoly.png" group-title="News",News X
-https://otttv.co.in/d2h/livestream/news-x/master.m3u8
-#EXTINF:-1 tvg-id="r-bangla" tvg-logo="https://d388d59m61mm0v.cloudfront.net/optimized/content/common/logos/channel/logos/r-bangla.png" group-title="News",Republic Bangla
-https://otttv.co.in/d2h/livestream/r-bangla/master.m3u8
-#EXTINF:-1 tvg-id="republic-bharat" tvg-logo="https://d388d59m61mm0v.cloudfront.net/optimized/content/common/logos/channel/logos/lnbskb.png" group-title="News",Republic Bharat
-https://otttv.co.in/d2h/livestream/republic-bharat/master.m3u8
-#EXTINF:-1 tvg-id="republic-tv" tvg-logo="https://d388d59m61mm0v.cloudfront.net/optimized/content/common/logos/channel/logos/ctxfzq.png" group-title="News",Republic TV
-https://otttv.co.in/d2h/livestream/republic-tv/master.m3u8
-#EXTINF:-1 tvg-id="russia-today" tvg-logo="https://d388d59m61mm0v.cloudfront.net/optimized/content/common/logos/channel/logos/russia-today.png" group-title="News",Russia Today
-https://otttv.co.in/d2h/livestream/russia-today/master.m3u8
-#EXTINF:-1 tvg-id="times-now-navbharat" tvg-logo="https://d388d59m61mm0v.cloudfront.net/optimized/content/common/logos/channel/logos/times-now-navbharat.png" group-title="News",Times Now Navbharat
-https://otttv.co.in/d2h/livestream/times-now-navbharat/master.m3u8
-#EXTINF:-1 tvg-id="naaptol-telugu" tvg-logo="https://d388d59m61mm0v.cloudfront.net/optimized/content/common/logos/channel/logos/naaptol-telugu.png" group-title="Lifestyle",Naaptol Telugu
-https://otttv.co.in/d2h/livestream/naaptol-telugu/master.m3u8
-#EXTINF:-1 tvg-id="pitaara" tvg-logo="https://d388d59m61mm0v.cloudfront.net/optimized/content/common/logos/channel/logos/dydzlx.png" group-title="Movies",Pitaara
-https://otttv.co.in/d2h/livestream/pitaara/master.m3u8
 #EXTINF:-1 tvg-id="sony-max" tvg-logo="https://d388d59m61mm0v.cloudfront.net/optimized/content/common/logos/channel/logos/rlvkwc.png" group-title="Movies",Sony MAX
 https://otttv.co.in/d2h/livestream/sony-max/master.m3u8
 #EXTINF:-1 tvg-id="sony-max-hd" tvg-logo="https://d388d59m61mm0v.cloudfront.net/optimized/content/common/logos/channel/logos/tpjeqj.png" group-title="Movies",Sony MAX HD
