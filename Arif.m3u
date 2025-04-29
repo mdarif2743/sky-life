@@ -50,30 +50,6 @@ http://212.102.60.231/HBO/index.m3u8
 http://iptv.prosto.tv:7000/ch50/video.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/aju4mRV.jpg" group-title="Others",My Time
 https://mytime-tcl.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/vBW8D5m8/Boiskakhi.jpg" group-title="Bangladesh",Boishakhi TV
-https://www.tbn24.com/api/video/4042_0.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/tJq1jBzG/Channel-i.jpg" group-title="Bangladesh",Channel I
-https://www.tbn24.com/api/video/4033_0.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/BQzrR9JZ/DBC-News.jpg" group-title="Bangladesh",DBC News
-https://www.tbn24.com/api/video/4010_0.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/L6WP5g60/Deepto-TV.jpg" group-title="Bangladesh",Deepto TV
-https://www.tbn24.com/api/video/4018_0.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/t4cxjxRj/Deshi-TV.jpg" group-title="Bangladesh",Deshi TV
-http://208.86.19.13:81/514.stream/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/4yyTcJWn/GTV.jpg" group-title="Bangladesh",GTV HD
-https://www.tbn24.com/api/video/4027_0.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/4NVxpW6t/Maasranga.jpg" group-title="Bangladesh",Maasranga TV
-https://www.tbn24.com/api/video/4016_0.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/Y28B0N5Q/Mohona-TV.jpg" group-title="Bangladesh",Mohona TV
-https://www.tbn24.com/api/video/4030_0.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/8czhR0Yx/Movie-Bangla.jpg" group-title="Bangladesh",Movie Bangla
-http://alvetv.com/moviebanglatv/8080/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://live.staticflickr.com/65535/52020142733_52195fce43_b.jpg" group-title="Bangladesh",My TV HD
-https://www.tbn24.com/api/video/4012_0.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/Jndww2tm/News-24-HD.jpg" group-title="Bangladesh",News 24 HD
-https://www.tbn24.com/api/video/4013_0.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/Ss8dZ7pz/SA-TV.jpg" group-title="Bangladesh",SA TV
-https://www.tbn24.com/api/video/4015_0.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/V6q8yDDy/Star-Jalsha-HD.jpg" group-title="Indian Bangla",Star Jalsha
 http://kst.moonplex.net:8080/CH3/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/QC6LfZkP/Zee-Bangla.jpg" group-title="Indian Bangla",Zee Bangla HD
