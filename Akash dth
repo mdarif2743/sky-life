@@ -142,7 +142,12 @@ https://otttv.co.in/d2h/livestream/zee-bangla-cinema/manifest.mpd
 #EXTINF:0 group-title="5. INDIAN BANGLA" ,SUN BANGLA
 http://smart.bengaldigital.live/sun-bangla-paid/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/ea/Enterr10_Bangla.jpeg/200px-Enterr10_Bangla.jpeg" group-title="Indian-Bangla",SANANDA TV HD
-
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",Aakash Aath
+http://watchindia.net:8880/live/36830/23757/2295.ts
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",ABP Ananda
+http://watchindia.net:8880/live/36830/23757/2285.ts
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",Colors Bangla HD
+http://watchindia.net:8880/live/36830/23757/2284.ts
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/sun-bangla-in.png" group-title="Indian-Bangla",Zee 24 Ghanta
 #http://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/samaykolkata.stream/playlist.m3u8
 https://server.playontv.in/SAMAYKOLKATA/index.m3u8
@@ -221,7 +226,8 @@ http://watchindia.net:8880/live/36830/23757/785.ts
 
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="",B4U Plus
 http://watchindia.net:8880/live/36830/23757/823.ts
-
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",Colors Cineplex HD
+http://watchindia.net:8880/live/36830/23757/803.ts
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/RhgbbqFx/Star-Gold.jpg" group-title="India",Star Gold HD
 https://www.tbn24.com/api/video/4029_0.m3u8
@@ -594,6 +600,10 @@ http://xtv.ooo:8080/danyear12/am809100/109975
 https://iptvcable.netlify.app/Altogether-007/Cartoon/CartoonNetworkhin.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/ubZMeQv.jpg" group-title="Kids",PBS Kids
 https://2-fss-2.streamhoster.com/pl_140/amlst:200914-1298290/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",Nick HD Plus
+http://watchindia.net:8880/live/36830/23757/2237.ts
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",Nick Hindi
+http://watchindia.net:8880/live/36830/23757/2182.ts
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/zBCLNtGZ/Duronto.jpg" group-title="Kids",Rongeen TV
 https://server.thelegitpro.in/rongeentv/rongeentv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/ubZMeQv.jpg" group-title="Kids",Spacetoon
@@ -640,6 +650,98 @@ http://125.209.88.166:45793/BRN/GeoKahani.stream/playlist.m3u8
 http://125.209.88.166:45793/BRN/PtvHome.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/ZnD8CtvQ/BBC.jpg" group-title="Pakistan",PTV News
 http://125.209.88.166:45793/BRN/PTVNews.stream/playlist.m3u8
+
+
+
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",A Plus
+http://watchindia.net:8880/live/36830/23757/1021.ts
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",Aaj News
+http://watchindia.net:8880/live/36830/23757/1051.ts
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",Abb Takk News
+http://watchindia.net:8880/live/36830/23757/1062.ts
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",Ary Digital
+http://watchindia.net:8880/live/36830/23757/1018.ts
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",Ary News
+http://watchindia.net:8880/live/36830/23757/1042.ts
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",Ary Zauq
+http://watchindia.net:8880/live/36830/23757/1026.ts
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",Ary Zindagi
+http://watchindia.net:8880/live/36830/23757/1025.ts
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",Bol Entertainment
+http://watchindia.net:8880/live/36830/23757/1030.ts
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",BOL News
+http://watchindia.net:8880/live/36830/23757/1052.ts
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",Capital TV
+http://watchindia.net:8880/live/36830/23757/1049.ts
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",Dawn News
+http://watchindia.net:8880/live/36830/23757/1044.ts
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",Dunya News
+http://watchindia.net:8880/live/36830/23757/1061.ts
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",Express Entertainment
+http://watchindia.net:8880/live/36830/23757/1029.ts
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",Express News
+http://watchindia.net:8880/live/36830/23757/1047.ts
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",Geo Entertainment
+http://watchindia.net:8880/live/36830/23757/2267.ts
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",Geo Kahani
+http://watchindia.net:8880/live/36830/23757/2268.ts
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",Geo News
+http://watchindia.net:8880/live/36830/23757/1037.ts
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",Geo Super
+http://watchindia.net:8880/live/36830/23757/1016.ts
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",Geo Tez
+http://watchindia.net:8880/live/36830/23757/1043.ts
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",GNN News
+http://watchindia.net:8880/live/36830/23757/1045.ts
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",Hum Masala
+http://watchindia.net:8880/live/36830/23757/1023.ts
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",Hum Sitaray
+http://watchindia.net:8880/live/36830/23757/1024.ts
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",Hum TV HD
+http://watchindia.net:8880/live/36830/23757/1022.ts
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",Kay 2
+http://watchindia.net:8880/live/36830/23757/1027.ts
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",Khyber News
+http://watchindia.net:8880/live/36830/23757/1054.ts
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",AVT Khyber
+http://watchindia.net:8880/live/36830/23757/1034.ts
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",Lahore News
+http://watchindia.net:8880/live/36830/23757/1046.ts
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",Neo News HD
+http://watchindia.net:8880/live/36830/23757/1057.ts
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",News One
+http://watchindia.net:8880/live/36830/23757/1017.ts
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",Hum Pashto 1
+http://watchindia.net:8880/live/36830/23757/1036.ts
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",Peace TV
+http://watchindia.net:8880/live/36830/23757/1063.ts
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",PTV Home
+http://watchindia.net:8880/live/36830/23757/1033.ts
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",PTV News
+http://watchindia.net:8880/live/36830/23757/1053.ts
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",Public News
+http://watchindia.net:8880/live/36830/23757/1059.ts
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",Tv One
+http://watchindia.net:8880/live/36830/23757/1028.ts
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",Urdu 1
+http://watchindia.net:8880/live/36830/23757/1020.ts
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",PTV Sports
+http://watchindia.net:8880/live/36830/23757/2325.ts
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",5AAB TV
+http://watchindia.net:8880/live/36830/23757/2195.ts
+
+
+
+
+
+
+
+
+
+
+
 #EXTINF:-1 tvg-id="65" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1739963480044.png" group-title="Entertainment",HUM TV
 https://d1e7rcqq4o2ma.cloudfront.net/bpk-tv/1721/output/index.m3u8
 
