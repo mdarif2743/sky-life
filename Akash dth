@@ -12,20 +12,34 @@ https://static.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF
 https://static.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/atnws-sg.stream/tracks-v1a1/mono.ts.m3u8|referer=https://www.jagobd.com
 #EXTINF:-1 tvg-id="" tvg-logo="https://s3.aynaott.com/storage/36b0e135f705e4598574536eb5ed06b4" group-title="AynaOTT",Asian TV
 https://hand.top10wifibhaluka.com/in24/watch.php?id=4d629b90-cfc2-4426-9eef-62b879efdb02&format=.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://s3.aynaott.com/storage/deae689095b620313eda38dd3db2b24c" group-title="AynaOTT",Boishakhi TV
-https://hand.top10wifibhaluka.com/in24/watch.php?id=92890d5c-473a-454c-ad10-2c6c0c91062a&format=.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://s3.aynaott.com/storage/c26c408bed6ba787c80d371a70d455a6" group-title="AynaOTT",Bangla Vision
-https://hand.top10wifibhaluka.com/in24/watch.php?id=21e75798-3b6a-4214-9d93-b3fecaa4e700&format=.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://s3.aynaott.com/storage/78bfd4bdb173772172aee2c3ce585949" group-title="AynaOTT",Bangla TV
-https://hand.top10wifibhaluka.com/in24/watch.php?id=addb7014-1d2e-41d8-982d-7cafbdc48770&format=.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://s3.aynaott.com/storage/3fdc7ac5f98cb4f2218918cffbdc3a74" group-title="AynaOTT",Bijoy TV
-https://hand.top10wifibhaluka.com/in24/watch.php?id=f7c89459-37bf-4129-904d-33b0a4c0d590&format=.m3u8
+#EXTINF:-1 tvg-id="News & Drama" tvg-name="Boishakhi TV" tvg-logo="https://i.postimg.cc/Bb01Tz1C/Picsart-25-01-28-11-30-34-024.jpg" group-title="News & Drama",Boishakhi TV
+https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/boishakhitv-org.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="News & Drama" tvg-name="Bangla Vision" tvg-logo="https://i.postimg.cc/Bb01Tz1C/Picsart-25-01-28-11-30-34-024.jpg" group-title="News & Drama",Bangla Vision
+https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/banglav000.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="News & Drama" tvg-name="Bangla TV" tvg-logo="https://i.postimg.cc/Bb01Tz1C/Picsart-25-01-28-11-30-34-024.jpg" group-title="News & Drama",Bangla TV
+https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/banglatvhd.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="News & Drama" tvg-name="Bijoy TV" tvg-logo="https://i.postimg.cc/Bb01Tz1C/Picsart-25-01-28-11-30-34-024.jpg" group-title="News & Drama",Bijoy TV
+https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/bijoy00.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Entertainment" tvg-name="Bangla 21 TV" tvg-logo="https://i.postimg.cc/Bb01Tz1C/Picsart-25-01-28-11-30-34-024.jpg" group-title="Entertainment",Bangla 21 TV
+https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/bangla21tv000889956-sg.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="Entertainment" tvg-name="B24C" tvg-logo="https://i.postimg.cc/Bb01Tz1C/Picsart-25-01-28-11-30-34-024.jpg" group-title="Entertainment",B24C
+https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/b24c.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="Entertainment" tvg-name="BA TV" tvg-logo="https://i.postimg.cc/Bb01Tz1C/Picsart-25-01-28-11-30-34-024.jpg" group-title="Entertainment",BA TV
+https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/batvuk.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="USA & Canada" tvg-name="Biswa Bangla TV" tvg-logo="https://i.postimg.cc/Bb01Tz1C/Picsart-25-01-28-11-30-34-024.jpg" group-title="USA & Canada",Biswa Bangla TV
+https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/biswabanglatv.stream/playlist.m3u8
+
+
+
 #EXTINF:-1 tvg-id="" tvg-logo="https://s3.aynaott.com/storage/33392936aab41ea6c855fc20c244553e" group-title="AynaOTT",Channel 9
 https://hand.top10wifibhaluka.com/in24/watch.php?id=56f7abf3-1586-4f6d-9df2-1726ccb43779&format=.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://s3.aynaott.com/storage/593a85ee23a5b064939bbecc6adde73c" group-title="AynaOTT",Channel I
 https://hand.top10wifibhaluka.com/in24/watch.php?id=20714fd4-dc3c-46d6-924f-3038d61f027c&format=.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://s3.aynaott.com/storage/6f3e8f5f61b275cc87b022e2a506c4f4" group-title="AynaOTT",Channel 24
 https://hand.top10wifibhaluka.com/in24/watch.php?id=89247cb9-3c3e-465c-bbc7-d444b0d65424&format=.m3u8
+#EXTINF:-1 tvg-id="News & Drama" tvg-name="Channel S BD" tvg-logo="https://i.postimg.cc/Bb01Tz1C/Picsart-25-01-28-11-30-34-024.jpg" group-title="News & Drama",Channel S BD
+https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/channels.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://s3.aynaott.com/storage/729f05477cc07d3f6dd5a4f556c47f75" group-title="AynaOTT",Desh TV
 https://hand.top10wifibhaluka.com/in24/watch.php?id=dd8c50e9-5dad-4cb9-9df8-5763e95281ad&format=.m3u8
