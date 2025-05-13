@@ -642,7 +642,6 @@ http://xtv.ooo:8080/danyear12/am809100/167579
 #http://172.19.178.39:18190/gtv/tracks-v1/index.fmp4.m3u8?token=ea5c8496461408cfa6226102e90f37d020613815-94b3b90c1650a2e9a07f1e1bfa664aee-1745409143-1745398343
 http://38.96.178.201/live/GaziTV/index.m3u8
 
-
 #EXTINF:-1 tvg-logo="https://static.epg.best/qa/beINSports1.qa.png" group-title="SPORTS",BeIN Sports 1
 http://xtv.ooo:8080/danyear12/am809100/381330
 
