@@ -244,7 +244,7 @@ https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF9
 #EXTINF:-1 tvg-id="Kolkata" tvg-name="Tara TV" tvg-logo="https://i.postimg.cc/Bb01Tz1C/Picsart-25-01-28-11-30-34-024.jpg" group-title="Kolkata",Tara TV
 https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/taratvinn.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/LsyGKzFC/Colors-Bangla-HD.jpg" group-title="Indian Bangla",Colors Bangla HD
-https://www.tbn24.com/api/video/4041_0.m3u8
+http://38.96.178.201/live/ColorsBangla/index.m3u8
 #EXTINF:-1 tvg-id="sony-aath" tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY%20AATH.png" group-title="Entertainment",Sony Aath
 https://tataplay.slivcdn.com/hls/live/2011641/SonyAathSD/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQWwUyv4yOvRJxQRRNROFj3e0LVNjDNNi1eE-OPjPeqW2FwSxfcoZSAM1A&s=10" group-title="Kolkata",Tara Bangla Movie
