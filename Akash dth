@@ -200,8 +200,10 @@ http://smart.bengaldigital.live/Star-jalsha/index.m3u8
 #https://yupptvcatchupire.yuppcdn.net/preview/starjalsha/1800.m3u8
 #https://catchup.yuppcdn.net/amazonv2/36/preview/starjalsha/master/chunklist.m3u8
 http://38.96.178.201/live/STARJALSHA/index.m3u8
-#EXTINF:0 group-title="5. INDIAN BANGLA" ,Zee Bangla HD
-https://live.drmlive-02.workers.dev/zee/zeebangla.m3u8
+#EXTINF:-1 tvg-id="0-9-zeebangla" group-title="Bengali" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Zee_Bangla_HD.png",Zee Bangla HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36
+https://z5ak-cmaflive.zee5.com/cmaf/live/2105554/ZeeBanglaHDELE/index-connected.m3u8?hdntl=exp=1747400029~acl=%2f*~data=hdntl~hmac=1ebe943ac7dac9859e4a21ddf7a0a7c8d25a2ae4e43502e2aacffc469ef42bff
+
 
 #EXTINF:-1 tvg-id="Entertainment" tvg-name="Tara TV" tvg-logo="https://i.postimg.cc/Bb01Tz1C/Picsart-25-01-28-11-30-34-024.jpg" group-title="Entertainment",Tara TV
 https://stream.gia.tv/giatvplayout7/giatv-209587/tracks-v1a1/mono.ts.m3u8
@@ -318,6 +320,20 @@ http://38.96.178.201/live/SangeetBangla/index.m3u8
 #KODIPROP:inputstream.adaptive.license_key=https://otttv.co.in/d2h/livestream/-tv/drmLicense
 https://otttv.co.in/d2h/livestream/-tv/manifest.mpd
 
+#EXTINF:-1 tvg-id="0-9-zeetvhd" group-title="Entertainment" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Zee_TV_HD.png",Zee TV HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36
+https://z5ak-cmaflive.zee5.com/cmaf/live/2105531/ZeeTVHDMSLELE/index-connected.m3u8?hdntl=exp=1747400014~acl=%2f*~data=hdntl~hmac=8882ee65a9653e93c70063d08694840e9eb6da909580ef13dd71dd4bd9b6c1f9
+#EXTINF:-1 tvg-id="0-9-tvhd_0" group-title="Entertainment" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/And_TV_HD.png",&TV HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36
+https://z5ak-cmaflive.zee5.com/cmaf/live/2105504/AndTVHDELE/index-connected.m3u8?hdntl=exp=1747400016~acl=%2f*~data=hdntl~hmac=dab19cd8f3e9c69bb3baeab691c4e15e0fe380a9a7ce89a34fd4d070ac2ca785
+#EXTINF:-1 tvg-id="0-9-zeecafehd" group-title="Entertainment" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Zee_Cafe_HD.png",Zee Café HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36
+https://z5ak-cmaflive.zee5.com/cmaf/live/2105539/ZeecafeHDELE/index-connected.m3u8?hdntl=exp=1747400020~acl=%2f*~data=hdntl~hmac=678d85d48b2514c00ac628933009ec88d6e6a75889c21a9c22cc502c71b58155
+
+
+
+
+
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/J4n7YN2D/Colors.jpg" group-title="India",Dangal
 https://live-dangal.akamaized.net/liveabr/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/J4n7YN2D/Colors.jpg" group-title="India",Dangal 2
@@ -328,6 +344,9 @@ http://watchindia.net:8880/live/36830/23757/2264.ts
 http://watchindia.net:8880/live/36830/23757/2187.ts
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="",Colors Rishtey HD
 http://watchindia.net:8880/live/36830/23757/830.ts
+#EXTINF:-1 tvg-id="0-9-348" group-title="Entertainment" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Zee_Zest_HD.png",Zee Zest HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36
+https://z5ak-cmaflive.zee5.com/cmaf/live/2105513/ZeeZestHDELE/index-connected.m3u8?hdntl=exp=1747400061~acl=%2f*~data=hdntl~hmac=ab2e2bd9f60cb81fa9a05cf95003ca8a4586d3a2967f3a8956c1395d6b014ebe
 
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="",Star Plus HD
 http://watchindia.net:8880/live/36830/23757/1924.ts
@@ -368,6 +387,15 @@ http://watchindia.net:8880/live/36830/23757/785.ts
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="" All time movie
 https://cloudfrontnet.vercel.app/tplay/playout/209612/master.m3u8
 https://cloudfrontnet.vercel.app/tplay/playout/209612/master.m3u8
+#EXTINF:-1 tvg-id="0-9-bigganga" group-title="Movies" tvg-logo="https://akamaividz2.zee5.com/image/upload/w_1755,h_987,c_scale,f_webp,q_auto:eco/resources/0-9-bigganga/list_clean/1170x658b1a857ea78b747b4a6256dd13b3828fd.png",Zee Anmol Cinema 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36
+https://z5ak-cmaflive.zee5.com/cmaf/live/2105171/ZeeGangaELE/master.m3u8?hdntl=exp=1747400021~acl=%2f*~data=hdntl~hmac=9e8f99ccdcf9f5cda5bae755b0d1c7665eae83b74a4f48aaab3428a4d7c7878d
+#EXTINF:-1 tvg-id="0-9-zeecinemahd" group-title="Movies" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Zee_Cinema_HD.png",Zee Cinema HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36
+https://z5ak-cmaflive.zee5.com/cmaf/live/2105540/ZeeCinemaHDELE/index-connected.m3u8?hdntl=exp=1747400031~acl=%2f*~data=hdntl~hmac=91a818cbe66fe3b78c7f976c96b9b33af164b548bd52bbeba50176d4c85c41e5
+#EXTINF:-1 tvg-id="0-9-tvpictureshd" group-title="Movies" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/And_Pictures_HD.png",&Pictures HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36
+https://z5ak-cmaflive.zee5.com/cmaf/live/2105174/ANDPicturesHDELE/index-connected.m3u8?hdntl=exp=1747400034~acl=%2f*~data=hdntl~hmac=7660ac27fb94eacabc5814c8394692d87602fab4d562df5188ee43f8643e8645
 
 
 
@@ -442,6 +470,23 @@ https://otttv.co.in/d2h/livestream/korean-drama-active/manifest.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://otttv.co.in/d2h/livestream/movies-now-hd/drmLicense
 https://otttv.co.in/d2h/livestream/movies-now-hd/manifest.mpd
+
+#EXTINF:-1 tvg-id="0-9-9z5543514" group-title="Movies" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/And_Prive_HD.png",&Prive HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36
+https://z5ak-cmaflive.zee5.com/cmaf/live/2104969/AndPriveHDELENEW/index-connected.m3u8?hdntl=exp=1747399994~acl=%2f*~data=hdntl~hmac=ca2be15d0ffd906de7b0db4006e8e26819adf6ea6ec4ba6be36381f137a3835c
+#EXTINF:-1 tvg-id="0-9-channel_2105335046" group-title="Movies" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/And_Flix_HD.png",&flix HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36
+https://z5ak-cmaflive.zee5.com/cmaf/live/2105517/AndFlixHDELE/index-connected.m3u8?hdntl=exp=1747400047~acl=%2f*~data=hdntl~hmac=22c13545d406841958ebb8787cb305661c3087042d4a49f2da9db028d1c1b3c6
+#EXTINF:-1 tvg-id="0-9-209" group-title="Movies" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/And_Xplore_HD.png",&xplorHD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36
+https://z5ak-cmaflive.zee5.com/cmaf/live/2105553/AndxploreHDELE/index-connected.m3u8?hdntl=exp=1747400057~acl=%2f*~data=hdntl~hmac=182f2c7bddbf101df3ac79b76dfe6aee9c3c139c6d22de9f9737249f02015250
+
+
+
+
+
+
+
 #EXTINF:-1 tvg-id="mnx-hd" tvg-name="MNX HD" tvg-language="English" tvg-country="IN" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/timesplay/content/common/channel/logos/vunjev.jpeg" tvg-chno="mnx-hd" group-title="Movies",MNX HD
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstreamaddon=inputstream.adaptive
