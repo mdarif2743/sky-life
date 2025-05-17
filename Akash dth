@@ -716,6 +716,121 @@ http://watchindia.net:8880/live/36830/23757/2095.ts
 http://watchindia.net:8880/live/36830/23757/2096.ts
 
 
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="" sky sports cricket
+https://crichdplaylist.extratvteam.workers.dev/master.m3u8?cid=skyscric
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="" sky sports action
+https://crichdplaylist.extratvteam.workers.dev/master.m3u8?cid=skysact
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="" sky sports golf
+https://crichdplaylist.extratvteam.workers.dev/master.m3u8?cid=skysgol
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="" sky sports premier League
+https://crichdplaylist.extratvteam.workers.dev/master.m3u8?cid=skysprem
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="" sky sports football
+https://crichdplaylist.extratvteam.workers.dev/master.m3u8?cid=skysfott
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="" sky sports arena
+https://crichdplaylist.extratvteam.workers.dev/master.m3u8?cid=skysare
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="" sky sports f1
+https://crichdplaylist.extratvteam.workers.dev/master.m3u8?cid=skysfor1
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title=""sky sports mix
+https://crichdplaylist.extratvteam.workers.dev/master.m3u8?cid=skysmixx
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="" sky sports news
+https://crichdplaylist.extratvteam.workers.dev/master.m3u8?cid=skyspnews
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="" sky sports tennis
+https://crichdplaylist.extratvteam.workers.dev/master.m3u8?cid=skystennis
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="" tnt sports 1
+https://crichdplaylist.extratvteam.workers.dev/master.m3u8?cid=bbtsp1
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="" tnt sports 2
+https://crichdplaylist.extratvteam.workers.dev/master.m3u8?cid=bbtsp2
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="" tnt sports 3
+https://crichdplaylist.extratvteam.workers.dev/master.m3u8?cid=bbtsp3
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="" tnt sports 4
+https://crichdplaylist.extratvteam.workers.dev/master.m3u8?cid=bbtespn
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="" euro sports 1
+https://crichdplaylist.extratvteam.workers.dev/master.m3u8?cid=eurosp1
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="" euro sports 2
+https://crichdplaylist.extratvteam.workers.dev/master.m3u8?cid=eurosp2
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="" viaplay sports 1
+https://crichdplaylist.extratvteam.workers.dev/master.m3u8?cid=premieruk
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="" viaplay sports 2
+https://crichdplaylist.extratvteam.workers.dev/master.m3u8?cid=hdchnl2
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="" viaplay sports extra
+https://crichdplaylist.extratvteam.workers.dev/master.m3u8?cid=hdchnl3
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="" laliga tv
+https://crichdplaylist.extratvteam.workers.dev/master.m3u8?cid=laligauk
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="" sky sports 1 nz
+https://crichdplaylist.extratvteam.workers.dev/master.m3u8?cid=sky1nz
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="" sky sports 2 nz
+https://crichdplaylist.extratvteam.workers.dev/master.m3u8?cid=sky2nz
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="" sky sports 3 nz
+https://crichdplaylist.extratvteam.workers.dev/master.m3u8?cid=sky3nz
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="" sky sports 4 nz
+https://crichdplaylist.extratvteam.workers.dev/master.m3u8?cid=sky4nz
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="" sky sports 5 nz
+https://crichdplaylist.extratvteam.workers.dev/master.m3u8?cid=sky5nz
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="" sky sports 6 nz
+https://crichdplaylist.extratvteam.workers.dev/master.m3u8?cid=sky6nz
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="" sky sports 7 nz
+https://crichdplaylist.extratvteam.workers.dev/master.m3u8?cid=sky7nz
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="" sky sports 8 nz
+https://crichdplaylist.extratvteam.workers.dev/master.m3u8?cid=sky8nz
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="" sky sports 9 nz
+https://crichdplaylist.extratvteam.workers.dev/master.m3u8?cid=sky9nz
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title=""Super sports football
+https://crichdplaylist.extratvteam.workers.dev/master.m3u8?cid=superfotball
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="" Super sports Premier
+https://crichdplaylist.extratvteam.workers.dev/master.m3u8?cid=superpremier
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="" Super sports laliga
+https://crichdplaylist.extratvteam.workers.dev/master.m3u8?cid=superlaliga
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="" Super sports rugby
+https://crichdplaylist.extratvteam.workers.dev/master.m3u8?cid=supersrugby
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="" Super sports Grandstand
+https://crichdplaylist.extratvteam.workers.dev/master.m3u8?cid=supergrandstand
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="" Super sports tennis
+https://crichdplaylist.extratvteam.workers.dev/master.m3u8?cid=supertennis
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="" Super sports action
+https://crichdplaylist.extratvteam.workers.dev/master.m3u8?cid=superactions
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="" Super sports golf
+https://crichdplaylist.extratvteam.workers.dev/master.m3u8?cid=supergolf
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="" Super sports maximo
+https://crichdplaylist.extratvteam.workers.dev/master.m3u8?cid=supermeximo
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="" fox 502 hd
+https://crichdplaylist.extratvteam.workers.dev/master.m3u8?cid=fox5022
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="" fox 503 hd
+https://crichdplaylist.extratvteam.workers.dev/master.m3u8?cid=fox503
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="" fox 504 hd
+https://crichdplaylist.extratvteam.workers.dev/master.m3u8?cid=fox504
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="" fox 505 hd
+https://crichdplaylist.extratvteam.workers.dev/master.m3u8?cid=fox505
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="" fox 506 hd
+https://crichdplaylist.extratvteam.workers.dev/master.m3u8?cid=fox506
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="" Super sports psl
+https://crichdplaylist.extratvteam.workers.dev/master.m3u8?cid=superpsl
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="" wwe Network
+https://crichdplaylist.extratvteam.workers.dev/master.m3u8?cid=wwe
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="" ptv sports 
+https://crichdplaylist.extratvteam.workers.dev/master.m3u8?cid=ptvpk
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="" star sports 
+https://crichdplaylist.extratvteam.workers.dev/master.m3u8?cid=star1in
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="" willow cricket hd
+https://crichdplaylist.extratvteam.workers.dev/master.m3u8?cid=willowusa
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="" Super sports cricket hd
+https://crichdplaylist.extratvteam.workers.dev/master.m3u8?cid=supercricket
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="" ten sports pk
+https://crichdplaylist.extratvteam.workers.dev/master.m3u8?cid=tenspk
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="" star sports 1 hindi
+https://crichdplaylist.extratvteam.workers.dev/master.m3u8?cid=starhindi
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="" willow cricket extra
+https://crichdplaylist.extratvteam.workers.dev/master.m3u8?cid=willowextra
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="" a sports hd
+https://crichdplaylist.extratvteam.workers.dev/master.m3u8?cid=asportshd
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="" fox cricket 501 hd
+https://crichdplaylist.extratvteam.workers.dev/master.m3u8?cid=fox501
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="" espn us
+https://crichdplaylist.extratvteam.workers.dev/master.m3u8?cid=espnusa
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="" espn 2 us
+https://crichdplaylist.extratvteam.workers.dev/master.m3u8?cid=espn2
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="" sony sports
+https://crichdplaylist.extratvteam.workers.dev/master.m3u8?cid=ten1hd
+
 
 
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="", ssc1
