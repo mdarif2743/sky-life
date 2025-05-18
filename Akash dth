@@ -783,7 +783,7 @@ https://otttv.co.in/d2h/livestream/24-ghanta/manifest.mpd
 https://otttv.co.in/d2h/livestream/discovery-channel/manifest.mpd
 
 #EXTINF:-1 tvg-id="" tvg-logo="http://kst.moonplex.net/iptv/img/logo/Discovery-channel.png" group-title="Indian",Discovery Channel HD
-http://kst.moonplex.net:8080/CH9/index.m3u8
+http://tv.bdiptv.store/live/restream/restreamkak/98.m3u8
 
 #EXTINF:-1 tvg-id="discovery-science" tvg-name="Discovery Science" tvg-language="English" tvg-country="IN" tvg-logo="https://d388d59m61mm0v.cloudfront.net/optimized/content/common/logos/channel/logos/poifwx.png" tvg-chno="discovery-science" group-title="Infotainment",Discovery Science
 #KODIPROP:inputstream=inputstream.adaptive
