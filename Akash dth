@@ -339,6 +339,12 @@ http://watchindia.net:8880/live/36830/23757/1924.ts
 http://watchindia.net:8880/live/36830/23757/2493.ts
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="",Star Bharat HD
 http://watchindia.net:8880/live/36830/23757/780.ts
+
+#EXTINF:-1,Zee TV
+http://38.76.152.22:8000/play/a00y/index.m3u8
+#EXTINF:-1,Color HD
+http://38.76.152.22:8000/play/a00a/index.m3u8
+
 #EXTINF:-1 tvg-id="zee-tv" tvg-name="Zee TV" tvg-language="Hindi" tvg-country="IN" tvg-logo="https://d388d59m61mm0v.cloudfront.net/optimized/content/common/logos/channel/logos/qsrytm.png" tvg-chno="zee-tv" group-title="Entertainment",Zee TV
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -372,11 +378,19 @@ http://38.96.178.201/live/StarGold/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="" All time movie
 https://cloudfrontnet.vercel.app/tplay/playout/209612/master.m3u8
 https://cloudfrontnet.vercel.app/tplay/playout/209612/master.m3u8
+#EXTINF:-1,COLOR CINEPLEX BOLLYWOOD
+http://38.76.152.22:8000/play/a01a/index.m3u8
 
-
-
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="", Star gold romance
-http://fast.luckonline.eu/2Nw6SArNhs/9754302190/630
+#EXTINF:-1,Star Select
+http://38.76.152.22:8000/play/a01s/index.m3u8
+#EXTINF:-1,Star Gold Romance
+http://38.76.152.22:8000/play/a00r/index.m3u8
+#EXTINF:-1,STAR GOLD
+http://38.76.152.22:8000/play/a00c/index.m3u8
+#EXTINF:-1,STAR GOLD HD
+http://38.76.152.22:8000/play/a00f/index.m3u8
+#EXTINF:-1,STAR GOLD 2
+http://38.76.152.22:8000/play/a00g/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="",B4U Plus
 http://watchindia.net:8880/live/36830/23757/823.ts
@@ -833,6 +847,8 @@ https://otttv.co.in/d2h/livestream/discovery-channel/manifest.mpd
 
 #EXTINF:-1 tvg-id="" tvg-logo="http://kst.moonplex.net/iptv/img/logo/Discovery-channel.png" group-title="Indian",Discovery Channel HD
 http://tv.bdiptv.store/live/restream/restreamkak/98.m3u8
+#EXTINF:-1,TLC
+http://38.76.152.22:8000/play/a01c/index.m3u8
 
 #EXTINF:-1 tvg-id="discovery-science" tvg-name="Discovery Science" tvg-language="English" tvg-country="IN" tvg-logo="https://d388d59m61mm0v.cloudfront.net/optimized/content/common/logos/channel/logos/poifwx.png" tvg-chno="discovery-science" group-title="Infotainment",Discovery Science
 #KODIPROP:inputstream=inputstream.adaptive
