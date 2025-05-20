@@ -171,6 +171,8 @@ https://cloudfrontnet.vercel.app/tplay/playout/209587/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Colors_Bangla_Cinema.png" group-title="Movie Channel",Colors Bangla Cinema
 http://tv.bdiptv.store:80/restream/restreamkak/238.ts
 
+#EXTINF:-1 group-title="BANGLA",Sananda tv
+https://live.sanonda.tv/sanonda/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/LsyGKzFC/Colors-Bangla-HD.jpg" group-title="Indian Bangla",Colors Bangla HD
 http://38.96.178.201/live/ColorsBangla/index.m3u8
