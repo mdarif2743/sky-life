@@ -773,47 +773,9 @@ https://d18dyiwu97wm6q.cloudfront.net/playlist.m3u8
 #https://food-dlvr-ott.akamaized.net/primary/3/def27b3dd6854290bc7f42daa93c65ea/index_15.m3u8
 #https://denver1769.pages.dev/Discovery/animal_planet_hd_english.m3u8
 http://xtv.ooo:8080/danyear12/am809100/109975
-#EXTINF:-1 tvg-id="Documentary & Education" tvg-name="Real Wlid" tvg-logo="https://i.postimg.cc/Bb01Tz1C/Picsart-25-01-28-11-30-34-024.jpg" group-title="Documentary & Education",Real Wlid
-https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg00426-littledotstudio-realwildnz-samsungnz/playlist.m3u8
-#EXTINF:-1 tvg-id="Documentary & Education" tvg-name="Real Wlid [ Source 2 ]" tvg-logo="https://i.postimg.cc/Bb01Tz1C/Picsart-25-01-28-11-30-34-024.jpg" group-title="Documentary & Education",Real Wlid [ Source 2 ]
-https://amg00426-littledotstudio-realwildnz-samsungnz-wz0bm.amagi.tv/playlist/amg00426-littledotstudio-realwildnz-samsungnz/playlist.m3u8
-#EXTINF:-1 tvg-id="Documentary & Education" tvg-name="Orbits Hub" tvg-logo="https://i.postimg.cc/Bb01Tz1C/Picsart-25-01-28-11-30-34-024.jpg" group-title="Documentary & Education",Military Times
-https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/sightline/playlist.m3u8
-#EXTINF:-1 tvg-id="Documentary & Education" tvg-name="VOA 52 Documentary" tvg-logo="https://i.postimg.cc/Bb01Tz1C/Picsart-25-01-28-11-30-34-024.jpg" group-title="Documentary & Education",VOA 52 Documentary
-https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/voadoc.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="Documentary & Education" tvg-name="ESA TV" tvg-logo="https://i.postimg.cc/Bb01Tz1C/Picsart-25-01-28-11-30-34-024.jpg" group-title="Documentary & Education",ESA TV
-https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/esatv.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="Documentary & Education" tvg-name="RT TV" tvg-logo="https://i.postimg.cc/Bb01Tz1C/Picsart-25-01-28-11-30-34-024.jpg" group-title="Documentary & Education",RT TV
-https://rt-rtd.rttv.com/dvr/rtdoc/playlist_4500Kb.m3u8
-#EXTINF:-1 tvg-id="Documentary & Education" tvg-name="Trace Urban" tvg-logo="https://i.postimg.cc/Bb01Tz1C/Picsart-25-01-28-11-30-34-024.jpg" group-title="Documentary & Education",Everyday Heros
-https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/everyday-heroes/master.m3u8
-#EXTINF:-1 tvg-id="Documentary & Education" tvg-name="Wid Earth" tvg-logo="https://i.postimg.cc/Bb01Tz1C/Picsart-25-01-28-11-30-34-024.jpg" group-title="Documentary & Education",Wid Earth
-https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01290-wildearth-oando/playlist.m3u8
-#EXTINF:-1 tvg-id="Documentary & Education" tvg-name="Wid Earth [ Source 2 ]" tvg-logo="https://i.postimg.cc/Bb01Tz1C/Picsart-25-01-28-11-30-34-024.jpg" group-title="Documentary & Education",Wid Earth [ Source 2 ]
-https://d2f9g9rfw2kx84.cloudfront.net/playlist/amg01290-wildearth-oando/playlist.m3u8
-#EXTINF:-1 tvg-id="Documentary & Education" tvg-name="CGTN Documentary" tvg-logo="https://i.postimg.cc/Bb01Tz1C/Picsart-25-01-28-11-30-34-024.jpg" group-title="Documentary & Education",CGTN Documentary
-https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/cgtndoc.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="Documentary & Education" tvg-name="Discover Pakistan" tvg-logo="https://i.postimg.cc/Bb01Tz1C/Picsart-25-01-28-11-30-34-024.jpg" group-title="Documentary & Education",Discover Pakistan
-https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/discoverpakistan.stream/playlist.m3u8
 
 
 
-#EXTINF:-1 tvg-id="Kids" tvg-name="Baby Shark" tvg-logo="https://i.postimg.cc/Bb01Tz1C/Picsart-25-01-28-11-30-34-024.jpg" group-title="Kids",Baby Shark
-https://newidco-babysharktv-1-eu.rakuten.wurl.tv/1200.m3u8
-#EXTINF:-1 tvg-id="Kids" tvg-name="CON Tv" tvg-logo="https://i.postimg.cc/Bb01Tz1C/Picsart-25-01-28-11-30-34-024.jpg" group-title="Kids",CON Tv
-https://kidoodletv-kdtv-1-us.samsung.wurl.tv/1200.m3u8
-#EXTINF:-1 tvg-id="Kids" tvg-name="Kids TV" tvg-logo="https://i.postimg.cc/Bb01Tz1C/Picsart-25-01-28-11-30-34-024.jpg" group-title="Kids",Kids TV
-https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/rongeentv.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="Kids" tvg-name="Kids TV India" tvg-logo="https://i.postimg.cc/Bb01Tz1C/Picsart-25-01-28-11-30-34-024.jpg" group-title="Kids",Kids TV India
-https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/kids-tv-india-nursery-rhymes-and-baby-songs/master.m3u8
-#EXTINF:-1 tvg-id="Kids" tvg-name="Toonz Kids" tvg-logo="https://i.postimg.cc/Bb01Tz1C/Picsart-25-01-28-11-30-34-024.jpg" group-title="Kids",Toonz Kids
-https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/toonzkids/master.m3u8
-#EXTINF:-1 tvg-id="Kids" tvg-name="Zoo Moo" tvg-logo="https://i.postimg.cc/Bb01Tz1C/Picsart-25-01-28-11-30-34-024.jpg" group-title="Kids",Zoo Moo
-https://zoomoo-samsungau.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="Kids" tvg-name="PBS Kids" tvg-logo="https://i.postimg.cc/Bb01Tz1C/Picsart-25-01-28-11-30-34-024.jpg" group-title="Kids",PBS Kids
-https://2-fss-2.streamhoster.com/pl_140/amlst%3a200914-1298290/chunklist_b2000000.m3u8
-#EXTINF:-1 tvg-id="Kids" tvg-name="Kids Creation" tvg-logo="https://i.postimg.cc/Bb01Tz1C/Picsart-25-01-28-11-30-34-024.jpg" group-title="Kids",Kids Creation
-https://flc2.technohaat.com/kidscreation_test/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://otapp.store/uploads/tv_image/sm/nick-bangla.png" group-title="Kids-(বাচ্চাদের চ্যানেল)",Nick Bangla
 http://tv.bdiptv.store:80/restream/restreamkak/96.ts
