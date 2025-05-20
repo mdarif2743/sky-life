@@ -1,3 +1,14 @@
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="IPL 2025",Toffe IPL 2025
+http://tv.bdiptv.store:80/restream/restreamkak/15262.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://news24online.com/wp-content/uploads/2025/04/PSL-2025-Photo-Credit-X-Platform.jpg" group-title="Live Event",PSL LIVE
+http://tv.bdiptv.store:80/restream/restreamkak/15325.ts
+
+
+
+
+
+
 #EXTINF:-1 tvg-id="News 24/7" tvg-name="BTV National" tvg-logo="https://i.postimg.cc/Bb01Tz1C/Picsart-25-01-28-11-30-34-024.jpg" group-title="News 24/7",BTV National
 https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/btvnational1.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="News 24/7" tvg-name="BTV Chittagong" tvg-logo="https://i.postimg.cc/Bb01Tz1C/Picsart-25-01-28-11-30-34-024.jpg" group-title="News 24/7",BTV Chittagong
@@ -209,6 +220,8 @@ https://cloudfrontnet.vercel.app/tplay/playout/209587/master.m3u8
 #EXTINF:-1 tvg-id="Entertainment" tvg-name="Sananda TV" tvg-logo="https://i.postimg.cc/Bb01Tz1C/Picsart-25-01-28-11-30-34-024.jpg" group-title="Entertainment",Sananda TV
 https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/sanandatv.stream/playlist.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Colors_Bangla_Cinema.png" group-title="Movie Channel",Colors Bangla Cinema
+http://tv.bdiptv.store:80/restream/restreamkak/238.ts
 
 
 
@@ -937,6 +950,8 @@ https://2-fss-2.streamhoster.com/pl_140/amlst%3a200914-1298290/chunklist_b200000
 #EXTINF:-1 tvg-id="Kids" tvg-name="Kids Creation" tvg-logo="https://i.postimg.cc/Bb01Tz1C/Picsart-25-01-28-11-30-34-024.jpg" group-title="Kids",Kids Creation
 https://flc2.technohaat.com/kidscreation_test/index.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-logo="https://otapp.store/uploads/tv_image/sm/nick-bangla.png" group-title="Kids-(বাচ্চাদের চ্যানেল)",Nick Bangla
+http://tv.bdiptv.store:80/restream/restreamkak/96.ts
 
 
 
