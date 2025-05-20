@@ -163,7 +163,6 @@ http://smart.bengaldigital.live/Star-jalsha/index.m3u8
 http://38.96.178.201/live/STARJALSHA/index.m3u8
 
 #EXTINF:-1 group-title="BANGLA",Sananda tv
-https://stream.gia.tv/giatvplayout7/giatv-209587/tracks-v1a1/mono.ts.m3u8
 https://cloudfrontnet.vercel.app/tplay/playout/209587/master.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Colors_Bangla_Cinema.png" group-title="Movie Channel",Colors Bangla Cinema
