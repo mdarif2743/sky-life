@@ -272,7 +272,7 @@ http://watchindia.net:8880/live/36830/23757/2264.ts
 http://watchindia.net:8880/live/36830/23757/830.ts
 
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="",Star Plus HD
-http://watchindia.net:8880/live/36830/23757/1924.ts
+https://rex-streaming.vercel.app/api/x/221252.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="",Star Utsav
 http://watchindia.net:8880/live/36830/23757/2493.ts
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="",Star Bharat HD
