@@ -97,7 +97,8 @@ https://d1e7rcqq4o2ma.cloudfront.net/bpk-tv/1716/output/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSUcwksaX6NU0AssTITOBFGXi9qbXVYhbpPsmkCMEV88JnNYLT9TR3TEI8&s=10" group-title="All",NEWS 24
 https://static.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/news24local.stream/tracks-v1a1/mono.ts.m3u8|referer=https://www.jagobd.com
 
-
+#EXTINF:-1 group-title="BANGLADESH" tvg-logo="https://i.ibb.co.com/JwTDXgRf/images.png",NAGORIK TV
+http://starshare.org/live/kumar11/kumar11/3802.ts
 
 
 
