@@ -161,9 +161,9 @@ http://38.96.178.201/live/STARJALSHA/index.m3u8
 
 #EXTINF:-1 group-title="BANGLA",Sananda tv
 https://cloudfrontnet.vercel.app/tplay/playout/209587/master.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Colors_Bangla_Cinema.png" group-title="Movie Channel",Colors Bangla Cinema
-http://tv.bdiptv.store:80/restream/restreamkak/238.ts
+#EXTINF:-1 group-title="INDIABANGLA" tvg-logo="https://i.ibb.co/27X1jd64/images-1-removebg-preview-1.png",COLORS BANGLA CINEMA 
+https://vood.yflix.top/api/Colors_Bangla_Cinema_voot_MOB/mono.m3u8
+#http://tv.bdiptv.store/live/restream/restreamzz/238.m3u8
 
 #EXTINF:-1 group-title="BANGLA",Sananda tv
 https://live.sanonda.tv/sanonda/index.m3u8
@@ -183,7 +183,12 @@ https://iptvcable.netlify.app/Altogether-007/Kolkata/EnteerTenBangla.m3u8
 #http://176.119.29.52/live.ts?channelId=117&uid=5060&deviceMac=00:1A:79:73:9C:A1
 #http://xtv.ooo:8080/213112/213112/245900
 http://38.96.178.201/live/JalshaMovies/index.m3u8
-
+#EXTINF:-1 group-title="INDIABANGLA" tvg-logo="https://i.ibb.co/KzpggWss/1739965013824-removebg-preview.png",JALSHA MOVIES
+http://opplex.ch/live/3525532727/9752528282/245900.ts
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://akashxpranto.vercel.app/pranto/bhai/dd5030d1-5cc8
+#https://d1e7rcqq4o2ma.cloudfront.net/bpk-tv/1724/output/index.mpd
+#http://tv.bdiptv.store/live/restream/restreamzz/81.m3u8
 #EXTINF:-50 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/04/Jalsha_Movies_HD.png/revision/latest?cb=20190806073703" group-title="Indian-Bangla",Jalsha Movies SD
 #http://11plus.live/live/jalshamovies/index.m3u8
 #http://103.190.85.38/hls/zeemovie.m3u8
@@ -268,7 +273,6 @@ http://watchindia.net:8880/live/36830/23757/780.ts
 http://38.76.152.22:8000/play/a00y/index.m3u8
 #EXTINF:-1,Color HD
 http://38.76.152.22:8000/play/a00a/index.m3u8
-
 #EXTINF:-1 tvg-id="zee-tv" tvg-name="Zee TV" tvg-language="Hindi" tvg-country="IN" tvg-logo="https://d388d59m61mm0v.cloudfront.net/optimized/content/common/logos/channel/logos/qsrytm.png" tvg-chno="zee-tv" group-title="Entertainment",Zee TV
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -315,7 +319,8 @@ http://38.76.152.22:8000/play/a00c/index.m3u8
 http://38.76.152.22:8000/play/a00f/index.m3u8
 #EXTINF:-1,STAR GOLD 2
 http://38.76.152.22:8000/play/a00g/index.m3u8
-
+#EXTINF:-1,B4U Movies
+http://38.76.152.22:8000/play/a01w/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="",B4U Plus
 http://watchindia.net:8880/live/36830/23757/823.ts
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="",Colors Cineplex HD
@@ -339,9 +344,15 @@ https://otttv.co.in/d2h/livestream/zee-cinema/manifest.mpd
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeeanmolcinema/default/manifest.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=8dea532cabfe4f71ba20f62310e7949f:7a214a974e4f4d1d9bb66364d5f0cb92
+#EXTINF:-1,Picture
+http://38.76.152.22:8000/play/a01t/index.m3u8
+#EXTINF:-1,Zee Cinema Hindi
+http://38.76.152.22:8000/play/a01v/index.m3u8
+#EXTINF:-1 group-title="HINDI", B4U KADAK HD
+https://cdn-2.pishow.tv/live/227/master.m3u8
 
-
-
+#EXTINF:-1,Zee Cinema 
+http://38.76.152.22:8000/play/a06w/index.m3u8
 #EXTINF:-1 tvg-id="zee-bollywood" tvg-name="Zee Bollywood" tvg-language="Hindi" tvg-country="IN" tvg-logo="https://d388d59m61mm0v.cloudfront.net/optimized/content/common/logos/channel/logos/zee-bollywood.png" tvg-chno="zee-bollywood" group-title="Movies",Zee Bollywood
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -555,13 +566,10 @@ https://tataplay.slivcdn.com/hls/live/2020589/ten4hd/master.m3u8
 #EXTINF:-1 tvg-id="sony-ten-5-hd" tvg-logo="https://www.sonypicturesnetworks.com/images/logos/SONY_SportsTen5_HD_Logo_CLR.png" group-title="Sports",Sony Sports Ten 5 HD
 https://tataplay.slivcdn.com/hls/live/2020593/SONYSIXHD/master.m3u8
 #EXTINF:-1 tvg-logo="http://dds.oncast.me/img/logo/sp1.png" group-title="SPORTS", Live Sports-1
-#http://103.120.172.74:4600
-#http://xtv.ooo:8080/live/danyear12/am809100/109987.ts
-http://xtv.ooo:8080/213112/213112/109987
+http://38.76.152.22:8000/play/a06x/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://dds.oncast.me/img/logo/sp2.png" group-title="SPORTS", Live Sports-2 
-#https://criccoder.pages.dev/astro.m3u8
-http://xtv.ooo:8080/213112/213112/346373
+http://38.76.152.22:8000/play/a06y/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://dds.oncast.me/img/logo/sp3.png" group-title="SPORTS", Live Sports-3
 https://rtatv.akamaized.net/Content/HLS/Live/channel(RTA3)/variant.m3u8
@@ -796,7 +804,10 @@ https://d18dyiwu97wm6q.cloudfront.net/playlist.m3u8
 #https://denver1769.pages.dev/Discovery/animal_planet_hd_english.m3u8
 http://xtv.ooo:8080/danyear12/am809100/109975
 
-
+#EXTINF:-1,WILD
+http://38.76.152.22:8000/play/a01d/index.m3u8
+#EXTINF:-1,NAtional Geo
+http://38.76.152.22:8000/play/a01f/index.m3u8
 
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://otapp.store/uploads/tv_image/sm/nick-bangla.png" group-title="Kids-(বাচ্চাদের চ্যানেল)",Nick Bangla
@@ -997,9 +1008,9 @@ http://xtv.ooo:8080/danyear12/am809100/346241
 
 
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title= euro sports
-http://14.128.15.136:8080/live/65468596/65468596/245.m3u8
+http://38.76.152.22:8000/play/a01g/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title= fast sports hd
-http://14.128.15.136:8080/live/65468596/65468596/9345.m3u8
+http://38.76.152.22:8000/play/a05f/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://aimages.willow.tv/wlo_logo_200_200.jpg" group-title="SPORTS",Astro Cricket
 #http://xtv.ooo:8080/live/Minsa786/Fatima/167581.m3u8
