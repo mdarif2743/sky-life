@@ -665,21 +665,17 @@ http://fl5.moveonjoy.com/TSN_3/index.m3u8
 http://fl5.moveonjoy.com/TSN_4/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/e3cYtrb.jpg" group-title="Sports",TSN 5
 http://fl5.moveonjoy.com/TSN_5/index.m3u8
+#EXTINF:-1 ALKASS 1
+https://liveakgr.alkassdigital.net/hls/live/2097037/Alkass1muytrdc/master.m3u8
+#EXTINF:-1 ALKASS 2
+https://liveakgr.alkassdigital.net/hls/live/2097037/Alkass2hefazq/master.m3u8
 
-
-
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",Sky Sports Main Event
-http://watchindia.net:8880/live/36830/23757/2091.ts
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",Sky Sports Premier League
-http://watchindia.net:8880/live/36830/23757/2092.ts
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",Sky Sports Cricket
-http://watchindia.net:8880/live/36830/23757/2090.ts
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",Sky Sports F1
-http://watchindia.net:8880/live/36830/23757/2094.ts
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",Sky Sports +
-http://watchindia.net:8880/live/36830/23757/2095.ts
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",Sky Sports Golf
-http://watchindia.net:8880/live/36830/23757/2096.ts
+#EXTINF:-1 ALKASS 3
+https://liveakgr.alkassdigital.net/hls/live/2097037/Alkass3vakazq/master.m3u8
+#EXTINF:-1 ALKASS 5
+https://liveakgr.alkassdigital.net/hls/live/2097037/Alkass5azq/master.m3u8
+#EXTINF:-1 ALKASS 6
+https://liveakgr.alkassdigital.net/hls/live/2097037/Alkass6Shoof1ab/master.m3u8
 
 
 
