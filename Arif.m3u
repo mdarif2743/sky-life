@@ -1,4 +1,5 @@
-
+#EXTINF:-1 star sports 1
+http://41.205.93.154/STARSPORTS1/index.m3u8
 
 
 
@@ -594,11 +595,7 @@ http://38.96.178.201/live/TSports/index.m3u8
 http://41.205.93.154/STARSPORTS1/index.m3u8
 
 #EXTINF:-127 tvg-logo="https://i.ytimg.com/vi/CXTxw-69Ch8/maxresdefault.jpg" group-title="SPORTS",Star Sports 1-[2]
-#http://103.120.172.74:4600
-#http://tv.cloudcdn.me/live.ts?channelId=293&uid=14505&deviceMac=00:1A:79:A7:53:75
-#http://103.163.247.39/local_out/starsports1HD/video.m3u8?token=At5F1MFZYnciB3
-http://xtv.ooo:8080/danyear12/am809100/167575
-
+https://smart.bengaldigital.live/star-sports-1/index.m3u8
 #EXTINF:-127 tvg-logo="https://i.ytimg.com/vi/CXTxw-69Ch8/maxresdefault.jpg" group-title="SPORTS",Star Sports-1 Hindi
 #http://xtv.ooo:8080/live/adnankb2006/86057314/220059.m3u8
 #http://xtv.ooo:8080/live/adnankb2006/86057314/220063.m3u8
@@ -611,9 +608,7 @@ http://xtv.ooo:8080/live/danyear12/am809100/109988.ts
 
 
 #EXTINF:-131 tvg-logo="https://i.ytimg.com/vi/CXTxw-69Ch8/maxresdefault.jpg" group-title="SPORTS",Star Sports 2 
-#http://xtv.ooo:8080/global/global/167576
-#http://172.16.88.30:18190/starsports2/tracks-v1a1/mono.m3u8
-http://xtv.ooo:8080/danyear12/am809100/167576
+https://smart.bengaldigital.live/star-sports-2/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/2a/StarSports3India.jpg/revision/latest?cb=20191214234112" group-title="SPORTS",Star Sports 3
 #http://xtv.ooo:8080/live/adnankb2006/86057314/167577.m3u8
