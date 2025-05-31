@@ -122,9 +122,9 @@ https://srknowapp.ncare.live/srktvhlswodrm/srktv.stream/playlist.m3u8
 https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/tenprime.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="IPTV" tvg-name="Times 24 TV" tvg-logo="https://i.postimg.cc/Bb01Tz1C/Picsart-25-01-28-11-30-34-024.jpg" group-title="IPTV",Times 24 TV
 https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/times24tv.stream/playlist.m3u8
-#EXTINF:0 group-title="5. INDIAN BANGLA" ,STAR JALSHA SD
+#EXTINF:0,group-title="5. INDIAN BANGLA" ,STAR JALSHA SD
 http://smart.bengaldigital.live/Star-jalsha/index.m3u8
-#EXTINF:0 group-title="5. INDIAN BANGLA" zee bangla hd
+#EXTINF:0,group-title="5. INDIAN BANGLA" zee bangla hd
 http://14.128.15.136:8080/live/65468596/65468596/11.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3c/Star_Jalsha_HD.png/revision/latest/scale-to-width-down/250?cb=20180908084350" group-title="Indian-Bangla",Star Jalsha HD
 #http://tv.cloudcdn.me/live.ts?channelId=116&uid=8164&deviceMac=00:1A:79:17:D4:A1
@@ -133,13 +133,13 @@ http://14.128.15.136:8080/live/65468596/65468596/11.m3u8
 #https://catchup.yuppcdn.net/amazonv2/36/preview/starjalsha/master/chunklist.m3u8
 http://38.96.178.201/live/STARJALSHA/index.m3u8
 
-#EXTINF:-1 group-title="BANGLA",Sananda tv
+#EXTINF:-1,group-title="BANGLA",Sananda tv
 https://cloudfrontnet.vercel.app/tplay/playout/209587/master.m3u8
 #EXTINF:-1 group-title="INDIABANGLA" tvg-logo="https://i.ibb.co/27X1jd64/images-1-removebg-preview-1.png",COLORS BANGLA CINEMA 
 https://vood.yflix.top/api/Colors_Bangla_Cinema_voot_MOB/mono.m3u8
 #http://tv.bdiptv.store/live/restream/restreamzz/238.m3u8
 
-#EXTINF:-1 group-title="BANGLA",Sananda tv
+#EXTINF:-1,group-title="BANGLA",Sananda tv
 https://live.sanonda.tv/sanonda/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/LsyGKzFC/Colors-Bangla-HD.jpg" group-title="Indian Bangla",Colors Bangla HD
 http://38.96.178.201/live/ColorsBangla/index.m3u8
