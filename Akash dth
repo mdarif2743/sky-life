@@ -8,13 +8,10 @@ https://smart.bengaldigital.live/star-sports-2/index.m3u8
 
 
 #EXTINF:-1 tvg-id="87" group-title="SPORTS" tvg-logo="https://i.ibb.co/C5hN5yng/images-removebg-preview.png",STAR SPORTS SELECT 1 HD
-http://opplex.ch/live/3525532727/9752528282/167578.ts
-#http://starshare.org/live/shiva123/shiva123/9400.ts
-#https://github.com/rahul979854/Channels/raw/main/StarSportSelect1Hd.m3u8
+http://38.76.152.22:8000/play/a06x/index.m3u8
 #EXTIM3U
 #EXTINF:-1 tvg-id="89" group-title="SPORTS" tvg-logo="https://i.ibb.co/m5gXkYZW/Star-sports-select-2-hd.png",STAR SPORTS SELECT 2 HD
-http://opplex.ch/live/3525532727/9752528282/167579.ts
-#http://starshare.org/live/shiva123/shiva123/9401.ts
+http://38.76.152.22:8000/play/a06y/index.m3u8
 #EXTINF:-1 tvg-id="sony-ten-1-hd" tvg-logo="https://www.sonypicturesnetworks.com/images/logos/SONY_SportsTen1_HD_Logo_CLR.png" group-title="Sports",Sony Sports Ten 1 HD
 https://tataplay.slivcdn.com//hls/live/2011747/TEN1HD/master.m3u8
 #EXTINF:-1 tvg-id="sony-ten-2-hd" tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY_SportsTen2_HD_Logo_CLR.png" group-title="Sports",Sony Sports Ten 2 HD
@@ -25,3 +22,5 @@ https://tataplay.slivcdn.com/hls/live/2020591/TEN3HD/master.m3u8
 https://tataplay.slivcdn.com/hls/live/2020589/ten4hd/master.m3u8
 #EXTINF:-1 tvg-id="sony-ten-5-hd" tvg-logo="https://www.sonypicturesnetworks.com/images/logos/SONY_SportsTen5_HD_Logo_CLR.png" group-title="Sports",Sony Sports Ten 5 HD
 https://tataplay.slivcdn.com/hls/live/2020593/SONYSIXHD/master.m3u8
+#EXTINF:-1 TEN SPORTS HD
+http://125.209.88.166:45793/BRN/TenSports.stream/playlist.m3u8
