@@ -1,9 +1,5 @@
 
 
-#EXTINF:-1,group-title="SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/11/T_Sports_logo.png",T-Sports [1]
-#http://172.17.50.112/live/antbd1002/index.m3u8
-#http://kst.moonplex.net:8080/CH2/tracks-v1a1/mono.m3u8
-http://38.96.178.201/live/TSports/index.m3u8
 
 #EXTINF:-1,STAR SPORTS 1 HD
 https://smart.bengaldigital.live/star-sports-1/index.m3u8
@@ -51,7 +47,10 @@ https://liveakgr.alkassdigital.net/hls/live/2097037/Alkass5azq/master.m3u8
 https://liveakgr.alkassdigital.net/hls/live/2097037/Alkass6Shoof1ab/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="", ssc1
 https://ssc-1-enc.edgenextcdn.net/out/v1/c696e4819b55414388a1a487e8a45ca1/index.mpd?|drmScheme=clearkey&drmLicense=d84c325f36814f39bbe59080272b10c3:550727de4c96ef1ecff874905493580f
-
+#EXTINF:-1,group-title="SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/11/T_Sports_logo.png",T-Sports [1]
+#http://172.17.50.112/live/antbd1002/index.m3u8
+#http://kst.moonplex.net:8080/CH2/tracks-v1a1/mono.m3u8
+http://38.96.178.201/live/TSports/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="", ssc 2
 https://ssc-2-enc.edgenextcdn.net/out/v1/a16db2ec338a445a82d9c541cc9293f9/index.mpd?|drmScheme=clearkey&drmLicense=8bcfc55359e24bd7ad1c5560a96ddd3c:b5dcf721ab522af92a9d3bf0bd55b596
 
