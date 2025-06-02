@@ -362,6 +362,10 @@ https://cloudfrontnet.vercel.app/tplay/playout/209587/master.m3u8
 https://vood.yflix.top/api/Colors_Bangla_Cinema_voot_MOB/mono.m3u8
 #http://tv.bdiptv.store/live/restream/restreamzz/238.m3u8
 
+#EXTINF:-1, ZEE BANGLA
+http://smart.bengaldigital.live/Zee-Bangla/index.m3u8
+
+
 #EXTINF:-1,group-title="BANGLA",Sananda tv
 https://live.sanonda.tv/sanonda/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/LsyGKzFC/Colors-Bangla-HD.jpg" group-title="Indian Bangla",Colors Bangla HD
