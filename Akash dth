@@ -1,5 +1,6 @@
 
-
+#EXTINF:-1 tvg-id="Sports Channels" tvg-name="CName" tvg-logo="https://otapp.store/uploads/tv_image/sm/star-sport-select-2.png" group-title="Sports Channels",CName
+http://tv.bdiptv.store/live/restream/restreamz/15246.m3u8
 
 #EXTINF:-1,group-title="Sports" tvg-logo="https://i.postimg.cc/K8wtTCp3/T-Sports.jpg" star sports 1 hd
 http://rcdn.bdixsports.live:1935/live/live11.stream/index.m3u8
@@ -242,7 +243,8 @@ http://125.209.88.166:45793/BRN/GeoSuper.stream/playlist.m3u8
 
 #EXTINF:-1,PTV-SPORTS HD
 http://175.107.244.52:4457/play/a08g/index.m3u8
-
+#EXTINF:-1 tvg-id="Sports Channels" tvg-name="Teen Sports" tvg-logo="https://i.postimg.cc/5NWhnZjb/images.jpg" group-title="Sports Channels",Teen Sports
+https://newsprotalhub.xyz/tipyop/live.m3u8?id=f76c7eb00da0&e=.m3u8
 
 #EXTINF:-1 tvg-id="87" group-title="SPORTS" tvg-logo="https://i.ibb.co/C5hN5yng/images-removebg-preview.png",STAR SPORTS SELECT 1 HD
 http://38.76.152.22:8000/play/a06x/index.m3u8
@@ -369,7 +371,8 @@ http://14.128.15.136:8080/live/65468596/65468596/11.m3u8
 #https://yupptvcatchupire.yuppcdn.net/preview/starjalsha/1800.m3u8
 #https://catchup.yuppcdn.net/amazonv2/36/preview/starjalsha/master/chunklist.m3u8
 http://38.96.178.201/live/STARJALSHA/index.m3u8
-
+#EXTINF:-1 tvg-id="Popular Channels" tvg-name="Star Jalsha" tvg-logo="https://i.postimg.cc/5NWhnZjb/images.jpg" group-title="Popular Channels",Star Jalsha
+http://tv.bdiptv.store/live/restream/restreamz/52.m3u8
 #EXTINF:-1,group-title="BANGLA",Sananda tv
 https://cloudfrontnet.vercel.app/tplay/playout/209587/master.m3u8
 #EXTINF:-1 group-title="INDIABANGLA" tvg-logo="https://i.ibb.co/27X1jd64/images-1-removebg-preview-1.png",COLORS BANGLA CINEMA 
@@ -397,19 +400,15 @@ https://iptvcable.netlify.app/Altogether-007/Kolkata/EnteerTenBangla.m3u8
 #http://176.119.29.52/live.ts?channelId=117&uid=5060&deviceMac=00:1A:79:73:9C:A1
 #http://xtv.ooo:8080/213112/213112/245900
 http://38.96.178.201/live/JalshaMovies/index.m3u8
-#EXTINF:-1 group-title="INDIABANGLA" tvg-logo="https://i.ibb.co/KzpggWss/1739965013824-removebg-preview.png",JALSHA MOVIES
-http://opplex.ch/live/3525532727/9752528282/245900.ts
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://akashxpranto.vercel.app/pranto/bhai/dd5030d1-5cc8
-#https://d1e7rcqq4o2ma.cloudfront.net/bpk-tv/1724/output/index.mpd
-#http://tv.bdiptv.store/live/restream/restreamzz/81.m3u8
+#EXTINF:-1 tvg-id="Popular Channels" tvg-name="Jalsha Movies" tvg-logo="https://i.postimg.cc/5NWhnZjb/images.jpg" group-title="Popular Channels",Jalsha Movies
+http://tv.bdiptv.store/live/restream/restreamz/81.m3u8
 #EXTINF:-50 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/04/Jalsha_Movies_HD.png/revision/latest?cb=20190806073703" group-title="Indian-Bangla",Jalsha Movies SD
 #http://11plus.live/live/jalshamovies/index.m3u8
 #http://103.190.85.38/hls/zeemovie.m3u8
 #http://tv.cloudcdn.me/live.ts?channelId=117&uid=8164&deviceMac=00:1A:79:17:D4:A1
 http://xtv.ooo:8080/danyear12/am809100/245900
-#EXTINF:-55 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/a4/BanglaCinema.jpeg/revision/latest?cb=20191207094555" group-title="Indian-Bangla",Colors Bangla Cinema
-https://live-stream.utkalbongo.com/hls/livebanglatvstream.m3u8
+#EXTINF:-1 tvg-id="Name" tvg-name="Colors Bangla Cinema" tvg-logo="https://i.postimg.cc/5NWhnZjb/images.jpg" group-title="Movies Channels",Colors Bangla Cinema
+http://tv.bdiptv.store/live/restream/restreamz/238.m3u8
 
 #EXTINF:-1 tvg-id="zee-bangla-cinema" tvg-name="Zee Bangla Cinema" tvg-language="Bengali" tvg-country="IN" tvg-logo="https://d388d59m61mm0v.cloudfront.net/optimized/content/common/logos/channel/logos/brmfgr.png" tvg-chno="zee-bangla-cinema" group-title="Movies",Zee Bangla Cinema
 #KODIPROP:inputstream=inputstream.adaptive
@@ -456,15 +455,16 @@ https://live-dangal.akamaized.net/liveabr/playlist.m3u8
 https://live-dangal2.akamaized.net/liveabr/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="",Star Plus HD
 http://38.96.178.201/live/StarPlus/index.m3u8
-#EXTINF:-98 tvg-logo="https://yt3.ggpht.com/ytc/AKedOLS0XIuM3jYJPnjEFAdoBoqrDkEwev9LQL8HdM4w1Q=s900-c-k-c0x00ffffff-no-rj" group-title="Hindi", &Tv
-#https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Andtvhd/default/andtvhd-audio_208482_und=208000-video=2137600.m3u8
-#http://watchindia.net:8880/live/94580/11406/782.ts
-#http://xtv.ooo:8080/global/global/109952
-#https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Andtvhd1/default/andtvhd1-audio_208482_und=208000.m3u8
-#http://xtv.ooo:8080/danyear12/am809100/109952
-http://xtv.ooo:8080/61434342387/52400214/109952
+#EXTINF:-1 tvg-id="Hindi Channels" tvg-name="And TV" tvg-logo="https://i.postimg.cc/5NWhnZjb/images.jpg" group-title="Hindi Channels",And TV
+http://tv.bdiptv.store/live/restream/restreamz/15341.m3u8
 #EXTINF:-1,Zee TV
 http://38.76.152.22:8000/play/a00y/index.m3u8
+#EXTINF:-1 tvg-id="Name" tvg-name="Colors Infinity HD" tvg-logo="https://i.postimg.cc/5NWhnZjb/images.jpg" group-title="Movies Channels",Colors Infinity HD
+http://tv.bdiptv.store/live/restream/restreamz/15315.m3u8
+#EXTINF:-1 tvg-id="Hindi Channels" tvg-name="Star Bharat" tvg-logo="https://i.postimg.cc/5NWhnZjb/images.jpg" group-title="Hindi Channels",Star Bharat
+http://tv.bdiptv.store/live/restream/restreamz/234.m3u8
+#EXTINF:-1 tvg-id="Hindi Channels" tvg-name="Colors Rishtey" tvg-logo="https://i.postimg.cc/5NWhnZjb/images.jpg" group-title="Hindi Channels",Colors Rishtey
+http://tv.bdiptv.store/live/restream/restreamz/15338.m3u8
 #EXTINF:-1,Color HD
 http://38.76.152.22:8000/play/a00a/index.m3u8
 #EXTINF:-1 tvg-id="sony-hd" tvg-logo="https://sonypicturesnetworks.com/images/logos/SET-LOGO-HD.png" group-title="Entertainment",SET HD
@@ -479,6 +479,12 @@ https://tataplay.slivcdn.com/hls/live/2011741/SonyPalSD/master.m3u8
 https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/bollywood-hd/43e99595-3ab3-4f82-a828-0d32dc308c98/0.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/rmBYB7GQ/Bhojpuri-Cinema.jpg" group-title="India",Bollywood Classic HD
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/bollywood-classic/manifest.m3u8
+#EXTINF:-1 tvg-id="Name" tvg-name="Colors Cineplex HD" tvg-logo="https://i.postimg.cc/5NWhnZjb/images.jpg" group-title="Movies Channels",Colors Cineplex HD
+http://tv.bdiptv.store/live/restream/restreamz/239.m3u8
+
+
+
+
 
 #EXTINF:-1 tvg-id="sony-max-hd" tvg-logo="https://sonypicturesnetworks.com/images/logos/Sony_MAX-HD_WHITE.png" group-title="Movies",Sony MAX HD
 https://tataplay.slivcdn.com/hls/live/2011670/SonyMaxhd/master.m3u8
@@ -538,6 +544,8 @@ https://live.relentlessinnovations.net:1936/afghannobel/afghannobel/chunklist_w1
 
 
 
+#EXTINF:-1 tvg-id="Name" tvg-name="Star Movies" tvg-logo="https://i.postimg.cc/5NWhnZjb/images.jpg" group-title="Movies Channels",Star Movies
+http://tv.bdiptv.store/live/restream/restreamz/95.m3u8
 
 
 #EXTINF:-1 tvg-id="sony-pix-hd" tvg-logo="https://sonypicturesnetworks.com/images/logos/PIX%20HD_WHITE.png" group-title="Movies",Sony PIX HD
@@ -641,17 +649,11 @@ https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF9
 #EXTINF:-1 tvg-id="Music" tvg-name="Channel 5" tvg-logo="https://i.postimg.cc/Bb01Tz1C/Picsart-25-01-28-11-30-34-024.jpg" group-title="Music",Channel 5
 https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/musicbangla.stream/playlist.m3u8
 
+#EXTINF:-1 tvg-id="Others Channels" tvg-name="Animal Planet HD" tvg-logo="https://otapp.store/uploads/tv_image/sm/animal-planet-hd-world.png" group-title="Others Channels",Animal Planet HD
+https://newsprotalhub.xyz/tipyop/live.m3u8?id=52d1df2fdb80&e=.m3u8
 
-#EXTINF:-1 tvg-id="discovery-channel" tvg-name="Discovery" tvg-language="Hindi" tvg-country="IN" tvg-logo="https://d388d59m61mm0v.cloudfront.net/optimized/content/common/logos/channel/logos/nddhwf.png" tvg-chno="discovery-channel" group-title="Infotainment",Discovery
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://otttv.co.in/d2h/livestream/discovery-channel/drmLicense
-https://otttv.co.in/d2h/livestream/discovery-channel/manifest.mpd
-
-#EXTINF:-1 tvg-id="" tvg-logo="http://kst.moonplex.net/iptv/img/logo/Discovery-channel.png" group-title="Indian",Discovery Channel HD
-http://tv.bdiptv.store/live/restream/restreamkak/98.m3u8
+#EXTINF:-1 tvg-id="Others Channels" tvg-name="Discovery Channel Bangla" tvg-logo="https://i.postimg.cc/5NWhnZjb/images.jpg" group-title="Others Channels",Discovery Channel Bangla
+http://tv.bdiptv.store/live/restream/restreamz/98.m3u8
 #EXTINF:-1,TLC
 http://38.76.152.22:8000/play/a01c/index.m3u8
 #EXTINF:-1 tvg-id="discovery-science" tvg-name="Discovery Science" tvg-language="English" tvg-country="IN" tvg-logo="https://d388d59m61mm0v.cloudfront.net/optimized/content/common/logos/channel/logos/poifwx.png" tvg-chno="discovery-science" group-title="Infotainment",Discovery Science
@@ -663,6 +665,8 @@ http://38.76.152.22:8000/play/a01c/index.m3u8
 https://otttv.co.in/d2h/livestream/discovery-science/manifest.mpd
 #EXTINF:-1 tvg-id="Food Travel & More" tvg-name="Travel XP" tvg-logo="https://i.postimg.cc/Bb01Tz1C/Picsart-25-01-28-11-30-34-024.jpg" group-title="Food Travel & More",Travel XP
 https://travelxp-travelxp-3-nl.samsung.wurl.tv/1200.m3u8
+#EXTINF:-1 tvg-id="Popular Channels" tvg-name="Travel XP Bangla" tvg-logo="https://i.postimg.cc/5NWhnZjb/images.jpg" group-title="Popular Channels",Travel XP Bangla
+http://tv.bdiptv.store/live/restream/restreamz/15283.m3u8
 
 #EXTINF:-1 tvg-id="discovery-turbo" tvg-name="Discovery Turbo" tvg-language="English" tvg-country="IN" tvg-logo="https://d388d59m61mm0v.cloudfront.net/optimized/content/common/logos/channel/logos/fdkzmc.png" tvg-chno="discovery-turbo" group-title="Infotainment",Discovery Turbo
 #KODIPROP:inputstream=inputstream.adaptive
@@ -708,6 +712,8 @@ http://38.76.152.22:8000/play/a01f/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://otapp.store/uploads/tv_image/sm/nick-bangla.png" group-title="Kids-(বাচ্চাদের চ্যানেল)",Nick Bangla
 http://tv.bdiptv.store:80/live/restream/restreamzz/96.m3u8
 
+#EXTINF:-1 tvg-id="Kids Channels" tvg-name="Nick Bangla" tvg-logo="https://i.postimg.cc/5NWhnZjb/images.jpg" group-title="Kids Channels",Nick Bangla
+http://tv.bdiptv.store/live/restream/restreamz/96.m3u8
 
 #EXTINF:-1,Disney channel 
 http://38.76.152.22:8000/play/a070/index.m3u8
