@@ -3,6 +3,14 @@
 
 #EXTINF:-1 tvg-id="Sports Channels" tvg-name="CName" tvg-logo="https://otapp.store/uploads/tv_image/sm/star-sport-select-2.png" group-title="Sports Channels",CName
 http://tv.bdiptv.store/live/restream/restreamz/15246.m3u8
+#EXTINF:-1 group-title="Sports" tvg-logo="https://crichdplayer.com/assets/uploads/channels/17.gif",Premium 1
+http://cool365.xyz:900/live/4160189881/DB4ACD54/401338317.m3u8
+#EXTINF:-1 group-title="Sports" tvg-logo="https://crichdplayer.com/assets/uploads/channels/17.gif",Premium 2
+http://cool365.xyz:900/live/4160189881/DB4ACD54/401338316.m3u8
+#EXTINF:-1 group-title="Sports" tvg-logo="https://crichdplayer.com/assets/uploads/channels/17.gif",Dazan 1
+http://cool365.xyz:900/live/4160189881/DB4ACD54/165068.m3u8
+#EXTINF:-1 group-title="Sports" tvg-logo="https://crichdplayer.com/assets/uploads/channels/17.gif",Dazan 2
+http://cool365.xyz:900/live/4160189881/DB4ACD54/401338284.m3u8
 
 #EXTINF:-1,group-title="Sports" tvg-logo="https://i.postimg.cc/K8wtTCp3/T-Sports.jpg" star sports 1 hd
 http://rcdn.bdixsports.live:1935/live/live11.stream/index.m3u8
@@ -13,36 +21,22 @@ http://38.76.152.22:8000/play/a072/index.m3u8
 #EXTINF:-1,STAR SPORTS 2 HD
 https://smart.bengaldigital.live/star-sports-2/index.m3u8
 
-#EXTINF:-127 tvg-logo="https://i.ytimg.com/vi/CXTxw-69Ch8/maxresdefault.jpg" group-title="SPORTS",Star Sports 1
-#http://172.17.50.112/live/fifa2022/index.m3u8
-#http://103.122.74.6:8888/hls/STAR.SPORTS1.HD.m3u8
-#http://kst.moonplex.net:8080/CH10/tracks-v1a1/mono.m3u8
-#https://www.tbn24.com/api/video/4028_0.m3u8
-#http://kst.moonplex.net:8080/CH10/tracks-v1a1/mono.m3u8
-http://xtv.ooo:8080/61434342387/52400214/167575
-
-#EXTINF:-127 tvg-logo="https://i.ytimg.com/vi/CXTxw-69Ch8/maxresdefault.jpg" group-title="SPORTS",Star Sports 1-[2]
-#http://103.120.172.74:4600
-#http://tv.cloudcdn.me/live.ts?channelId=293&uid=14505&deviceMac=00:1A:79:A7:53:75
-#http://xtv.ooo:8080/danyear12/am809100/167575
-#http://103.163.247.39/local_out/starsports1HD/video.m3u8?token=At5F1MFZYnciB3
-http://m3u.denver1769.fun/port/trex.php?id=155968|User-Agent=Denver1769
 
 #EXTINF:-127 tvg-logo="https://i.ytimg.com/vi/CXTxw-69Ch8/maxresdefault.jpg" group-title="SPORTS",Star Sports-1 Hindi
 #http://xtv.ooo:8080/live/adnankb2006/86057314/220059.m3u8
 #http://xtv.ooo:8080/live/adnankb2006/86057314/220063.m3u8
 http://41.205.93.154/STARSPORTS1/index.m3u8
+#EXTINF:-1 group-title="Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSKl2XEAhGamZ3AAGuPaXHP0bf3elKcoDmZJIZ-QJ0t8smeEg_VBbTmXy8",Star Sports 1
+http://cool365.xyz:900/live/4160189881/DB4ACD54/187268.m3u8
+#EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/rwZdgMp5/download.png",Star Sports 2
+http://cool365.xyz:900/live/4160189881/DB4ACD54/378740.m3u8
+#EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/htVCr69X/images-1719001317102.jpg",Star Sports 3
+http://cool365.xyz:900/live/4160189881/DB4ACD54/400159568.m3u8
+#EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/rwZdgMp5/download.png",Star sports select 1
+http://cool365.xyz:900/live/4160189881/DB4ACD54/378739.m3u8
+#EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/rwZdgMp5/download.png",Star sports select 2
+http://cool365.xyz:900/live/4160189881/DB4ACD54/376465.m3u8
 
-#EXTINF:-127 tvg-logo="https://i.ytimg.com/vi/CXTxw-69Ch8/maxresdefault.jpg" group-title="SPORTS",Star Sports-2
-#http://103.122.74.6:8888/hls/STAR.SPORTS2.HD.m3u8
-#http://xtv.ooo:8080/live/danyear12/am809100/109988.ts
-http://xtv.ooo:8080/61434342387/52400214/109988
-
-#EXTINF:-131 tvg-logo="https://i.ytimg.com/vi/CXTxw-69Ch8/maxresdefault.jpg" group-title="SPORTS",Star Sports 2 
-#http://xtv.ooo:8080/global/global/167576
-#http://172.16.88.30:18190/starsports2/tracks-v1a1/mono.m3u8
-#http://xtv.ooo:8080/danyear12/am809100/167576
-http://xtv.ooo:8080/61434342387/52400214/167576
 #EXTINF:-161 tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/f4/Fox_Cricket_Logo.png" group-title="SPORTS",FOX Cricket 501
 https://tiger-hub.vercel.app/Astro-Cricket/tracks-v1a1/mono.m3u8
 
@@ -84,8 +78,8 @@ https://liveakgr.alkassdigital.net/hls/live/2097037/Alkass3vakazq/master.m3u8
 https://liveakgr.alkassdigital.net/hls/live/2097037/Alkass5azq/master.m3u8
 #EXTINF:-1,ALKASS 6
 https://liveakgr.alkassdigital.net/hls/live/2097037/Alkass6Shoof1ab/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="", ssc1
-https://ssc-1-enc.edgenextcdn.net/out/v1/c696e4819b55414388a1a487e8a45ca1/index.mpd?|drmScheme=clearkey&drmLicense=d84c325f36814f39bbe59080272b10c3:550727de4c96ef1ecff874905493580f
+#EXTINF:-1 group-title="Sports" tvg-logo="https://crichdplayer.com/assets/uploads/channels/17.gif",SSC 1
+http://cool365.xyz:900/live/4160189881/DB4ACD54/112551.m3u8
 #EXTINF:-1,group-title="SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/11/T_Sports_logo.png",T-Sports [1]
 #http://172.17.50.112/live/antbd1002/index.m3u8
 #http://kst.moonplex.net:8080/CH2/tracks-v1a1/mono.m3u8
@@ -116,7 +110,8 @@ https://cdn-l3-jam-1.sportsmax.digicelgroup.com/sportsmax/live/ott/live/1117/CMA
 https://cdn-l3-jam-1.sportsmax.digicelgroup.com/sportsmax/live/ott/live/1110/CMAF/manifest.mpd?|drmScheme=clearkey&drmLicense=1779c27b9d077a3ba0c9cc1bb9a94b9f:cc5cf3b7928fb9e0a1ee6a8b566f0a8e
 #EXTINF:-1, RUSH SPORTS
 https://cdn-l3-jam-1.sportsmax.digicelgroup.com/sportsmax/live/ott/live/1109/CMAF/manifest.mpd?|drmScheme=clearkey&drmLicense=1779c27b9d077a3ba0c9cc1bb9a94b9f:cc5cf3b7928fb9e0a1ee6a8b566f0a8e
-
+#EXTINF:-1 group-title="Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS7cWPFVlzlK5GFcvFq8uqGnCyALPYsiXBRFw&s",Willow Cricket
+http://filex.tv:8080/live/Home329/Sohailhome/52109.m3u8
 
 
 
