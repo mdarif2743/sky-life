@@ -479,9 +479,7 @@ https://vood.yflix.top/api/Colors_Bangla_Cinema_voot_MOB/mono.m3u8
 #EXTINF:-1, ZEE BANGLA
 http://smart.bengaldigital.live/Zee-Bangla/index.m3u8
 #EXTINF:-1 tvg-id="0-9-zeebangla" group-title="Bengali" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Zee_Bangla_HD.png",Zee Bangla HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36
-https://z5ak-cmaflive.zee5.com/cmaf/live/2105554/ZeeBanglaHDELE/index-connected.m3u8?hdntl=exp=1749473389~acl=%2f*~data=hdntl~hmac=eb38b0e0cd0347ab93480ae90cc3168e5a48a1bd8b96eede70145b0ca3acd803
-
+https://live.drmlive-02.workers.dev/zee/0-9-zeebangla.m3u8
 
 #EXTINF:-1,group-title="BANGLA",Sananda tv
 https://live.sanonda.tv/sanonda/index.m3u8
