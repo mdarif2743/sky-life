@@ -450,6 +450,14 @@ https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF9
 #EXTINF:-1 tvg-id="USA & Canada" tvg-name="Time TV USA" tvg-logo="https://i.postimg.cc/Bb01Tz1C/Picsart-25-01-28-11-30-34-024.jpg" group-title="USA & Canada",Time TV USA
 https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/timetvusa.stream/playlist.m3u8
 
+#EXTINF:-1, ASH TV
+https://live20.bozztv.com/akamaissh101/ssh101/ashtv/playlist.m3u8
+#EXTINF:-1,USBD JOURNAL
+https://live20.bozztv.com/akamaissh101/ssh101/usbdjournal/playlist.m3u8
+#EXTINF:-1, CBNTV
+https://live.cbntvusa.net/hls/cbntv/index.m3u8
+
+
 #EXTINF:0,group-title="5. INDIAN BANGLA" ,STAR JALSHA SD
 http://smart.bengaldigital.live/Star-jalsha/index.m3u8
 #EXTINF:0,group-title="5. INDIAN BANGLA" zee bangla hd
