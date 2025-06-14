@@ -9,8 +9,8 @@ https://ddy6new.newkso.ru/ddy6/premium289/mono.m3u8
 https://ddy6new.newkso.ru/ddy6/premium291/mono.m3u8
 #EXTINF:-1,CRICKLIFE 1
 https://ddy6new.newkso.ru/ddy6/premium282/mono.m3u8
-
-
+#EXTINF:-1,FOX SPORTS 501 HD
+https://ddy6new.newkso.ru/ddy6/premium369/mono.m3u8
 
 
 
@@ -561,7 +561,7 @@ https://live-dangal2.akamaized.net/liveabr/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="",Star Plus HD
 http://38.96.178.201/live/StarPlus/index.m3u8
 #EXTINF:-1 tvg-id="Hindi Channels" tvg-name="And TV" tvg-logo="https://i.postimg.cc/5NWhnZjb/images.jpg" group-title="Hindi Channels",And TV
-http://tv.bdiptv.store/live/restream/restreamz/15341.m3u8
+http://38.96.178.201/live/AndTV/index.m3u8
 #EXTINF:-1,Zee TV
 http://38.76.152.22:8000/play/a00y/index.m3u8
 #EXTINF:-1 tvg-id="Name" tvg-name="Colors Infinity HD" tvg-logo="https://i.postimg.cc/5NWhnZjb/images.jpg" group-title="Movies Channels",Colors Infinity HD
@@ -606,7 +606,7 @@ http://38.76.152.22:8000/play/a01a/index.m3u8
 #EXTINF:-98 tvg-logo="https://www.tsbi.in/wp-content/uploads/2020/10/Webp.net-resizeimage.png" group-title="Hindi", &PICTURES
 http://38.76.152.22:8000/play/a01t/index.m3u8
 #EXTINF:-1,Star Select
-http://38.76.152.22:8000/play/a01s/index.m3u8
+http://182.176.185.207:7500/play/a06p/index.m3u8
 #EXTINF:-1,Star Gold Romance
 http://38.76.152.22:8000/play/a00r/index.m3u8
 #EXTINF:-1,STAR GOLD
