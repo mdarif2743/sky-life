@@ -1,3 +1,68 @@
+#EXTINF:-1 tvg-id="RTVS Šport.cz" tvg-country="SK" tvg-language="Slovak" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/%C5%A0port_logo.svg/2560px-%C5%A0port_logo.svg.png" group-title="Sport",RTVS Šport
+http://88.212.15.19/live/test_rtvs_sport_hevc/playlist.m3u8
+#EXTINF:-1 tvg-id="JOJ Šport.cz" tvg-country="SK" tvg-language="Slovak" tvg-logo="https://i.imgur.com/QWEY2a5.png" group-title="Sport",JOJ Šport
+http://88.212.15.19/live/test_joj_sport_hd_hevc/playlist.m3u8
+#EXTINF:-1 tvg-id="JOJ Šport 2.cz" tvg-country="SK" tvg-language="Slovak" tvg-logo="https://img.joj.sk/rx/c6a89774-505a-48a4-8ce5-3f26d902e00c.png" group-title="Sport",JOJ Šport 2
+https://ts0-pl.tv.itself.cz/hls/master/live.m3u8?channel=2423&device=9bdeddba3ce4022cbb5f3f3d8da03da8&stream_profiles=profile11,profile12stream_profiles=profile11,profile12
+#EXTINF:-1 tvg-id="ČT sport.cz" tvg-url="ctsport.cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://i.imgur.com/I2dltZW.png" group-title="Sport",ČT sport
+http://88.212.15.19/live/test_ctsport_25p/playlist.m3u8
+#EXTINF:-1 tvg-name="ČT sport Plus" tvg-logo="https://i.imgur.com/5JiMynW.png" tvg-id="" group-title="Sport",ČT sport Plus
+
+#EXTINF:-1 tvg-id="Sport1.cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f7/Sport1_hu.png" group-title="Sport",Sport 1
+http://88.212.15.19/live/test_sport1_25p/playlist.m3u8
+#EXTINF:-1 tvg-id="Sport2.cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://raw.githubusercontent.com/MarhyCZ/picons/master/640/sport2.png" group-title="Sport",Sport 2
+http://88.212.15.19/live/test_sport_2/playlist.m3u8
+#EXTINF:-1 tvg-id="Canal+ Sport.cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1a/Canal%2B_Sport_2015.png" group-title="Sport",CANAL+ Sport
+http://116.202.237.33:8080/CNLS1/tracks-v1a1a2a3l1l2/mono.m3u8?token=ef1c6f27da4b04de8c97b52b9255617b
+#EXTINF:-1 tvg-id="Canal+ Sport 2.cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1a/Canal%2B_Sport_2015.png" group-title="Sport",CANAL+ Sport 2
+http://116.202.237.33:8080/CNLS2/tracks-v1a1a2a3l1l2/mono.m3u8?token=ef1c6f27da4b04de8c97b52b9255617b
+#EXTINF:-1 tvg-id="Canal+ Sport 3.cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1a/Canal%2B_Sport_2015.png" group-title="Sport",CANAL+ Sport 3
+http://116.202.237.33:8080/CNLS3/tracks-v1a1a2a3l1l2/mono.m3u8?token=ef1c6f27da4b04de8c97b52b9255617b
+#EXTINF:-1 tvg-id="Arena Sport 1.cz" tvg-name="Arena Sport 1 " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ea/Logo_Arena_Sport_TV_1.png" group-title="Sport",Arena Sport 1
+http://88.212.15.19/live/test_arenasport/playlist.m3u8
+#EXTINF:-1 tvg-id="Arena Sport 2.cz" tvg-name="Arena Sport 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/21/Logo_Arena_Sport_TV_2.png" group-title="Sport",Arena Sport 2
+http://88.212.15.19/live/test_arenasport_dva/playlist.m3u8
+#EXTINF:-1 tvg-id="tv-digi-sport-1" tvg-name="Digi Sport 1" tvg-logo="https://repo.ottshow.net/pikoni/sportplus/digisport1.gif" group-title="Sport",Digi Sport 1 🇷🇴
+http://tvproeuropa1.com:8008/dragos_gabriel/nNRShMa9/33797
+#EXTINF:-1 tvg-id="digi-sport-2" tvg-name="Digi Sport 2" tvg-logo="https://repo.ottshow.net/pikoni/sportplus/digisport2.gif" group-title="Sport",Digi Sport 2 🇷🇴
+http://tvproeuropa1.com:8008/dragos_gabriel/nNRShMa9/33799
+#EXTINF:-1 tvg-id="digi-sport-3" tvg-name="Digi Sport 3" tvg-logo="https://repo.ottshow.net/pikoni/sportplus/digisport3.gif" group-title="Sport",Digi Sport 3 🇷🇴
+http://tvproeuropa1.com:8008/dragos_gabriel/nNRShMa9/33801
+#EXTINF:-1 tvg-id="digi-sport-4" tvg-name="Digi Sport 4" tvg-logo="https://repo.ottshow.net/pikoni/sportplus/digisport4.gif" group-title="Sport",Digi Sport 4 🇷🇴
+http://tvproeuropa1.com:8008/dragos_gabriel/nNRShMa9/33803
+#EXTINF:0,RO: Prima Sport 1 🇷🇴
+http://tvproeuropa1.com:8008/dragos_gabriel/nNRShMa9/33815
+#EXTINF:0,RO: Prima Sport 2 🇷🇴
+http://tvproeuropa1.com:8008/dragos_gabriel/nNRShMa9/146488
+#EXTINF:0,RO: Prima Sport 3 🇷🇴
+http://tvproeuropa1.com:8008/dragos_gabriel/nNRShMa9/157160
+#EXTINF:0,RO: Prima Sport 4 🇷🇴
+http://tvproeuropa1.com:8008/dragos_gabriel/nNRShMa9/245819
+#EXTINF:0,RO: Prima Sport 5 🇷🇴
+http://tvproeuropa1.com:8008/dragos_gabriel/nNRShMa9/157162
+#EXTINF:0,RO: Eurosport 1 🇷🇴
+http://tvproeuropa1.com:8008/dragos_gabriel/nNRShMa9/33810
+#EXTINF:0,RO: Eurosport 2 🇷🇴
+http://tvproeuropa1.com:8008/dragos_gabriel/nNRShMa9/33812
+#EXTINF:-1,|NL| Ziggo sport 1 🇳🇱
+http://185.236.230.212:9982/play/a09f
+#EXTINF:-1,|NL| Ziggo sport 2 🇳🇱
+http://185.236.230.212:9982/play/a099
+#EXTINF:-1,|NL| Ziggo sport 6 🇳🇱
+http://185.236.230.212:9982/play/a09a
+#EXTINF:-1,|NL| ESPN 1 HD 🇳🇱
+http://185.236.230.212:9981/play/a09s
+#EXTINF:-1,|NL| ESPN 2 HD 🇳🇱
+http://185.236.230.212:9981/play/a0ah
+#EXTINF:-1,|NL| ESPN 4 HD 🇳🇱
+http://185.236.230.212:9981/play/a09p
+#EXTINF:-1,EuroSport 1 HD
+http://92.118.251.84:8080/Eurosport1/index.m3u8
+#EXTINF:-1,EuroSport 2 HD
+http://92.118.251.84:8080/Eurosport2/index.m3u8
+
+
+
 
 #EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/x1VYmp0L/Ten-Sports.jpg",Sport TV
 https://ddy6new.newkso.ru/ddy6/premium716/mono.m3u8
@@ -174,29 +239,12 @@ http://exm3u.extraott.com:900/live/1103581436/4099381829/36302.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="SPORTS - HUB SPORTS 5" tvg-logo="http://go4.pw/ASIA/INDIAN/HUB SPORTS 5.png" group-title="HUB SPORTS",HUB SPORTS 5
 http://exm3u.extraott.com:900/live/1103581436/4099381829/36301.m3u8
 ===UK TNT Sports ====
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/wrhHd3H/tntsports1.jpg" group-title="TNT Sports",TNT Sports 1 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=ae26845bd33038a9c0774a0981007294:63ac662dde310cfb4cc6f9b43b34196d
-https://a39aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/wf8usag51e/out/v1/bd3b0c314fff4bb1ab4693358f3cd2d3/cenc.mpd?encoding=segmentBase
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/zmrtkTK/tntsports2.jpg" group-title="TNT Sports",TNT Sports 2 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=6d1708b185c6c4d7b37600520c7cc93c:1aace05f58d8edef9697fd52cb09f441
-https://a39aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/f0qvkrra8j/out/v1/f8fa17f087564f51aa4d5c700be43ec4/cenc.mpd?encoding=segmentBase
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/xCZT9xz/tntsports3.jpg" group-title="TNT Sports",TNT Sports 3 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=4e993aa8c1f295f8b94e8e9e6f6d0bfe:86a1ed6e96caab8eb1009fe530d2cf4f
-https://a39aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/lsdasbvglv/out/v1/bb548a3626cd4708afbb94a58d71dce9/cenc.mpd?encoding=segmentBase
+#EXTINF:-1,TNT SPORTS 1 🇺🇸
+https://crichdplaylist.extratvteam.workers.dev/master.m3u8?cid=bbtsp1
+#EXTINF:-1,TNT SPORTS 2 🇺🇸
+https://crichdplaylist.extratvteam.workers.dev/master.m3u8?cid=bbtsp2
+#EXTINF:-1,TNT SPORTS 3 🇺🇸
+https://crichdplaylist.extratvteam.workers.dev/master.m3u8?cid=bbtsp3
 
 #EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/4yyTcJWn/GTV.jpg",TNT Sport Premium
 https://ddy6new.newkso.ru/ddy6/premium388/mono.m3u8
