@@ -1,3 +1,20 @@
+
+#EXTINF:-1, SPORTS 18 1 HD
+https://amit-1.allinonereborn.in/jiotv-ww313/app/ts_live_1984.m3u8
+#EXTINF:-1,SPORTS 18 2 HD
+https://amit-1.allinonereborn.in/jiotv-ww313/app/ts_live_2852.m3u8
+#EXTINF:-1, SPORTS 18 3 HD
+https://amit-1.allinonereborn.in/jiotv-ww313/app/ts_live_2853.m3u8
+#EXTINF:-1,SPORTS 18 KHEL
+https://amit-1.allinonereborn.in/jiotv-ww313/app/ts_live_1998.m3u8
+#EXTINF:-1,SPORTS 18 1
+https://amit-1.allinonereborn.in/jiotv-ww313/app/ts_live_1985.m3u8
+
+
+
+
+
+
 #EXTINF:-1 tvg-id="RTVS Šport.cz" tvg-country="SK" tvg-language="Slovak" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/%C5%A0port_logo.svg/2560px-%C5%A0port_logo.svg.png" group-title="Sport",RTVS Šport
 http://88.212.15.19/live/test_rtvs_sport_hevc/playlist.m3u8
 #EXTINF:-1 tvg-id="JOJ Šport.cz" tvg-country="SK" tvg-language="Slovak" tvg-logo="https://i.imgur.com/QWEY2a5.png" group-title="Sport",JOJ Šport
@@ -525,7 +542,7 @@ https://vood.yflix.top/api/Colors_Bangla_Cinema_voot_MOB/mono.m3u8
 #http://tv.bdiptv.store/live/restream/restreamzz/238.m3u8
 
 #EXTINF:-1, ZEE BANGLA
-http://smart.bengaldigital.live/Zee-Bangla/index.m3u8
+https://amit-1.allinonereborn.in/zee313/index.php?id=0-9-9z5383484
 #EXTINF:-1 tvg-id="0-9-zeebangla" group-title="Bengali" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Zee_Bangla_HD.png",Zee Bangla HD
 https://live.drmlive-02.workers.dev/zee/0-9-zeebangla.m3u8
 
@@ -554,12 +571,10 @@ http://tv.bdiptv.store/live/restream/restreamz/81.m3u8
 #http://tv.cloudcdn.me/live.ts?channelId=117&uid=8164&deviceMac=00:1A:79:17:D4:A1
 http://xtv.ooo:8080/danyear12/am809100/245900
 #EXTINF:-1 tvg-id="Name" tvg-name="Colors Bangla Cinema" tvg-logo="https://i.postimg.cc/5NWhnZjb/images.jpg" group-title="Movies Channels",Colors Bangla Cinema
-http://tv.bdiptv.store/live/restream/restreamz/238.m3u8
+https://amit-1.allinonereborn.in/jiotv-ww313/app/ts_live_1657.m3u8
 
 #EXTINF:-1 tvg-id="0-9-zeebanglacinema" group-title="Bengali" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Zee_Bangla_Cinema.png",Zee Bangla Cinema
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36
-https://z5ak-cmaflive.zee5.com/cmaf/live/2105524/ZeeBanglaCinemaELE/master.m3u8?hdntl=exp=1749473396~acl=%2f*~data=hdntl~hmac=c5bb97aad83013035a3af791ea9848867d0e487d1efbd618c1cbdaaec6ea89d3
-
+https://amit-1.allinonereborn.in/zee313/index.php?id=0-9-zeebanglacinema
 #EXTINF:0 group-title="5. INDIAN BANGLA" ,SUN BANGLA
 http://smart.bengaldigital.live/sun-bangla-paid/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/ea/Enterr10_Bangla.jpeg/200px-Enterr10_Bangla.jpeg" group-title="Indian-Bangla",SANANDA TV HD
@@ -568,7 +583,7 @@ http://watchindia.net:8880/live/36830/23757/2295.ts
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="",ABP Ananda
 http://watchindia.net:8880/live/36830/23757/2285.ts
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="",Colors Bangla HD
-http://watchindia.net:8880/live/36830/23757/2284.ts
+https://amit-1.allinonereborn.in/jiotv-ww313/app/ts_live_756.m3u8
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/sun-bangla-in.png" group-title="Indian-Bangla",Zee 24 Ghanta
 #http://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/samaykolkata.stream/playlist.m3u8
 https://server.playontv.in/SAMAYKOLKATA/index.m3u8
@@ -609,17 +624,21 @@ https://live-dangal2.akamaized.net/liveabr/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="",Star Plus HD
 http://38.96.178.201/live/StarPlus/index.m3u8
 #EXTINF:-1 tvg-id="Hindi Channels" tvg-name="And TV" tvg-logo="https://i.postimg.cc/5NWhnZjb/images.jpg" group-title="Hindi Channels",And TV
-http://38.96.178.201/live/AndTV/index.m3u8
+https://amit-1.allinonereborn.in/zee313/index.php?id=0-9-tvhd_0
+#EXTINF:-1, ZEE CAFE HD
+https://amit-1.allinonereborn.in/zee313/index.php?id=0-9-zeecafehd
+#EXTINF:-1,ZEE EAST
+https://amit-1.allinonereborn.in/zee313/index.php?id=0-9-348
 #EXTINF:-1,Zee TV
-http://38.76.152.22:8000/play/a00y/index.m3u8
+https://amit-1.allinonereborn.in/zee313/index.php?id=0-9-zeetvhd
 #EXTINF:-1 tvg-id="Name" tvg-name="Colors Infinity HD" tvg-logo="https://i.postimg.cc/5NWhnZjb/images.jpg" group-title="Movies Channels",Colors Infinity HD
 http://tv.bdiptv.store/live/restream/restreamz/15315.m3u8
 #EXTINF:-1 tvg-id="Hindi Channels" tvg-name="Star Bharat" tvg-logo="https://i.postimg.cc/5NWhnZjb/images.jpg" group-title="Hindi Channels",Star Bharat
 http://tv.bdiptv.store/live/restream/restreamz/234.m3u8
 #EXTINF:-1 tvg-id="Hindi Channels" tvg-name="Colors Rishtey" tvg-logo="https://i.postimg.cc/5NWhnZjb/images.jpg" group-title="Hindi Channels",Colors Rishtey
-http://tv.bdiptv.store/live/restream/restreamz/15338.m3u8
+https://amit-1.allinonereborn.in/jiotv-ww313/app/ts_live_279.m3u8
 #EXTINF:-1,Color HD
-http://38.76.152.22:8000/play/a00a/index.m3u8
+https://amit-1.allinonereborn.in/jiotv-ww313/app/ts_live_144.m3u8
 #EXTINF:-1 tvg-id="sony-hd" tvg-logo="https://sonypicturesnetworks.com/images/logos/SET-LOGO-HD.png" group-title="Entertainment",SET HD
 https://tataplay.slivcdn.com/hls/live/2011671/SETHD/master.m3u8
 #EXTINF:-1 tvg-id="sony-sab-hd" tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY%20SAB%20HD_WHITE.png" group-title="Entertainment",Sony SAB HD
@@ -634,8 +653,8 @@ https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/bollywood-classic/manifest.m3u8
 #EXTINF:-1 tvg-id="Name" tvg-name="Colors Cineplex HD" tvg-logo="https://i.postimg.cc/5NWhnZjb/images.jpg" group-title="Movies Channels",Colors Cineplex HD
 http://tv.bdiptv.store/live/restream/restreamz/239.m3u8
-
-
+#EXTINF:-1,COLORS SD
+https://amit-1.allinonereborn.in/jiotv-ww313/app/ts_live_1368.m3u8
 
 
 
@@ -649,10 +668,24 @@ https://tataplay.slivcdn.com/hls/live/2011908/MAX2/master.m3u8
 https://tataplay.slivcdn.com/hls/live/2011906/SonyWah/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="",Star Gold HD
 http://38.96.178.201/live/StarGold/index.m3u8
+#EXTINF:-1,COLOR CINEPLEX
+https://amit-1.allinonereborn.in/jiotv-ww313/app/ts_live_482.m3u8
+#EXTINF:-1,COLOR CINEPLEX SUPERHITS
+https://amit-1.allinonereborn.in/jiotv-ww313/app/ts_live_1450.m3u8
+#EXTINF:-1,COLOR CINEPLEX HD
+https://amit-1.allinonereborn.in/jiotv-ww313/app/ts_live_1477.m3u8
 #EXTINF:-1,COLOR CINEPLEX BOLLYWOOD
-http://38.76.152.22:8000/play/a01a/index.m3u8
+https://amit-1.allinonereborn.in/jiotv-ww313/app/ts_live_1763.m3u8
+
+
+#EXTINF:-1,ZEE ANEMOL cinema
+https://amit-1.allinonereborn.in/zee313/index.php?id=0-9-zeeanmolcinema
+#EXTINF:-1,ZEE ANEMOL
+https://amit-1.allinonereborn.in/zee313/index.php?id=0-9-zeeanmol
+#EXTINF:-1, & PICTURE
+https://amit-1.allinonereborn.in/zee313/index.php?id=0-9-pictures
 #EXTINF:-98 tvg-logo="https://www.tsbi.in/wp-content/uploads/2020/10/Webp.net-resizeimage.png" group-title="Hindi", &PICTURES
-http://38.76.152.22:8000/play/a01t/index.m3u8
+https://amit-1.allinonereborn.in/zee313/index.php?id=0-9-tvpictureshd
 #EXTINF:-1,Star Select
 http://182.176.185.207:7500/play/a06p/index.m3u8
 #EXTINF:-1,Star Gold Romance
@@ -663,16 +696,23 @@ http://38.76.152.22:8000/play/a00c/index.m3u8
 http://38.76.152.22:8000/play/a00g/index.m3u8
 #EXTINF:-1,B4U Movies
 http://38.76.152.22:8000/play/a01w/index.m3u8
-#EXTINF:-1,Zee Cinema Hindi
-http://38.76.152.22:8000/play/a01v/index.m3u8
+#EXTINF:-1,Zee ANMOLE CINEMA
+https://amit-1.allinonereborn.in/zee313/index.php?id=0-9-bigganga
 #EXTINF:-1 group-title="HINDI", B4U KADAK HD
 https://cdn-2.pishow.tv/live/227/master.m3u8
 #EXTINF:-1,Zee cinema 
-http://38.76.152.22:8000/play/a01v/index.m3u8
+https://amit-1.allinonereborn.in/zee313/index.php?id=0-9-zeecinema
 #EXTINF:-1,ZEE CINMA HD
-http://38.76.152.22:8000/play/a06w/index.m3u8
+https://amit-1.allinonereborn.in/zee313/index.php?id=0-9-zeecinemahd
 #EXTINF:-1, zee classic 
-http://38.76.152.22:8000/play/a006/index.m3u8
+https://amit-1.allinonereborn.in/zee313/index.php?id=0-9-zeeclassic
+#EXTINF:-1,ZEE ACTION
+https://amit-1.allinonereborn.in/zee313/index.php?id=0-9-zeeaction
+#EXTINF:-1, & FILIX HD
+https://amit-1.allinonereborn.in/zee313/index.php?id=0-9-channel_2105335046
+
+
+
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d0/Zee_TV-2018.png" group-title="Hindi",Zee One
 https://ef56ef401101403a8b06f1dec29ef1eb.mediatailor.us-east-1.amazonaws.com/v1/manifest/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-de_ZeeOne/1c1ecdc6-be34-4ea2-bde9-8e30209e896b/2.m3u8
@@ -693,6 +733,10 @@ https://live.relentlessinnovations.net:1936/afghannobel/afghannobel/chunklist_w1
 
 #EXTINF:-1 tvg-id="Name" tvg-name="Star Movies" tvg-logo="https://i.postimg.cc/5NWhnZjb/images.jpg" group-title="Movies Channels",Star Movies
 http://tv.bdiptv.store/live/restream/restreamz/95.m3u8
+
+#EXTINF:-1,&Prive HD
+https://amit-1.allinonereborn.in/zee313/index.php?id=0-9-9z5543514
+
 
 
 #EXTINF:-1 tvg-id="sony-pix-hd" tvg-logo="https://sonypicturesnetworks.com/images/logos/PIX%20HD_WHITE.png" group-title="Movies",Sony PIX HD
@@ -826,7 +870,7 @@ https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF9
 https://newsprotalhub.xyz/tipyop/live.m3u8?id=52d1df2fdb80&e=.m3u8
 
 #EXTINF:-1 tvg-id="Others Channels" tvg-name="Discovery Channel Bangla" tvg-logo="https://i.postimg.cc/5NWhnZjb/images.jpg" group-title="Others Channels",Discovery Channel Bangla
-http://tv.bdiptv.store/live/restream/restreamz/98.m3u8
+https://amit-1.allinonereborn.in/jiotv-ww313/app/ts_live_573.m3u8
 #EXTINF:-1,TLC
 http://38.76.152.22:8000/play/a01c/index.m3u8
 #EXTINF:-1 tvg-id="discovery-science" tvg-name="Discovery Science" tvg-language="English" tvg-country="IN" tvg-logo="https://d388d59m61mm0v.cloudfront.net/optimized/content/common/logos/channel/logos/poifwx.png" tvg-chno="discovery-science" group-title="Infotainment",Discovery Science
@@ -887,9 +931,13 @@ https://otttv.co.in/d2h/livestream/discovery-channel/manifest.mpd
 http://38.76.152.22:8000/play/a01d/index.m3u8
 #EXTINF:-1,NAtional Geo
 http://38.76.152.22:8000/play/a01f/index.m3u8
+#EXTINF:-1, HISTORY TV HINDI
+https://amit-1.allinonereborn.in/jiotv-ww313/app/ts_live_578.m3u8
+
+
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://otapp.store/uploads/tv_image/sm/nick-bangla.png" group-title="Kids-(বাচ্চাদের চ্যানেল)",Nick Bangla
-http://tv.bdiptv.store:80/live/restream/restreamzz/96.m3u8
+https://amit-1.allinonereborn.in/jiotv-ww313/app/ts_live_1341.m3u8
 
 #EXTINF:-1 tvg-id="Kids Channels" tvg-name="Nick Bangla" tvg-logo="https://i.postimg.cc/5NWhnZjb/images.jpg" group-title="Kids Channels",Nick Bangla
 http://tv.bdiptv.store/live/restream/restreamz/96.m3u8
