@@ -642,14 +642,36 @@ https://live-dangal.akamaized.net/liveabr/playlist.m3u8
 https://live-dangal2.akamaized.net/liveabr/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="",Star Plus HD
 http://38.96.178.201/live/StarPlus/index.m3u8
-#EXTINF:-1 tvg-id="Hindi Channels" tvg-name="And TV" tvg-logo="https://i.postimg.cc/5NWhnZjb/images.jpg" group-title="Hindi Channels",And TV
-https://amit-1.allinonereborn.in/zee313/index.php?id=0-9-tvhd_0
+#EXTINF:-1 tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SYMANDTV/images/LOGO_HD/image.png" group-title="Entertainment", &TV
+#EXTHTTP:{"cookie":"Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9jb21wYW5pb24tbGl2ZS1wbGF5MS5zdHJlYW1yZWFkeS5pbi9saXZlL21lZDE1LTIvYW5kX3R2L25kYXNoZC8=:Expires=1750192649:KeyName=iptv-prod-media-cdn-keys:Signature=HWtcugmymH1jzHf2KHsupx6yxRtsyXMW97sMK5MdrLLxfa_4Pzt3YmgoJz8bwdeMzUuV4rwn2SVLCYfNr2OoBA=="}
+#EXTVLCOPT:http-user-agent=tv.accedo.airtel.wynk/1.97.1 (Linux;Android 11) ygx/69.1 ExoPlayerLib/2.19.1
+https://companion-live-play1.streamready.in/live/med15-2/and_tv/ndashd/and_tv.mpd?%7Ccookie=Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9jb21wYW5pb24tbGl2ZS1wbGF5MS5zdHJlYW1yZWFkeS5pbi9saXZlL21lZDE1LTIvYW5kX3R2L25kYXNoZC8=:Expires=1750192649:KeyName=iptv-prod-media-cdn-keys:Signature=HWtcugmymH1jzHf2KHsupx6yxRtsyXMW97sMK5MdrLLxfa_4Pzt3YmgoJz8bwdeMzUuV4rwn2SVLCYfNr2OoBA==
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=5c858470533b34b49028725ee43c2ae8:8e96b541bde1a21ccdc5650f855221c5
+
 #EXTINF:-1, ZEE CAFE HD
 https://amit-1.allinonereborn.in/zee313/index.php?id=0-9-zeecafehd
 #EXTINF:-1,ZEE EAST
 https://amit-1.allinonereborn.in/zee313/index.php?id=0-9-348
 #EXTINF:-1,Zee TV
-https://amit-1.allinonereborn.in/zee313/index.php?id=0-9-zeetvhd
+#EXTINF:-1 tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_ZEE_TV/images/LOGO_HD/image.png" group-title="Entertainment", Zee TV
+#EXTHTTP:{"cookie":"Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9jb21wYW5pb24tbGl2ZS1wbGF5MS5zdHJlYW1yZWFkeS5pbi9saXZlL21lZDEyLTIvemVlX3R2L25kYXNoZC8=:Expires=1750196367:KeyName=iptv-prod-media-cdn-keys:Signature=dDDfZTjAWYnwS_L9S6TQuz8XrxT8OzwUDvILC0brv32G-qPys_GUsHW5OeUwz8xguPlHFY1TqLVJgYvava6wBA=="}
+#EXTVLCOPT:http-user-agent=tv.accedo.airtel.wynk/1.97.1 (Linux;Android 11) ygx/69.1 ExoPlayerLib/2.19.1
+https://companion-live-play1.streamready.in/live/med12-2/zee_tv/ndashd/zee_tv.mpd?%7Ccookie=Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9jb21wYW5pb24tbGl2ZS1wbGF5MS5zdHJlYW1yZWFkeS5pbi9saXZlL21lZDEyLTIvemVlX3R2L25kYXNoZC8=:Expires=1750196367:KeyName=iptv-prod-media-cdn-keys:Signature=dDDfZTjAWYnwS_L9S6TQuz8XrxT8OzwUDvILC0brv32G-qPys_GUsHW5OeUwz8xguPlHFY1TqLVJgYvava6wBA==
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=1ce668c7edf9354ca2c1c08efd50ea4a:01ef93e2f2c9e07b17a335464301f4c4
+
+
+
+
+
+
+
+
+
+
+
+
 #EXTINF:-1 tvg-id="Name" tvg-name="Colors Infinity HD" tvg-logo="https://i.postimg.cc/5NWhnZjb/images.jpg" group-title="Movies Channels",Colors Infinity HD
 http://tv.bdiptv.store/live/restream/restreamz/15315.m3u8
 #EXTINF:-1 tvg-id="Hindi Channels" tvg-name="Star Bharat" tvg-logo="https://i.postimg.cc/5NWhnZjb/images.jpg" group-title="Hindi Channels",Star Bharat
@@ -700,7 +722,13 @@ https://amit-1.allinonereborn.in/jiotv-ww313/app/ts_live_1763.m3u8
 #EXTINF:-1,ZEE ANEMOL cinema
 https://amit-1.allinonereborn.in/zee313/index.php?id=0-9-zeeanmolcinema
 #EXTINF:-1,ZEE ANEMOL
-https://amit-1.allinonereborn.in/zee313/index.php?id=0-9-zeeanmol
+#EXTINF:-1 tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_ZEE_ANMOL/images/LOGO_HD/image.png" group-title="Entertainment", Zee Anmol
+#EXTHTTP:{"cookie":"Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9jb21wYW5pb24tbGl2ZS1wbGF5MS5zdHJlYW1yZWFkeS5pbi9saXZlL21lZDEyLTIvemVlX2FubW9sL25kYXNoZC8=:Expires=1750204037:KeyName=iptv-prod-media-cdn-keys:Signature=HHibnuLN3VUxfnxrqkdf0tyl2eH3WLi6FpEYkm25TjPuRwSJQLpToUFbn0dSSwphSkVMZuk86XT-JVOloKSaBg=="}
+#EXTVLCOPT:http-user-agent=tv.accedo.airtel.wynk/1.97.1 (Linux;Android 11) ygx/69.1 ExoPlayerLib/2.19.1
+https://companion-live-play1.streamready.in/live/med12-2/zee_anmol/ndashd/zee_anmol.mpd?%7Ccookie=Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9jb21wYW5pb24tbGl2ZS1wbGF5MS5zdHJlYW1yZWFkeS5pbi9saXZlL21lZDEyLTIvemVlX2FubW9sL25kYXNoZC8=:Expires=1750204037:KeyName=iptv-prod-media-cdn-keys:Signature=HHibnuLN3VUxfnxrqkdf0tyl2eH3WLi6FpEYkm25TjPuRwSJQLpToUFbn0dSSwphSkVMZuk86XT-JVOloKSaBg==
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=3931a693a596357b85c887b4cd6c1860:e61c04aa578191a33d39842028c51835
+
 #EXTINF:-1, & PICTURE
 https://amit-1.allinonereborn.in/zee313/index.php?id=0-9-pictures
 #EXTINF:-98 tvg-logo="https://www.tsbi.in/wp-content/uploads/2020/10/Webp.net-resizeimage.png" group-title="Hindi", &PICTURES
