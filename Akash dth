@@ -573,7 +573,7 @@ https://vood.yflix.top/api/Colors_Bangla_Cinema_voot_MOB/mono.m3u8
 #http://tv.bdiptv.store/live/restream/restreamzz/238.m3u8
 
 #EXTINF:-1, ZEE BANGLA
-https://amit-1.allinonereborn.in/zee313/index.php?id=0-9-9z5383484
+http://smart.bengaldigital.live/Zee-Bangla/index.m3u8
 #EXTINF:-1 tvg-id="0-9-zeebangla" group-title="Bengali" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Zee_Bangla_HD.png",Zee Bangla HD
 https://live.drmlive-02.workers.dev/zee/0-9-zeebangla.m3u8
 
@@ -760,7 +760,7 @@ https://amit-1.allinonereborn.in/zee313/index.php?id=0-9-bigganga
 #EXTINF:-1 group-title="HINDI", B4U KADAK HD
 https://cdn-2.pishow.tv/live/227/master.m3u8
 #EXTINF:-1,Zee cinema 
-https://live.drmlive-02.workers.dev/zee/0-9-zeecinema.m3u8
+http://b1g.fun:80/S837737/S356836/163708
 #EXTINF:-1,ZEE CINMA HD
 https://live.drmlive-02.workers.dev/zee/zeecinemahd.m3u8
 #EXTINF:-1, zee classic 
