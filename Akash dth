@@ -603,9 +603,9 @@ http://tv.bdiptv.store/live/restream/restreamz/81.m3u8
 http://xtv.ooo:8080/danyear12/am809100/245900
 #EXTINF:-1 tvg-id="Name" tvg-name="Colors Bangla Cinema" tvg-logo="https://i.postimg.cc/5NWhnZjb/images.jpg" group-title="Movies Channels",Colors Bangla Cinema
 https://amit-1.allinonereborn.in/jiotv-ww313/app/ts_live_1657.m3u8
-
 #EXTINF:-1 tvg-id="0-9-zeebanglacinema" group-title="Bengali" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Zee_Bangla_Cinema.png",Zee Bangla Cinema
-https://live.drmlive-02.workers.dev/zee/zeebanglacinema.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36
+https://z5ak-cmaflive.zee5.com/cmaf/live/2105524/ZeeBanglaCinemaELE/master.m3u8?hdntl=exp=1750337776~acl=%2f*~data=hdntl~hmac=1623ae0ddd03861b43413a6e4f3f1dcd563885c4cc523cda499d36b95b2c88b3
 #EXTINF:0 group-title="5. INDIAN BANGLA" ,SUN BANGLA
 http://smart.bengaldigital.live/sun-bangla-paid/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/ea/Enterr10_Bangla.jpeg/200px-Enterr10_Bangla.jpeg" group-title="Indian-Bangla",SANANDA TV HD
