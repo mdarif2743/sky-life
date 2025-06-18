@@ -605,7 +605,7 @@ http://xtv.ooo:8080/danyear12/am809100/245900
 https://amit-1.allinonereborn.in/jiotv-ww313/app/ts_live_1657.m3u8
 
 #EXTINF:-1 tvg-id="0-9-zeebanglacinema" group-title="Bengali" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Zee_Bangla_Cinema.png",Zee Bangla Cinema
-https://amit-1.allinonereborn.in/zee313/index.php?id=0-9-zeebanglacinema
+https://live.drmlive-02.workers.dev/zee/zeebanglacinema.m3u8
 #EXTINF:0 group-title="5. INDIAN BANGLA" ,SUN BANGLA
 http://smart.bengaldigital.live/sun-bangla-paid/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/ea/Enterr10_Bangla.jpeg/200px-Enterr10_Bangla.jpeg" group-title="Indian-Bangla",SANANDA TV HD
@@ -729,8 +729,8 @@ https://amit-1.allinonereborn.in/jiotv-ww313/app/ts_live_1450.m3u8
 https://amit-1.allinonereborn.in/jiotv-ww313/app/ts_live_1477.m3u8
 #EXTINF:-1,COLOR CINEPLEX BOLLYWOOD
 https://amit-1.allinonereborn.in/jiotv-ww313/app/ts_live_1763.m3u8
-
-
+#EXTINF:-1,ZEE BOLLYWOOD
+http://nonamevos.com:80/junior/junior/23229
 #EXTINF:-1,ZEE ANEMOL cinema
 https://amit-1.allinonereborn.in/zee313/index.php?id=0-9-zeeanmolcinema
 #EXTINF:-1,ZEE ANEMOL
@@ -760,9 +760,9 @@ https://amit-1.allinonereborn.in/zee313/index.php?id=0-9-bigganga
 #EXTINF:-1 group-title="HINDI", B4U KADAK HD
 https://cdn-2.pishow.tv/live/227/master.m3u8
 #EXTINF:-1,Zee cinema 
-https://amit-1.allinonereborn.in/zee313/index.php?id=0-9-zeecinema
+https://live.drmlive-02.workers.dev/zee/0-9-zeecinema.m3u8
 #EXTINF:-1,ZEE CINMA HD
-https://amit-1.allinonereborn.in/zee313/index.php?id=0-9-zeecinemahd
+https://live.drmlive-02.workers.dev/zee/zeecinemahd.m3u8
 #EXTINF:-1, zee classic 
 https://amit-1.allinonereborn.in/zee313/index.php?id=0-9-zeeclassic
 #EXTINF:-1,ZEE ACTION
@@ -999,7 +999,7 @@ https://amit-1.allinonereborn.in/jiotv-ww313/app/ts_live_578.m3u8
 https://amit-1.allinonereborn.in/jiotv-ww313/app/ts_live_1341.m3u8
 
 #EXTINF:-1 tvg-id="Kids Channels" tvg-name="Nick Bangla" tvg-logo="https://i.postimg.cc/5NWhnZjb/images.jpg" group-title="Kids Channels",Nick Bangla
-http://tv.bdiptv.store/live/restream/restreamz/96.m3u8
+http://nonamevos.com:80/junior/junior/80264
 
 #EXTINF:-1,Disney channel 
 http://38.76.152.22:8000/play/a070/index.m3u8
