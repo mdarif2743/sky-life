@@ -655,20 +655,15 @@ https://live-dangal2.akamaized.net/liveabr/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="",Star Plus HD
 http://38.96.178.201/live/StarPlus/index.m3u8
 #EXTINF:-1 tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SYMANDTV/images/LOGO_HD/image.png" group-title="Entertainment", &TV
-#EXTHTTP:{"cookie":"Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9jb21wYW5pb24tbGl2ZS1wbGF5MS5zdHJlYW1yZWFkeS5pbi9saXZlL21lZDE1LTIvYW5kX3R2L25kYXNoZC8=:Expires=1750192649:KeyName=iptv-prod-media-cdn-keys:Signature=HWtcugmymH1jzHf2KHsupx6yxRtsyXMW97sMK5MdrLLxfa_4Pzt3YmgoJz8bwdeMzUuV4rwn2SVLCYfNr2OoBA=="}
-#EXTVLCOPT:http-user-agent=tv.accedo.airtel.wynk/1.97.1 (Linux;Android 11) ygx/69.1 ExoPlayerLib/2.19.1
-https://companion-live-play1.streamready.in/live/med15-2/and_tv/ndashd/and_tv.mpd?%7Ccookie=Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9jb21wYW5pb24tbGl2ZS1wbGF5MS5zdHJlYW1yZWFkeS5pbi9saXZlL21lZDE1LTIvYW5kX3R2L25kYXNoZC8=:Expires=1750192649:KeyName=iptv-prod-media-cdn-keys:Signature=HWtcugmymH1jzHf2KHsupx6yxRtsyXMW97sMK5MdrLLxfa_4Pzt3YmgoJz8bwdeMzUuV4rwn2SVLCYfNr2OoBA==
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=5c858470533b34b49028725ee43c2ae8:8e96b541bde1a21ccdc5650f855221c5
 
 #EXTINF:-1, ZEE CAFE HD
-https://amit-1.allinonereborn.in/zee313/index.php?id=0-9-zeecafehd
+https://live.drmlive-02.workers.dev/zee/zeecafehd.m3u8
 #EXTINF:-1,ZEE EAST
 https://live.drmlive-02.workers.dev/zee/348.m3u8
 #EXTINF:-1,Zee TV
 https://live.drmlive-02.workers.dev/zee/0-9-zeetv.m3u8
-
-
+#EXTINF:-1,ZEE TV HD
+http://195.181.169.162:80/ZEE_TV_HD/index.mpd?token=test
 
 
 
@@ -738,7 +733,7 @@ https://companion-live-play1.streamready.in/live/med12-2/zee_anmol/ndashd/zee_an
 #EXTINF:-1, & PICTURE
 https://amit-1.allinonereborn.in/zee313/index.php?id=0-9-pictures
 #EXTINF:-98 tvg-logo="https://www.tsbi.in/wp-content/uploads/2020/10/Webp.net-resizeimage.png" group-title="Hindi", &PICTURES
-https://amit-1.allinonereborn.in/zee313/index.php?id=0-9-tvpictureshd
+https://live.drmlive-02.workers.dev/zee/tvpictureshd.m3u8
 #EXTINF:-1,Star Select
 http://182.176.185.207:7500/play/a06p/index.m3u8
 #EXTINF:-1,Star Gold Romance
@@ -754,15 +749,15 @@ https://amit-1.allinonereborn.in/zee313/index.php?id=0-9-bigganga
 #EXTINF:-1 group-title="HINDI", B4U KADAK HD
 https://cdn-2.pishow.tv/live/227/master.m3u8
 #EXTINF:-1,Zee cinema 
-http://b1g.fun:80/S837737/S356836/163708
+http://195.181.169.162:80/ZEE_CINEMA_HD/index.mpd?token=test
 #EXTINF:-1,ZEE CINMA HD
 https://live.drmlive-02.workers.dev/zee/0-9-zeecinema.m3u8
 #EXTINF:-1, zee classic 
-https://amit-1.allinonereborn.in/zee313/index.php?id=0-9-zeeclassic
+https://live.drmlive-02.workers.dev/zee/176.m3u8
 #EXTINF:-1,ZEE ACTION
 https://live.drmlive-02.workers.dev/zee/0-9-zeeaction.m3u8
 #EXTINF:-1, & FILIX HD
-https://amit-1.allinonereborn.in/zee313/index.php?id=0-9-channel_2105335046
+https://live.drmlive-02.workers.dev/zee/channel_2105335046.m3u8
 
 
 
@@ -788,7 +783,7 @@ https://live.relentlessinnovations.net:1936/afghannobel/afghannobel/chunklist_w1
 http://tv.bdiptv.store/live/restream/restreamz/95.m3u8
 
 #EXTINF:-1,&Prive HD
-https://amit-1.allinonereborn.in/zee313/index.php?id=0-9-9z5543514
+https://live.drmlive-02.workers.dev/zee/9z5543514.m3u8
 
 
 
