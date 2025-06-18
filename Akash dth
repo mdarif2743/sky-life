@@ -666,13 +666,7 @@ https://amit-1.allinonereborn.in/zee313/index.php?id=0-9-zeecafehd
 #EXTINF:-1,ZEE EAST
 https://amit-1.allinonereborn.in/zee313/index.php?id=0-9-348
 #EXTINF:-1,Zee TV
-#EXTINF:-1 tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_ZEE_TV/images/LOGO_HD/image.png" group-title="Entertainment", Zee TV
-#EXTHTTP:{"cookie":"Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9jb21wYW5pb24tbGl2ZS1wbGF5MS5zdHJlYW1yZWFkeS5pbi9saXZlL21lZDEyLTIvemVlX3R2L25kYXNoZC8=:Expires=1750196367:KeyName=iptv-prod-media-cdn-keys:Signature=dDDfZTjAWYnwS_L9S6TQuz8XrxT8OzwUDvILC0brv32G-qPys_GUsHW5OeUwz8xguPlHFY1TqLVJgYvava6wBA=="}
-#EXTVLCOPT:http-user-agent=tv.accedo.airtel.wynk/1.97.1 (Linux;Android 11) ygx/69.1 ExoPlayerLib/2.19.1
-https://companion-live-play1.streamready.in/live/med12-2/zee_tv/ndashd/zee_tv.mpd?%7Ccookie=Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9jb21wYW5pb24tbGl2ZS1wbGF5MS5zdHJlYW1yZWFkeS5pbi9saXZlL21lZDEyLTIvemVlX3R2L25kYXNoZC8=:Expires=1750196367:KeyName=iptv-prod-media-cdn-keys:Signature=dDDfZTjAWYnwS_L9S6TQuz8XrxT8OzwUDvILC0brv32G-qPys_GUsHW5OeUwz8xguPlHFY1TqLVJgYvava6wBA==
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=1ce668c7edf9354ca2c1c08efd50ea4a:01ef93e2f2c9e07b17a335464301f4c4
-
+https://live.drmlive-02.workers.dev/zee/0-9-zeecinema.m3u8
 
 
 
