@@ -163,9 +163,6 @@ http://14.128.15.136:8080/live/65468596/65468596/11.m3u8
 
 #EXTINF:-1 group-title="BANGLA",Sananda tv
 https://cloudfrontnet.vercel.app/tplay/playout/209587/master.m3u8
-#EXTINF:-1 group-title="INDIABANGLA" tvg-logo="https://i.ibb.co/27X1jd64/images-1-removebg-preview-1.png",COLORS BANGLA CINEMA 
-https://vood.yflix.top/api/Colors_Bangla_Cinema_voot_MOB/mono.m3u8
-#http://tv.bdiptv.store/live/restream/restreamzz/238.m3u8
 
 #EXTINF:-1 group-title="BANGLA",Sananda tv
 https://live.sanonda.tv/sanonda/index.m3u8
@@ -206,12 +203,8 @@ https://otttv.co.in/d2h/livestream/zee-bangla-cinema/manifest.mpd
 #EXTINF:0 group-title="5. INDIAN BANGLA" ,SUN BANGLA
 http://smart.bengaldigital.live/sun-bangla-paid/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/ea/Enterr10_Bangla.jpeg/200px-Enterr10_Bangla.jpeg" group-title="Indian-Bangla",SANANDA TV HD
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",Aakash Aath
-http://watchindia.net:8880/live/36830/23757/2295.ts
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",ABP Ananda
-http://watchindia.net:8880/live/36830/23757/2285.ts
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",Colors Bangla HD
-http://watchindia.net:8880/live/36830/23757/2284.ts
+
+
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/sun-bangla-in.png" group-title="Indian-Bangla",Zee 24 Ghanta
 #http://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/samaykolkata.stream/playlist.m3u8
 https://server.playontv.in/SAMAYKOLKATA/index.m3u8
