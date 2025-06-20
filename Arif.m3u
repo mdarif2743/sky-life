@@ -249,30 +249,29 @@ https://otttv.co.in/d2h/livestream/-tv/manifest.mpd
 https://live-dangal.akamaized.net/liveabr/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/J4n7YN2D/Colors.jpg" group-title="India",Dangal 2
 https://live-dangal2.akamaized.net/liveabr/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",Colors TV HD (2)
-http://watchindia.net:8880/live/36830/23757/2264.ts
-
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",Colors Rishtey HD
-http://watchindia.net:8880/live/36830/23757/830.ts
 
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="",Star Plus HD
-https://rex-streaming.vercel.app/api/x/221252.m3u8
+http://38.96.178.201/live/StarPlus/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="",Star Utsav
-http://watchindia.net:8880/live/36830/23757/2493.ts
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",Star Bharat HD
-http://watchindia.net:8880/live/36830/23757/780.ts
 
+
+
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",Star Bharat HD
+
+
+#EXTINF:-1, ZEE CAFE HD
+https://live.drmlive-02.workers.dev/zee/zeecafehd.m3u8
+#EXTINF:-1,ZEE EAST
+https://live.drmlive-02.workers.dev/zee/348.m3u8
 #EXTINF:-1,Zee TV
-http://38.76.152.22:8000/play/a00y/index.m3u8
-#EXTINF:-1,Color HD
-http://38.76.152.22:8000/play/a00a/index.m3u8
-#EXTINF:-1 tvg-id="zee-tv" tvg-name="Zee TV" tvg-language="Hindi" tvg-country="IN" tvg-logo="https://d388d59m61mm0v.cloudfront.net/optimized/content/common/logos/channel/logos/qsrytm.png" tvg-chno="zee-tv" group-title="Entertainment",Zee TV
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://otttv.co.in/d2h/livestream/zee-tv/drmLicense
-https://otttv.co.in/d2h/livestream/zee-tv/manifest.mpd
+https://live.drmlive-02.workers.dev/zee/0-9-zeetv.m3u8
+#EXTINF:-1,ZEE TV HD
+http://195.181.169.162:80/ZEE_TV_HD/index.mpd?token=test
+
+
+
 #EXTINF:-1 tvg-id="sony-hd" tvg-logo="https://sonypicturesnetworks.com/images/logos/SET-LOGO-HD.png" group-title="Entertainment",SET HD
 https://tataplay.slivcdn.com/hls/live/2011671/SETHD/master.m3u8
 #EXTINF:-1 tvg-id="sony-sab-hd" tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY%20SAB%20HD_WHITE.png" group-title="Entertainment",Sony SAB HD
@@ -281,10 +280,6 @@ https://tataplay.slivcdn.com/hls/live/2011749/SABHD/master.m3u8
 https://tataplay.slivcdn.com/hls/live/2011740/SonyMarathi/master.m3u8
 #EXTINF:-1 tvg-id="sony-pal" tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY%20PAL.png" group-title="Entertainment",Sony Pal
 https://tataplay.slivcdn.com/hls/live/2011741/SonyPalSD/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/rmBYB7GQ/Bhojpuri-Cinema.jpg" group-title="India",Bollywood HD
-https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/bollywood-hd/43e99595-3ab3-4f82-a828-0d32dc308c98/0.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/rmBYB7GQ/Bhojpuri-Cinema.jpg" group-title="India",Bollywood Classic HD
-https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/bollywood-classic/manifest.m3u8
 
 #EXTINF:-1 tvg-id="sony-max-hd" tvg-logo="https://sonypicturesnetworks.com/images/logos/Sony_MAX-HD_WHITE.png" group-title="Movies",Sony MAX HD
 https://tataplay.slivcdn.com/hls/live/2011670/SonyMaxhd/master.m3u8
@@ -296,101 +291,36 @@ https://tataplay.slivcdn.com/hls/live/2011908/MAX2/master.m3u8
 https://tataplay.slivcdn.com/hls/live/2011906/SonyWah/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="",Star Gold HD
 http://38.96.178.201/live/StarGold/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="" All time movie
-https://cloudfrontnet.vercel.app/tplay/playout/209612/master.m3u8
-https://cloudfrontnet.vercel.app/tplay/playout/209612/master.m3u8
+
 #EXTINF:-1,COLOR CINEPLEX BOLLYWOOD
 http://38.76.152.22:8000/play/a01a/index.m3u8
 
+
+#EXTINF:-98 tvg-logo="https://www.tsbi.in/wp-content/uploads/2020/10/Webp.net-resizeimage.png" group-title="Hindi", &PICTURES
+https://live.drmlive-02.workers.dev/zee/tvpictureshd.m3u8
 #EXTINF:-1,Star Select
-http://38.76.152.22:8000/play/a01s/index.m3u8
+http://182.176.185.207:7500/play/a06p/index.m3u8
 #EXTINF:-1,Star Gold Romance
-http://38.76.152.22:8000/play/a00r/index.m3u8
-#EXTINF:-1,STAR GOLD
-http://38.76.152.22:8000/play/a00c/index.m3u8
-#EXTINF:-1,STAR GOLD HD
-http://38.76.152.22:8000/play/a00f/index.m3u8
-#EXTINF:-1,STAR GOLD 2
-http://38.76.152.22:8000/play/a00g/index.m3u8
-#EXTINF:-1,B4U Movies
-http://38.76.152.22:8000/play/a01w/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",B4U Plus
-http://watchindia.net:8880/live/36830/23757/823.ts
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",Colors Cineplex HD
-http://watchindia.net:8880/live/36830/23757/803.ts
-#EXTINF:-1 tvg-id="" tvg-logo="https://gd.mdsharifulislamnayon.workers.dev/1:/TV%20LOGO/colors%20infinity.jpeg" group-title="Entertainment",Colors Infinity SD
-https://livecdn.live247stream.com/joomusic/tv/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/RhgbbqFx/Star-Gold.jpg" group-title="India",Star Gold HD
-https://www.tbn24.com/api/video/4029_0.m3u8
-#EXTINF:-103 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Gold_HD.png" group-title="Hindi",Star Gold Thrills
-http://xtv.ooo:8080/danyear12/am809100/221258
-#EXTINF:-103 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Gold_HD.png" group-title="Hindi",Star Gold Select HD
-http://xtv.ooo:8080/danyear12/am809100/66176
-#EXTINF:-1 tvg-id="zee-cinema" tvg-name="Zee Cinema" tvg-language="Hindi" tvg-country="IN" tvg-logo="https://d388d59m61mm0v.cloudfront.net/optimized/content/common/logos/channel/logos/bklqmv.png" tvg-chno="zee-cinema" group-title="Movies",Zee Cinema
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://otttv.co.in/d2h/livestream/zee-cinema/drmLicense
-https://otttv.co.in/d2h/livestream/zee-cinema/manifest.mpd
-#EXTINF:-1 tvg-id="zee-anoml-cinema" tvg-logo="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/diYkUOnX.png" group-title="Movies", Zee Anmol Cinema
-https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeeanmolcinema/default/manifest.mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=8dea532cabfe4f71ba20f62310e7949f:7a214a974e4f4d1d9bb66364d5f0cb92
-#EXTINF:-1,Picture
-http://38.76.152.22:8000/play/a01t/index.m3u8
-#EXTINF:-1,Zee Cinema Hindi
-http://38.76.152.22:8000/play/a01v/index.m3u8
+http://182.176.185.207:7500/play/a07c/index.m3u8
+#EXTINF:-1,Zee cinema 
+http://195.181.169.162:80/ZEE_CINEMA_HD/index.mpd?token=test
+#EXTINF:-1,ZEE CINMA HD
+https://live.drmlive-02.workers.dev/zee/0-9-zeecinema.m3u8
+#EXTINF:-1, zee classic 
+https://live.drmlive-02.workers.dev/zee/176.m3u8
+#EXTINF:-1,ZEE ACTION
+https://live.drmlive-02.workers.dev/zee/0-9-zeeaction.m3u8
+#EXTINF:-1, & FILIX HD
+https://live.drmlive-02.workers.dev/zee/channel_2105335046.m3u8
+#EXTINF:-1,STAR GOLD TERLLER
+http://182.176.185.207:7500/play/a07n/index.m3u8
+
+
+
+
+
 #EXTINF:-1 group-title="HINDI", B4U KADAK HD
 https://cdn-2.pishow.tv/live/227/master.m3u8
-
-#EXTINF:-1,Zee Cinema 
-http://38.76.152.22:8000/play/a06w/index.m3u8
-#EXTINF:-1 tvg-id="zee-bollywood" tvg-name="Zee Bollywood" tvg-language="Hindi" tvg-country="IN" tvg-logo="https://d388d59m61mm0v.cloudfront.net/optimized/content/common/logos/channel/logos/zee-bollywood.png" tvg-chno="zee-bollywood" group-title="Movies",Zee Bollywood
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://otttv.co.in/d2h/livestream/zee-bollywood/drmLicense
-https://otttv.co.in/d2h/livestream/zee-bollywood/manifest.mpd
-#EXTINF:-1 tvg-id="zee-action" tvg-name="Zee Action" tvg-language="Hindi" tvg-country="IN" tvg-logo="https://d388d59m61mm0v.cloudfront.net/optimized/content/common/logos/channel/logos/lopgzj.png" tvg-chno="zee-action" group-title="Movies",Zee Action
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://otttv.co.in/d2h/livestream/zee-action/drmLicense
-https://otttv.co.in/d2h/livestream/zee-action/manifest.mpd
-#EXTINF:-1 tvg-id="zee-anmol" tvg-name="Zee Anmol" tvg-language="Hindi" tvg-country="IN" tvg-logo="https://d388d59m61mm0v.cloudfront.net/optimized/content/common/logos/channel/logos/odeyvg.png" tvg-chno="zee-anmol" group-title="Entertainment",Zee Anmol
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://otttv.co.in/d2h/livestream/zee-anmol/drmLicense
-https://otttv.co.in/d2h/livestream/zee-anmol/manifest.mpd
-#EXTINF:-1 group-title="English Movie" tvg-logo="https://i.ibb.co/Ns62bY2/2021-04-22-10-24-01.png",Star Movies HD
-http://xtv.ooo:8080/danyear12/am809100/66213
-#EXTINF:-1 tvg-id="-pictures" tvg-name="& Pictures (And Pictures)" tvg-language="Hindi" tvg-country="IN" tvg-logo="https://d388d59m61mm0v.cloudfront.net/optimized/content/common/logos/channel/logos/xdksem.png" tvg-chno="-pictures" group-title="Movies",& Pictures (And Pictures)
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://otttv.co.in/d2h/livestream/-pictures/drmLicense
-https://otttv.co.in/d2h/livestream/-pictures/manifest.mpd
-#EXTINF:-1 tvg-id="korean-drama-active" tvg-name="Korean Drama Active" tvg-language="English" tvg-country="IN" tvg-logo="https://d388d59m61mm0v.cloudfront.net/optimized/content/common/logos/channel/logos/csetwc.png" tvg-chno="korean-drama-active" group-title="Entertainment",Korean Drama Active
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://otttv.co.in/d2h/livestream/korean-drama-active/drmLicense
-https://otttv.co.in/d2h/livestream/korean-drama-active/manifest.mpd
-#EXTINF:-1 tvg-id="movies-now-hd" tvg-name="Movies Now HD" tvg-language="English" tvg-country="IN" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/timesplay/content/common/channel/logos/wthfwe.jpeg" tvg-chno="movies-now-hd" group-title="Movies",Movies Now HD
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://otttv.co.in/d2h/livestream/movies-now-hd/drmLicense
-https://otttv.co.in/d2h/livestream/movies-now-hd/manifest.mpd
-
 
 
 
