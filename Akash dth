@@ -978,15 +978,15 @@ http://xtv.ooo:8080/danyear12/am809100/109975
 https://otttv.co.in/d2h/livestream/discovery-channel/manifest.mpd
 #EXTINF:-1,WILD
 http://38.76.152.22:8000/play/a01d/index.m3u8
-#EXTINF:-1,NAtional Geo
-http://38.76.152.22:8000/play/a01f/index.m3u8
+#EXTINF:-1,NAtional Geo hd
+http://182.176.185.207:7500/play/a06u/index.m3u8
 #EXTINF:-1, HISTORY TV HINDI
 https://amit-1.allinonereborn.in/jiotv-ww313/app/ts_live_578.m3u8
 
 
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://otapp.store/uploads/tv_image/sm/nick-bangla.png" group-title="Kids-(বাচ্চাদের চ্যানেল)",Nick Bangla
-https://amit-1.allinonereborn.in/jiotv-ww313/app/ts_live_1341.m3u8
+http://182.176.185.207:7500/play/a07h/index.m3u8
 
 #EXTINF:-1 tvg-id="Kids Channels" tvg-name="Nick Bangla" tvg-logo="https://i.postimg.cc/5NWhnZjb/images.jpg" group-title="Kids Channels",Nick Bangla
 http://nonamevos.com:80/junior/junior/80264
