@@ -404,12 +404,10 @@ https://iptvcable.netlify.app/Altogether-007/Sports18-1.m3u8
 https://iptvcable.netlify.app/Altogether-007/Sports18-2.m3u8
 #EXTINF:-1, SPORTS 18 3 HD
 https://iptvcable.netlify.app/Altogether-007/Sports18-3.m3u8
-#EXTINF:-1,SPORTS 18 KHEL
-https://iptvcable.netlify.app/Altogether-007/Sports18khel.m3u8
-#EXTINF:-1,SPORTS 18 1
-https://amit-1.allinonereborn.in/jiotv-ww313/app/ts_live_1985.m3u8
+
 #EXTINF:-1,SKY SPORTS CRICKET
 https://www.xfireflix.fun/sports/stream.php/skyscric/playlist.m3u8
+http://14.128.15.136:8080/live/65468596/65468596/2581.m3u8
 #EXTINF:-1,SKY SPORTS Action
 https://www.xfireflix.fun/sports/stream.php/skysact/playlist.m3u8
 #EXTINF:-1,SKY SPORTS Golf
