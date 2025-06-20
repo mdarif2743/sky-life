@@ -327,27 +327,7 @@ https://cdn-2.pishow.tv/live/227/master.m3u8
 
 
 
-#EXTINF:-1 tvg-id="mnx-hd" tvg-name="MNX HD" tvg-language="English" tvg-country="IN" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/timesplay/content/common/channel/logos/vunjev.jpeg" tvg-chno="mnx-hd" group-title="Movies",MNX HD
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://otttv.co.in/d2h/livestream/mnx-hd/drmLicense
-https://otttv.co.in/d2h/livestream/mnx-hd/manifest.mpd
-#EXTINF:-1 tvg-id="shorts-tv-active" tvg-name="Shorts TV Active" tvg-language="Hindi" tvg-country="IN" tvg-logo="https://d388d59m61mm0v.cloudfront.net/optimized/content/common/logos/channel/logos/shorts-tv-active.png" tvg-chno="shorts-tv-active" group-title="Entertainment",Shorts TV Active
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://otttv.co.in/d2h/livestream/shorts-tv-active/drmLicense
-https://otttv.co.in/d2h/livestream/shorts-tv-active/manifest.mpd
-#EXTINF:-1 tvg-id="mn-plus-hd" tvg-name="MN Plus HD" tvg-language="English" tvg-country="IN" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/timesplay/content/common/channel/logos/leazcc.jpeg" tvg-chno="mn-plus-hd" group-title="Movies",MN Plus HD
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://otttv.co.in/d2h/livestream/mn-plus-hd/drmLicense
-https://otttv.co.in/d2h/livestream/mn-plus-hd/manifest.mpd
+
 #EXTINF:-1 tvg-id="sony-pix-hd" tvg-logo="https://sonypicturesnetworks.com/images/logos/PIX%20HD_WHITE.png" group-title="Movies",Sony PIX HD
 https://tataplay.slivcdn.com/hls/live/2011748/PIXHD/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/02CNFVwv/Star-Movies-HD.jpg" group-title="Others",Action Hollywood Movies
@@ -364,53 +344,19 @@ http://212.102.60.231/HBO/index.m3u8
 http://iptv.prosto.tv:7000/ch50/video.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/aju4mRV.jpg" group-title="Others",My Time
 https://mytime-tcl.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="9x-jhakaas" tvg-name="9X Jhakaas" tvg-language="Marathi" tvg-country="IN" tvg-logo="https://d388d59m61mm0v.cloudfront.net/optimized/content/common/logos/channel/logos/rpxdkm.png" tvg-chno="9x-jhakaas" group-title="Music",9X Jhakaas
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://otttv.co.in/d2h/livestream/9x-jhakaas/drmLicense
-https://otttv.co.in/d2h/livestream/9x-jhakaas/manifest.mpd
-#EXTINF:-1 tvg-id="9x-tashan" tvg-name="9X Tashan" tvg-language="Punjabi" tvg-country="IN" tvg-logo="https://d388d59m61mm0v.cloudfront.net/optimized/content/common/logos/channel/logos/xiseyx.png" tvg-chno="9x-tashan" group-title="Music",9X Tashan
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://otttv.co.in/d2h/livestream/9x-tashan/drmLicense
-https://otttv.co.in/d2h/livestream/9x-tashan/manifest.mpd
-#EXTINF:-1 tvg-id="9xm" tvg-name="9XM" tvg-language="Hindi" tvg-country="IN" tvg-logo="https://d388d59m61mm0v.cloudfront.net/optimized/content/common/logos/channel/logos/lwihpv.png" tvg-chno="9xm" group-title="Music",9XM
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://otttv.co.in/d2h/livestream/9xm/drmLicense
-https://otttv.co.in/d2h/livestream/9xm/manifest.mpd
+
+===============================MUSIC MUSIC==================
+
+
 #EXTINF:-1 tvg-id="balle-balle" tvg-name="Balle Balle" tvg-language="Punjabi" tvg-country="IN" tvg-logo="https://d388d59m61mm0v.cloudfront.net/optimized/content/common/logos/channel/logos/ejnlyj.png" tvg-chno="balle-balle" group-title="Music",Balle Balle
 https://otttv.co.in/d2h/livestream/balle-balle/master.m3u8
-#EXTINF:-1 tvg-id="mtv-beats" tvg-name="MTV Beats" tvg-language="Hindi" tvg-country="IN" tvg-logo="https://d388d59m61mm0v.cloudfront.net/optimized/content/common/logos/channel/logos/lrcznw.png" tvg-chno="mtv-beats" group-title="Music",MTV Beats
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://otttv.co.in/d2h/livestream/mtv-beats/drmLicense
-https://otttv.co.in/d2h/livestream/mtv-beats/manifest.mpd
-#EXTINF:-1 tvg-id="music-india" tvg-name="Music India" tvg-language="Hindi" tvg-country="IN" tvg-logo="https://d388d59m61mm0v.cloudfront.net/optimized/content/common/logos/channel/logos/fjeoiu.png" tvg-chno="music-india" group-title="Music",Music India
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://otttv.co.in/d2h/livestream/music-india/drmLicense
-https://otttv.co.in/d2h/livestream/music-india/manifest.mpd
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/57/8XM_Logo.png"group-title="MUSIC", 8X music
 https://epiconvh.akamaized.net/live/showbox/master.m3u8
 #EXTINF:-89 group-title="MUSIC"tvg-logo="https://seeklogo.com/images/B/b4u-music-logo-12FA930444-seeklogo.com.png",B4U Music
 https://d3kdywbtdfbp9z.cloudfront.net/v1/manifest/93ce20f0f52760bf38be911ff4c91ed02aa2fd92/dff423e0-3c82-46d6-9ecb-3baa96b5694a/4598c408-0e38-488c-9b64-fc845d1ea2b6/0.m3u8
 #EXTINF:-1 tvg-logo="" group-title="MUSIC",Hindi Hits HD
 http://146.59.253.52:8080/hindihitshd/index.m3u8
-#EXTINF:-1 tvg-id="zing" tvg-logo="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/Nyi83z1G.png" group-title="Music", Zing
-https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zing/default/manifest.mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=43513b13f4b542e39c9265921dfc1726:b0b2678bcd274c37b888a6c987d502ed
 
 #EXTINF:-1 tvg-logo="" group-title="MUSIC",Hindi Hits
 https://cloudfrontnet.vercel.app/tplay/playout/209592/master.m3u8
@@ -583,7 +529,8 @@ http://125.209.88.166:45793/BRN/TenSports.stream/playlist.m3u8
 
 
 
-
+#EXTINF:-1 tvg-id="" tvg-logo="https://otapp.store/uploads/tv_image/sm/nick-bangla.png" group-title="Kids-(বাচ্চাদের চ্যানেল)",Nick Bangla
+http://182.176.185.207:7500/play/a07h/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTBNQErEpRzLPLQi_iJoc070F4FhKaqRh_el_F57ef3VwFpp3xDoYi6qWGy&s=10" group-title="Cartoon",Cartoon Network
 https://iptvcable.netlify.app/Altogether-007/Cartoon/CartoonNetworkhin.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/ubZMeQv.jpg" group-title="Kids",PBS Kids
@@ -631,6 +578,28 @@ http://125.209.88.166:45793/BRN/GeoKahani.stream/playlist.m3u8
 http://125.209.88.166:45793/BRN/PtvHome.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/ZnD8CtvQ/BBC.jpg" group-title="Pakistan",PTV News
 http://125.209.88.166:45793/BRN/PTVNews.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="Entertainment" tvg-name="Geo TV" tvg-logo="https://i.postimg.cc/Bb01Tz1C/Picsart-25-01-28-11-30-34-024.jpg" group-title="Entertainment",Geo TV
+https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/geotv.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="Entertainment" tvg-name="Express TV" tvg-logo="https://i.postimg.cc/Bb01Tz1C/Picsart-25-01-28-11-30-34-024.jpg" group-title="Entertainment",Express TV
+https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/expresspk.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="Entertainment" tvg-name="HUM TV" tvg-logo="https://i.postimg.cc/Bb01Tz1C/Picsart-25-01-28-11-30-34-024.jpg" group-title="Entertainment",HUM TV
+https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/hum.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="Entertainment" tvg-name="Global Fashion Channel" tvg-logo="https://i.postimg.cc/Bb01Tz1C/Picsart-25-01-28-11-30-34-024.jpg" group-title="Entertainment",Global Fashion Channel
+https://pubgfc.teleosmedia.com/linear/globalfashionchannel/globalfashionchannel/playlist.m3u8
+#EXTINF:-1 tvg-id="Entertainment" tvg-name="Masala Entertainment Plus tvg-logo="https://i.postimg.cc/Bb01Tz1C/Picsart-25-01-28-11-30-34-024.jpg" group-title="Entertainment",Masala Entertainment Plus
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/masala-entertainment-plus/master.m3u8
+#EXTINF:-1 tvg-id="Entertainment" tvg-name="Aur Life HD" tvg-logo="https://i.postimg.cc/Bb01Tz1C/Picsart-25-01-28-11-30-34-024.jpg" group-title="Entertainment",Aur Life HD
+https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/aurtvpk.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="Entertainment" tvg-name="TV One" tvg-logo="https://i.postimg.cc/Bb01Tz1C/Picsart-25-01-28-11-30-34-024.jpg" group-title="Entertainment",TV One
+https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/tvonepk.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="Entertainment" tvg-name="Apna Ch" tvg-logo="https://i.postimg.cc/Bb01Tz1C/Picsart-25-01-28-11-30-34-024.jpg" group-title="Entertainment",Apna Ch
+https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/apnach.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="Entertainment" tvg-name="See TV" tvg-logo="https://i.postimg.cc/Bb01Tz1C/Picsart-25-01-28-11-30-34-024.jpg" group-title="Entertainment",See TV
+https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/seetv.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="Entertainment" tvg-name="Urdu 1" tvg-logo="https://i.postimg.cc/Bb01Tz1C/Picsart-25-01-28-11-30-34-024.jpg" group-title="Entertainment",Urdu 1
+https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/urdu1.stream/playlist.m3u8
+
+
 
 
 
