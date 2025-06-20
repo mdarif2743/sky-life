@@ -328,6 +328,10 @@ http://212.102.60.231/HBO/index.m3u8
 http://iptv.prosto.tv:7000/ch50/video.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/aju4mRV.jpg" group-title="Others",My Time
 https://mytime-tcl.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/vijay-iptv/logos/refs/heads/main/Star_Movies_HD.png" group-title="Airtel | Tamil",Star Movies HD
+http://line.ultrab.xyz:80/live/ZeeALI1/465841/63511.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/vijay-iptv/logos/refs/heads/main/Star_Movies_Select_HD.png" group-title="Airtel | Tamil",Star Movies Select HD
+http://line.ultrab.xyz:80/live/ZeeALI1/465841/63510.m3u8
 
 ===============================MUSIC MUSIC==================
 
