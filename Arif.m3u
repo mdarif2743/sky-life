@@ -157,7 +157,7 @@ https://dzkyvlfyge.erbvr.com/PeaceTvBangla/index.m3u8
 
 #EXTINF:0 group-title="5. INDIAN BANGLA" ,STAR JALSHA SD
 http://smart.bengaldigital.live/Star-jalsha/index.m3u8
-#EXTINF:0 group-title="5. INDIAN BANGLA" zee bangla hd
+#EXTINF:-1,zee bangla hd
 http://14.128.15.136:8080/live/65468596/65468596/11.m3u8
 
 
