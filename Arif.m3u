@@ -239,8 +239,8 @@ https://live-dangal2.akamaized.net/liveabr/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="",Star Plus HD
 http://38.96.178.201/live/StarPlus/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="",Star Utsav
-
-
+#EXTINF:-1,COLORS CINEPLEX BOLLYWOOD
+https://re.fredflix.fun/Jio/live.php?id=Colors_Cineplex_Bollywood_MOB&slag=Colors_Cineplex_Bollywood_MOB-audio_98835_hin%3D98800-video%3D607600.m3u8&e=.m3u8
 
 
 
