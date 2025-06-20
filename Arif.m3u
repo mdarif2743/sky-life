@@ -527,7 +527,37 @@ http://125.209.88.166:45793/BRN/GeoSuper.stream/playlist.m3u8
 http://175.107.244.52:4457/play/a08g/index.m3u8
 #EXTINF:-1,TEN SPORTS HD
 http://125.209.88.166:45793/BRN/TenSports.stream/playlist.m3u8
+#EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/3NGbmgY2/Star-Sports-2.jpg",Sky Sports Football
+https://ddy6new.newkso.ru/ddy6/premium558/mono.m3u8
 
+#EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/3NGbmgY2/Star-Sports-2.jpg",Sky Sports Football
+https://ddy6new.newkso.ru/ddy6/premium559/mono.m3u8
+#EXTINF:-1,CRICKLIFE 1
+https://ddy6new.newkso.ru/ddy6/premium282/mono.m3u8
+#EXTINF:-1,FOX SPORTS 501 HD
+https://ddy6new.newkso.ru/ddy6/premium369/mono.m3u8
+#EXTINF:-1,|NL| ESPN 1 HD 🇳🇱
+http://185.236.230.212:9981/play/a09s
+#EXTINF:-1,|NL| ESPN 2 HD 🇳🇱
+http://185.236.230.212:9981/play/a0ah
+#EXTINF:-1,|NL| ESPN 4 HD 🇳🇱
+http://185.236.230.212:9981/play/a09p
+#EXTINF:-1,EuroSport 1 HD
+http://92.118.251.84:8080/Eurosport1/index.m3u8
+#EXTINF:-1,EuroSport 2 HD
+http://92.118.251.84:8080/Eurosport2/index.m3u8
+
+
+
+
+#EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/x1VYmp0L/Ten-Sports.jpg",Sport TV
+https://ddy6new.newkso.ru/ddy6/premium716/mono.m3u8
+
+#EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/x1VYmp0L/Ten-Sports.jpg",Sport TV 1
+https://ddy6new.newkso.ru/ddy6/premium289/mono.m3u8
+
+#EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/x1VYmp0L/Ten-Sports.jpg",Sport TV 2
+https://ddy6new.newkso.ru/ddy6/premium291/mono.m3u8
 
 
 
