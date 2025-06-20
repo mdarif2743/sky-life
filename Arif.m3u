@@ -493,6 +493,136 @@ http://38.96.178.201/live/TSports/index.m3u8
 #EXTINF:-21 tvg-logo="https://i.ibb.co/pQGXzMP/images-1-removebg-preview.png" group-title="SPORTS",GAZI TV
 #http://172.19.178.39:18190/gtv/tracks-v1/index.fmp4.m3u8?token=ea5c8496461408cfa6226102e90f37d020613815-94b3b90c1650a2e9a07f1e1bfa664aee-1745409143-1745398343
 http://38.96.178.201/live/GaziTV/index.m3u8
+#EXTINF:-1, SPORTS 18 1 HD
+https://iptvcable.netlify.app/Altogether-007/Sports18-1.m3u8
+#EXTINF:-1,SPORTS 18 2 HD
+https://iptvcable.netlify.app/Altogether-007/Sports18-2.m3u8
+#EXTINF:-1, SPORTS 18 3 HD
+https://iptvcable.netlify.app/Altogether-007/Sports18-3.m3u8
+#EXTINF:-1,SPORTS 18 KHEL
+https://iptvcable.netlify.app/Altogether-007/Sports18khel.m3u8
+#EXTINF:-1,SPORTS 18 1
+https://amit-1.allinonereborn.in/jiotv-ww313/app/ts_live_1985.m3u8
+#EXTINF:-1,SKY SPORTS CRICKET
+https://www.xfireflix.fun/sports/stream.php/skyscric/playlist.m3u8
+#EXTINF:-1,SKY SPORTS Action
+https://www.xfireflix.fun/sports/stream.php/skysact/playlist.m3u8
+#EXTINF:-1,SKY SPORTS Golf
+https://www.xfireflix.fun/sports/stream.php/skysgol/playlist.m3u8
+#EXTINF:-1,SKY SPORTS PREMIER LEAGUE
+https://www.xfireflix.fun/sports/stream.php/skysprem/playlist.m3u8
+#EXTINF:-1,SKY SPORTS football
+https://www.xfireflix.fun/sports/stream.php/skysfott/playlist.m3u8
+#EXTINF:-1,SKY SPORTS Arena
+https://www.xfireflix.fun/sports/stream.php/skysare/playlist.m3u8
+#EXTINF:-1,SKY SPORTS f1
+https://www.xfireflix.fun/sports/stream.php/skysfor1/playlist.m3u8
+#EXTINF:-1,SKY SPORTS mix
+https://www.xfireflix.fun/sports/stream.php/skysmixx/playlist.m3u8
+#EXTINF:-1,SKY SPORTS TENNIS
+https://www.xfireflix.fun/sports/stream.php/skystennis/playlist.m3u8
+#EXTINF:-1,STAR SPORTS 1 HD
+https://smart.bengaldigital.live/star-sports-1/index.m3u8
+#EXTINF:-1,Star sports 1 HD HINDI
+https://rex-streaming.vercel.app/api/BDIX/167573.m3u8|user-agent=@xfireflix
+#EXTINF:-1,STAR SPORTS 2 HD
+https://smart.bengaldigital.live/star-sports-2/index.m3u8
+#EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/htVCr69X/images-1719001317102.jpg",Star Sports 3
+http://cool365.xyz:900/live/4160189881/DB4ACD54/400159568.m3u8
+#EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/rwZdgMp5/download.png",Star sports select 1
+http://cool365.xyz:900/live/4160189881/DB4ACD54/378739.m3u8
+#EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/rwZdgMp5/download.png",Star sports select 2
+http://cool365.xyz:900/live/4160189881/DB4ACD54/376465.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/Kgfo9ty.jpg" group-title="Sports",Dubai Sports 2
+http://dmitwlvvll.cdn.mangomolo.com/dubaisportshd/dubaisportshd/chunklist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/Kgfo9ty.jpg" group-title="Sports",Dubai Sports 3
+http://dmitwlvvll.cdn.mangomolo.com/dubaisportshd5/dubaisportshd5/chunklist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/e3cYtrb.jpg" group-title="Sports",TSN 1
+http://fl5.moveonjoy.com/TSN_1/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/e3cYtrb.jpg" group-title="Sports",TSN 2
+http://fl5.moveonjoy.com/TSN_2/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/e3cYtrb.jpg" group-title="Sports",TSN 3
+http://fl5.moveonjoy.com/TSN_3/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/e3cYtrb.jpg" group-title="Sports",TSN 4
+http://fl5.moveonjoy.com/TSN_4/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/e3cYtrb.jpg" group-title="Sports",TSN 5
+http://fl5.moveonjoy.com/TSN_5/index.m3u8
+#EXTINF:-1 group-title="Sports" tvg-logo="https://crichdplayer.com/assets/uploads/channels/17.gif",SSC 1
+http://cool365.xyz:900/live/4160189881/DB4ACD54/112551.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="", ssc 2
+https://ssc-2-enc.edgenextcdn.net/out/v1/a16db2ec338a445a82d9c541cc9293f9/index.mpd?|drmScheme=clearkey&drmLicense=8bcfc55359e24bd7ad1c5560a96ddd3c:b5dcf721ab522af92a9d3bf0bd55b596
+
+#EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/x1VYmp0L/Ten-Sports.jpg",SSC 3
+https://ddy6new.newkso.ru/ddy6/premium616/mono.m3u8
+
+#EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/x1VYmp0L/Ten-Sports.jpg",SSC 5
+https://ddy6new.newkso.ru/ddy6/premium618/mono.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="", ssc 4
+https://ssc-4-enc.edgenextcdn.net/out/v1/5267ea5772874b0db24559d643eaad93/index.mpd?|drmScheme=clearkey&drmLicense=5c672f6b85a94638872d0214f7806ed4:bf8756fbb866ee2d5c701c2289dd8de3
+#EXTINF:-1,sports max
+https://cdn-l3-jam-1.sportsmax.digicelgroup.com/sportsmax/live/ott/live/1124/CMAF/manifest.mpd?|drmScheme=clearkey&drmLicense=1779c27b9d077a3ba0c9cc1bb9a94b9f:cc5cf3b7928fb9e0a1ee6a8b566f0a8e
+#EXTINF:-1,SPORTS MAX plus
+https://cdn-l3-jam-1.sportsmax.digicelgroup.com/sportsmax/live/ott/live/1123/CMAF/manifest.mpd?|drmScheme=clearkey&drmLicense=1779c27b9d077a3ba0c9cc1bb9a94b9f:cc5cf3b7928fb9e0a1ee6a8b566f0a8e
+#EXTINF:-1,SPORTS MAX 2
+https://cdn-l3-jam-1.sportsmax.digicelgroup.com/sportsmax/live/ott/live/1118/CMAF/manifest.mpd?|drmScheme=clearkey&drmLicense=1779c27b9d077a3ba0c9cc1bb9a94b9f:cc5cf3b7928fb9e0a1ee6a8b566f0a8e
+#EXTINF:-1, SPORTS MAX
+https://cdn-l3-jam-1.sportsmax.digicelgroup.com/sportsmax/live/ott/live/1117/CMAF/manifest.mpd?|drmScheme=clearkey&drmLicense=1779c27b9d077a3ba0c9cc1bb9a94b9f:cc5cf3b7928fb9e0a1ee6a8b566f0a8e
+#EXTINF:-1, rush sports 2
+https://cdn-l3-jam-1.sportsmax.digicelgroup.com/sportsmax/live/ott/live/1110/CMAF/manifest.mpd?|drmScheme=clearkey&drmLicense=1779c27b9d077a3ba0c9cc1bb9a94b9f:cc5cf3b7928fb9e0a1ee6a8b566f0a8e
+#EXTINF:-1, RUSH SPORTS
+https://cdn-l3-jam-1.sportsmax.digicelgroup.com/sportsmax/live/ott/live/1109/CMAF/manifest.mpd?|drmScheme=clearkey&drmLicense=1779c27b9d077a3ba0c9cc1bb9a94b9f:cc5cf3b7928fb9e0a1ee6a8b566f0a8e
+#EXTINF:-1 group-title="Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS7cWPFVlzlK5GFcvFq8uqGnCyALPYsiXBRFw&s",Willow Cricket
+http://filex.tv:8080/live/Home329/Sohailhome/52109.m3u8
+#EXTINF:-1,TNT SPORTS 1 🇺🇸
+https://crichdplaylist.extratvteam.workers.dev/master.m3u8?cid=bbtsp1
+#EXTINF:-1,TNT SPORTS 2 🇺🇸
+https://crichdplaylist.extratvteam.workers.dev/master.m3u8?cid=bbtsp2
+#EXTINF:-1,TNT SPORTS 3 🇺🇸
+https://crichdplaylist.extratvteam.workers.dev/master.m3u8?cid=bbtsp3
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/mFZwwBN/tntsports4.jpg" group-title="TNT Sports",TNT Sports 4
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=e31a5a81caff5d07ea2411a571fc2e59:96c5ef69479732ae734f962748c19729
+https://a39aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/i2pcjr4pe5/out/v1/912e9db56d75403b8a9ac0a719110f36/cenc.mpd?encoding=segmentBase
+
+#EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/4yyTcJWn/GTV.jpg",TNT Sport Premium
+https://ddy6new.newkso.ru/ddy6/premium388/mono.m3u8
+#EXTINF:-1 tvg-id="bein-sport-1" tvg-logo="https://github.com/murphieslaw23/channel-logos/blob/master/be_in_mena_sports_01_hd.png?raw=true" group-title="Sports", beIN Sports 1
+http://125.209.88.166:45793/BRN/beINSP11.stream/playlist.m3u8
+#EXTINF:-1 tvg-id=" " tvg-logo="https://github.com/murphieslaw23/channel-logos/blob/master/be_in_mena_sports_02_hd.png?raw=true" group-title="Sports", beIN Sports 2
+http://goldv3.me:2082/drmtv43_476893/YFCPfQ3M/1122213
+#EXTINF:-1 tvg-id=" " tvg-logo="https://github.com/murphieslaw23/channel-logos/blob/master/be_in_mena_sports_03_hd.png?raw=true" group-title="Sports", beIN Sports 3
+http://wo0dyefk.dienalt.org/iptv/DV3AC2Q6YSR9XE/6124/index.m3u8
+#EXTINF:-1 tvg-id=" " tvg-logo="https://github.com/murphieslaw23/channel-logos/blob/master/be_in_mena_sports_04_hd.png?raw=true" group-title="Sports", beIN Sports 4
+http://wo0dyefk.dienalt.org/iptv/DV3AC2Q6YSR9XE/6125/index.m3u8
+#EXTINF:-1 tvg-id=" " tvg-logo="https://github.com/murphieslaw23/channel-logos/blob/master/be_in_mena_sports_05_hd.png?raw=true" group-title="Sports", beIN Sports 5
+http://wo0dyefk.dienalt.org/iptv/DV3AC2Q6YSR9XE/6126/index.m3u8
+#EXTINF:-1 tvg-id=" " tvg-logo="https://github.com/murphieslaw23/channel-logos/blob/master/be_in_mena_sports_06_hd.png?raw=true" group-title="Sports", beIN Sports 6
+http://wo0dyefk.dienalt.org/iptv/DV3AC2Q6YSR9XE/6127/index.m3u8
+#EXTINF:-1 tvg-id=" " tvg-logo="https://github.com/murphieslaw23/channel-logos/blob/master/be_in_mena_sports_07_hd.png?raw=true" group-title="Sports", beIN Sports 7
+http://wo0dyefk.dienalt.org/iptv/DV3AC2Q6YSR9XE/6128/index.m3u8
+#EXTINF:-1 group-title="Sports" tvg-logo="https://i.ibb.co.com/VpLFC41v/Astro-Cricket.jpg",Bein Sports 9
+https://ddy6new.newkso.ru/ddy6/premium99/mono.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/quuen2024/logo-versi/refs/heads/queen/BahrainSport.png" group-title="🟢Voli_Mania🟢",Bahrain Sport 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
+https://5c7b683162943.streamlock.net/live/ngrp:sportsone_all/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/quuen2024/logo-versi/refs/heads/queen/BahrainSport.png" group-title="🟢Voli_Mania🟢",Bahrain Sport 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
+https://5c7b683162943.streamlock.net/live/ngrp:bahrainsportstwo_all/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/90GBNXPX/A-Sports-HD.jpg" group-title="Sports",A Sports
+http://125.209.88.166:45793/BRN/ArySports.stream/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://aimages.willow.tv/wlo_logo_200_200.jpg" group-title="SPORTS",Willow HD
+http://14.128.15.136:8080/live/65468596/65468596/9589.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/Zqvpmns1/Geo-Super.jpg" group-title="Sports",Geo Super
+http://125.209.88.166:45793/BRN/GeoSuper.stream/playlist.m3u8
+
+#EXTINF:-1,PTV-SPORTS HD
+http://175.107.244.52:4457/play/a08g/index.m3u8
+#EXTINF:-1,TEN SPORTS HD
+http://125.209.88.166:45793/BRN/TenSports.stream/playlist.m3u8
+
 
 
 
