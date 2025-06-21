@@ -166,7 +166,8 @@ https://cloudfrontnet.vercel.app/tplay/playout/209587/master.m3u8
 
 #EXTINF:-1 group-title="BANGLA",Sananda tv
 https://live.sanonda.tv/sanonda/index.m3u8
-
+#EXTINF:-1,COLORS BANGLA HD
+https://rex-streaming.vercel.app/api/BDIX/245895.m3u8|user-agent=@xfireflix
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/LsyGKzFC/Colors-Bangla-HD.jpg" group-title="Indian Bangla",Colors Bangla HD
 http://38.96.178.201/live/ColorsBangla/index.m3u8
 #EXTINF:-1 tvg-id="sony-aath" tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY%20AATH.png" group-title="Entertainment",Sony Aath
@@ -194,12 +195,7 @@ https://live-stream.utkalbongo.com/hls/livebanglatvstream.m3u8
 #KODIPROP:inputstream.adaptive.license_key=https://otttv.co.in/d2h/livestream/zee-bangla/drmLicense
 https://otttv.co.in/d2h/livestream/zee-bangla/manifest.mpd
 #EXTINF:-1 tvg-id="zee-bangla-cinema" tvg-name="Zee Bangla Cinema" tvg-language="Bengali" tvg-country="IN" tvg-logo="https://d388d59m61mm0v.cloudfront.net/optimized/content/common/logos/channel/logos/brmfgr.png" tvg-chno="zee-bangla-cinema" group-title="Movies",Zee Bangla Cinema
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://otttv.co.in/d2h/livestream/zee-bangla-cinema/drmLicense
-https://otttv.co.in/d2h/livestream/zee-bangla-cinema/manifest.mpd
+https://rex-streaming.vercel.app/api/BDIX/245897.m3u8|user-agent=@xfireflix
 #EXTINF:0 group-title="5. INDIAN BANGLA" ,SUN BANGLA
 http://smart.bengaldigital.live/sun-bangla-paid/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/ea/Enterr10_Bangla.jpeg/200px-Enterr10_Bangla.jpeg" group-title="Indian-Bangla",SANANDA TV HD
@@ -620,8 +616,8 @@ https://wildearth-plex.amagi.tv/master.m3u8
 
 #EXTINF:-1 group-title="Infotainment" tvg-logo="https://i.postimg.cc/HxDhtfTy/Wild-Earth.jpg",Xplore
 https://xlpore-samsungus.amagi.tv/playlist.m3u8
-
-
+#EXTINF:-1,NET GEO BANGLA
+https://rex-streaming.vercel.app/api/BDIX/245967.m3u8|user-agent=@xfireflix
 
 #EXTINF:-1 tvg-id="" tvg-logo=" " group-title="ISLAMIC CHANNELS",Madani Tv
 https://streaming.madanichannel.tv/static/streaming-playlists/hls/d3e49b76-ac06-4689-a641-9200445b647f/master.m3u8
