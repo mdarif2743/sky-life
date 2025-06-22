@@ -169,7 +169,7 @@ http://14.128.15.136:8080/live/65468596/65468596/11.m3u8
 #EXTINF:-1 group-title="BANGLA",Sananda tv
 https://cloudfrontnet.vercel.app/tplay/playout/209587/master.m3u8
 
-#EXTINF:-1 group-title="BANGLA",Sananda tv
+#EXTINF:-1, tvg-logo=Sananda_TV_Logo.jpg" group-title="BANGLA",Sananda tv
 https://live.sanonda.tv/sanonda/index.m3u8
 #EXTINF:-1,COLORS BANGLA HD
 https://rex-streaming.vercel.app/api/BDIX/245895.m3u8|user-agent=@xfireflix
