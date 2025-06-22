@@ -187,6 +187,9 @@ https://live-bangla.akamaized.net/liveabr/pub-iobanglakp3sff/live_720p/chunks.m3
 #http://176.119.29.52/live.ts?channelId=117&uid=5060&deviceMac=00:1A:79:73:9C:A1
 #http://xtv.ooo:8080/213112/213112/245900
 http://38.96.178.201/live/JalshaMovies/index.m3u8
+#EXTINF:-1, JOLSHA MOVIES HD
+https://lifetvbd.xyz:8880/play/_IHuWmwwlQ7tot9J5av1L2G05Yf2iJGRS3NNPV5TH70/ts
+
 
 #EXTINF:-55 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/a4/BanglaCinema.jpeg/revision/latest?cb=20191207094555" group-title="Indian-Bangla",Colors Bangla Cinema
 https://live-stream.utkalbongo.com/hls/livebanglatvstream.m3u8
