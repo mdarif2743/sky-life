@@ -430,12 +430,14 @@ https://www.xfireflix.fun/sports/stream.php/skysfor1/playlist.m3u8
 https://www.xfireflix.fun/sports/stream.php/skysmixx/playlist.m3u8
 #EXTINF:-1,SKY SPORTS TENNIS
 https://www.xfireflix.fun/sports/stream.php/skystennis/playlist.m3u8
-#EXTINF:-1,STAR SPORTS 1 HD
-https://smart.bengaldigital.live/star-sports-1/index.m3u8
 #EXTINF:-1,Star sports 1 HD HINDI
 https://rex-streaming.vercel.app/api/BDIX/167573.m3u8|user-agent=@xfireflix
-#EXTINF:-1,STAR SPORTS 2 HD
-https://smart.bengaldigital.live/star-sports-2/index.m3u8
+#EXTINF:-1 group-title="Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSKl2XEAhGamZ3AAGuPaXHP0bf3elKcoDmZJIZ-QJ0t8smeEg_VBbTmXy8",Star Sports 1
+http://cool365.xyz:900/live/4160189881/DB4ACD54/187268.m3u8
+#EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/rwZdgMp5/download.png",Star Sports 2
+http://cool365.xyz:900/live/4160189881/DB4ACD54/378740.m3u8
+
+
 #EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/htVCr69X/images-1719001317102.jpg",Star Sports 3
 http://cool365.xyz:900/live/4160189881/DB4ACD54/400159568.m3u8
 #EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/rwZdgMp5/download.png",Star sports select 1
