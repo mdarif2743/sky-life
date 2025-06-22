@@ -244,7 +244,9 @@ https://live-dangal2.akamaized.net/liveabr/playlist.m3u8
 http://38.96.178.201/live/StarPlus/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="",Star Utsav
 #EXTINF:-1,COLORS CINEPLEX BOLLYWOOD
-https://xfireflix.fun/opplex/opplex.php?id=207200
+https://xfireflix.fun/opplex/opplex.php?id=112983
+
+
 #EXTINF:-1,COLORS CINEPLEX HD
 https://xfireflix.fun/opplex/opplex.php?id=206315
 #EXTINF:-1,COLORS CINEPLEX SUPERHITS
@@ -267,7 +269,8 @@ http://38.96.178.201/live/AndTV/index.m3u8
 https://xfireflix.fun/opplex/opplex.php?id=66277
 #EXTINF:-1,IN: COLORS INFINITY FHD
 https://xfireflix.fun/opplex/opplex.php?id=355571
-
+#EXTINF:-1,ZEE BOLLYWOOD
+https://xfireflix.fun/opplex/opplex.php?id=207200
 #EXTINF:-1 tvg-id="sony-hd" tvg-logo="https://sonypicturesnetworks.com/images/logos/SET-LOGO-HD.png" group-title="Entertainment",SET HD
 https://tataplay.slivcdn.com/hls/live/2011671/SETHD/master.m3u8
 #EXTINF:-1 tvg-id="sony-sab-hd" tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY%20SAB%20HD_WHITE.png" group-title="Entertainment",Sony SAB HD
