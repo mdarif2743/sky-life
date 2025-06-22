@@ -231,9 +231,9 @@ https://amg01218-republictvfast-amg01218c1-samsung-in-1918.playouts.now.amagi.tv
 http://38.96.178.201/live/SangeetBangla/index.m3u8
 
 
-
-
-#EXTINF:-1,COLORS HD
+#EXTINF:-1,COLORS RISTEY
+https://xfireflix.fun/opplex/opplex.php?id=66188
+#EXTINF:-1, tvg-logo="https://static.epg.best/gb/Colors.uk.png"Group-title= COLORS HD
 https://xfireflix.fun/opplex/opplex.php?id=109947
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/J4n7YN2D/Colors.jpg" group-title="India",Dangal
 https://live-dangal.akamaized.net/liveabr/playlist.m3u8
@@ -244,13 +244,15 @@ https://live-dangal2.akamaized.net/liveabr/playlist.m3u8
 http://38.96.178.201/live/StarPlus/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="",Star Utsav
 #EXTINF:-1,COLORS CINEPLEX BOLLYWOOD
-https://re.fredflix.fun/Jio/live.php?id=Colors_Cineplex_Bollywood_MOB&slag=Colors_Cineplex_Bollywood_MOB-audio_98835_hin%3D98800-video%3D607600.m3u8&e=.m3u8
-
-
-
+https://xfireflix.fun/opplex/opplex.php?id=207200
+#EXTINF:-1,COLORS CINEPLEX HD
+https://xfireflix.fun/opplex/opplex.php?id=206315
+#EXTINF:-1,COLORS CINEPLEX SUPERHITS
+https://xfireflix.fun/opplex/opplex.php?id=66199
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="",Star Bharat HD
-
-
+https://xfireflix.fun/opplex/opplex.php?id=66171
+#EXTINF:-1,COLORS CINEPLEX
+https://xfireflix.fun/opplex/opplex.php?id=104191
 #EXTINF:-1, ZEE CAFE HD
 https://live.drmlive-02.workers.dev/zee/zeecafehd.m3u8
 #EXTINF:-1,ZEE EAST
@@ -261,7 +263,10 @@ https://live.drmlive-02.workers.dev/zee/0-9-zeetv.m3u8
 http://195.181.169.162:80/ZEE_TV_HD/index.mpd?token=test
 #EXTINF:-1,&TV HD
 http://38.96.178.201/live/AndTV/index.m3u8
-
+#EXTINF:-1,BBO HD
+https://xfireflix.fun/opplex/opplex.php?id=66277
+#EXTINF:-1,IN: COLORS INFINITY FHD
+https://xfireflix.fun/opplex/opplex.php?id=355571
 
 #EXTINF:-1 tvg-id="sony-hd" tvg-logo="https://sonypicturesnetworks.com/images/logos/SET-LOGO-HD.png" group-title="Entertainment",SET HD
 https://tataplay.slivcdn.com/hls/live/2011671/SETHD/master.m3u8
@@ -282,7 +287,8 @@ https://tataplay.slivcdn.com/hls/live/2011908/MAX2/master.m3u8
 https://tataplay.slivcdn.com/hls/live/2011906/SonyWah/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="",Star Gold HD
 http://38.96.178.201/live/StarGold/index.m3u8
-
+#EXTINF:-1,STAR GOLD 2
+https://xfireflix.fun/opplex/opplex.php?id=106133
 
 #EXTINF:-98 tvg-logo="https://www.tsbi.in/wp-content/uploads/2020/10/Webp.net-resizeimage.png" group-title="Hindi", &PICTURES
 https://live.drmlive-02.workers.dev/zee/tvpictureshd.m3u8
@@ -294,6 +300,10 @@ http://182.176.185.207:7500/play/a07c/index.m3u8
 http://195.181.169.162:80/ZEE_CINEMA_HD/index.mpd?token=test
 #EXTINF:-1,ZEE CINMA HD
 https://live.drmlive-02.workers.dev/zee/0-9-zeecinema.m3u8
+
+
+#EXTINF:-1,ZEE CINEMA USA
+https://xfireflix.fun/opplex/opplex.php?id=206268
 #EXTINF:-1, zee classic 
 https://live.drmlive-02.workers.dev/zee/176.m3u8
 #EXTINF:-1,ZEE ACTION
@@ -302,8 +312,8 @@ https://live.drmlive-02.workers.dev/zee/0-9-zeeaction.m3u8
 https://live.drmlive-02.workers.dev/zee/channel_2105335046.m3u8
 #EXTINF:-1,STAR GOLD TERLLER
 http://182.176.185.207:7500/play/a07n/index.m3u8
-
-
+#EXTINF:-1,STAR UTSAV MOVIES
+https://xfireflix.fun/opplex/opplex.php?id=112971
 
 
 
@@ -311,20 +321,25 @@ http://182.176.185.207:7500/play/a07n/index.m3u8
 https://cdn-2.pishow.tv/live/227/master.m3u8
 #EXTINF:-1,B4U MOVIES
 https://tumar-abbu.pages.dev/WavesOTT/B4U-Movies/tracks-v1a1/mono.m3u8
-
-
-
-
+#EXTINF:-1,MBC BOLLYWOOD
+https://xfireflix.fun/opplex/opplex.php?id=112984
+#EXTINF:-1,STAR WORLD HD
+https://xfireflix.fun/opplex/opplex.php?id=66211
+#EXTINF:-1,& PRIVE HD
+https://xfireflix.fun/opplex/opplex.php?id=66228
 
 #EXTINF:-1 tvg-id="sony-pix-hd" tvg-logo="https://sonypicturesnetworks.com/images/logos/PIX%20HD_WHITE.png" group-title="Movies",Sony PIX HD
 https://tataplay.slivcdn.com/hls/live/2011748/PIXHD/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/02CNFVwv/Star-Movies-HD.jpg" group-title="Others",Action Hollywood Movies
 https://amg01076-lightningintern-actionhollywood-samsungnz-82rry.amagi.tv/playlist/amg01076-lightningintern-actionhollywood-samsungnz/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/aju4mRV.jpg" group-title="Others",HBO
-http://212.102.60.231/HBO/index.m3u8
-
-
-
+https://xfireflix.fun/opplex/opplex.php?id=66229
+#EXTINF:-1,& EXPLORE HD
+https://xfireflix.fun/opplex/opplex.php?id=66241
+#EXTINF:-1,MNX HD
+https://xfireflix.fun/opplex/opplex.php?id=66266
+#EXTINF:-1,MOVIES NOW HD
+https://xfireflix.fun/opplex/opplex.php?id=66271
 
 
 
