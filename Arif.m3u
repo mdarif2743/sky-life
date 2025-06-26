@@ -663,18 +663,47 @@ https://ddy6new.newkso.ru/ddy6/premium388/mono.m3u8
 http://125.209.88.166:45793/BRN/beINSP11.stream/playlist.m3u8
 #EXTINF:-1 tvg-id=" " tvg-logo="https://github.com/murphieslaw23/channel-logos/blob/master/be_in_mena_sports_02_hd.png?raw=true" group-title="Sports", beIN Sports 2
 http://goldv3.me:2082/drmtv43_476893/YFCPfQ3M/1122213
-#EXTINF:-1 tvg-id=" " tvg-logo="https://github.com/murphieslaw23/channel-logos/blob/master/be_in_mena_sports_03_hd.png?raw=true" group-title="Sports", beIN Sports 3
-http://wo0dyefk.dienalt.org/iptv/DV3AC2Q6YSR9XE/6124/index.m3u8
-#EXTINF:-1 tvg-id=" " tvg-logo="https://github.com/murphieslaw23/channel-logos/blob/master/be_in_mena_sports_04_hd.png?raw=true" group-title="Sports", beIN Sports 4
-http://wo0dyefk.dienalt.org/iptv/DV3AC2Q6YSR9XE/6125/index.m3u8
-#EXTINF:-1 tvg-id=" " tvg-logo="https://github.com/murphieslaw23/channel-logos/blob/master/be_in_mena_sports_05_hd.png?raw=true" group-title="Sports", beIN Sports 5
-http://wo0dyefk.dienalt.org/iptv/DV3AC2Q6YSR9XE/6126/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BEİN SPORTS 1 4K" tvg-logo="" group-title="Bein Sports",BEİN SPORTS 1 4K
+https://deneme123.parisiptv1.workers.dev/Bein-Sport-1-FHD/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BEİN SPORTS 1 VİP" tvg-logo="" group-title="Bein Sports",BEİN SPORTS 1 VİP
+https://v.arectv30.sbs/static/bs1.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BEİN SPORTS 2 VİP" tvg-logo="" group-title="Bein Sports",BEİN SPORTS 2 VİP
+https://v.arectv30.sbs/static/bs2.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BEİN SPORTS 3 VİP" tvg-logo="" group-title="Bein Sports",BEİN SPORTS 3 VİP
+https://v.arectv30.sbs/static/bs3.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BEİN SPORTS 4 VİP" tvg-logo="" group-title="Bein Sports",BEİN SPORTS 4 VİP
+https://v.arectv30.sbs/static/bs4.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BEİN SPORTS 5 VİP" tvg-logo="" group-title="Bein Sports",BEİN SPORTS 5 VİP
+https://v.arectv30.sbs/static/bs5.m3u8
 #EXTINF:-1 tvg-id=" " tvg-logo="https://github.com/murphieslaw23/channel-logos/blob/master/be_in_mena_sports_06_hd.png?raw=true" group-title="Sports", beIN Sports 6
 http://wo0dyefk.dienalt.org/iptv/DV3AC2Q6YSR9XE/6127/index.m3u8
 #EXTINF:-1 tvg-id=" " tvg-logo="https://github.com/murphieslaw23/channel-logos/blob/master/be_in_mena_sports_07_hd.png?raw=true" group-title="Sports", beIN Sports 7
 http://wo0dyefk.dienalt.org/iptv/DV3AC2Q6YSR9XE/6128/index.m3u8
 #EXTINF:-1 group-title="Sports" tvg-logo="https://i.ibb.co.com/VpLFC41v/Astro-Cricket.jpg",Bein Sports 9
 https://ddy6new.newkso.ru/ddy6/premium99/mono.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BEİN SPORTS MAX 1 UHD" tvg-logo="" group-title="Bein Sports",BEİN SPORTS MAX 1 UHD
+https://deneme123.parisiptv1.workers.dev/Bein-Sport-Max-1-HD/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BEİN SPORTS MAX 2 UHD" tvg-logo="" group-title="Bein Sports",BEİN SPORTS MAX 2 UHD
+https://deneme123.parisiptv1.workers.dev/Bein-Sport-Max-2-HD/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BEİN SPORTS MAX 1 FHD" tvg-logo="" group-title="Bein Sports",BEİN SPORTS MAX 1 FHD
+https://tv.arectv34.sbs/live/bm1.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BEİN SPORTS MAX 2 FHD" tvg-logo="" group-title="Bein Sports",BEİN SPORTS MAX 2 FHD
+https://tv.arectv34.sbs/live/bm2.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="S SPORT HD" tvg-logo="" group-title="S Sport",S SPORT HD
+https://bs.arectv33.sbs/static/ss11.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="S SPORT 2 HD" tvg-logo="" group-title="S Sport",S SPORT 2 HD
+https://bs.arectv33.sbs/static/ss2.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="S SPORT+ PLUS 2" tvg-logo="" group-title="S Sport",S SPORT+ PLUS 2
+https://tv.arectv34.sbs/live/pl2.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="S SPORT+ PLUS 3" tvg-logo="" group-title="S Sport",S SPORT+ PLUS 3
+https://tv.arectv34.sbs/live/pl3.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SPOR SMARRT FHD" tvg-logo="" group-title="Spor Smart",SPOR SMART FHD
+https://deneme123.parisiptv1.workers.dev/smartspor1/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SPOR SMARRT 2 FHD" tvg-logo="" group-title="Spor Smart",SPOR SMART 2 FHD
+https://deneme123.parisiptv1.workers.dev/smartspor2/tracks-v1a1/mono.m3u8
+
+
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/quuen2024/logo-versi/refs/heads/queen/BahrainSport.png" group-title="🟢Voli_Mania🟢",Bahrain Sport 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
 https://5c7b683162943.streamlock.net/live/ngrp:sportsone_all/playlist.m3u8
