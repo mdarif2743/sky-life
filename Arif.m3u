@@ -302,25 +302,28 @@ http://smart.bengaldigital.live/sun-bangla-paid/index.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/sun-bangla-in.png" group-title="Indian-Bangla",Zee 24 Ghanta
-#http://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/samaykolkata.stream/playlist.m3u8
-https://server.playontv.in/SAMAYKOLKATA/index.m3u8
+https://tvsen6.aynaott.com/zee24/index.m3u8?e=1750361769&u=8be812d7-3211-4694-a402-0aa09074dfc1&token=1b07bdd522a8d5891b24cba435736dd5
 
 #EXTINF:-1 tvg-logo="https://jio.dinesh29.com.np/smart/ardinesh/logos/news18-bangla-news.png" group-title="Indian-Bangla",News18 Bangla News
 https://amg01448-samsungin-news18bangla-samsungin-ad-qy.amagi.tv/playlist/amg01448-samsungin-news18bangla-samsungin/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://jio.dinesh29.com.np/smart/ardinesh/logos/tv9-bangla.png" group-title="Indian-Bangla",TV9 Bangla
-#https://amg01448-samsungin-tv9bangla-samsungin-9lgnh.amagi.tv/playlist/amg01448-samsungin-tv9bangla-samsungin/playlist.m3u8
-https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/tv9-bangla/main.m3u8
+https://tvsen6.aynaott.com/TV9Bangla/index.m3u8?e=1750361767&u=8be812d7-3211-4694-a402-0aa09074dfc1&token=d8c0574d88e3817e92a9be8c386cd87b
 
 #EXTINF:-1 tvg-logo="" group-title="Indian-Bangla",R Bangla
-https://amg01218-republictvfast-amg01218c1-samsung-in-1918.playouts.now.amagi.tv/playlist/amg01218-republictvfast-rbangla-samsungin/playlist.m3u8
+https://tvsen6.aynaott.com/R_Bangla/index.m3u8?e=1750361764&u=8be812d7-3211-4694-a402-0aa09074dfc1&token=ffaf88a3c6686dd41e7bca6a143480ab
 #EXTINF:-81 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/1f/Sangeet_Bangla.jpg/revision/latest?cb=20200804091515" group-title="MUSIC",Sangeet Bangla
-#http://11plus.live/live/sunbangla/index.m3u8
-#http://longstream-03.ajaah.com/PlayBoxTV/SangeetBangla/playlist.m3u8
-#https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Sangeetbangla/default/index.m3u8
-#https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Sangeetbangla/default/sangeetbangla-audio_208482_und=208000-video=2137600.m3u8
-#http://xtv.ooo:8080/213112/213112/245933
-http://38.96.178.201/live/SangeetBangla/index.m3u8
+https://tvsen6.aynaott.com/SangeetBangla/index.m3u8?e=1750361758&u=8be812d7-3211-4694-a402-0aa09074dfc1&token=bd7bd03f2fcc19a5efd2564b90c5ae7e
+#EXTINF:-1 tvg-id="121" tvg-logo="https://s3.aynaott.com/storage/ce8cbde0c3d3f11583f2f25765db9667" group-title="",R Plus
+https://tvsen6.aynaott.com/Rplus/index.m3u8?e=1750361749&u=8be812d7-3211-4694-a402-0aa09074dfc1&token=2b5e1f382e4a396a3e169ab1c678968f
+#EXTINF:-1 tvg-id="122" tvg-logo="https://s3.aynaott.com/storage/5acec30ce56099ac991cc2ed289aa920" group-title="",R Plus Gold
+https://tvsen6.aynaott.com/RplusGold/index.m3u8?e=1750361752&u=8be812d7-3211-4694-a402-0aa09074dfc1&token=537f9fe8529556c6bdef717bad2c2634
+#EXTINF:-1 tvg-id="123" tvg-logo="https://s3.aynaott.com/storage/a2e4c33ceb47390ffe673a946a749d79" group-title="",Rupshi Bangla
+https://tvsen6.aynaott.com/RupshiBangla/index.m3u8?e=1750361755&u=8be812d7-3211-4694-a402-0aa09074dfc1&token=ef2cfeb44a3ab643c5405fca626a05ee
+#EXTINF:-1 tvg-id="130" tvg-logo="https://s3.aynaott.com/storage/74e02cf4a1fbd11e78275d819779e7e1" group-title="",kolkata TV
+https://tvsen6.aynaott.com/kolkatatv/index.m3u8?e=1750361775&u=8be812d7-3211-4694-a402-0aa09074dfc1&token=1f2de0e0644a75104bcc49261e5aa304
+#EXTINF:-1 tvg-id="140" tvg-logo="https://s3.aynaott.com/storage/65bfd765b12b7a79aca246bf2ebc1363" group-title="",Hi Dost
+https://tvsen6.aynaott.com/HiDost/index.m3u8?e=1750361778&u=8be812d7-3211-4694-a402-0aa09074dfc1&token=0ffa93a1502457a2208d344003462725
 
 
 #EXTINF:-1,COLORS RISTEY
@@ -432,11 +435,20 @@ https://live.drmlive-02.workers.dev/zee/channel_2105335046.m3u8
 http://182.176.185.207:7500/play/a07n/index.m3u8
 #EXTINF:-1,STAR UTSAV MOVIES
 https://xfireflix.fun/opplex/opplex.php?id=112971
+#EXTINF:-1 tvg-id="143" tvg-logo="https://s3.aynaott.com/storage/42cf0233a6006f78541257f56e23c6f7" group-title="",ShemarooTV
+https://tvsen6.aynaott.com/ShemarooTV/index.m3u8?e=1750361786&u=8be812d7-3211-4694-a402-0aa09074dfc1&token=a0446e265bfd3e9201e11262725d34a2
+#EXTINF:-1 tvg-id="144" tvg-logo="https://s3.aynaott.com/storage/bcb9a31947ba4e5229e1148404a50d58" group-title="",TheQ
+https://tvsen6.aynaott.com/TheQ/index.m3u8?e=1750361789&u=8be812d7-3211-4694-a402-0aa09074dfc1&token=1c1c82144ab0b520c633e9c111b600eb
 
-
-
+#EXTINF:-1 tvg-id="160" tvg-logo="https://s3.aynaott.com/storage/d6dd2e3ffede99b3f1d7d4fb8f5061a5" group-title="",Goldmines
+https://tvsen6.aynaott.com/Goldmines/index.m3u8?e=1750361803&u=8be812d7-3211-4694-a402-0aa09074dfc1&token=8a9bebaceeeee174ab489559195b5df3
+#EXTINF:-1 tvg-id="161" tvg-logo="https://s3.aynaott.com/storage/d9a0314f5f9165176f492db3923709bd" group-title="",Goldmines Bollywood
+https://tvsen6.aynaott.com/GoldminesBollywood/index.m3u8?e=1750361806&u=8be812d7-3211-4694-a402-0aa09074dfc1&token=89bfb8ddda1e6584a20868a05effcc58
+#EXTINF:-1 tvg-id="162" tvg-logo="https://s3.aynaott.com/storage/26c1570891267164e40563806b25ccdb" group-title="",Goldmines Movies
+https://tvsen6.aynaott.com/GoldminesMovies/index.m3u8?e=1750361808&u=8be812d7-3211-4694-a402-0aa09074dfc1&token=58a157bea89490aece9929c5bd25a40f
 #EXTINF:-1 group-title="HINDI", B4U KADAK HD
-https://cdn-2.pishow.tv/live/227/master.m3u8
+https://tvsen6.aynaott.com/B4U_Kadak/index.m3u8?e=1750361801&u=8be812d7-3211-4694-a402-0aa09074dfc1&token=18886a5c7ea0b2b7907bb2efef24641a
+
 #EXTINF:-1,B4U MOVIES
 https://tumar-abbu.pages.dev/WavesOTT/B4U-Movies/tracks-v1a1/mono.m3u8
 #EXTINF:-1,MBC BOLLYWOOD
@@ -491,6 +503,10 @@ https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF9
 https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/musicbangla2025.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="Music" tvg-name="Channel 5" tvg-logo="https://i.postimg.cc/Bb01Tz1C/Picsart-25-01-28-11-30-34-024.jpg" group-title="Music",Channel 5
 https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/musicbangla.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="141" tvg-logo="https://s3.aynaott.com/storage/30e0db44c31b8f7fe50eb88f3ebcc5c3" group-title="",Dabangg
+https://tvsen6.aynaott.com/Dabangg/index.m3u8?e=1750361781&u=8be812d7-3211-4694-a402-0aa09074dfc1&token=7bfee54ff012f97019fc32c95110c88c
+#EXTINF:-1 tvg-id="142" tvg-logo="https://s3.aynaott.com/storage/a9bfa44f1b6d53e81088e9d443549b6a" group-title="",Dhamaal
+https://tvsen6.aynaott.com/Dhamaal/index.m3u8?e=1750361783&u=8be812d7-3211-4694-a402-0aa09074dfc1&token=52cee5a5a5867c579eca34aad935f32a
 
 #EXTINF:-1 tvg-id="balle-balle" tvg-name="Balle Balle" tvg-language="Punjabi" tvg-country="IN" tvg-logo="https://d388d59m61mm0v.cloudfront.net/optimized/content/common/logos/channel/logos/ejnlyj.png" tvg-chno="balle-balle" group-title="Music",Balle Balle
 https://otttv.co.in/d2h/livestream/balle-balle/master.m3u8
