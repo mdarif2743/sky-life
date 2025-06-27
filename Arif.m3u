@@ -66,9 +66,9 @@ https://static.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF
 https://lifetvbd.xyz:8880/play/_IHuWmwwlQ7tot9J5av1L1j3orirxzLBjC0Zh_UhN_E/ts
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://s3.aynaott.com/storage/0561325550cca6aaf43abc17b741ac2e" group-title="AynaOTT",Duronto TV
-https://tvsen6.aynaott.com/durontotv/index.m3u8
+https://lifetvbd.xyz:8880/play/_IHuWmwwlQ7tot9J5av1L46yR45p7znDT57M1_M7qB0/ts
 #EXTINF:-1 tvg-id="" tvg-logo="https://s3.aynaott.com/storage/b154a0d0289dfddaa012e2ff7572adc6" group-title="AynaOTT",ETV
-https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/ekusheytv-8-org.stream/playlist.m3u8
+https://lifetvbd.xyz:8880/play/_IHuWmwwlQ7tot9J5av1L7mFSUMNoG74HcX-LfdX4H0/ts
 #EXTINF:-1 group-title="Bangladesh" tvg-logo="https://i.postimg.cc/JzDLh7pB/Ekattor.jpg",Ekattor TV
 https://lifetvbd.xyz:8880/play/_IHuWmwwlQ7tot9J5av1L_GY1D8PD8k7sWMGD5vG2z4/ts
 
@@ -109,7 +109,7 @@ https://static.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF
 #EXTINF:-1 group-title="Bangladesh" tvg-logo="https://i.ibb.co.com/MymvXsgj/NTV.jpg",NTV
 http://38.96.178.201/live/NTV/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSUcwksaX6NU0AssTITOBFGXi9qbXVYhbpPsmkCMEV88JnNYLT9TR3TEI8&s=10" group-title="All",NEWS 24
-https://tvsen6.aynaott.com/news24/index.m3u8?e=1750361551&u=8be812d7-3211-4694-a402-0aa09074dfc1&token=7b0e029aea4fb284d0d25aa845cfaaf7
+https://lifetvbd.xyz:8880/play/_IHuWmwwlQ7tot9J5av1L4bsP4s4Qv_pygkk26vtON8/ts
 
 #EXTINF:-1 group-title="BANGLADESH" tvg-logo="https://i.ibb.co.com/JwTDXgRf/images.png",NAGORIK TV
 http://starshare.org/live/kumar11/kumar11/3802.ts
@@ -128,7 +128,7 @@ http://38.96.178.201/live/SATV/index.m3u8
 
 
 #EXTINF:-1 group-title="Bangladesh" tvg-logo="https://i.postimg.cc/hvcWR1Yz/Somoy-TV.jpg",Somoy TV
-https://tvsen6.aynaott.com/somoytv/index.m3u8?e=1750361563&u=8be812d7-3211-4694-a402-0aa09074dfc1&token=26815086c392d0cae22bfab62de91cbb
+https://lifetvbd.xyz:8880/play/_IHuWmwwlQ7tot9J5av1L-C3IgYOd_0o0V3J1g1JQEg/ts
 
 
 #EXTINF:-1 tvg-id="141" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1746005940155.png" group-title="Entertainment",SRK TV
@@ -141,7 +141,10 @@ https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF9
 
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://s3.aynaott.com/storage/c467e2c1fb461d21fd2511ce5b195dfd" group-title="AynaOTT",Ananda TV
-https://tvsen6.aynaott.com/anandatv/index.m3u8?e=1750361671&u=8be812d7-3211-4694-a402-0aa09074dfc1&token=314d326793f96edf472404265d4b5d4c
+https://lifetvbd.xyz:8880/play/_IHuWmwwlQ7tot9J5av1L6hce-wVQ5PKWDGev8q5MTA/ts
+
+
+
 #EXTINF:-1 tvg-id="News & Drama" tvg-name="PBN TV" tvg-logo="https://i.postimg.cc/Bb01Tz1C/Picsart-25-01-28-11-30-34-024.jpg" group-title="News & Drama",PBN TV
 https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/pbntv.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="IPTV" tvg-name="Times 24 TV" tvg-logo="https://i.postimg.cc/Bb01Tz1C/Picsart-25-01-28-11-30-34-024.jpg" group-title="IPTV",Times 24 TV
