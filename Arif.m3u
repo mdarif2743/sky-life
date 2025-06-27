@@ -739,7 +739,8 @@ https://ddy6new.newkso.ru/ddy6/premium289/mono.m3u8
 https://ddy6new.newkso.ru/ddy6/premium291/mono.m3u8
 #EXTINF:-1, ESPN
 http://38.96.178.201/live/ESPNHD/index.m3u8
-
+#EXTINF:-1,NICK HINDI
+http://182.176.185.207:7500/play/a07h/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://otapp.store/uploads/tv_image/sm/nick-bangla.png" group-title="Kids-(বাচ্চাদের চ্যানেল)",Nick Bangla
 https://lifetvbd.xyz:8880/play/_IHuWmwwlQ7tot9J5av1L_omI00yCzcW_1gXTWS7P_8/ts
 #EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTBNQErEpRzLPLQi_iJoc070F4FhKaqRh_el_F57ef3VwFpp3xDoYi6qWGy&s=10" group-title="Cartoon",Cartoon Network
