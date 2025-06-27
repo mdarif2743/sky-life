@@ -311,7 +311,7 @@ https://tvsen6.aynaott.com/zee24/index.m3u8?e=1750361769&u=8be812d7-3211-4694-a4
 https://amg01448-samsungin-news18bangla-samsungin-ad-qy.amagi.tv/playlist/amg01448-samsungin-news18bangla-samsungin/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://jio.dinesh29.com.np/smart/ardinesh/logos/tv9-bangla.png" group-title="Indian-Bangla",TV9 Bangla
-https://tvsen6.aynaott.com/TV9Bangla/index.m3u8?e=1750361767&u=8be812d7-3211-4694-a402-0aa09074dfc1&token=d8c0574d88e3817e92a9be8c386cd87b
+https://lifetvbd.xyz:8880/play/_IHuWmwwlQ7tot9J5av1LwTlcgb1UGjZBClJrkSqDm4/ts
 
 #EXTINF:-81 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/1f/Sangeet_Bangla.jpg/revision/latest?cb=20200804091515" group-title="MUSIC",Sangeet Bangla
 https://lifetvbd.xyz:8880/play/_IHuWmwwlQ7tot9J5av1Lx4t_0YI4cX5btf0UQbar1A/ts
@@ -426,9 +426,9 @@ http://182.176.185.207:7500/play/a07n/index.m3u8
 #EXTINF:-1,STAR UTSAV MOVIES
 https://xfireflix.fun/opplex/opplex.php?id=112971
 #EXTINF:-1 tvg-id="143" tvg-logo="https://s3.aynaott.com/storage/42cf0233a6006f78541257f56e23c6f7" group-title="",ShemarooTV
-https://tvsen6.aynaott.com/ShemarooTV/index.m3u8?e=1750361786&u=8be812d7-3211-4694-a402-0aa09074dfc1&token=a0446e265bfd3e9201e11262725d34a2
+https://lifetvbd.xyz:8880/play/_IHuWmwwlQ7tot9J5av1L63o74snL5678SuZzfTZjJo/ts
 #EXTINF:-1 tvg-id="144" tvg-logo="https://s3.aynaott.com/storage/bcb9a31947ba4e5229e1148404a50d58" group-title="",TheQ
-https://tvsen6.aynaott.com/TheQ/index.m3u8?e=1750361789&u=8be812d7-3211-4694-a402-0aa09074dfc1&token=1c1c82144ab0b520c633e9c111b600eb
+
 
 #EXTINF:-1 tvg-id="160" tvg-logo="https://s3.aynaott.com/storage/d6dd2e3ffede99b3f1d7d4fb8f5061a5" group-title="",Goldmines
 https://lifetvbd.xyz:8880/play/_IHuWmwwlQ7tot9J5av1L901NEL73sVCpOF57OOloQM/ts
@@ -634,19 +634,13 @@ https://cdn-l3-jam-1.sportsmax.digicelgroup.com/sportsmax/live/ott/live/1109/CMA
 #EXTINF:-1 group-title="Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS7cWPFVlzlK5GFcvFq8uqGnCyALPYsiXBRFw&s",Willow Cricket
 http://filex.tv:8080/live/Home329/Sohailhome/52109.m3u8
 #EXTINF:-1,TNT SPORTS 1 🇺🇸
-https://crichdplaylist.extratvteam.workers.dev/master.m3u8?cid=bbtsp1
+https://lifetvbd.xyz:8880/play/_IHuWmwwlQ7tot9J5av1L_-oZnIQrWA639nMUUbR1Ac/ts
 #EXTINF:-1,TNT SPORTS 2 🇺🇸
 https://crichdplaylist.extratvteam.workers.dev/master.m3u8?cid=bbtsp2
 #EXTINF:-1,TNT SPORTS 3 🇺🇸
 https://crichdplaylist.extratvteam.workers.dev/master.m3u8?cid=bbtsp3
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/mFZwwBN/tntsports4.jpg" group-title="TNT Sports",TNT Sports 4
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=e31a5a81caff5d07ea2411a571fc2e59:96c5ef69479732ae734f962748c19729
-https://a39aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/i2pcjr4pe5/out/v1/912e9db56d75403b8a9ac0a719110f36/cenc.mpd?encoding=segmentBase
-
+https://lifetvbd.xyz:8880/play/_IHuWmwwlQ7tot9J5av1L7wt9KIk0fxy_UXt-IGnPL0/ts
 #EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/4yyTcJWn/GTV.jpg",TNT Sport Premium
 https://ddy6new.newkso.ru/ddy6/premium388/mono.m3u8
 #EXTINF:-1 tvg-id="bein-sport-1" tvg-logo="https://github.com/murphieslaw23/channel-logos/blob/master/be_in_mena_sports_01_hd.png?raw=true" group-title="Sports", beIN Sports 1
