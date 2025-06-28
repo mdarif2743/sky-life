@@ -214,7 +214,8 @@ https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF9
 https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/hometv.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="Others" tvg-name="Channel S UK" tvg-logo="https://i.postimg.cc/Bb01Tz1C/Picsart-25-01-28-11-30-34-024.jpg" group-title="Others",Channel S UK
 https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/chsukoff.stream/playlist.m3u8
-
+#EXTINF:-1,MEE bangla TV
+https://NadimRazaTV.short.gy/MeTVbangla.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.jagobd.com/wp-content/uploads/2024/08/salaam.jpg" group-title="All",Saalam  TV
 https://static.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/salamtvuk1.stream/playlist.m3u8|referer=https://www.jagobd.com
 
@@ -560,7 +561,8 @@ https://iptvcable.netlify.app/Altogether-007/Sports18-1.m3u8
 https://iptvcable.netlify.app/Altogether-007/Sports18-2.m3u8
 #EXTINF:-1, SPORTS 18 3 HD
 https://iptvcable.netlify.app/Altogether-007/Sports18-3.m3u8
-
+#EXTINF:-1, SKY SPORTS 1
+https://NadimRazaTV.short.gy/TheSkySports1.m3u8
 #EXTINF:-1,SKY SPORTS CRICKET
 https://www.xfireflix.fun/sports/stream.php/skyscric/playlist.m3u8
 http://14.128.15.136:8080/live/65468596/65468596/2581.m3u8
