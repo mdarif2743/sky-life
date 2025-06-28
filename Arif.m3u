@@ -3,7 +3,7 @@ https://xfireflix.fun/toffeeWd/live.php?id=99cf56ce2888&e=.m3u8
 #EXTINF:-1 tvg-id="b1ba8efdd99d" tvg-logo="https://images.toffeelive.com/images/program/44878/logo/240x240/mobile_logo_764950001725875605.png" group-title="",TOFFEE Dramas VIP
 https://xfireflix.fun/toffeeWd/live.php?id=b1ba8efdd99d&e=.m3u8
 
-#EXTINF:-1 group-title="Bangladesh" tvg-logo="https://raw.githubusercontent.com/mdarif2743/Arif.ar/main/BTV_logo.png",BTV
+#EXTINF:-1 tvg-id""tvg-logo="https://raw.githubusercontent.com/mdarif2743/Arif.ar/main/BTV_logo.png" group-title="Bangladesh",BTV
 http://38.96.178.201/live/BTV/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.jagobd.com/wp-content/uploads/2024/12/btv-news-.jpg" group-title="All",BTV NEWS
