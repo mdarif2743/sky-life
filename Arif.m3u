@@ -550,8 +550,8 @@ http://38.96.178.201/live/TSports/index.m3u8
 
 
 
-
-
+#EXTINF:-1,TUDN
+https://x4-cdnnew.newkso.ru/x4-cdn/mono30/mono.m3u8
 #EXTINF:-21 tvg-logo="https://i.ibb.co/pQGXzMP/images-1-removebg-preview.png" group-title="SPORTS",GAZI TV
 #http://172.19.178.39:18190/gtv/tracks-v1/index.fmp4.m3u8?token=ea5c8496461408cfa6226102e90f37d020613815-94b3b90c1650a2e9a07f1e1bfa664aee-1745409143-1745398343
 http://38.96.178.201/live/GaziTV/index.m3u8
