@@ -725,7 +725,7 @@ https://deneme123.parisiptv1.workers.dev/smartspor2/tracks-v1a1/mono.m3u8
 #EXTINF:-1,SPORTS TV 1
 https://x4-cdnnew.newkso.ru/x4-cdn/mono21/mono.m3u8
 #EXTINF:-1,vivo Dsports
-https://x4-cdnnew.newkso.ru/x4-cdn/mono27/mono.m3u8
+http://104.238.205.28:8989/278758_.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/quuen2024/logo-versi/refs/heads/queen/BahrainSport.png" group-title="🟢Voli_Mania🟢",Bahrain Sport 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
