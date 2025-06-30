@@ -256,7 +256,7 @@ http://smart.bengaldigital.live/Star-jalsha/index.m3u8
 #EXTINF:-1,zee bangla hd
 http://14.128.15.136:8080/live/65468596/65468596/11.m3u8
 #EXTINF:-1 tvg-id="106a66093e92" tvg-logo="https://images.toffeelive.com/images/program/340/logo/240x240/mobile_logo_094417001655891123.png" group-title="",Zee Bangla VIP
-https://xfireflix.fun/toffeeWd/live.php?id=106a66093e92&e=.m3u8
+http://smart.bengaldigital.live/Zee-Bangla/index.m3u8
 
 #EXTINF:-1 group-title="BANGLA",Sananda tv
 https://cloudfrontnet.vercel.app/tplay/playout/209587/master.m3u8
