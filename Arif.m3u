@@ -697,30 +697,7 @@ http://125.209.88.166:45793/BRN/beINSP11.stream/playlist.m3u8
 http://goldv3.me:2082/drmtv43_476893/YFCPfQ3M/1122213
 
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Bein_sport_logo.png/320px-Bein_sport_logo.png" group-logo="https://raw.githubusercontent.com/quuen2024/logo-versi/refs/heads/queen/LiveEvent.png", group-title="🔴  BEIN SPORT 🔴", bein sports 3
-http://ktv.im:8080/556224433k/9004455221/49600
-##http://ktv.im:8080/556224433k/9004455221/49524
-##http://4kgoott.com:2052/play/live.php?mac=00:1A:79:BA:90:E4&stream=16670&extension=m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Bein_sport_logo.png/320px-Bein_sport_logo.png" group-logo="https://raw.githubusercontent.com/quuen2024/logo-versi/refs/heads/queen/LiveEvent.png", group-title="🔴  BEIN SPORT 🔴",bein sports 4
-http://ktv.im:8080/556224433k/9004455221/49601
-##http://ktv.im:8080/556224433k/9004455221/49525
-##http://4kgoott.com:2052/play/live.php?mac=00:1A:79:BA:90:E4&stream=3297&extension=m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Bein_sport_logo.png/320px-Bein_sport_logo.png" group-logo="https://raw.githubusercontent.com/quuen2024/logo-versi/refs/heads/queen/LiveEvent.png", group-title="🔴  BEIN SPORT 🔴",bein sports 5
-http://ktv.im:8080/556224433k/9004455221/49602
-##http://ktv.im:8080/556224433k/9004455221/49526
-##http://4kgoott.com:2052/play/live.php?mac=00:1A:79:BA:90:E4&stream=16669&extension=m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Bein_sport_logo.png/320px-Bein_sport_logo.png" group-logo="https://raw.githubusercontent.com/quuen2024/logo-versi/refs/heads/queen/LiveEvent.png", group-title="🔴  BEIN SPORT 🔴", bein sports 6
-http://ktv.im:8080/556224433k/9004455221/49603
-#http://ktv.im:8080/556224433k/9004455221/49527
-#http://4kgoott.com:2052/play/live.php?mac=00:1A:79:BA:90:E4&stream=3295&extension=m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Bein_sport_logo.png/320px-Bein_sport_logo.png" group-logo="https://raw.githubusercontent.com/quuen2024/logo-versi/refs/heads/queen/LiveEvent.png", group-title="🔴  BEIN SPORT 🔴", bein sports 7
-http://ktv.im:8080/556224433k/9004455221/49604
-##http://ktv.im:8080/556224433k/9004455221/49528
-##http://4kgoott.com:2052/play/live.php?mac=00:1A:79:BA:90:E4&stream=44396&extension=m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Bein_sport_logo.png/320px-Bein_sport_logo.png" group-logo="https://raw.githubusercontent.com/quuen2024/logo-versi/refs/heads/queen/LiveEvent.png", group-title="🔴  BEIN SPORT 🔴",bein sports 8
-http://ktv.im:8080/556224433k/9004455221/49605
-##http://ktv.im:8080/556224433k/9004455221/49529
-##http://4kgoott.com:2052/play/live.php?mac=00:1A:79:BA:90:E4&stream=44397&extension=m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Bein_sport_logo.png/320px-Bein_sport_logo.png" group-logo="https://raw.githubusercontent.com/quuen2024/logo-versi/refs/heads/queen/LiveEvent.png", group-title="🔴  BEIN SPORT 🔴", bein sports 9
 http://ktv.im:8080/556224433k/9004455221/49541
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Bein_sport_logo.png/320px-Bein_sport_logo.png" group-logo="https://raw.githubusercontent.com/quuen2024/logo-versi/refs/heads/queen/LiveEvent.png", group-title="🔴  BEIN SPORT 🔴",Bein Sport Xtra
@@ -751,10 +728,7 @@ https://v.arectv30.sbs/static/bs3.m3u8
 https://v.arectv30.sbs/static/bs4.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="BEİN SPORTS 5 VİP" tvg-logo="" group-title="Bein Sports",BEİN SPORTS 5 VİP
 https://v.arectv30.sbs/static/bs5.m3u8
-#EXTINF:-1 tvg-id=" " tvg-logo="https://github.com/murphieslaw23/channel-logos/blob/master/be_in_mena_sports_06_hd.png?raw=true" group-title="Sports", beIN Sports 6
-http://wo0dyefk.dienalt.org/iptv/DV3AC2Q6YSR9XE/6127/index.m3u8
-#EXTINF:-1 tvg-id=" " tvg-logo="https://github.com/murphieslaw23/channel-logos/blob/master/be_in_mena_sports_07_hd.png?raw=true" group-title="Sports", beIN Sports 7
-http://wo0dyefk.dienalt.org/iptv/DV3AC2Q6YSR9XE/6128/index.m3u8
+
 #EXTINF:-1 group-title="Sports" tvg-logo="https://i.ibb.co.com/VpLFC41v/Astro-Cricket.jpg",Bein Sports 9
 https://ddy6new.newkso.ru/ddy6/premium99/mono.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="BEİN SPORTS MAX 1 UHD" tvg-logo="" group-title="Bein Sports",BEİN SPORTS MAX 1 UHD
@@ -783,6 +757,49 @@ https://rzdtwfb81w5jihkz.buyapartments.online/v3/director/VE1ZjVlNWIwODJkNzc2LTN
 http://104.238.205.28:8989/278758_.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/ac/MLBNetworkLogo.svg/1200px-MLBNetworkLogo.svg.png" group-title="",VE-us-mlbnetwork
 https://rzdtwfb81w5jihkz.buyapartments.online/v3/director/VE1NGIxMDU4YWFkNjNkLTcxMWItNDU0NC00YTI0LTk4ZmNiMzQ4/master.m3u8
+#EXTINF:-1 tvg-id="RTVS Šport.cz" tvg-country="SK" tvg-language="Slovak" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/%C5%A0port_logo.svg/2560px-%C5%A0port_logo.svg.png" group-title="Sport",RTVS Šport
+http://88.212.15.19/live/test_rtvs_sport_hevc/playlist.m3u8
+#EXTINF:-1 tvg-id="JOJ Šport.cz" tvg-country="SK" tvg-language="Slovak" tvg-logo="https://i.imgur.com/QWEY2a5.png" group-title="Sport",JOJ Šport
+http://88.212.15.19/live/test_joj_sport_hd_hevc/playlist.m3u8
+#EXTINF:-1 tvg-id="JOJ Šport 2.cz" tvg-country="SK" tvg-language="Slovak" tvg-logo="https://img.joj.sk/rx/c6a89774-505a-48a4-8ce5-3f26d902e00c.png" group-title="Sport",JOJ Šport 2
+https://ts0-pl.tv.itself.cz/hls/master/live.m3u8?channel=2423&device=9bdeddba3ce4022cbb5f3f3d8da03da8&stream_profiles=profile11,profile12stream_profiles=profile11,profile12
+#EXTINF:-1 tvg-id="ČT sport.cz" tvg-url="ctsport.cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://i.imgur.com/I2dltZW.png" group-title="Sport",ČT sport
+http://88.212.15.19/live/test_ctsport_25p/playlist.m3u8
+#EXTINF:-1 tvg-name="ČT sport Plus" tvg-logo="https://i.imgur.com/5JiMynW.png" tvg-id="" group-title="Sport",ČT sport Plus
+
+#EXTINF:-1 tvg-id="Sport1.cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f7/Sport1_hu.png" group-title="Sport",Sport 1
+http://88.212.15.19/live/test_sport1_25p/playlist.m3u8
+#EXTINF:-1 tvg-id="Sport2.cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://raw.githubusercontent.com/MarhyCZ/picons/master/640/sport2.png" group-title="Sport",Sport 2
+http://88.212.15.19/live/test_sport_2/playlist.m3u8
+#EXTINF:-1 tvg-id="Canal+ Sport.cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1a/Canal%2B_Sport_2015.png" group-title="Sport",CANAL+ Sport
+http://116.202.237.33:8080/CNLS1/tracks-v1a1a2a3l1l2/mono.m3u8?token=ef1c6f27da4b04de8c97b52b9255617b
+#EXTINF:-1 tvg-id="Canal+ Sport 2.cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1a/Canal%2B_Sport_2015.png" group-title="Sport",CANAL+ Sport 2
+http://116.202.237.33:8080/CNLS2/tracks-v1a1a2a3l1l2/mono.m3u8?token=ef1c6f27da4b04de8c97b52b9255617b
+#EXTINF:-1 tvg-id="Canal+ Sport 3.cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1a/Canal%2B_Sport_2015.png" group-title="Sport",CANAL+ Sport 3
+http://116.202.237.33:8080/CNLS3/tracks-v1a1a2a3l1l2/mono.m3u8?token=ef1c6f27da4b04de8c97b52b9255617b
+#EXTINF:-1 tvg-id="Arena Sport 1.cz" tvg-name="Arena Sport 1 " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ea/Logo_Arena_Sport_TV_1.png" group-title="Sport",Arena Sport 1
+http://88.212.15.19/live/test_arenasport/playlist.m3u8
+#EXTINF:-1 tvg-id="Arena Sport 2.cz" tvg-name="Arena Sport 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/21/Logo_Arena_Sport_TV_2.png" group-title="Sport",Arena Sport 2
+http://88.212.15.19/live/test_arenasport_dva/playlist.m3u8
+#EXTINF:-1 tvg-id="tv-digi-sport-1" tvg-name="Digi Sport 1" tvg-logo="https://repo.ottshow.net/pikoni/sportplus/digisport1.gif" group-title="Sport",Digi Sport 1 🇷🇴
+http://tvproeuropa1.com:8008/dragos_gabriel/nNRShMa9/33797
+#EXTINF:-1 tvg-id="digi-sport-2" tvg-name="Digi Sport 2" tvg-logo="https://repo.ottshow.net/pikoni/sportplus/digisport2.gif" group-title="Sport",Digi Sport 2 🇷🇴
+http://tvproeuropa1.com:8008/dragos_gabriel/nNRShMa9/33799
+#EXTINF:-1 tvg-id="digi-sport-3" tvg-name="Digi Sport 3" tvg-logo="https://repo.ottshow.net/pikoni/sportplus/digisport3.gif" group-title="Sport",Digi Sport 3 🇷🇴
+http://tvproeuropa1.com:8008/dragos_gabriel/nNRShMa9/33801
+#EXTINF:-1 tvg-id="digi-sport-4" tvg-name="Digi Sport 4" tvg-logo="https://repo.ottshow.net/pikoni/sportplus/digisport4.gif" group-title="Sport",Digi Sport 4 🇷🇴
+http://tvproeuropa1.com:8008/dragos_gabriel/nNRShMa9/33803
+#EXTINF:0,RO: Prima Sport 1 🇷🇴
+http://tvproeuropa1.com:8008/dragos_gabriel/nNRShMa9/33815
+#EXTINF:0,RO: Prima Sport 2 🇷🇴
+http://tvproeuropa1.com:8008/dragos_gabriel/nNRShMa9/146488
+#EXTINF:0,RO: Prima Sport 3 🇷🇴
+http://tvproeuropa1.com:8008/dragos_gabriel/nNRShMa9/157160
+#EXTINF:0,RO: Prima Sport 4 🇷🇴
+http://tvproeuropa1.com:8008/dragos_gabriel/nNRShMa9/245819
+#EXTINF:0,RO: Prima Sport 5 🇷🇴
+http://tvproeuropa1.com:8008/dragos_gabriel/nNRShMa9/157162
+
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/quuen2024/logo-versi/refs/heads/queen/BahrainSport.png" group-title="🟢Voli_Mania🟢",Bahrain Sport 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
