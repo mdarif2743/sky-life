@@ -337,6 +337,22 @@ https://xfireflix.fun/toffeeWd/live.php?id=3a4a0ceff620&e=.m3u8
 http://smart.bengaldigital.live/sun-bangla-paid/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/ea/Enterr10_Bangla.jpeg/200px-Enterr10_Bangla.jpeg" group-title="Indian-Bangla",SANANDA TV HD
 
+#EXTINF:-1 tvg-id="120" tvg-logo="https://s3.aynaott.com/storage/5883baa80bff7c66005cc9d63b26e645" group-title="",Aakaash Bangla TV
+https://tvsen6.aynaott.com/Wm9Lv2RjZGT6/index.m3u8?e=1750361747&u=8be812d7-3211-4694-a402-0aa09074dfc1&token=d79841d114e23348a911a1f20784c3bd
+#EXTINF:-1 tvg-id="121" tvg-logo="https://s3.aynaott.com/storage/ce8cbde0c3d3f11583f2f25765db9667" group-title="",R Plus
+https://tvsen6.aynaott.com/Rplus/index.m3u8?e=1750361749&u=8be812d7-3211-4694-a402-0aa09074dfc1&token=2b5e1f382e4a396a3e169ab1c678968f
+#EXTINF:-1 tvg-id="122" tvg-logo="https://s3.aynaott.com/storage/5acec30ce56099ac991cc2ed289aa920" group-title="",R Plus Gold
+https://tvsen6.aynaott.com/RplusGold/index.m3u8?e=1750361752&u=8be812d7-3211-4694-a402-0aa09074dfc1&token=537f9fe8529556c6bdef717bad2c2634
+#EXTINF:-1 tvg-id="123" tvg-logo="https://s3.aynaott.com/storage/a2e4c33ceb47390ffe673a946a749d79" group-title="",Rupshi Bangla
+https://tvsen6.aynaott.com/RupshiBangla/index.m3u8?e=1750361755&u=8be812d7-3211-4694-a402-0aa09074dfc1&token=ef2cfeb44a3ab643c5405fca626a05ee
+#EXTINF:-1 tvg-id="125" tvg-logo="https://s3.aynaott.com/storage/a4026bfc5928a4abd66c10a5b8d07eba" group-title="",News Time Bangla
+https://tvsen6.aynaott.com/NewsTime/index.m3u8?e=1750361761&u=8be812d7-3211-4694-a402-0aa09074dfc1&token=90697e2ff77a380fd37cf4ddad6ea3e9
+#EXTINF:-1 tvg-id="126" tvg-logo="https://s3.aynaott.com/storage/68f655a765e55c45ef9d086cec71606c" group-title="",Republic Bangla
+https://tvsen6.aynaott.com/R_Bangla/index.m3u8?e=1750361764&u=8be812d7-3211-4694-a402-0aa09074dfc1&token=ffaf88a3c6686dd41e7bca6a143480ab
+#EXTINF:-1 tvg-id="129" tvg-logo="https://s3.aynaott.com/storage/9f4112fd1e33156e5d4101d60fdd3458" group-title="",News India 24x7
+https://tvsen6.aynaott.com/NewsIndia24x7/index.m3u8?e=1750361772&u=8be812d7-3211-4694-a402-0aa09074dfc1&token=46097c53749f93ba5af55bb1f75f8c2b
+#EXTINF:-1 tvg-id="130" tvg-logo="https://s3.aynaott.com/storage/74e02cf4a1fbd11e78275d819779e7e1" group-title="",kolkata TV
+https://tvsen6.aynaott.com/kolkatatv/index.m3u8?e=1750361775&u=8be812d7-3211-4694-a402-0aa09074dfc1&token=1f2de0e0644a75104bcc49261e5aa304
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/sun-bangla-in.png" group-title="Indian-Bangla",Zee 24 Ghanta
 https://tvsen6.aynaott.com/zee24/index.m3u8?e=1750361769&u=8be812d7-3211-4694-a402-0aa09074dfc1&token=1b07bdd522a8d5891b24cba435736dd5
@@ -345,6 +361,7 @@ https://tvsen6.aynaott.com/zee24/index.m3u8?e=1750361769&u=8be812d7-3211-4694-a4
 https://amg01448-samsungin-news18bangla-samsungin-ad-qy.amagi.tv/playlist/amg01448-samsungin-news18bangla-samsungin/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://jio.dinesh29.com.np/smart/ardinesh/logos/tv9-bangla.png" group-title="Indian-Bangla",TV9 Bangla
+https://tvsen6.aynaott.com/TV9Bangla/index.m3u8?e=1750361767&u=8be812d7-3211-4694-a402-0aa09074dfc1&token=d8c0574d88e3817e92a9be8c386cd87b
 https://lifetvbd.xyz:8880/play/_IHuWmwwlQ7tot9J5av1LwTlcgb1UGjZBClJrkSqDm4/ts
 
 #EXTINF:-81 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/1f/Sangeet_Bangla.jpg/revision/latest?cb=20200804091515" group-title="MUSIC",Sangeet Bangla
@@ -367,7 +384,8 @@ http://38.96.178.201/live/StarPlus/index.m3u8
 https://xfireflix.fun/toffeeWd/live.php?id=a6b5f6130cc5&e=.m3u8
 #EXTINF:-1 tvg-id="1d8f06362c1e" tvg-logo="https://images.toffeelive.com/images/program/4570/logo/240x240/mobile_logo_000080001675856893.png" group-title="",& Pictures HD
 https://xfireflix.fun/toffeeWd/live.php?id=1d8f06362c1e&e=.m3u8
-
+#EXTINF:-1 tvg-id="140" tvg-logo="https://s3.aynaott.com/storage/65bfd765b12b7a79aca246bf2ebc1363" group-title="",Hi Dost
+https://tvsen6.aynaott.com/HiDost/index.m3u8?e=1750361778&u=8be812d7-3211-4694-a402-0aa09074dfc1&token=0ffa93a1502457a2208d344003462725
 
 
 #EXTINF:-1,COLORS CINEPLEX BOLLYWOOD
@@ -461,17 +479,22 @@ http://182.176.185.207:7500/play/a07n/index.m3u8
 #EXTINF:-1,STAR UTSAV MOVIES
 https://xfireflix.fun/opplex/opplex.php?id=112971
 #EXTINF:-1 tvg-id="143" tvg-logo="https://s3.aynaott.com/storage/42cf0233a6006f78541257f56e23c6f7" group-title="",ShemarooTV
+https://tvsen6.aynaott.com/ShemarooTV/index.m3u8?e=1750361786&u=8be812d7-3211-4694-a402-0aa09074dfc1&token=a0446e265bfd3e9201e11262725d34a2
 https://lifetvbd.xyz:8880/play/_IHuWmwwlQ7tot9J5av1L63o74snL5678SuZzfTZjJo/ts
 #EXTINF:-1 tvg-id="144" tvg-logo="https://s3.aynaott.com/storage/bcb9a31947ba4e5229e1148404a50d58" group-title="",TheQ
-
+https://tvsen6.aynaott.com/TheQ/index.m3u8?e=1750361789&u=8be812d7-3211-4694-a402-0aa09074dfc1&token=1c1c82144ab0b520c633e9c111b600eb
 
 #EXTINF:-1 tvg-id="160" tvg-logo="https://s3.aynaott.com/storage/d6dd2e3ffede99b3f1d7d4fb8f5061a5" group-title="",Goldmines
+https://tvsen6.aynaott.com/Goldmines/index.m3u8?e=1750361803&u=8be812d7-3211-4694-a402-0aa09074dfc1&token=8a9bebaceeeee174ab489559195b5df3
 https://lifetvbd.xyz:8880/play/_IHuWmwwlQ7tot9J5av1L901NEL73sVCpOF57OOloQM/ts
 #EXTINF:-1 tvg-id="161" tvg-logo="https://s3.aynaott.com/storage/d9a0314f5f9165176f492db3923709bd" group-title="",Goldmines Bollywood
+https://tvsen6.aynaott.com/GoldminesBollywood/index.m3u8?e=1750361806&u=8be812d7-3211-4694-a402-0aa09074dfc1&token=89bfb8ddda1e6584a20868a05effcc58
 https://lifetvbd.xyz:8880/play/_IHuWmwwlQ7tot9J5av1L6qnkbSzECgkqExOupEhxDo/ts
 #EXTINF:-1 tvg-id="162" tvg-logo="https://s3.aynaott.com/storage/26c1570891267164e40563806b25ccdb" group-title="",Goldmines Movies
+https://tvsen6.aynaott.com/GoldminesMovies/index.m3u8?e=1750361808&u=8be812d7-3211-4694-a402-0aa09074dfc1&token=58a157bea89490aece9929c5bd25a40f
 https://lifetvbd.xyz:8880/play/_IHuWmwwlQ7tot9J5av1L3ovfAeXw-gGtL4odwmE7ak/ts
 #EXTINF:-1 group-title="HINDI", B4U KADAK HD
+https://tvsen6.aynaott.com/B4U_Kadak/index.m3u8?e=1750361801&u=8be812d7-3211-4694-a402-0aa09074dfc1&token=18886a5c7ea0b2b7907bb2efef24641a
 https://lifetvbd.xyz:8880/play/_IHuWmwwlQ7tot9J5av1L7z-zyMz-PkxUj8pkAkUAA0/ts
 
 #EXTINF:-1,B4U MOVIES
