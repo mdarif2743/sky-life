@@ -108,8 +108,10 @@ http://38.96.178.201/live/StarPlus/index.m3u8
 https://tatatv.stevosure123.workers.dev/video.m3u8?id=11674
 
 
-#EXTINF:-1,Zee TV
-https://live.drmlive-02.workers.dev/zee/0-9-zeetv.m3u8
+#EXTINF:-1,ZEE TV HD
+http://195.181.169.162:80/ZEE_TV_HD/index.mpd?token=test
+
+
 
 #EXTINF:-1 tvg-id="sony-hd" tvg-logo="https://sonypicturesnetworks.com/images/logos/SET-LOGO-HD.png" group-title="Entertainment",SET HD
 https://tataplay.slivcdn.com/hls/live/2011671/SETHD/master.m3u8
@@ -128,6 +130,28 @@ https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF9
 
 #EXTINF:-1,&TV HD
 http://38.96.178.201/live/AndTV/index.m3u8
+
+#EXTINF:-1,IN: COLORS INFINITY FHD
+https://tatatv.stevosure123.workers.dev/video.m3u8?id=771
+
+#EXTINF:-1, ZEE CAFE HD
+https://live.drmlive-02.workers.dev/zee/zeecafehd.m3u8
+
+
+#EXTINF:-1 tvg-id="7c21a8ade135" tvg-logo="https://images.toffeelive.com/images/program/303937/logo/240x240/mobile_logo_880134001738072763.png" group-title="",Hum TV
+https://xfireflix.fun/toffeeWd/live.php?id=7c21a8ade135&e=.m3u8
+
+#EXTINF:-1 tvg-id="406435b761ad" tvg-logo="https://images.toffeelive.com/images/program/303947/logo/240x240/mobile_logo_203789001738235600.png" group-title="",Hum Masala
+https://xfireflix.fun/toffeeWd/live.php?id=406435b761ad&e=.m3u8
+
+#EXTINF:-1 tvg-id="598a5e7df0bd" tvg-logo="https://images.toffeelive.com/images/program/303948/logo/240x240/mobile_logo_350939001738236112.png" group-title="",Hum Sitarey
+https://xfireflix.fun/toffeeWd/live.php?id=598a5e7df0bd&e=.m3u8
+
+
+#EXTINF:-1,COLORS RISTEY
+https://tatatv.stevosure123.workers.dev/video.m3u8?id=2771
+
+
 
 
 
