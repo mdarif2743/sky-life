@@ -46,7 +46,7 @@ https://tvsen6.aynaott.com/maasrangatv/index.fmp4.m3u8?token=030ec528e912afb9a2e
 https://tvsen6.aynaott.com/channel9/index.m3u8?e=1750361452&u=8be812d7-3211-4694-a402-0aa09074dfc1&token=3fdb0f2c263fd7f451704e3e4d7e699e
 
 #EXTINF:-1 tvg-id="11" tvg-logo="https://s3.aynaott.com/storage/0b4d83d0baf7513beae135e134fced2c" group-title="",Gazi TV
-https://tvsen6.aynaott.com/Ravc7gPCZpxk/index.m3u8?e=1750361496&u=8be812d7-3211-4694-a402-0aa09074dfc1&token=40fdfa9c8280b1a7c52d653f71ae123c
+http://38.96.178.201/live/GaziTV/index.m3u8
 
 #EXTINF:-1 tvg-id="16" tvg-logo="https://s3.aynaott.com/storage/8faf522ac37bfcd9c163145f77a9a024" group-title="",Asian TV
 https://tvsen6.aynaott.com/asiantv/index.m3u8?e=1750361557&u=8be812d7-3211-4694-a402-0aa09074dfc1&token=94dd027e4b392c08f9bdb12559bfe5e3
