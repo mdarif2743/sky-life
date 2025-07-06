@@ -135,7 +135,7 @@ http://38.96.178.201/live/AndTV/index.m3u8
 https://tatatv.stevosure123.workers.dev/video.m3u8?id=771
 
 #EXTINF:-1, ZEE CAFE HD
-https://live.drmlive-02.workers.dev/zee/zeecafehd.m3u8
+http://line.gofast-tv.me:80/play/live.php?mac=00:1A:79:C9:AF:CF&stream=155730&extension=m3u8
 
 
 #EXTINF:-1 tvg-id="7c21a8ade135" tvg-logo="https://images.toffeelive.com/images/program/303937/logo/240x240/mobile_logo_880134001738072763.png" group-title="",Hum TV
@@ -236,8 +236,16 @@ http://line.ultrab.xyz:80/live/ZeeALI1/465841/63511.m3u8
 #EXTINF:-1 tvg-id="sony-pix-hd" tvg-logo="https://sonypicturesnetworks.com/images/logos/PIX%20HD_WHITE.png" group-title="Movies",Sony PIX HD
 https://tataplay.slivcdn.com/hls/live/2011748/PIXHD/master.m3u8
 
+#EXTINF:-1 tvg-id="Hindi &Flix HD" tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-channel_2105335046/channel_list/1170x658379547401.png" group-title="Movies",Hindi &Flix HD m3u8
+http://line.gofast-tv.me:80/play/live.php?mac=00:1A:79:C9:AF:CF&stream=155990&extension=m3u8
+
+
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="",Star Gold HD
 http://38.96.178.201/live/StarGold/index.m3u8
+
+
+#EXTINF:-1 tvg-id="Zee Classic" , Zee Classic m3u8 Airtel
+http://line.greatstar.me:80/play/live.php?mac=00:1A:79:C9:AF:CF&stream=311858&extension=m3u8
 
 #EXTINF:-1,Zee cinema 
 http://195.181.169.162:80/ZEE_CINEMA_HD/index.mpd?token=test
@@ -309,6 +317,10 @@ https://xfireflix.fun/toffeeWd/live.php?id=8be5ec5d5d7c&e=.m3u8
 
 #EXTINF:-1 tvg-id="1fe9cf550c24" tvg-logo="https://images.toffeelive.com/images/program/611/logo/240x240/mobile_logo_430542001673177743.png" group-title="",Discovery Kids
 https://xfireflix.fun/toffeeWd/live.php?id=1fe9cf550c24&e=.m3u8
+
+#EXTINF:-1 tvg-id="English Disney HD" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/DISNHD_Thumbnail-v1/DISNHD_Thumbnail.png" group-title="Kids",English Disney HD Tataplay DTH m3u8
+http://line.gofast-tv.me:80/play/live.php?mac=00:1A:79:C9:AF:CF&stream=282634&extension=m3u8
+
 
 #EXTINF:-1,NICK HINDI
 http://182.176.185.207:7500/play/a07h/index.m3u8
