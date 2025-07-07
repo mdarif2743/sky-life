@@ -458,8 +458,12 @@ https://cdn.bestream.io:19360/elfaro1/elfaro1.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQIdqXkEgtQPqr13XxzXkeDY_GfmDS2eTCrFm6elrGo9Li0-2-KeFCXGNH-&s=10" group-title="Xfireflix",T Sports
 https://bdix.xfireflix.fun/stream.m3u8?id=3536
 
-#EXTINF:-1,Star sports 1 HD HINDI
-https://rex-streaming.vercel.app/api/BDIX/167573.m3u8|user-agent=@xfireflix
+#EXTINF:-127 tvg-logo="https://i.ytimg.com/vi/CXTxw-69Ch8/maxresdefault.jpg" group-title="SPORTS",Star Sports-1 Hindi
+#http://xtv.ooo:8080/live/adnankb2006/86057314/220059.m3u8
+#http://xtv.ooo:8080/live/adnankb2006/86057314/220063.m3u8
+#http://41.205.93.154/STARSPORTS1/index.m3u8
+https://crichdplaylist.extratvteam.workers.dev/master.m3u8?cid=starhindi
+
 #EXTINF:-1 group-title="Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSKl2XEAhGamZ3AAGuPaXHP0bf3elKcoDmZJIZ-QJ0t8smeEg_VBbTmXy8",Star Sports 1
 http://cool365.xyz:900/live/4160189881/DB4ACD54/187268.m3u8
 
