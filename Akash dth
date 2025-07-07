@@ -116,6 +116,9 @@ https://livestream7.sunnxt.com/bf76ee92dd01473bb2eb57d137294484/SunBanglaB_IN_in
 http://38.96.178.201/live/ColorsBangla/index.m3u8
 
 
+#EXTINF:-1 COLORS BANGLA HD
+https://smart.bengaldigital.live/Colors-Bangla/index.m3u8
+
 #EXTINF:-1 tvg-id="sony-aath" tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY%20AATH.png" group-title="Entertainment",Sony Aath
 http://38.96.178.201/live/SonyAath/index.m3u8
 
@@ -340,7 +343,7 @@ https://xfireflix.fun/toffeeWd/live.php?id=6789650f5629&e=.m3u8
 #EXTINF:-1 tvg-id="52d1df2fdb80" tvg-logo="https://images.toffeelive.com/images/program/359/logo/240x240/mobile_logo_835681001673175607.png" group-title="",Animal Planet
 https://xfireflix.fun/toffeeWd/live.php?id=52d1df2fdb80&e=.m3u8
 #EXTINF:-1 tvg-id="f70ef199f41d" tvg-logo="https://images.toffeelive.com/images/program/18096/logo/240x240/mobile_logo_032001001673194753.png" group-title="",Animal Planet HD
-https://xfireflix.fun/toffeeWd/live.php?id=f70ef199f41d&e=.m3u8
+http://smart.bengaldigital.live/TLC/index.m3u8
 
 #EXTINF:-1 tvg-id="090bf33a56cb" tvg-logo="https://images.toffeelive.com/images/program/608/logo/240x240/mobile_logo_648826001673178929.png" group-title="",TLC HD
 https://xfireflix.fun/toffeeWd/live.php?id=090bf33a56cb&e=.m3u8
