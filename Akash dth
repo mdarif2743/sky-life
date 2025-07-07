@@ -105,6 +105,19 @@ http://125.209.88.166:45793/BRN/PTVNews.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTLKRWpYF1LQ5Fbwc5R4mDIDWPMMu7yIU8OEw&s" group-title="Xfireflix",Star Jalsha
 http://smart.bengaldigital.live/Star-jalsha/index.m3u8
 
+#EXTINF:-1,STAR JALSHA USA
+https://www.xfireflix.fun/tatatv.m3u8?id=58155
+
+#EXTINF:-1,ZEE BANGLA USA
+https://www.xfireflix.fun/tatatv.m3u8?id=11233
+
+#EXTINF:-1,JALSHA MOVIES USA
+https://www.xfireflix.fun/tatatv.m3u8?id=232265
+
+
+
+
+
 #EXTINF:-1 tvg-id="" tvg-logo="http://kst.moonplex.net/iptv/img/logo/zee-bangla.jpg" group-title="Indian",Zee Bangla HD
 https://bdix.xfireflix.fun/stream.m3u8?id=323038
 
@@ -265,6 +278,20 @@ https://tataplay.slivcdn.com/hls/live/2011748/PIXHD/master.m3u8
 
 #EXTINF:-1 tvg-id="Hindi &Flix HD" tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-channel_2105335046/channel_list/1170x658379547401.png" group-title="Movies",Hindi &Flix HD m3u8
 http://line.gofast-tv.me:80/play/live.php?mac=00:1A:79:C9:AF:CF&stream=155990&extension=m3u8
+
+#EXTINF:-1,COLORS CINEPLEX usa
+https://www.xfireflix.fun/tatatv.m3u8?id=2770
+
+#EXTINF:-1,COLORS CINEPLEX HD
+https://www.xfireflix.fun/tatatv.m3u8?id=2771
+
+
+#EXTINF:-1,COLORS CINEPLEX BOLLYWOOD
+https://www.xfireflix.fun/tatatv.m3u8?id=8562
+
+
+
+
 
 
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="",Star Gold HD
