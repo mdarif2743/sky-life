@@ -375,7 +375,7 @@ http://line.gofast-tv.me:80/play/live.php?mac=00:1A:79:C9:AF:CF&stream=282634&ex
 #EXTINF:-1,NICK HINDI
 http://182.176.185.207:7500/play/a07h/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://otapp.store/uploads/tv_image/sm/nick-bangla.png" group-title="Kids-(বাচ্চাদের চ্যানেল)",Nick Bangla
-https://lifetvbd.xyz:8880/play/_IHuWmwwlQ7tot9J5av1L_omI00yCzcW_1gXTWS7P_8/ts
+http://smart.bengaldigital.live/Nick-Bangla/index.m3u8
 
 #EXTINF:-1 tvg-id="sony-yay" tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY%20YAY.png" group-title="Kids",Sony Yay
 https://tataplay.slivcdn.com/hls/live/2011746/SonyYaySD/master.m3u8
