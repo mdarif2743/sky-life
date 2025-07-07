@@ -103,13 +103,13 @@ http://125.209.88.166:45793/BRN/PTVNews.stream/playlist.m3u8
 
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTLKRWpYF1LQ5Fbwc5R4mDIDWPMMu7yIU8OEw&s" group-title="Xfireflix",Star Jalsha
-https://bdix.xfireflix.fun/stream.m3u8?id=323036
+http://smart.bengaldigital.live/Star-jalsha/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="http://kst.moonplex.net/iptv/img/logo/zee-bangla.jpg" group-title="Indian",Zee Bangla HD
 https://bdix.xfireflix.fun/stream.m3u8?id=323038
 
 #EXTINF:0 group-title="5. INDIAN BANGLA" ,SUN BANGLA
-https://livestream7.sunnxt.com/bf76ee92dd01473bb2eb57d137294484/SunBanglaB_IN_index.mpd
+http://smart.bengaldigital.live/sun-bangla-paid/index.m3u8
 
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/LsyGKzFC/Colors-Bangla-HD.jpg" group-title="Indian Bangla",Colors Bangla HD
