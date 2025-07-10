@@ -108,8 +108,8 @@ http://smart.bengaldigital.live/Star-jalsha/index.m3u8
 #EXTINF:-1,STAR JALSHA USA
 https://www.xfireflix.fun/tatatv.m3u8?id=58155
 
-#EXTINF:-1,ZEE BANGLA USA
-https://www.xfireflix.fun/tatatv.m3u8?id=11233
+#EXTINF:-1,ZEE BANGLA sd
+http://smart.bengaldigital.live/Zee-Bangla/index.m3u8
 
 #EXTINF:-1,JALSHA MOVIES USA
 https://www.xfireflix.fun/tatatv.m3u8?id=232265
@@ -265,7 +265,7 @@ https://lifetvbd.xyz:8880/play/_IHuWmwwlQ7tot9J5av1LwTlcgb1UGjZBClJrkSqDm4/ts
 https://bdix.xfireflix.fun/stream.m3u8?id=323035
 
 #EXTINF:-1 tvg-id="zee-bangla-cinema" tvg-name="Zee Bangla Cinema" tvg-language="Bengali" tvg-country="IN" tvg-logo="https://d388d59m61mm0v.cloudfront.net/optimized/content/common/logos/channel/logos/brmfgr.png" tvg-chno="zee-bangla-cinema" group-title="Movies",Zee Bangla Cinema
-http://tv.bdiptv.store/live/restreax/refstream/27.m3u8
+http://smart.bengaldigital.live/Zee-Bangla-Cinema/index.m3u8
 
 #EXTINF:-55 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/a4/BanglaCinema.jpeg/revision/latest?cb=20191207094555" group-title="Indian-Bangla",Colors Bangla Cinema
 https://lifetvbd.xyz:8880/play/_IHuWmwwlQ7tot9J5av1L8AKUID-lEPKSlznsS57zRk/ts
