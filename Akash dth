@@ -115,20 +115,22 @@ http://125.209.88.166:45793/BRN/PTVNews.stream/playlist.m3u8
 http://smart.bengaldigital.live/Star-jalsha/index.m3u8
 
 #EXTINF:-1,STAR JALSHA USA
-https://www.xfireflix.fun/tatatv.m3u8?id=58155
+https://tatatv.stevosure123.workers.dev/video.m3u8?id=58155
+#EXTINF:-1, STAR JALSHA HD
+https://tatatv.stevosure123.workers.dev/video.m3u8?id=12101
 
 #EXTINF:-1,ZEE BANGLA sd
 http://smart.bengaldigital.live/Zee-Bangla/index.m3u8
 
 #EXTINF:-1,JALSHA MOVIES USA
-https://www.xfireflix.fun/tatatv.m3u8?id=232265
+https://tatatv.stevosure123.workers.dev/video.m3u8?id=232265
 
 
 
 
 
 #EXTINF:-1 tvg-id="" tvg-logo="http://kst.moonplex.net/iptv/img/logo/zee-bangla.jpg" group-title="Indian",Zee Bangla HD
-https://bdix.xfireflix.fun/stream.m3u8?id=323038
+http://14.128.15.136:8080/live/65468596/65468596/11.m3u8
 
 #EXTINF:0 group-title="5. INDIAN BANGLA" ,SUN BANGLA
 http://smart.bengaldigital.live/sun-bangla-paid/index.m3u8
@@ -139,7 +141,7 @@ http://38.96.178.201/live/ColorsBangla/index.m3u8
 
 
 #EXTINF:-1,COLORS BANGLA HD
-https://smart.bengaldigital.live/Colors-Bangla/index.m3u8
+https://lifetvbd.xyz:8880/play/_IHuWmwwlQ7tot9J5av1L1cDH5SIzf3IszKSCYum4sQ/ts
 
 #EXTINF:-1 tvg-id="sony-aath" tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY%20AATH.png" group-title="Entertainment",Sony Aath
 http://38.96.178.201/live/SonyAath/index.m3u8
