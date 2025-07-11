@@ -369,7 +369,7 @@ https://lifetvbd.xyz:8880/play/_IHuWmwwlQ7tot9J5av1L7_1Lf40E_F1-Gt2C0CV3d8/ts
 https://tiger-hub.vercel.app/Discovery-bangla/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 group-title="Infotainment" tvg-logo="https://i.postimg.cc/SKhYrRFf/National-Geographic.jpg",Nat Geo Bangla
-https://rex-streaming.vercel.app/api/BDIX/245967.m3u8|user-agent=@xfireflix
+https://rex-streaming.vercel.app/api/BDIX/245967.m3u8|user-agent=@xfireflixbdmain
 
 
 #EXTINF:-1 tvg-id="591ea81b1aba" tvg-logo="https://images.toffeelive.com/images/program/378/logo/240x240/mobile_logo_604754001673177502.png" group-title="",Discovery Science
