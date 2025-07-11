@@ -130,7 +130,7 @@ https://tatatv.stevosure123.workers.dev/video.m3u8?id=232265
 
 
 #EXTINF:-1 tvg-id="" tvg-logo="http://kst.moonplex.net/iptv/img/logo/zee-bangla.jpg" group-title="Indian",Zee Bangla HD
-http://14.128.15.136:8080/live/65468596/65468596/11.m3u8
+https://live.drmlive-02.workers.dev/zee/0-9-zeebangla.m3u8
 
 #EXTINF:0 group-title="5. INDIAN BANGLA" ,SUN BANGLA
 http://smart.bengaldigital.live/sun-bangla-paid/index.m3u8
