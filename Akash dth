@@ -548,6 +548,62 @@ http://125.209.88.166:45793/BRN/beINSP11.stream/playlist.m3u8
 #EXTINF:-1 tvg-id=" " tvg-logo="https://github.com/murphieslaw23/channel-logos/blob/master/be_in_mena_sports_02_hd.png?raw=true" group-title="Sports", beIN Sports 2
 http://goldv3.me:2082/drmtv43_476893/YFCPfQ3M/1122213
 
+#EXTINF:-1 group-title="Sports" tvg-logo="https://i.ibb.co.com/VpLFC41v/Astro-Cricket.jpg",Bein Sports 1
+http://125x.org:8080/bn1hd/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="Sports" tvg-logo="https://i.ibb.co.com/VpLFC41v/Astro-Cricket.jpg",Bein Sports 2
+http://125x.org:8080/bn2hd/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="Sports" tvg-logo="https://i.ibb.co.com/VpLFC41v/Astro-Cricket.jpg",Bein Sports 3
+http://125x.org:8080/bn3hd/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="Sports" tvg-logo="https://i.ibb.co.com/VpLFC41v/Astro-Cricket.jpg",Bein Sports 4
+http://125x.org:8080/bn4hd/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="Sports" tvg-logo="https://i.ibb.co.com/VpLFC41v/Astro-Cricket.jpg",Bein Sports 6
+http://125x.org:8080/bn6hd/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="Sports" tvg-logo="https://i.ibb.co.com/Q3F9JyKH/T-Sports.jpg",DD Sports 2.0
+https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/b17adfe543354fdd8d189b110617cddd/index_3.m3u8
+
+#EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/3NGbmgY2/Star-Sports-2.jpg",Sky Sports Football
+https://ddy6new.newkso.ru/ddy6/premium558/mono.m3u8
+
+#EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/3NGbmgY2/Star-Sports-2.jpg",Sky Sports Football
+https://ddy6new.newkso.ru/ddy6/premium559/mono.m3u8
+
+#EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/cC5zmCyv/Supersports-Cricket.jpg",Euro Sport 1
+https://ddy6new.newkso.ru/ddy6/premium772/mono.m3u8
+
+#EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/cC5zmCyv/Supersports-Cricket.jpg",Fox Soccer Plus
+https://ddy6new.newkso.ru/ddy6/premium756/mono.m3u8
+
+#EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/qMtBrnST/Astro-Cricket.jpg",Nova Sports 5
+https://ddy6new.newkso.ru/ddy6/premium774/mono.m3u8
+
+#EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/qMtBrnST/Astro-Cricket.jpg",OneToro
+https://ddy6new.newkso.ru/ddy6/premium749/mono.m3u8
+
+#EXTINF:-1 group-title="Sports" tvg-logo="https://i.ibb.co.com/7Jzck3ZR/PTV-Sports.jpg",Premier Sports 1
+https://ddy6new.newkso.ru/ddy6/premium771/mono.m3u8
+
+#EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/4yyTcJWn/GTV.jpg",Ziggo Sports
+https://ddy6new.newkso.ru/ddy6/premium393/mono.m3u8
+
+#EXTINF:-1 group-title="Sports" tvg-logo="https://i.ibb.co.com/HT0W29vz/Tennis-Channel.jpg",Tennis Channel
+https://tennischannel-int-samsunguk.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/nr9H8z0m/Tennis-Channel.jpg",T2
+https://d3qg0hadt0dkov.cloudfront.net/amgtennisus/playlist1080_p.m3u8
+
+#EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/nr9H8z0m/Tennis-Channel.jpg",Trace Sport
+https://lightning-tracesport-samsungau.amagi.tv/playlist.m3u8
+
+
+
+
+
+
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/90GBNXPX/A-Sports-HD.jpg" group-title="Sports",A Sports
 http://125.209.88.166:45793/BRN/ArySports.stream/chunklist.m3u8
 
