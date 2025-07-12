@@ -92,18 +92,27 @@ http://125.209.88.166:45793/BRN/AryDigital.stream/playlist.m3u8
 http://imob.dunyanews.tv/live/_definst_/dunyalive_1/FluxusTV.m3u8?@amarnettv.live
 
 #EXTINF:-1 group-title="Pakistan" tvg-logo="https://i.postimg.cc/ZnD8CtvQ/BBC.jpg",Geo Kahani
-http://125.209.88.166:45793/BRN/GeoKahani.stream/playlist.m3u8
+http://66.102.120.18:8000/play/a064/index.m3u8
 
 
 #EXTINF:-1 group-title="Pakistan" tvg-logo="https://i.postimg.cc/ZnD8CtvQ/BBC.jpg",PTV Home
-http://125.209.88.166:45793/BRN/PtvHome.stream/playlist.m3u8
+http://66.102.120.18:8000/play/a04r/index.m3u8
 
 #EXTINF:-1 group-title="Pakistan" tvg-logo="https://i.postimg.cc/ZnD8CtvQ/BBC.jpg",PTV News
-http://125.209.88.166:45793/BRN/PTVNews.stream/playlist.m3u8
+http://66.102.120.18:8000/play/a04s/index.m3u8
 
 
+#EXTINF:-1,SEE TV PK
+http://66.102.120.18:8000/play/a03y/index.m3u8
 
+#EXTINF:-1,NOOR TV PK
+http://66.102.120.18:8000/play/a04m/index.m3u8
 
+#EXTINF:-1,GEO TEZ
+http://66.102.120.18:8000/play/a05o/index.m3u8
+
+#EXTINF:-1,GEO HD pk
+http://66.102.120.18:8000/play/a062/index.m3u8
 
 
 
@@ -193,14 +202,16 @@ http://line.gofast-tv.me:80/play/live.php?mac=00:1A:79:C9:AF:CF&stream=155730&ex
 https://bdix.xfireflix.fun/bdix1/stream.m3u8/?id=15337
 
 #https://bdix.xfireflix.fun/bdix1/stream.m3u8/?id=15337:-1 tvg-id="7c21a8ade135" tvg-logo="https://images.toffeelive.com/images/program/303937/logo/240x240/mobile_logo_880134001738072763.png" group-title="",Hum TV
-https://xfireflix.fun/toffeeWd/live.php?id=7c21a8ade135&e=.m3u8
+http://66.102.120.18:8000/play/a06c/index.m3u8
 
 #EXTINF:-1 tvg-id="406435b761ad" tvg-logo="https://images.toffeelive.com/images/program/303947/logo/240x240/mobile_logo_203789001738235600.png" group-title="",Hum Masala
-https://xfireflix.fun/toffeeWd/live.php?id=406435b761ad&e=.m3u8
+http://66.102.120.18:8000/play/a059/index.m3u8
 
 #EXTINF:-1 tvg-id="598a5e7df0bd" tvg-logo="https://images.toffeelive.com/images/program/303948/logo/240x240/mobile_logo_350939001738236112.png" group-title="",Hum Sitarey
-https://xfireflix.fun/toffeeWd/live.php?id=598a5e7df0bd&e=.m3u8
+http://66.102.120.18:8000/play/a05i/index.m3u8
 
+#EXTINF:-1,HUM TV NEWS
+http://66.102.120.18:8000/play/a05e/index.m3u8
 
 #EXTINF:-1,COLORS RISTEY
 https://tatatv.stevosure123.workers.dev/video.m3u8?id=2771
@@ -305,6 +316,9 @@ https://www.xfireflix.fun/tatatv.m3u8?id=8562
 
 #EXTINF:-1,ZEE ANEMOL CINEMA
 https://bdix.xfireflix.fun/bdix1/stream.m3u8/?id=15331
+
+#EXTINF:-1,ZEE BOLLYWOOD
+http://66.102.120.18:8000/play/a00n/index.m3u8
 
 
 #EXTINF:-1,STAR GOLD TRILLER
