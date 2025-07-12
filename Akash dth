@@ -785,5 +785,13 @@ https://tiger-hub.vercel.app/Hub_Sports-3/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Football",Hub_Sports-4
 https://tiger-hub.vercel.app/Hub_Sports-4/tracks-v1a1/mono.ts.m3u8
 
+#EXTINF:-1,sports max
+https://cdn-l3-jam-1.sportsmax.digicelgroup.com/sportsmax/live/ott/live/1124/CMAF/manifest.mpd?|drmScheme=clearkey&drmLicense=1779c27b9d077a3ba0c9cc1bb9a94b9f:cc5cf3b7928fb9e0a1ee6a8b566f0a8e
+#EXTINF:-1,SPORTS MAX plus
+https://cdn-l3-jam-1.sportsmax.digicelgroup.com/sportsmax/live/ott/live/1123/CMAF/manifest.mpd?|drmScheme=clearkey&drmLicense=1779c27b9d077a3ba0c9cc1bb9a94b9f:cc5cf3b7928fb9e0a1ee6a8b566f0a8e
+#EXTINF:-1,SPORTS MAX 2
+https://cdn-l3-jam-1.sportsmax.digicelgroup.com/sportsmax/live/ott/live/1118/CMAF/manifest.mpd?|drmScheme=clearkey&drmLicense=1779c27b9d077a3ba0c9cc1bb9a94b9f:cc5cf3b7928fb9e0a1ee6a8b566f0a8e
+#EXTINF:-1, SPORTS MAX
+https://cdn-l3-jam-1.sportsmax.digicelgroup.com/sportsmax/live/ott/live/1117/CMAF/manifest.mpd?|drmScheme=clearkey&drmLicense=1779c27b9d077a3ba0c9cc1bb9a94b9f:cc5cf3b7928fb9e0a1ee6a8b566f0a8e
 
 
