@@ -125,7 +125,8 @@ http://smart.bengaldigital.live/Zee-Bangla/index.m3u8
 #EXTINF:-1,JALSHA MOVIES USA
 https://tatatv.stevosure123.workers.dev/video.m3u8?id=232265
 
-
+#EXTINF:0 group-title="5. INDIAN BANGLA" ,Sananda TV
+https://live.sanonda.tv/sanonda/index.m3u8
 
 
 
