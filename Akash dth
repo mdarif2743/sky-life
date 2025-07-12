@@ -197,7 +197,7 @@ http://38.96.178.201/live/AndTV/index.m3u8
 https://tatatv.stevosure123.workers.dev/video.m3u8?id=771
 
 #EXTINF:-1, ZEE CAFE HD
-http://line.gofast-tv.me:80/play/live.php?mac=00:1A:79:C9:AF:CF&stream=155730&extension=m3u8
+http://66.102.120.18:8000/play/a076/index.m3u8
 
 #EXTINF:-1,ZEE EAST
 https://bdix.xfireflix.fun/bdix1/stream.m3u8/?id=15337
