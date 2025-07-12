@@ -348,11 +348,6 @@ https://tvsen6.aynaott.com/B4U_Kadak/index.m3u8?e=1750361801&u=8be812d7-3211-469
 https://lifetvbd.xyz:8880/play/_IHuWmwwlQ7tot9J5av1L7z-zyMz-PkxUj8pkAkUAA0/ts
 
 
-#EXTINF:-1,B4U MOVIES
-https://xfireflix.fun/toffeeWd/live.php?id=cd113761e022&e=.m3u8
-
-#EXTINF:-1 tvg-id="1d8f06362c1e" tvg-logo="https://images.toffeelive.com/images/program/4570/logo/240x240/mobile_logo_000080001675856893.png" group-title="",& Pictures HD
-https://xfireflix.fun/toffeeWd/live.php?id=1d8f06362c1e&e=.m3u8
 
 #EXTINF:-1 tvg-id="sony-max-2" tvg-logo="https://www.sonypicturesnetworks.com/images/logos/Sony_MAX2.png" group-title="Movies",Sony MAX 2
 https://tataplay.slivcdn.com/hls/live/2011908/MAX2/master.m3u8
@@ -376,22 +371,10 @@ https://tiger-hub.vercel.app/Discovery-bangla/tracks-v1a1/mono.m3u8
 https://rex-streaming.vercel.app/api/BDIX/245967.m3u8|user-agent=@xfireflixbdmain
 
 
-#EXTINF:-1 tvg-id="591ea81b1aba" tvg-logo="https://images.toffeelive.com/images/program/378/logo/240x240/mobile_logo_604754001673177502.png" group-title="",Discovery Science
-https://xfireflix.fun/toffeeWd/live.php?id=591ea81b1aba&e=.m3u8
-#EXTINF:-1 tvg-id="a051de5ade20" tvg-logo="https://images.toffeelive.com/images/program/379/logo/240x240/mobile_logo_775127001673177876.png" group-title="",Discovery Turbo
-https://xfireflix.fun/toffeeWd/live.php?id=a051de5ade20&e=.m3u8
-#EXTINF:-1 tvg-id="6789650f5629" tvg-logo="https://images.toffeelive.com/images/program/18094/logo/240x240/mobile_logo_154805001673178308.png" group-title="",Investigation Discovery HD
-https://xfireflix.fun/toffeeWd/live.php?id=6789650f5629&e=.m3u8
 
-#EXTINF:-1 tvg-id="52d1df2fdb80" tvg-logo="https://images.toffeelive.com/images/program/359/logo/240x240/mobile_logo_835681001673175607.png" group-title="",Animal Planet
-https://xfireflix.fun/toffeeWd/live.php?id=52d1df2fdb80&e=.m3u8
 #EXTINF:-1 tvg-id="f70ef199f41d" tvg-logo="https://images.toffeelive.com/images/program/18096/logo/240x240/mobile_logo_032001001673194753.png" group-title="",Animal Planet HD
 http://smart.bengaldigital.live/TLC/index.m3u8
 
-#EXTINF:-1 tvg-id="090bf33a56cb" tvg-logo="https://images.toffeelive.com/images/program/608/logo/240x240/mobile_logo_648826001673178929.png" group-title="",TLC HD
-https://xfireflix.fun/toffeeWd/live.php?id=090bf33a56cb&e=.m3u8
-#EXTINF:-1 tvg-id="e12a84713a40" tvg-logo="https://images.toffeelive.com/images/program/358/logo/240x240/mobile_logo_048875001673178985.png" group-title="",TLC
-https://xfireflix.fun/toffeeWd/live.php?id=e12a84713a40&e=.m3u8
 
 #EXTINF:-1,HISTORY TV
 http://38.96.178.201/live/History/index.m3u8
@@ -407,13 +390,6 @@ https://bdix.xfireflix.fun/bdix1/stream.m3u8/?id=15283
 #EXTINF:-1 tvg-id="23" tvg-logo="https://s3.aynaott.com/storage/1d3d06e02fc9ba45a990b65aebd04ebc" group-title="",Duronto TV
 https://tvsen6.aynaott.com/durontotv/index.m3u8?e=1750361610&u=8be812d7-3211-4694-a402-0aa09074dfc1&token=7a24ff3341867ab93788c6403e6338a7
 
-#EXTINF:-1 tvg-id="206c4fa8e760" tvg-logo="https://images.toffeelive.com/images/program/26942/logo/240x240/mobile_logo_443429001678950505.png" group-title="",Cartoon Network HD
-https://xfireflix.fun/toffeeWd/live.php?id=206c4fa8e760&e=.m3u8
-#EXTINF:-1 tvg-id="8be5ec5d5d7c" tvg-logo="https://images.toffeelive.com/images/program/27232/logo/240x240/mobile_logo_320294001679201065.png" group-title="",Cartoon Network
-https://xfireflix.fun/toffeeWd/live.php?id=8be5ec5d5d7c&e=.m3u8
-
-#EXTINF:-1 tvg-id="1fe9cf550c24" tvg-logo="https://images.toffeelive.com/images/program/611/logo/240x240/mobile_logo_430542001673177743.png" group-title="",Discovery Kids
-https://xfireflix.fun/toffeeWd/live.php?id=1fe9cf550c24&e=.m3u8
 
 #EXTINF:-1 tvg-id="English Disney HD" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/DISNHD_Thumbnail-v1/DISNHD_Thumbnail.png" group-title="Kids",English Disney HD Tataplay DTH m3u8
 http://line.gofast-tv.me:80/play/live.php?mac=00:1A:79:C9:AF:CF&stream=282634&extension=m3u8
@@ -529,8 +505,6 @@ http://cool365.xyz:900/live/4160189881/DB4ACD54/378739.m3u8
 #EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/rwZdgMp5/download.png",Star sports select 2
 http://cool365.xyz:900/live/4160189881/DB4ACD54/376465.m3u8
 
-#EXTINF:-1 tvg-id="f76c7eb00da0" tvg-logo="https://images.toffeelive.com/images/program/301891/logo/240x240/mobile_logo_578686001735197654.png" group-title="",SONY TEN Cricket
-https://xfireflix.fun/toffeeWd/live.php?id=f76c7eb00da0&e=.m3u8
 
 #EXTINF:-1 tvg-id="sony-ten-1-hd" tvg-logo="https://www.sonypicturesnetworks.com/images/logos/SONY_SportsTen1_HD_Logo_CLR.png" group-title="Sports",Sony Sports Ten 1 HD
 https://tataplay.slivcdn.com//hls/live/2011747/TEN1HD/master.m3u8
