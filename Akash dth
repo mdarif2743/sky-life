@@ -403,6 +403,10 @@ https://tataplay.slivcdn.com/hls/live/2011908/MAX2/master.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/vijay-iptv/logos/refs/heads/main/Star_Movies_Select_HD.png" group-title="Airtel | Tamil",Star Movies Select HD
 https://prod-live-s2-5k8Jm-stream-edge.ygxworld.in/jplus/1110/manifest.m3u8
 
+#EXTINF:-1,STAR  WORLD HD
+https://rex-streaming.vercel.app/api/BDIX/109971.m3u8|user-agent=@xfireflixbd
+
+
 #EXTINF:-1 tvg-id="29" tvg-logo="https://s3.aynaott.com/storage/db85422953e3a1652e26b0a14eed92a9" group-title="",NEXUS TV
 https://tvsen6.aynaott.com/nexustv/index.m3u8?e=1750361666&u=8be812d7-3211-4694-a402-0aa09074dfc1&token=90ad2c025308b29cd830c98175631b17
 
