@@ -165,15 +165,17 @@ https://live.drmlive-02.workers.dev/zee/0-9-zeebangla.m3u8
 http://smart.bengaldigital.live/sun-bangla-paid/index.m3u8
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/LsyGKzFC/Colors-Bangla-HD.jpg" group-title="Indian Bangla",Colors Bangla HD
-http://38.96.178.201/live/ColorsBangla/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/ZzWVkn8K/image.jpg" group-title="Entertainment",COLORS BANGLA HD 📡 (ENTERTAINMENT)
+#https://tiger-hub.vercel.app/Colors_bangla/tracks-v1a1/mono.ts.m3u8
+https://mini1.allinonereborn.xyz/jiotv-ww192/app/ts_live_756.m3u8
 
 
 #EXTINF:-1,COLORS BANGLA HD
 https://lifetvbd.xyz:8880/play/_IHuWmwwlQ7tot9J5av1L1cDH5SIzf3IszKSCYum4sQ/ts
 
 #EXTINF:-1 tvg-id="sony-aath" tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY%20AATH.png" group-title="Entertainment",Sony Aath
-http://38.96.178.201/live/SonyAath/index.m3u8
+https://tataplay.slivcdn.com/hls/live/2011641/SonyAathSD/master.m3u8
 
 
 #EXTINF:-1 tvg-id="141" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1746005940155.png" group-title="Entertainment",SRK TV
@@ -187,10 +189,8 @@ http://103.120.172.74:5200
 #EXTINF:-1,STAR BARAHAT
 https://bdix.xfireflix.fun/bdix1/stream.m3u8/?id=234
 
-#EXTINF:-1 tvg-id="0-9-zeetvhd" group-title="Entertainment" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Zee_TV_HD.png",Zee TV HD 📺 (zee5)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 ygx/69.1 Safari/537.36
-https://z5ak-cmaflive.zee5.com/cmaf/live/2105531/ZeeTVHDMSLELE/index-connected.m3u8?hdntl=exp=1752670681~acl=%2f*~data=hdntl~hmac=47b9f509344d2445ae23b13505d527f1d21382619f3c65a9bea3db48919f04cb
-
+#EXTINF:-1 tvg-id="zee-tv" tvg-name="Zee TV" tvg-language="Hindi" tvg-country="IN" tvg-logo="https://d388d59m61mm0v.cloudfront.net/optimized/content/common/logos/channel/logos/qsrytm.png" tvg-chno="zee-tv" group-title="Entertainment",Zee TV
+https://tiger-hub.vercel.app/Zee___tv-/tracks-v1a1/mono.ts.m3u8
 
 #EXTINF:-1 tvg-id="9905083432a8" tvg-logo="https://images.toffeelive.com/images/program/644/logo/240x240/mobile_logo_649814001655891557.png" group-title="",Zee TV HD
 https://xfireflix.fun/toffeeWd/live.php?id=9905083432a8&e=.m3u8
@@ -208,7 +208,7 @@ https://tataplay.slivcdn.com/hls/live/2011749/SABHD/master.m3u8
 
 
 #EXTINF:-1, tvg-logo="https://static.epg.best/gb/Colors.uk.png"Group-title= COLORS HD
-https://tatatv.stevosure123.workers.dev/video.m3u8?id=11635
+https://mini1.allinonereborn.xyz/jiotv-ww192/app/ts_live_144.m3u8
 
 
 #EXTINF:-1 tvg-id="Music" tvg-name="Zoom" tvg-logo="https://i.postimg.cc/Bb01Tz1C/Picsart-25-01-28-11-30-34-024.jpg" group-title="Music",Zoom
@@ -229,10 +229,8 @@ https://tatatv.stevosure123.workers.dev/video.m3u8?id=771
 #EXTINF:-1, ZEE CAFE HD
 http://66.102.120.18:8000/play/a076/index.m3u8
 
-#EXTINF:-1 tvg-id="0-9-348" group-title="Entertainment" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Zee_Zest_HD.png",Zee Zest HD 📺 (zee5)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 ygx/69.1 Safari/537.36
-https://z5ak-cmaflive.zee5.com/cmaf/live/2105513/ZeeZestHDELE/index-connected.m3u8?hdntl=exp=1752670681~acl=%2f*~data=hdntl~hmac=47b9f509344d2445ae23b13505d527f1d21382619f3c65a9bea3db48919f04cb
-
+#EXTINF:1 tvg-name="Zee zeest" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/657978e7a8676a17df103068/images/zee_zest.png" group-title="Entertainment",Zee zeest
+https://la.drmlive.net/tp/zee-348.m3u8|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
 
 #https://bdix.xfireflix.fun/bdix1/stream.m3u8/?id=15337:-1 tvg-id="7c21a8ade135" tvg-logo="https://images.toffeelive.com/images/program/303937/logo/240x240/mobile_logo_880134001738072763.png" group-title="",Hum TV
 http://66.102.120.18:8000/play/a06c/index.m3u8
@@ -282,8 +280,9 @@ https://tvsen6.aynaott.com/news24/index.m3u8?e=1750361551&u=8be812d7-3211-4694-a
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/BBC_News_2022_%28Alt%29.svg/2560px-BBC_News_2022_%28Alt%29.svg.png" group-title="",VE-uk-bbcnews
 https://rzdtwfb81w5jihkz.buyapartments.online/v3/director/VE1NDlkODUwYTgzMWNlLTU4NjgtNzZjNC03OGQyLTFhNWExNDk2/master.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/CNN_International_logo.svg/2048px-CNN_International_logo.svg.png" group-title="",VE-us-cnn
-https://bd.yflix.top/live/2be13775-7176-4b90-98d7-04c90ffe3b5a.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://images.mjunoon.tv:8181/logo/cnn-news-logo-mjunoon.webp" group-title="News",CNN
+https://tiger-hub.vercel.app@vodzong.mjunoon.tv:8087/streamtest/cnn-86/playlist.m3u8
+
 
 #EXTINF:-1 group-title="News" tvg-logo="https://i.imgur.com/e3cYtrb.jpg",Aljazeera
 https://live-hls-v3-aje.getaj.net/AJE-V3/index.m3u8
@@ -363,6 +362,9 @@ https://bdix.xfireflix.fun/bdix1/stream.m3u8/?id=239
 http://66.102.120.18:8000/play/a06z/index.m3u8
 
 
+#EXTINF:1 tvg-name="Colors Cineplex Superhit" tvg-logo="https://i.ibb.co/XxwRMX6c/images.jpg" group-title="Entertainment",Colors Cineplex Superhit
+https://mini1.allinonereborn.xyz/jiotv-ww192/app/ts_live_1450.m3u8
+
 #EXTINF:-1,COLORS CINEPLEX BOLLYWOOD
 http://66.102.120.18:8000/play/a01a/index.m3u8
 
@@ -393,19 +395,13 @@ https://tatatv.stevosure123.workers.dev/video.m3u8?id=976
 #EXTINF:-1 tvg-id="Zee Classic" , Zee Classic m3u8 Airtel
 http://line.greatstar.me:80/play/live.php?mac=00:1A:79:C9:AF:CF&stream=311858&extension=m3u8
 
+#EXTINF:-1 tvg-id="zee-cinema" tvg-name="Zee Cinema" tvg-language="Hindi" tvg-country="IN" tvg-logo="https://d388d59m61mm0v.cloudfront.net/optimized/content/common/logos/channel/logos/bklqmv.png" tvg-chno="zee-cinema" group-title="Movies",Zee Cinema
+#https://tiger-hub.vercel.app/Zee-Cinema-__/tracks-v1a1/mono.ts.m3u8
+http://rhsbjv7k.tvclub.xyz/iptv/MXUV9GU7KLRNNN/6708/index.m3u8
 
-#EXTINF:-1 tvg-id="0-9-zeeaction" group-title="Movies" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Zee_Action.png",Zee Action 📺 (zee5)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 ygx/69.1 Safari/537.36
-https://z5ak-cmaflive.zee5.com/cmaf/live/2105527/ZeeActionELE/master.m3u8?hdntl=exp=1752670681~acl=%2f*~data=hdntl~hmac=47b9f509344d2445ae23b13505d527f1d21382619f3c65a9bea3db48919f04cb
+#EXTINF:-1 tvg-id="zee-action" tvg-name="Zee Action" tvg-language="Hindi" tvg-country="IN" tvg-logo="https://d388d59m61mm0v.cloudfront.net/optimized/content/common/logos/channel/logos/lopgzj.png" tvg-chno="zee-action" group-title="Movies",Zee Action
+https://tiger-hub.vercel.app/Zee--_action-/tracks-v1a1/mono.ts.m3u8
 
-
-#EXTINF:-1 tvg-id="0-9-zeecinemahd" group-title="Movies" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Zee_Cinema_HD.png",Zee Cinema HD 📺 (zee5)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 ygx/69.1 Safari/537.36
-https://z5ak-cmaflive.zee5.com/cmaf/live/2105540/ZeeCinemaHDELE/index-connected.m3u8?hdntl=exp=1752670681~acl=%2f*~data=hdntl~hmac=47b9f509344d2445ae23b13505d527f1d21382619f3c65a9bea3db48919f04cb
-
-#EXTINF:-1 tvg-id="0-9-zeecinema" group-title="Movies" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Zee_Cinema.png",Zee Cinema 📺 (zee5)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 ygx/69.1 Safari/537.36
-https://z5ak-cmaflive.zee5.com/cmaf/live/2105552/ZeeCinemaELE/master.m3u8?hdntl=exp=1752670681~acl=%2f*~data=hdntl~hmac=47b9f509344d2445ae23b13505d527f1d21382619f3c65a9bea3db48919f04cb
 
 
 #EXTINF:-1,Zee cinema 
