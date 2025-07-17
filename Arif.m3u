@@ -404,7 +404,7 @@ https://tiger-hub.vercel.app/Zee--_action-/tracks-v1a1/mono.ts.m3u8
 
 
 #EXTINF:-1,Zee cinema 
-http://195.181.169.162:80/ZEE_CINEMA_HD/index.mpd?token=test
+http://smart.bengaldigital.live/ZeeCinema/index.m3u8
 #EXTINF:-1,SONY MAX 1
 http://filex.me:8080/live/wbNER77tKU/i1YcYBsPNU/512328.m3u8?play_token=TT7gXEivTD
 #EXTINF:-1 tvg-id="sony-max-hd" tvg-logo="https://sonypicturesnetworks.com/images/logos/Sony_MAX-HD_WHITE.png" group-title="Movies",Sony MAX HD
