@@ -189,7 +189,8 @@ https://srknowapp.ncare.live/srktvhlswodrm/srktv.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="",Star Plus HD
 http://103.120.172.74:5200
 
-
+#EXTINF:-1 tvg-id="23" tvg-name="IN | & TV HD" tvg-logo="https://www.lyngsat.com/logo/tv/aa/and_tv_in.png" group-title="INDIAN ➾ ENTERTAINMENT", IN | & TV HD
+http://filex.me:8080/live/444476/444476/23.m3u8
 
 #EXTINF:-1,STAR BARAHAT
 https://bdix.xfireflix.fun/bdix1/stream.m3u8/?id=234
@@ -223,10 +224,9 @@ http://38.96.178.201/live/AndTV/index.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 ygx/69.1 Safari/537.36
 https://z5ak-cmaflive.zee5.com/cmaf/live/2105526/ZeeAnmolELE/master.m3u8?hdntl=exp=1752670681~acl=%2f*~data=hdntl~hmac=47b9f509344d2445ae23b13505d527f1d21382619f3c65a9bea3db48919f04cb
 
+#EXTINF:-1 tvg-id="87330" tvg-name="IN | COLORS INFINITY HD" tvg-logo="" group-title="INDIAN ➾ ENTERTAINMENT", IN | COLORS INFINITY HD
+http://filex.me:8080/live/444476/444476/87330.m3u8
 
-
-#EXTINF:-1,IN: COLORS INFINITY FHD
-https://tatatv.stevosure123.workers.dev/video.m3u8?id=771
 
 #EXTINF:-1, ZEE CAFE HD
 http://66.102.120.18:8000/play/a076/index.m3u8
@@ -248,6 +248,10 @@ http://66.102.120.18:8000/play/a05e/index.m3u8
 
 #EXTINF:-1,COLORS RISTEY
 https://tatatv.stevosure123.workers.dev/video.m3u8?id=2771
+
+#EXTINF:-1 tvg-id="103" tvg-name="IN | STAR UTSAV HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2024-08/0745eefbd8a17542003f01bf22735da0.png" group-title="INDIAN ➾ ENTERTAINMENT", IN | STAR UTSAV HD
+http://filex.me:8080/live/444476/444476/103.m3u8
+
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.jagobd.com/wp-content/uploads/2024/12/btv-news-.jpg" group-title="All",BTV NEWS
 https://static.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/btvbd-office-sg.stream/tracks-v1a1/mono.ts.m3u8|referer=https://www.jagobd.com
@@ -335,11 +339,11 @@ http://line.ultrab.xyz:80/live/ZeeALI1/465841/63511.m3u8
 #EXTINF:-1 tvg-id="sony-pix-hd" tvg-logo="https://sonypicturesnetworks.com/images/logos/PIX%20HD_WHITE.png" group-title="Movies",Sony PIX HD
 https://tataplay.slivcdn.com/hls/live/2011748/PIXHD/master.m3u8
 
-#EXTINF:-1 tvg-id="Hindi &Flix HD" tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-channel_2105335046/channel_list/1170x658379547401.png" group-title="Movies",Hindi &Flix HD m3u8
-http://line.gofast-tv.me:80/play/live.php?mac=00:1A:79:C9:AF:CF&stream=155990&extension=m3u8
 #EXIINF:-1,AXN HD
 http://66.102.120.18:8000/play/a06i/index.m3u8
 
+#EXTINF:-1 tvg-id="55" tvg-name="IN | & FLIX HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQuANx7s-Dxxy35uMqXRag0lUXvXhc19y7DCw&usqp=CAU" group-title="INDIAN ➾ ENTERTAINMENT", IN | & FLIX HD
+http://filex.me:8080/live/444476/444476/55.m3u8
 
 #EXTINF:-1 tvg-id="0-9-tvpictureshd" group-title="Movies" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/And_Pictures_HD.png",&Pictures HD 📺 (zee5)
 http://182.176.185.207:7500/play/a06q/index.m3u8
@@ -380,16 +384,21 @@ http://182.176.185.207:7500/play/a07w/index.m3u8
 #EXTINF:-1,STAR GOLD TRILLER
 http://182.176.185.207:7500/play/a07n/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",Star Gold HD
-http://182.176.185.207:7500/play/a07p/index.m3u8
+#EXTINF:-1 tvg-id="29" tvg-name="IN | STAR GOLD HD" tvg-logo="https://www.lyngsat.com/logo/tv/ss/star-gold-hd-india-in.png" group-title="INDIAN ➾ ENTERTAINMENT", IN | STAR GOLD HD
+http://filex.me:8080/live/444476/444476/29.m3u8
+
 
 #EXTINF:-1,Star Select
 http://182.176.185.207:7500/play/a06p/index.m3u8
 #EXTINF:-1,Star Gold Romance
 http://182.176.185.207:7500/play/a07c/index.m3u8
 
-#EXTINF:-1,STAR GOLD 2
-https://tatatv.stevosure123.workers.dev/video.m3u8?id=976
+#EXTINF:-1 tvg-id="31" tvg-name="IN | STAR GOLD 2 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Star_Gold_2.svg/1376px-Star_Gold_2.svg.png" group-title="INDIAN ➾ ENTERTAINMENT", IN | STAR GOLD 2 HD
+http://filex.me:8080/live/444476/444476/31.m3u8
+
+#EXTINF:-1 tvg-id="35" tvg-name="IN | & PICTURES HD" tvg-logo="http://filex.tv:8080/images/06ae3d7e2037a51f743e3b718f5f70e9.png" group-title="INDIAN ➾ ENTERTAINMENT", IN | & PICTURES HD
+http://filex.me:8080/live/444476/444476/35.m3u8
+
 
 #EXTINF:-1 tvg-id="Zee Classic" , Zee Classic m3u8 Airtel
 http://line.greatstar.me:80/play/live.php?mac=00:1A:79:C9:AF:CF&stream=311858&extension=m3u8
