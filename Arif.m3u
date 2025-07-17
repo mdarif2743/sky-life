@@ -622,7 +622,7 @@ https://tataplay.slivcdn.com/hls/live/2020589/ten4hd/master.m3u8
 https://tataplay.slivcdn.com/hls/live/2020593/SONYSIXHD/master.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e4/PTV_Sports.png" group-title="Sports",PTV Sports
-https://bd.yflix.top/live/e17d465b-b03c-4952-a39e-bb07898eaed9.m3u8
+http://filex.me:8080/live/444476/444476/453434.m3u8
 
 #EXTINF:-147 tvg-logo="https://i.pinimg.com/originals/a0/f1/02/a0f102f34a179d207602df014cbf203d.jpg" group-title="SPORTS",Geo Super TV
 #http://125.209.88.166:45793/BRN/GeoSuper.stream/playlist.m3u8
@@ -716,7 +716,7 @@ http://182.176.185.207:7500/play/a0dd/index.m3u8
 https://ddy6new.newkso.ru/ddy6/premium282/mono.m3u8
 
 #EXTINF:-1,TEN SPORTS HD
-http://125.209.88.166:45793/BRN/TenSports.stream/playlist.m3u8
+http://filex.me:8080/live/444476/444476/52106.m3u8
 
 #EXTINF:-1,astro cricket
 https://criccoder.pages.dev/astro.m3u8
