@@ -119,6 +119,9 @@ http://66.102.120.18:8000/play/a062/index.m3u8
 #EXTINF:-1,ARY ZINDEGY
 http://66.102.120.18:8000/play/a031/index.m3u8
 
+#EXTINF:-1 group-title="Bangladeshi News 🇧🇩" tvg-logo="https://images.seeklogo.com/logo-png/61/1/green-entertainment-tv-logo-png_seeklogo-616407.png",Green Entertainment
+https://myco.telflex.net:8088/GREENENT-FHD/tracks-v1a1/mono.ts.m3u8?token=DOpWIYzDozqJs3
+#movies
 
 #EXTINF:-1,ARY QTV
 http://182.176.185.207:7500/play/a0d4/index.m3u8
