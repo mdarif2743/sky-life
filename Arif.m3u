@@ -113,8 +113,10 @@ http://66.102.120.18:8000/play/a04m/index.m3u8
 #EXTINF:-1,GEO TEZ
 http://66.102.120.18:8000/play/a05o/index.m3u8
 
-#EXTINF:-1,GEO HD pk
-http://66.102.120.18:8000/play/a062/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d4/Geo_Entertainment.png" group-title="Entertainment",Geo Entertainment
+https://jk3lz82elw79-hls-live.5centscdn.com/harPalGeo/955ad3298db330b5ee880c2c9e6f23a0.sdp/playlist.m3u8
+#jagobd
+
 
 #EXTINF:-1,ARY ZINDEGY
 http://66.102.120.18:8000/play/a031/index.m3u8
