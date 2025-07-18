@@ -297,7 +297,7 @@ https://tataplay.slivcdn.com/hls/live/2011749/SABHD/master.m3u8
 
 
 #EXTINF:-1, tvg-logo="https://static.epg.best/gb/Colors.uk.png"Group-title= COLORS HD
-https://mini1.allinonereborn.xyz/jiotv-ww192/app/ts_live_144.m3u8
+http://195.181.169.162/COLORS_HD/index.m3u8?token=test
 
 
 #EXTINF:-1 tvg-id="Music" tvg-name="Zoom" tvg-logo="https://i.postimg.cc/Bb01Tz1C/Picsart-25-01-28-11-30-34-024.jpg" group-title="Music",Zoom
