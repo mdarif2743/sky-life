@@ -570,7 +570,8 @@ https://bdix.xfireflix.fun/bdix1/stream.m3u8/?id=15283
 #EXTINF:-1 tvg-id="23" tvg-logo="https://s3.aynaott.com/storage/1d3d06e02fc9ba45a990b65aebd04ebc" group-title="",Duronto TV
 https://tvsen6.aynaott.com/durontotv/index.m3u8?e=1750361610&u=8be812d7-3211-4694-a402-0aa09074dfc1&token=7a24ff3341867ab93788c6403e6338a7
 
-
+#EXTINF:-1,TLC sd
+http://smart.bengaldigital.live/TLC/index.m3u8
 
 
 #EXTINF:-1,NICK HINDI
