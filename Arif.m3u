@@ -238,8 +238,6 @@ http://app.hughag.store/api/4518a8c92f/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTLKRWpYF1LQ5Fbwc5R4mDIDWPMMu7yIU8OEw&s" group-title="Xfireflix",Star Jalsha
 http://smart.bengaldigital.live/Star-jalsha/index.m3u8
 
-#EXTINF:-1,STAR JALSHA USA
-https://tatatv.stevosure123.workers.dev/video.m3u8?id=58155
 #EXTINF:-1, STAR JALSHA HD
 http://tvsen5.aynaott.com/gUX8BJmNc2yF/tracks-v1a1/mono.ts.m3u8
 
@@ -248,8 +246,6 @@ http://tvsen5.aynaott.com/gUX8BJmNc2yF/tracks-v1a1/mono.ts.m3u8
 http://smart.bengaldigital.live/Zee-Bangla/index.m3u8
 
 
-#EXTINF:-1,JALSHA MOVIES USA
-https://tatatv.stevosure123.workers.dev/video.m3u8?id=232265
 
 #EXTINF:0 group-title="5. INDIAN BANGLA" ,Sananda TV
 https://live.sanonda.tv/sanonda/index.m3u8
@@ -265,8 +261,7 @@ http://smart.bengaldigital.live/sun-bangla-paid/index.m3u8
 
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/ZzWVkn8K/image.jpg" group-title="Entertainment",COLORS BANGLA HD 📡 (ENTERTAINMENT)
-#https://tiger-hub.vercel.app/Colors_bangla/tracks-v1a1/mono.ts.m3u8
-https://mini1.allinonereborn.xyz/jiotv-ww192/app/ts_live_756.m3u8
+https://tvsen5.aynaott.com/u3LkNQ7UHhFX/index.m3u8
 
 
 #EXTINF:-1,COLORS BANGLA HD
@@ -291,8 +286,6 @@ https://bdix.xfireflix.fun/bdix1/stream.m3u8/?id=234
 #EXTINF:-1 tvg-id="zee-tv" tvg-name="Zee TV" tvg-language="Hindi" tvg-country="IN" tvg-logo="https://d388d59m61mm0v.cloudfront.net/optimized/content/common/logos/channel/logos/qsrytm.png" tvg-chno="zee-tv" group-title="Entertainment",Zee TV
 https://tiger-hub.vercel.app/Zee___tv-/tracks-v1a1/mono.ts.m3u8
 
-#EXTINF:-1 tvg-id="9905083432a8" tvg-logo="https://images.toffeelive.com/images/program/644/logo/240x240/mobile_logo_649814001655891557.png" group-title="",Zee TV HD
-https://xfireflix.fun/toffeeWd/live.php?id=9905083432a8&e=.m3u8
 #EXTINF:-1 tvg-id="0-9-zeetv" group-title="Entertainment" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Zee_TV.png",Zee TV 📺 (zee5)
 http://182.176.185.207:7500/play/a07i/index.m3u8
 #EXTINF:-1 tvg-id="sony-hd" tvg-logo="https://sonypicturesnetworks.com/images/logos/SET-LOGO-HD.png" group-title="Entertainment",SET HD
@@ -310,8 +303,6 @@ https://mini1.allinonereborn.xyz/jiotv-ww192/app/ts_live_144.m3u8
 #EXTINF:-1 tvg-id="Music" tvg-name="Zoom" tvg-logo="https://i.postimg.cc/Bb01Tz1C/Picsart-25-01-28-11-30-34-024.jpg" group-title="Music",Zoom
 https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/zoomin.stream/playlist.m3u8
 
-#EXTINF:-1,&TV HD
-http://38.96.178.201/live/AndTV/index.m3u8
 
 #EXTINF:-1 tvg-id="0-9-zeeanmol" group-title="Movies" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Zee_Anmol.png",Zee Anmol 📺 (zee5)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 ygx/69.1 Safari/537.36
