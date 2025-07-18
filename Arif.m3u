@@ -225,19 +225,12 @@ https://jk3lz82elw79-hls-live.5centscdn.com/harPalGeo/955ad3298db330b5ee880c2c9e
 #EXTINF:-1,ARY ZINDEGY
 http://66.102.120.18:8000/play/a031/index.m3u8
 
-#EXTINF:-1 group-title="Bangladeshi News 🇧🇩" tvg-logo="https://images.seeklogo.com/logo-png/61/1/green-entertainment-tv-logo-png_seeklogo-616407.png",Green Entertainment
-https://myco.telflex.net:8088/GREENENT-FHD/tracks-v1a1/mono.ts.m3u8?token=DOpWIYzDozqJs3
-#movies
 
 #EXTINF:-1,ARY QTV
 http://182.176.185.207:7500/play/a0d4/index.m3u8
 
 #EXTINF:-1 tvg-id="7c21a8ade135" tvg-logo="https://images.toffeelive.com/images/program/303937/logo/240x240/mobile_logo_880134001738072763.ZINDEGYoup-title="",Hum TV
 http://app.hughag.store/api/4518a8c92f/playlist.m3u8
-#EXTINF:-1 tvg-id="406435b761ad" tvg-logo="https://images.toffeelive.com/images/program/303947/logo/240x240/mobile_logo_203789001738235600.png" group-title="",Hum Masala
-https://xfireflix.fun/toffeeWd/live.php?id=406435b761ad&e=.m3u8
-#EXTINF:-1 tvg-id="598a5e7df0bd" tvg-logo="https://images.toffeelive.com/images/program/303948/logo/240x240/mobile_logo_350939001738236112.png" group-title="",Hum Sitarey
-https://xfireflix.fun/toffeeWd/live.php?id=598a5e7df0bd&e=.m3u8
 
 
 
@@ -250,14 +243,10 @@ https://tatatv.stevosure123.workers.dev/video.m3u8?id=58155
 #EXTINF:-1, STAR JALSHA HD
 http://tvsen5.aynaott.com/gUX8BJmNc2yF/tracks-v1a1/mono.ts.m3u8
 
-#EXTINF:-1 tvg-id="3a4a0ceff620" tvg-logo="https://images.toffeelive.com/images/program/403/logo/240x240/mobile_logo_368845001655891378.png" group-title="",Zee Bangla Cinema VIP
-https://xfireflix.fun/toffeeWd/live.php?id=3a4a0ceff620&e=.m3u8
 
 #EXTINF:-1,ZEE BANGLA sd
 http://smart.bengaldigital.live/Zee-Bangla/index.m3u8
 
-#EXTINF:-1 tvg-id="106a66093e92" tvg-logo="https://images.toffeelive.com/images/program/340/logo/240x240/mobile_logo_094417001655891123.png" group-title="",Zee Bangla VIP
-https://xfireflix.fun/toffeeWd/live.php?id=106a66093e92&e=.m3u8
 
 #EXTINF:-1,JALSHA MOVIES USA
 https://tatatv.stevosure123.workers.dev/video.m3u8?id=232265
@@ -586,28 +575,9 @@ https://tataplay.slivcdn.com/hls/live/2011907/SonyBBCEarthHD/master.m3u8
 #EXTINF:-1,TRAVEL XP BANGLA
 https://bdix.xfireflix.fun/bdix1/stream.m3u8/?id=15283
 
-#EXTINF:-1 tvg-id="090bf33a56cb" tvg-logo="https://images.toffeelive.com/images/program/608/logo/240x240/mobile_logo_648826001673178929.png" group-title="",TLC HD
-https://xfireflix.fun/toffeeWd/live.php?id=090bf33a56cb&e=.m3u8
-#EXTINF:-1 tvg-id="e12a84713a40" tvg-logo="https://images.toffeelive.com/images/program/358/logo/240x240/mobile_logo_048875001673178985.png" group-title="",TLC
-https://xfireflix.fun/toffeeWd/live.php?id=e12a84713a40&e=.m3u8
-
-#EXTINF:-1 tvg-id="52d1df2fdb80" tvg-logo="https://images.toffeelive.com/images/program/359/logo/240x240/mobile_logo_835681001673175607.png" group-title="",Animal Planet
-https://xfireflix.fun/toffeeWd/live.php?id=52d1df2fdb80&e=.m3u8
-#EXTINF:-1 tvg-id="f70ef199f41d" tvg-logo="https://images.toffeelive.com/images/program/18096/logo/240x240/mobile_logo_032001001673194753.png" group-title="",Animal Planet HD
-https://xfireflix.fun/toffeeWd/live.php?id=f70ef199f41d&e=.m3u8
 #EXTINF:-1 tvg-id="23" tvg-logo="https://s3.aynaott.com/storage/1d3d06e02fc9ba45a990b65aebd04ebc" group-title="",Duronto TV
 https://tvsen6.aynaott.com/durontotv/index.m3u8?e=1750361610&u=8be812d7-3211-4694-a402-0aa09074dfc1&token=7a24ff3341867ab93788c6403e6338a7
 
-#EXTINF:-1 tvg-id="206c4fa8e760" tvg-logo="https://images.toffeelive.com/images/program/26942/logo/240x240/mobile_logo_443429001678950505.png" group-title="",Cartoon Network HD
-https://xfireflix.fun/toffeeWd/live.php?id=206c4fa8e760&e=.m3u8
-#EXTINF:-1 tvg-id="8be5ec5d5d7c" tvg-logo="https://images.toffeelive.com/images/program/27232/logo/240x240/mobile_logo_320294001679201065.png" group-title="",Cartoon Network
-https://xfireflix.fun/toffeeWd/live.php?id=8be5ec5d5d7c&e=.m3u8
-#EXTINF:-1 tvg-id="English Disney HD" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/DISNHD_Thumbnail-v1/DISNHD_Thumbnail.png" group-title="Kids",English Disney HD Tataplay DTH m3u8
-http://line.gofast-tv.me:80/play/live.php?mac=00:1A:79:C9:AF:CF&stream=282634&extension=m3u8
-#EXTINF:-1 tvg-id="38060f0d4077" tvg-logo="https://images.toffeelive.com/images/program/27159/logo/240x240/mobile_logo_740957001679201029.png" group-title="",Pogo
-https://xfireflix.fun/toffeeWd/live.php?id=38060f0d4077&e=.m3u8
-#EXTINF:-1 tvg-id="1fe9cf550c24" tvg-logo="https://images.toffeelive.com/images/program/611/logo/240x240/mobile_logo_430542001673177743.png" group-title="",Discovery Kids
-https://xfireflix.fun/toffeeWd/live.php?id=1fe9cf550c24&e=.m3u8
 
 
 
@@ -706,8 +676,6 @@ https://crichdplaylist.extratvteam.workers.dev/master.m3u8?cid=starhindi
 #EXTINF:-1 group-title="Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSKl2XEAhGamZ3AAGuPaXHP0bf3elKcoDmZJIZ-QJ0t8smeEg_VBbTmXy8",Star Sports 1
 http://cool365.xyz:900/live/4160189881/DB4ACD54/187268.m3u8
 
-#EXTINF:-1, SPORTS 18 1 HD
-https://iptvcable.netlify.app/Altogether-007/Sports18-1.m3u8
 
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/ac/Star_Sports_2.jpg/revision/latest?cb=20191214232359" group-title="Xfireflix",Star Sports 2
