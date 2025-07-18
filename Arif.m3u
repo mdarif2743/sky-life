@@ -233,7 +233,7 @@ https://myco.telflex.net:8088/GREENENT-FHD/tracks-v1a1/mono.ts.m3u8?token=DOpWIY
 http://182.176.185.207:7500/play/a0d4/index.m3u8
 
 #EXTINF:-1 tvg-id="7c21a8ade135" tvg-logo="https://images.toffeelive.com/images/program/303937/logo/240x240/mobile_logo_880134001738072763.ZINDEGYoup-title="",Hum TV
-https://xfireflix.fun/toffeeWd/live.php?id=7c21a8ade135&e=.m3u8
+http://app.hughag.store/api/4518a8c92f/playlist.m3u8
 #EXTINF:-1 tvg-id="406435b761ad" tvg-logo="https://images.toffeelive.com/images/program/303947/logo/240x240/mobile_logo_203789001738235600.png" group-title="",Hum Masala
 https://xfireflix.fun/toffeeWd/live.php?id=406435b761ad&e=.m3u8
 #EXTINF:-1 tvg-id="598a5e7df0bd" tvg-logo="https://images.toffeelive.com/images/program/303948/logo/240x240/mobile_logo_350939001738236112.png" group-title="",Hum Sitarey
