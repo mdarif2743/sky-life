@@ -711,9 +711,9 @@ https://iptvcable.netlify.app/Altogether-007/Sports18-1.m3u8
 
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/ac/Star_Sports_2.jpg/revision/latest?cb=20191214232359" group-title="Xfireflix",Star Sports 2
-http://103.120.172.74:4200
+http://cool365.xyz:900/live/4160189881/DB4ACD54/378740.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSP8j8Vc_lguK13yQO9X3u_hvSXI2kmnJAywg&s" group-title="Xfireflix",Star Sports 3
-https://bdix.xfireflix.fun/stream.m3u8?id=3133
+http://cool365.xyz:900/live/4160189881/DB4ACD54/400159568.m3u8
 
 
 #EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/rwZdgMp5/download.png",Star sports select 1
@@ -884,7 +884,8 @@ https://www.xfireflix.fun/sports/stream.php/skystennis/playlist.m3u8
 
 #EXTINF:-1,FOX sports 501
 http://ee0c5e74.akadatel.com/iptv/QRDWGTBMDHSDGK/19146/index.m3u8
-
+#EXTINF:-1,DEZAN 1
+http://cool365.xyz:900/live/4160189881/DB4ACD54/165068.m3u8
 
 #EXTINF:-1, rush sports 2
 https://cdn-l3-jam-1.sportsmax.digicelgroup.com/sportsmax/live/ott/live/1110/CMAF/manifest.mpd?|drmScheme=clearkey&drmLicense=1779c27b9d077a3ba0c9cc1bb9a94b9f:cc5cf3b7928fb9e0a1ee6a8b566f0a8e
