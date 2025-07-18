@@ -722,12 +722,7 @@ http://cool365.xyz:900/live/4160189881/DB4ACD54/378739.m3u8
 http://cool365.xyz:900/live/4160189881/DB4ACD54/376465.m3u8
 
 #EXTINF:-1 group-logo="https://img.icons8.com/ios11/512/FFFFFF/github.png" group-title="All Working Channels" tvg-logo="https://i.ibb.co/KzXCnTKy/Ten-Cricket.png", Ten Cricket
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=9872e439f21f4a299cab249c6554daa3:0cdfcfe0d0f1fbe100554ce3ef4c4665
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; lontong-yuhu6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Mobile Safari/537.36
-https://edge3-moblive.yuppcdn.net/drm/smil:tencricketdrm.smil/manifest.mpd
-#https://edge3-moblive.yuppcdn.net/drm/smil:tencricketdrm.smil/index.m3u8
-
+http://app.hughag.store/api/6b9c461155/playlist.m3u8
 
 
 #EXTINF:-1 tvg-id="sony-ten-1-hd" tvg-logo="https://www.sonypicturesnetworks.com/images/logos/SONY_SportsTen1_HD_Logo_CLR.png" group-title="Sports",Sony Sports Ten 1 HD
