@@ -275,7 +275,7 @@ https://tataplay.slivcdn.com/hls/live/2011641/SonyAathSD/master.m3u8
 https://srknowapp.ncare.live/srktvhlswodrm/srktv.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="",Star Plus HD
-https://tiger-hub.vercel.app/Star-plus/tracks-v1a1/mono.ts.m3u8
+https://live.dinesh29.com.np/stream/livetv/starplushd/master.m3u8
 
 #EXTINF:-1 tvg-id="23" tvg-name="IN | & TV HD" tvg-logo="https://www.lyngsat.com/logo/tv/aa/and_tv_in.png" group-title="INDIAN ➾ ENTERTAINMENT", IN | & TV HD
 http://filex.me:8080/live/444476/444476/23.m3u8
