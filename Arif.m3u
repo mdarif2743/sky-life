@@ -422,7 +422,7 @@ http://smart.bengaldigital.live/Zee-Bangla-Cinema/index.m3u8
 https://lifetvbd.xyz:8880/play/_IHuWmwwlQ7tot9J5av1L8AKUID-lEPKSlznsS57zRk/ts
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/vijay-iptv/logos/refs/heads/main/Star_Movies_HD.png" group-title="Airtel | Tamil",Star Movies HD
-http://line.ultrab.xyz:80/live/ZeeALI1/465841/63511.m3u8
+https://live.dinesh29.com.np/stream/livetv/starmovieshd/master.m3u8
 
 #EXTINF:-1 tvg-id="sony-pix-hd" tvg-logo="https://sonypicturesnetworks.com/images/logos/PIX%20HD_WHITE.png" group-title="Movies",Sony PIX HD
 http://195.181.169.162/SONY_PIX_HD/index.m3u8?token=test
@@ -525,7 +525,7 @@ https://xfireflix.fun/toffeeWd/live.php?id=cd113761e022&e=.m3u8
 https://tataplay.slivcdn.com/hls/live/2011908/MAX2/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/vijay-iptv/logos/refs/heads/main/Star_Movies_Select_HD.png" group-title="Airtel | Tamil",Star Movies Select HD
-https://prod-live-s2-5k8Jm-stream-edge.ygxworld.in/jplus/1110/manifest.m3u8
+https://live.dinesh29.com.np/stream/livetv/starmoviesselecthd/master.m3u8
 
 #EXTINF:-1,STAR  WORLD HD
 https://rex-streaming.vercel.app/api/BDIX/109971.m3u8|user-agent=@xfireflixbd
