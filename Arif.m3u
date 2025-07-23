@@ -469,7 +469,7 @@ http://182.176.185.207:7500/play/a07w/index.m3u8
 http://182.176.185.207:7500/play/a07n/index.m3u8
 
 #EXTINF:-1 tvg-id="29" tvg-name="IN | STAR GOLD HD" tvg-logo="https://www.lyngsat.com/logo/tv/ss/star-gold-hd-india-in.png" group-title="INDIAN ➾ ENTERTAINMENT", IN | STAR GOLD HD
-http://tv.bdiptv.store:80/live/restreax/refstream/92.m3u8
+https://live.dinesh29.com.np/stream/livetv/stargoldhd/master.m3u8
 
 
 #EXTINF:-1,Star Select
