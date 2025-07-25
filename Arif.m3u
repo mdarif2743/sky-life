@@ -307,9 +307,8 @@ https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF9
 #EXTINF:-1 tvg-id="0-9-zeeanmol" group-title="Movies" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Zee_Anmol.png",Zee Anmol 
 https://live.dinesh29.com.np/stream/livetv/zeetv/master.m3u8
 
-#EXTINF:-1 tvg-id="87330" tvg-name="IN | COLORS INFINITY HD" tvg-logo="" group-title="INDIAN ➾ ENTERTAINMENT", IN | COLORS INFINITY HD
-http://filex.me:8080/live/444476/444476/87330.m3u8
-
+#EXTINF:-1 tvg-id="187" tvg-logo="https://live.dinesh29.com.np/logos/tataplay/colorsinfinityhd.png" group-title="Entertainment",Colors Infinity HD
+https://live.dinesh29.com.np/stream/tataplay/colorsinfinityhd/master.m3u8
 
 
 
@@ -534,6 +533,14 @@ https://live.dinesh29.com.np/stream/livetv/starmoviesselecthd/master.m3u8
 #EXTINF:-1,STAR  WORLD HD
 https://rex-streaming.vercel.app/api/BDIX/109971.m3u8|user-agent=@xfireflixbd
 
+#EXTINF:-1 tvg-id="562" tvg-logo="https://live.dinesh29.com.np/logos/tataplay/moviesnowhd.png" group-title="Movies",Movies Now HD
+https://live.dinesh29.com.np/stream/tataplay/moviesnowhd/master.m3u8
+#EXTINF:-1 tvg-id="210" tvg-logo="https://live.dinesh29.com.np/logos/tataplay/mnhd.png" group-title="Movies",MN+ HD
+https://live.dinesh29.com.np/stream/tataplay/mnhd/master.m3u8
+#EXTINF:-1 tvg-id="599" tvg-logo="https://live.dinesh29.com.np/logos/tataplay/mnxhd.png" group-title="Movies",MNX HD
+https://live.dinesh29.com.np/stream/tataplay/mnxhd/master.m3u8
+
+
 
 #EXTINF:-1 tvg-id="0-9-9z5543514" group-title="Movies" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/And_Prive_HD.png",&Prive HD 📺 (zee5)
 http://182.176.185.207:7500/play/a077/index.m3u8
@@ -546,7 +553,9 @@ https://tvsen6.aynaott.com/nexustv/index.m3u8?e=1750361666&u=8be812d7-3211-4694-
 https://tvsen6.aynaott.com/ekhontv/index.m3u8?e=1750361579&u=8be812d7-3211-4694-a402-0aa09074dfc1&token=abda8e29838acc02b17a58dd4c5c920d
 
 #EXTINF:-1 group-title="Infotainment" tvg-logo="https://i.postimg.cc/fTyctVD3/Discovery-HD.jpg",Discovery
+https://live.dinesh29.com.np/stream/tataplay/discoveryhdworld/master.m3u8
 https://tiger-hub.vercel.app/Discovery-Bangla/tracks-v1a1/mono.ts.m3u8
+
 
 #EXTINF:-1 group-title="Infotainment" tvg-logo="https://i.postimg.cc/fTyctVD3/Discovery-SD.jpg",Discovery sd
 https://tiger-hub.vercel.app/Discovery-bangla/tracks-v1a1/mono.m3u8
@@ -554,11 +563,11 @@ https://tiger-hub.vercel.app/Discovery-bangla/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Infotainment" tvg-logo="https://i.postimg.cc/SKhYrRFf/National-Geographic.jpg",Nat Geo Bangla
 https://rex-streaming.vercel.app/api/BDIX/245967.m3u8|user-agent=@xfireflixbdmain
 
+#EXTINF:-1 tvg-id="413" tvg-logo="https://live.dinesh29.com.np/logos/tataplay/natgeowildhd.png" group-title="Knowledge",Nat Geo Wild HD
+https://live.dinesh29.com.np/stream/tataplay/natgeowildhd/master.m3u8
 
-
-#EXTINF:-1 tvg-id="f70ef199f41d" tvg-logo="https://images.toffeelive.com/images/program/18096/logo/240x240/mobile_logo_032001001673194753.png" group-title="",Animal Planet HD
-http://smart.bengaldigital.live/TLC/index.m3u8
-
+#EXTINF:-1 tvg-id="287" tvg-logo="https://live.dinesh29.com.np/logos/tataplay/animalplanethdworld.png" group-title="Knowledge",Animal Planet HD World
+https://live.dinesh29.com.np/stream/tataplay/animalplanethdworld/master.m3u8
 
 #EXTINF:-1,HISTORY TV
 https://tiger-hub.vercel.app/History-tv-18_Hindy/tracks-v1a1/mono.ts.m3u8
@@ -567,8 +576,9 @@ https://tiger-hub.vercel.app@vodzong.mjunoon.tv:8087/streamtest/Animal-Planet-15
 #EXTINF:-1 group-title="Infotainment" tvg-logo="https://i.postimg.cc/Y05S4Fjz/Animal-Planet.jpg",BBC Earth
 https://tataplay.slivcdn.com/hls/live/2011907/SonyBBCEarthHD/master.m3u8
 
-#EXTINF:-1,TRAVEL XP BANGLA
-https://bdix.xfireflix.fun/bdix1/stream.m3u8/?id=15283
+#EXTINF:-1 tvg-id="484" tvg-logo="https://live.dinesh29.com.np/logos/tataplay/travelxphd.png" group-title="Lifestyle",Travelxp HD Bangla
+https://live.dinesh29.com.np/stream/tataplay/travelxphd/master.m3u8
+
 
 #EXTINF:-1 tvg-id="23" tvg-logo="https://s3.aynaott.com/storage/1d3d06e02fc9ba45a990b65aebd04ebc" group-title="",Duronto TV
 https://tvsen6.aynaott.com/durontotv/index.m3u8?e=1750361610&u=8be812d7-3211-4694-a402-0aa09074dfc1&token=7a24ff3341867ab93788c6403e6338a7
@@ -648,6 +658,11 @@ http://146.59.253.52:8080/hindihitshd/index.m3u8
 https://live.dinesh29.com.np/stream/livetv/yrfmusic/master.m3u8
 
 
+#EXTINF:-1 tvg-id="406" tvg-logo="https://live.dinesh29.com.np/logos/tataplay/mtvhd.png" group-title="Music",MTV HD
+https://live.dinesh29.com.np/stream/tataplay/mtvhd/master.m3u8
+
+
+
 #EXTINF:-1,MTV
 https://live.dinesh29.com.np/stream/livetv/mtv/master.m3u8
 
@@ -700,6 +715,14 @@ http://cool365.xyz:900/live/4160189881/DB4ACD54/400159568.m3u8
 http://cool365.xyz:900/live/4160189881/DB4ACD54/378739.m3u8
 #EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/rwZdgMp5/download.png",Star sports select 2
 http://cool365.xyz:900/live/4160189881/DB4ACD54/376465.m3u8
+
+#EXTINF:-1 tvg-id="1489" tvg-logo="https://live.dinesh29.com.np/logos/tataplay/tataplayfancodesports.png" group-title="Sports",Tata Play Fancode Sports
+https://live.dinesh29.com.np/stream/tataplay/tataplayfancodesports/master.m3u8
+#EXTINF:-1 tvg-id="1033" tvg-logo="https://live.dinesh29.com.np/logos/tataplay/starsports2hindihd.png" group-title="Sports",Star Sports 2 Hindi HD
+https://live.dinesh29.com.np/stream/tataplay/starsports2hindihd/master.m3u8
+
+#EXTINF:-1 tvg-id="812" tvg-logo="https://live.dinesh29.com.np/logos/tataplay/eurosporthd.png" group-title="Sports",Eurosport HD
+https://live.dinesh29.com.np/stream/tataplay/eurosporthd/master.m3u8
 
 #EXTINF:-1 group-logo="https://img.icons8.com/ios11/512/FFFFFF/github.png" group-title="All Working Channels" tvg-logo="https://i.ibb.co/KzXCnTKy/Ten-Cricket.png", Ten Cricket
 http://app.hughag.store/api/6b9c461155/playlist.m3u8
