@@ -917,16 +917,15 @@ https://cdn-l3-jam-1.sportsmax.digicelgroup.com/sportsmax/live/ott/live/1109/CMA
 
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/TSN1.svg/2560px-TSN1.svg.png" group-title="",VE-TSN 1
-https://yfkijlwj1wm320xr.youaresoselfish.online/v3/director/VE1MDExYmYxYjFiZDhkLWVkMTktNzhkNC0xMTBiLWIyZGZjODNm/master.m3u8
+http://212.102.60.231/TSN_1/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/sutruq1433379787.png" group-title="",VE-TSN 2
-https://yfkijlwj1wm320xr.youaresoselfish.online/v3/director/VE1OTZlNjZlYzdjMTlhLTYyMTgtNjQ0NC1jYzU3LTBmYzdmNmNh/master.m3u8
+http://212.102.60.231/TSN_2/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://apsiscom.com/images/channels/935.webp" group-title="",VE-TSN 3
-https://yfkijlwj1wm320xr.youaresoselfish.online/v3/director/VE1YzA3ZGVjOWEzMGU3LTg3NmItOGM2NC05ZGI4LTZiZDIxOTA1/master.m3u8
+http://212.102.60.231/TSN_3/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/yrrvpq1433380019.png" group-title="",VE-TSN 4
-https://yfkijlwj1wm320xr.youaresoselfish.online/v3/director/VE1N2M3NDM4YWNiYTc4LTJmMzktNDcwNC1hNDExLWQyMzAzNTY0/master.m3u8
+http://212.102.60.231/TSN_4/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://product-catalog-storage.s3.ca-central-1.amazonaws.com/channels/logo/TSN_5_HD.png" group-title="",VE-TSN 5
-https://yfkijlwj1wm320xr.youaresoselfish.online/v3/director/VE1ZjU1MDM5ZjMzY2FjLTY0Y2ItMDJkNC04MDM4LWVjYWNlNTEx/master.m3u8
-
+http://212.102.60.231/TSN_5/index.m3u8
 
 
 #EXTINF:0 group-title="SPORTS" ,Abu Dhabi Sports 1
