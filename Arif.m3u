@@ -825,7 +825,7 @@ https://tiger-hub.vercel.app/DAZN-LaLiga/tracks-v1a1/mono.m3u8
 
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/90GBNXPX/A-Sports-HD.jpg" group-title="Sports",A Sports
-http://182.176.185.207:7500/play/a0dd/index.m3u8
+https://crichdplaylist.extratvteam.workers.dev/master.m3u8?cid=asportshd
 
 #EXTINF:-1,CRICKLIFE 1
 https://ddy6new.newkso.ru/ddy6/premium282/mono.m3u8
