@@ -949,7 +949,9 @@ https://crichdplaylist.extratvteam.workers.dev/master.m3u8?cid=skysmixx
 https://crichdplaylist.extratvteam.workers.dev/master.m3u8?cid=skyspnews
 
 
-
+#EXTINF:-1 tvg-id="TransTV.id" tvg-url="https://bit.ly/IndonesiaEpg" tvg-logo="https://liveboxpro.com/assets/img/background.png" group-title="LIVE MATCH",SKY EVENT
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone17,5; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148 FireKeepers/1.7.0
+https://events3.liveboxpro.com/event/38.m3u8
 
 #EXTINF:-1,FOX sports 501
 http://ee0c5e74.akadatel.com/iptv/QRDWGTBMDHSDGK/19146/index.m3u8
