@@ -717,7 +717,11 @@ http://cool365.xyz:900/live/4160189881/DB4ACD54/378739.m3u8
 http://cool365.xyz:900/live/4160189881/DB4ACD54/376465.m3u8
 
 #EXTINF:-1 tvg-id="1033" tvg-logo="https://live.dinesh29.com.np/logos/tataplay/starsports2hindihd.png" group-title="Sports",Star Sports 2 Hindi HD
-https://live.dinesh29.com.np/stream/tataplay/starsports2hindihd/master.m3u8
+https://live.dinesh29.com.np/stream/jiotv/starsports2hindihd/master.m3u8
+
+
+#EXTINF:-1 tvg-id="1033" tvg-logo="https://live.dinesh29.com.np/logos/jiotv/starsportskhel.png" group-title="sports",star sports khel
+https://live.dinesh29.com.np/stream/jiotv/starsportskhel/master.m3u8
 
 #EXTINF:-1 tvg-id="812" tvg-logo="https://live.dinesh29.com.np/logos/tataplay/eurosporthd.png" group-title="Sports",Eurosport HD
 http://app.hughag.store/api/ef22d71b0e/playlist.m3u8
