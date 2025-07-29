@@ -553,7 +553,7 @@ https://tvsen6.aynaott.com/nexustv/index.m3u8?e=1750361666&u=8be812d7-3211-4694-
 https://tvsen6.aynaott.com/ekhontv/index.m3u8?e=1750361579&u=8be812d7-3211-4694-a402-0aa09074dfc1&token=abda8e29838acc02b17a58dd4c5c920d
 
 #EXTINF:-1 group-title="Infotainment" tvg-logo="https://i.postimg.cc/fTyctVD3/Discovery-HD.jpg",Discovery
-https://live.dinesh29.com.np/stream/tataplay/discoveryhdworld/master.m3u8
+https://tvsen6.aynascope.net/discovery_hd_bangla/index.m3u8?e=1753821203&u=9a031201-22d8-4f7e-9516-7d246a8fedc3&token=8b264c6d7ddabaa5c3a55936360cb6e7
 https://tiger-hub.vercel.app/Discovery-Bangla/tracks-v1a1/mono.ts.m3u8
 
 
@@ -577,7 +577,7 @@ https://tiger-hub.vercel.app@vodzong.mjunoon.tv:8087/streamtest/Animal-Planet-15
 https://tataplay.slivcdn.com/hls/live/2011907/SonyBBCEarthHD/master.m3u8
 
 #EXTINF:-1 tvg-id="484" tvg-logo="https://live.dinesh29.com.np/logos/tataplay/travelxphd.png" group-title="Lifestyle",Travelxp HD Bangla
-https://live.dinesh29.com.np/stream/tataplay/travelxphd/master.m3u8
+http://tv.bdiptv.store:80/live/restreauu/refstream/15283.m3u8
 
 
 #EXTINF:-1 tvg-id="23" tvg-logo="https://s3.aynaott.com/storage/1d3d06e02fc9ba45a990b65aebd04ebc" group-title="",Duronto TV
@@ -716,13 +716,11 @@ http://cool365.xyz:900/live/4160189881/DB4ACD54/378739.m3u8
 #EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/rwZdgMp5/download.png",Star sports select 2
 http://cool365.xyz:900/live/4160189881/DB4ACD54/376465.m3u8
 
-#EXTINF:-1 tvg-id="1489" tvg-logo="https://live.dinesh29.com.np/logos/tataplay/tataplayfancodesports.png" group-title="Sports",Tata Play Fancode Sports
-https://live.dinesh29.com.np/stream/tataplay/tataplayfancodesports/master.m3u8
 #EXTINF:-1 tvg-id="1033" tvg-logo="https://live.dinesh29.com.np/logos/tataplay/starsports2hindihd.png" group-title="Sports",Star Sports 2 Hindi HD
 https://live.dinesh29.com.np/stream/tataplay/starsports2hindihd/master.m3u8
 
 #EXTINF:-1 tvg-id="812" tvg-logo="https://live.dinesh29.com.np/logos/tataplay/eurosporthd.png" group-title="Sports",Eurosport HD
-https://live.dinesh29.com.np/stream/tataplay/eurosporthd/master.m3u8
+http://app.hughag.store/api/ef22d71b0e/playlist.m3u8
 
 #EXTINF:-1 group-logo="https://img.icons8.com/ios11/512/FFFFFF/github.png" group-title="All Working Channels" tvg-logo="https://i.ibb.co/KzXCnTKy/Ten-Cricket.png", Ten Cricket
 http://app.hughag.store/api/6b9c461155/playlist.m3u8
