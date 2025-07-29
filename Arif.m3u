@@ -561,13 +561,12 @@ https://tiger-hub.vercel.app/Discovery-Bangla/tracks-v1a1/mono.ts.m3u8
 https://tiger-hub.vercel.app/Discovery-bangla/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 group-title="Infotainment" tvg-logo="https://i.postimg.cc/SKhYrRFf/National-Geographic.jpg",Nat Geo Bangla
-https://rex-streaming.vercel.app/api/BDIX/245967.m3u8|user-agent=@xfireflixbdmain
 
-#EXTINF:-1 tvg-id="413" tvg-logo="https://live.dinesh29.com.np/logos/tataplay/natgeowildhd.png" group-title="Knowledge",Nat Geo Wild HD
-https://live.dinesh29.com.np/stream/tataplay/natgeowildhd/master.m3u8
 
-#EXTINF:-1 tvg-id="287" tvg-logo="https://live.dinesh29.com.np/logos/tataplay/animalplanethdworld.png" group-title="Knowledge",Animal Planet HD World
-https://live.dinesh29.com.np/stream/tataplay/animalplanethdworld/master.m3u8
+
+
+#EXTINF:-1 tvg-id="287" tvg-logo="https://live.dinesh29.com.np/logos/tataplay/animalplanethdworld.png" group-title="Knowledge",Animal Planet HD hindi
+https://live.dinesh29.com.np/stream/jiotv/animalplanethindi/master.m3u8
 
 #EXTINF:-1,HISTORY TV
 https://tiger-hub.vercel.app/History-tv-18_Hindy/tracks-v1a1/mono.ts.m3u8
