@@ -412,6 +412,13 @@ https://amg01448-samsungin-news18bangla-samsungin-ad-qy.amagi.tv/playlist/amg014
 https://tvsen6.aynaott.com/TV9Bangla/index.m3u8?e=1750361767&u=8be812d7-3211-4694-a402-0aa09074dfc1&token=d8c0574d88e3817e92a9be8c386cd87b
 https://lifetvbd.xyz:8880/play/_IHuWmwwlQ7tot9J5av1LwTlcgb1UGjZBClJrkSqDm4/ts
 
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://live.dinesh29.com.np/logos/jiotvplus/jalshamovies.png" group-title="Indian bangla",Jalsha Movie sd
+https://live.dinesh29.com.np/stream/jiotvplus/jalshamovies/master.m3u8
+
+
+
+
 #EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/78/Jalsha-movie.png/revision/latest?cb=20190806073643" group-title="Xfireflix",Jalsha Movie Xfireflix
 https://tiger-hub.vercel.app/Jalsha_movies/tracks-v1a1/mono.ts.m3u8
 
