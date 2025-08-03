@@ -256,16 +256,15 @@ https://live.sanonda.tv/sanonda/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://kst.moonplex.net/iptv/img/logo/zee-bangla.jpg" group-title="Indian",Zee Bangla HD
 https://tiger-hub.vercel.app/Zee-bangla/tracks-v1a1/mono.ts.m3u8
 
-#EXTINF:0 group-title="5. INDIAN BANGLA" ,SUN BANGLA
+#EXTINF:-1 tvg-id="sunbangla" tvg-logo="https://live.dinesh29.com.np/logos/jiotvplus/sunbangla.png" group-title="Entertainment",Sun Bangla
 http://smart.bengaldigital.live/sun-bangla-paid/index.m3u8
 
 
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/ZzWVkn8K/image.jpg" group-title="Entertainment",COLORS BANGLA HD 📡 (ENTERTAINMENT)
+#EXTINF:-1 tvg-id="colorsbengalihd" tvg-logo="https://live.dinesh29.com.np/logos/jiotvplus/colorsbengalihd.png" group-title="Entertainment",Colors Bengali HD
 https://rex-streaming.vercel.app/api/Bdx2/83764.m3u8|user-agent=@xfireflix
 
 
-#EXTINF:-1,COLORS BANGLA sd
+#EXTINF:-1 tvg-id="colorsbanglasd" tvg-logo="https://live.dinesh29.com.np/logos/jiotvplus/colorsbanglasd.png" group-title="Entertainment",Colors Bangla SD
 https://live.dinesh29.com.np/stream/jiotv/colorsbanglasd/master.m3u8
 
 #EXTINF:-1 tvg-id="sony-aath" tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY%20AATH.png" group-title="Entertainment",Sony Aath
@@ -275,6 +274,11 @@ https://tataplay.slivcdn.com/hls/live/2011641/SonyAathSD/master.m3u8
 #EXTINF:-1 tvg-id="141" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1746005940155.png" group-title="Entertainment",SRK TV
 https://srknowapp.ncare.live/srktvhlswodrm/srktv.stream/playlist.m3u8
 
+
+#EXTINF:-1 tvg-id="starplus" tvg-logo="https://live.dinesh29.com.np/logos/jiotvplus/starplus.png" group-title="Entertainment",Star Plus
+https://live.dinesh29.com.np/stream/jiotvplus/starplus/master.m3u8
+
+
 #EXTINF:-1 tvg-id="" tvg-logo="https://live.dinesh29.com.np/logos/jiotvplus/starplushd.png" group-title="Indian hindi",Star Plus HD
 https://tiger-hub.vercel.app/Star-plus/tracks-v1a1/mono.ts.m3u8
 
@@ -282,9 +286,12 @@ https://tiger-hub.vercel.app/Star-plus/tracks-v1a1/mono.ts.m3u8
 http://filex.me:8080/live/444476/444476/23.m3u8
 
 
-#EXTINF:-1, STAR BHARAT HD
-https://tiger-hub.vercel.app/Star-Barat/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 tvg-id="starbharathd" tvg-logo="https://live.dinesh29.com.np/logos/jiotvplus/starbharathd.png" group-title="Entertainment",Star Bharat HD
+https://live.dinesh29.com.np/stream/jiotvplus/starbharathd/master.m3u8
 
+
+#EXTINF:-1 tvg-id="colorssuper" tvg-logo="https://live.dinesh29.com.np/logos/jiotvplus/colorssuper.png" group-title="Entertainment",Colors Super
+https://live.dinesh29.com.np/stream/jiotvplus/colorssuper/master.m3u8
 
 #EXTINF:-1 tvg-id="zee-tv" tvg-name="Zee TV" tvg-language="Hindi" tvg-country="IN" tvg-logo="https://d388d59m61mm0v.cloudfront.net/optimized/content/common/logos/channel/logos/qsrytm.png" tvg-chno="zee-tv" group-title="Entertainment",Zee TV HD
 https://tiger-hub.vercel.app/Zee___tv-/tracks-v1a1/mono.ts.m3u8
@@ -299,8 +306,11 @@ https://tataplay.slivcdn.com/hls/live/2011671/SETHD/master.m3u8
 https://tataplay.slivcdn.com/hls/live/2011749/SABHD/master.m3u8
 
 
-#EXTINF:-1, tvg-logo="https://static.epg.best/gb/Colors.uk.png"Group-title= COLORS HD
+#EXTINF:-1 tvg-id="colorshd" tvg-logo="https://live.dinesh29.com.np/logos/jiotvplus/colorshd.png" group-title="Entertainment",Colors HD
 http://195.181.169.162/COLORS_HD/index.m3u8?token=test
+
+#EXTINF:-1 tvg-id="colorssd" tvg-logo="https://live.dinesh29.com.np/logos/jiotvplus/colorssd.png" group-title="Entertainment",Colors SD
+https://live.dinesh29.com.np/stream/jiotvplus/colorssd/master.m3u8
 
 
 #EXTINF:-1 tvg-id="Music" tvg-name="Zoom" tvg-logo="https://i.postimg.cc/Bb01Tz1C/Picsart-25-01-28-11-30-34-024.jpg" group-title="Music",Zoom
@@ -336,8 +346,9 @@ http://66.102.120.18:8000/play/a05i/index.m3u8
 #EXTINF:-1,HUM TV NEWS
 http://66.102.120.18:8000/play/a05e/index.m3u8
 
-#EXTINF:-1,COLORS RISTEY
-https://live.dinesh29.com.np/stream/livetv/rishtey/master.m3u8
+#EXTINF:-1 tvg-id="rishtey" tvg-logo="https://live.dinesh29.com.np/logos/jiotvplus/rishtey.png" group-title="Entertainment",Rishtey
+https://live.dinesh29.com.np/stream/jiotvplus/rishtey/master.m3u8
+
 
 #EXTINF:-1 tvg-id="103" tvg-name="IN | STAR UTSAV HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2024-08/0745eefbd8a17542003f01bf22735da0.png" group-title="INDIAN ➾ ENTERTAINMENT", IN | STAR UTSAV HD
 http://filex.me:8080/live/444476/444476/103.m3u8
@@ -380,10 +391,11 @@ https://live.dinesh29.com.np/stream/livetv/bbcnews/master.m3u8
 https://tiger-hub.vercel.app@vodzong.mjunoon.tv:8087/streamtest/cnn-86/playlist.m3u8
 
 
-#EXTINF:-1 group-title="News" tvg-logo="https://i.imgur.com/e3cYtrb.jpg",Aljazeera
-https://live-hls-v3-aje.getaj.net/AJE-V3/index.m3u8
+#EXTINF:-1 tvg-id="aljazeera" tvg-logo="https://live.dinesh29.com.np/logos/jiotvplus/aljazeera.png" group-title="News",AL Jazeera
+https://live.dinesh29.com.np/stream/jiotvplus/aljazeera/master.m3u8
 
-#EXTINF:-1 tvg-logo=""group-title="English News" group-title="",DW
+
+#EXTINF:-1 tvg-id="dw" tvg-logo="https://live.dinesh29.com.np/logos/jiotvplus/dw.png" group-title="News",dw
 https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8
 
 #EXTINF:-1 group-title="News" tvg-logo="https://i.imgur.com/e3cYtrb.jpg",Aaj Tak HD (IN)
@@ -396,7 +408,8 @@ https://tvsen6.aynaott.com/RplusGold/index.m3u8?e=1750361752&u=8be812d7-3211-469
 #EXTINF:-1 tvg-id="123" tvg-logo="https://s3.aynaott.com/storage/a2e4c33ceb47390ffe673a946a749d79" group-title="",Rupshi Bangla
 https://tvsen6.aynaott.com/RupshiBangla/index.m3u8?e=1750361755&u=8be812d7-3211-4694-a402-0aa09074dfc1&token=ef2cfeb44a3ab643c5405fca626a05ee
 #EXTINF:-1 tvg-id="125" tvg-logo="https://s3.aynaott.com/storage/a4026bfc5928a4abd66c10a5b8d07eba" group-title="",News Time Bangla
-https://tvsen6.aynaott.com/NewsTime/index.m3u8?e=1750361761&u=8be812d7-3211-4694-a402-0aa09074dfc1&token=90697e2ff77a380fd37cf4ddad6ea3e9
+https://tvsen6.aynaott.com/NewsTime/index.m3u8?e=1750361761&u=8be812d7-3211-4694-a402-0aa09074dfc1&token=90697e2ff77a380fd37cfNewsd6ea3e9
+
 #EXTINF:-1 tvg-id="126" tvg-logo="https://s3.aynaott.com/storage/68f655a765e55c45ef9d086cec71606c" group-title="",Republic Bangla
 https://tvsen6.aynaott.com/R_Bangla/index.m3u8?e=1750361764&u=8be812d7-3211-4694-a402-0aa09074dfc1&token=ffaf88a3c6686dd41e7bca6a143480ab
 #EXTINF:-1 tvg-id="129" tvg-logo="https://s3.aynaott.com/storage/9f4112fd1e33156e5d4101d60fdd3458" group-title="",News India 24x7
@@ -407,10 +420,12 @@ https://tvsen6.aynaott.com/kolkatatv/index.m3u8?e=1750361775&u=8be812d7-3211-469
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/sun-bangla-in.png" group-title="Indian-Bangla",Zee 24 Ghanta
 https://tvsen6.aynaott.com/zee24/index.m3u8?e=1750361769&u=8be812d7-3211-4694-a402-0aa09074dfc1&token=1b07bdd522a8d5891b24cba435736dd5
 
-#EXTINF:-1 tvg-logo="https://jio.dinesh29.com.np/smart/ardinesh/logos/news18-bangla-news.png" group-title="Indian-Bangla",News18 Bangla News
+
+#EXTINF:-1 tvg-id="news18banglanews" tvg-logo="https://live.dinesh29.com.np/logos/jiotvplus/news18banglanews.png" group-title="News",News18 Bangla News
 https://amg01448-samsungin-news18bangla-samsungin-ad-qy.amagi.tv/playlist/amg01448-samsungin-news18bangla-samsungin/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://jio.dinesh29.com.np/smart/ardinesh/logos/tv9-bangla.png" group-title="Indian-Bangla",TV9 Bangla
+
+#EXTINF:-1 tvg-id="tv9bangla" tvg-logo="https://live.dinesh29.com.np/logos/jiotvplus/tv9bangla.png" group-title="News",TV9 Bangla
 https://tvsen6.aynaott.com/TV9Bangla/index.m3u8?e=1750361767&u=8be812d7-3211-4694-a402-0aa09074dfc1&token=d8c0574d88e3817e92a9be8c386cd87b
 https://lifetvbd.xyz:8880/play/_IHuWmwwlQ7tot9J5av1LwTlcgb1UGjZBClJrkSqDm4/ts
 
@@ -478,8 +493,9 @@ http://182.176.185.207:7500/play/a07w/index.m3u8
 #EXTINF:-1 tvg-id="starutsavmovies" tvg-logo="https://live.dinesh29.com.np/logos/jiotvplus/starutsavmovies.png" group-title="Movies",Star Utsav Movies
 https://tiger-hub.vercel.app/Star__utsab--movies/tracks-v1a1/mono.ts.m3u8
 
-#EXTINF:-1,STAR GOLD TRILLER
-http://182.176.185.207:7500/play/a07n/index.m3u8
+#EXTINF:-1 tvg-id="stargoldthrills" tvg-logo="https://live.dinesh29.com.np/logos/jiotvplus/stargoldthrills.png" group-title="Movies",Star Gold Thrills
+https://live.dinesh29.com.np/stream/jiotvplus/stargoldthrills/master.m3u8
+
 
 #EXTINF:-1 tvg-id="29" tvg-name="IN | STAR GOLD HD" tvg-logo="https://www.lyngsat.com/logo/tv/ss/star-gold-hd-india-in.png" group-title="INDIAN ➾ ENTERTAINMENT", IN | STAR GOLD HD
 https://tiger-hub.vercel.app/Star-Gold/tracks-v1a1/mono.ts.m3u8
@@ -614,7 +630,12 @@ http://tv.bdiptv.store:80/live/restreauu/refstream/15283.m3u8
 #EXTINF:-1 tvg-id="23" tvg-logo="https://s3.aynaott.com/storage/1d3d06e02fc9ba45a990b65aebd04ebc" group-title="",Duronto TV
 https://tvsen6.aynaott.com/durontotv/index.m3u8?e=1750361610&u=8be812d7-3211-4694-a402-0aa09074dfc1&token=7a24ff3341867ab93788c6403e6338a7
 
-#EXTINF:-1,TLC sd
+#EXTINF:-1 tvg-id="tlchindi" tvg-logo="https://live.dinesh29.com.np/logos/jiotvplus/tlchindi.png" group-title="Lifestyle",TLC Hindi
+https://live.dinesh29.com.np/stream/jiotvplus/tlchindi/master.m3u8
+
+
+
+#EXTINF:-1 tvg-id="tlcenglish" tvg-logo="https://live.dinesh29.com.np/logos/jiotvplus/tlcenglish.png" group-title="Lifestyle",TLC English
 http://smart.bengaldigital.live/TLC/index.m3u8
 
 #EXTINF:-1 tvg-id="cbeebies-asia-hd" tvg-logo="https://live.dinesh29.com.np/logos/cbeebies-asia-hd.png" group-title="Kids",CBeebies Asia HD
@@ -625,8 +646,14 @@ https://live.dinesh29.com.np/stream/livetv/animax/master.m3u8
 https://live.dinesh29.com.np/stream/livetv/hungamatv/master.m3u8
 #EXTINF:-1 tvg-id="nick-india" tvg-logo="https://live.dinesh29.com.np/logos/nick-india.png" group-title="Kids",Nick India
 https://live.dinesh29.com.np/stream/livetv/nickindia/master.m3u8
-#EXTINF:-1 tvg-id="disney-xd" tvg-logo="https://live.dinesh29.com.np/logos/disney-xd.png" group-title="Kids",Super Hungama
+
+
+
+#EXTINF:-1 tvg-id="superhungama" tvg-logo="https://live.dinesh29.com.np/logos/jiotvplus/superhungama.png" group-title="Kids",Super Hungama
 https://live.dinesh29.com.np/stream/livetv/disneyxd/master.m3u8
+
+
+
 #EXTINF:-1 tvg-id="disney-channel" tvg-logo="https://live.dinesh29.com.np/logos/disney-channel.png" group-title="Kids",Disney Channel
 https://live.dinesh29.com.np/stream/livetv/disneychannel/master.m3u8
 
@@ -638,8 +665,14 @@ https://live.dinesh29.com.np/stream/jiotv/nickbangla/master.m3u8
 #EXTINF:-1 tvg-id="sony-yay" tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY%20YAY.png" group-title="Kids",Sony Yay
 https://tataplay.slivcdn.com/hls/live/2011746/SonyYaySD/master.m3u8
 
-#EXTINF:-1 group-title="Kids" tvg-logo="https://i.imgur.com/chT8xP5.png",Pogo
-https://amg01448-samsungin-pogo-samsungin-dzccl.amagi.tv/playlist/amg01448-samsungin-pogo-samsungin/playlist.m3u8
+#EXTINF:-1 tvg-id="pogohindi" tvg-logo="https://live.dinesh29.com.np/logos/jiotvplus/pogohindi.png" group-title="Kids",Pogo Hindi
+https://live.dinesh29.com.np/stream/jiotvplus/pogohindi/master.m3u8
+
+#EXTINF:-1 tvg-id="sonichindi" tvg-logo="https://live.dinesh29.com.np/logos/jiotvplus/sonichindi.png" group-title="Kids",Sonic Hindi
+https://live.dinesh29.com.np/stream/jiotvplus/sonichindi/master.m3u8
+
+#EXTINF:-1 tvg-id="cartoonnetworkhindi" tvg-logo="https://live.dinesh29.com.np/logos/jiotvplus/cartoonnetworkhindi.png" group-title="Kids",Cartoon Network Hindi
+https://live.dinesh29.com.np/stream/jiotvplus/cartoonnetworkhindi/master.m3u8
 
 #EXTINF:-86 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSKyMNNb_SRC2dnm7IW84llAJ9aO5Zb7V4jdjHaweOo58tzrc9pSsRv85-TZD1w4L57nc4&usqp=CAU" group-title="MUSIC",Music India
 #https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Musicindia/default/index.m3u8
