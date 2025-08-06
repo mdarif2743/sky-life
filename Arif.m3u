@@ -539,9 +539,10 @@ http://195.181.169.162:80/AND_PICTURES_HD/index.mpd?token=test
 #EXTINF:-1 tvg-id="Zee Classic" , Zee Classic m3u8 Airtel
 http://line.greatstar.me:80/play/live.php?mac=00:1A:79:C9:AF:CF&stream=311858&extension=m3u8
 
-#EXTINF:-1 tvg-id="zee-cinema" tvg-name="Zee Cinema" tvg-language="Hindi" tvg-country="IN" tvg-logo="https://d388d59m61mm0v.cloudfront.net/optimized/content/common/logos/channel/logos/bklqmv.png" tvg-chno="zee-cinema" group-title="Movies",Zee Cinema
-#https://tiger-hub.vercel.app/Zee-Cinema-__/tracks-v1a1/mono.ts.m3u8
-http://rhsbjv7k.tvclub.xyz/iptv/MXUV9GU7KLRNNN/6708/index.m3u8
+#EXTINF:-1 tvg-id="0-9-zeecinema" group-title="Movies" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Zee_Cinema.png",Zee Cinema
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 ygx/69.1 Safari/537.36
+https://z5ak-cmaflive.zee5.com/cmaf/live/2105552/ZeeCinemaELE/master.m3u8?hdntl=exp=1754571724~acl=%2f*~data=hdntl~hmac=b662d2b5395562dfb6d84c6e640067eb12ad2d97ccc485925589f183445b60a0
+
 
 #EXTINF:-1 tvg-id="zee-action" tvg-name="Zee Action" tvg-language="Hindi" tvg-country="IN" tvg-logo="https://d388d59m61mm0v.cloudfront.net/optimized/content/common/logos/channel/logos/lopgzj.png" tvg-chno="zee-action" group-title="Movies",Zee Action
 https://tiger-hub.vercel.app/Zee--_action-/tracks-v1a1/mono.ts.m3u8
