@@ -332,7 +332,8 @@ https://live.dinesh29.com.np/stream/livetv/zeecafehd/master.m3u8
 http://66.102.120.18:8000/play/a076/index.m3u8
 
 #EXTINF:1 tvg-name="Zee zeest" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/657978e7a8676a17df103068/images/zee_zest.png" group-title="Entertainment",Zee zeest
-https://la.drmlive.net/tp/zee-348.m3u8|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
+http://195.181.169.162:80/LIVING_FOODZ_HD/index.mpd?token=test
+
 
 #EXTINF:-1 tvg-id="7c21a8ade135" tvg-logo="https://images.toffeelive.com/images/program/303937/logo/240x240/mobile_logo_880134001738072763.png" group-title="",Hum TV
 http://66.102.120.18:8000/play/a06c/index.m3u8
@@ -462,8 +463,8 @@ http://filex.me:8080/live/444476/444476/55.m3u8
 https://live.dinesh29.com.np/stream/livetv/andpictureshd/master.m3u8
 
 
-#EXTINF:-1 tvg-id="0-9-tvhd_0" group-title="Entertainment" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/And_TV_HD.png",&TV
-https://live.dinesh29.com.np/stream/livetv/andtvhd/master.m3u8
+#EXTINF:-1 tvg-id="0-9-tvhd_0" group-title="Entertainment" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/And_TV_HD.png",&TV HD
+http://195.181.169.162:80/AND_TV_HD/index.mpd?token=test
 
 
 
@@ -520,7 +521,7 @@ http://filex.me:8080/live/444476/444476/31.m3u8
 https://live.dinesh29.com.np/stream/jiotvplus/stargold2hd/master.m3u8
 
 #EXTINF:-1 tvg-id="35" tvg-name="IN | & PICTURES HD" tvg-logo="http://filex.tv:8080/images/06ae3d7e2037a51f743e3b718f5f70e9.png" group-title="INDIAN ➾ ENTERTAINMENT", IN | & PICTURES HD
-http://filex.me:8080/live/444476/444476/35.m3u8
+http://195.181.169.162:80/AND_PICTURES_HD/index.mpd?token=test
 
 
 #EXTINF:-1 tvg-id="Zee Classic" , Zee Classic m3u8 Airtel
