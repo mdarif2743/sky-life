@@ -970,16 +970,6 @@ https://cdn-l3-jam-1.sportsmax.digicelgroup.com/sportsmax/live/ott/live/1110/CMA
 https://cdn-l3-jam-1.sportsmax.digicelgroup.com/sportsmax/live/ott/live/1109/CMAF/manifest.mpd?|drmScheme=clearkey&drmLicense=1779c27b9d077a3ba0c9cc1bb9a94b9f:cc5cf3b7928fb9e0a1ee6a8b566f0a8e
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/TSN1.svg/2560px-TSN1.svg.png" group-title="",VE-TSN 1
-https://events3.liveboxpro.com/event/111.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/sutruq1433379787.png" group-title="",VE-TSN 2
-https://events3.liveboxpro.com/event/112.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://apsiscom.com/images/channels/935.webp" group-title="",VE-TSN 3
-https://events3.liveboxpro.com/event/113.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/yrrvpq1433380019.png" group-title="",VE-TSN 4
-https://events3.liveboxpro.com/event/114.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://product-catalog-storage.s3.ca-central-1.amazonaws.com/channels/logo/TSN_5_HD.png" group-title="",VE-TSN 5
-https://events3.liveboxpro.com/event/115.m3u8
 
 
 #EXTINF:0 group-title="SPORTS" ,Abu Dhabi Sports 1
@@ -1005,14 +995,6 @@ http://185.189.225.157/EuroSport2/index.m3u8
 #EXTINF:0 group-title="SPORTS" ,ČT Sport
 http://88.212.15.19/live/test_ctsport_25p/playlist.m3u8
 
-#EXTINF:-1,TNT SPORTS 1 🇺🇸
-https://crichdplaylist.extratvteam.workers.dev/master.m3u8?cid=bbtsp1
-#EXTINF:-1,TNT SPORTS 2 🇺🇸
-https://crichdplaylist.extratvteam.workers.dev/master.m3u8?cid=bbtsp2
-#EXTINF:-1,TNT SPORTS 3 🇺🇸
-https://crichdplaylist.extratvteam.workers.dev/master.m3u8?cid=bbtsp3
-#EXTINF:-1 tvg-id="" tvg-logo="https://media.info/l/o/1/1491.1690027975.png" group-title="",ve-tnt4
-https://crichdplaylist.extratvteam.workers.dev/master.m3u8?cid=bbtespn
 
 
 
