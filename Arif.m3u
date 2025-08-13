@@ -903,7 +903,11 @@ https://tiger-hub.vercel.app/DAZN-LaLiga/tracks-v1a1/mono.m3u8
 https://crichdplaylist.extratvteam.workers.dev/master.m3u8?cid=asportshd
 
 #EXTINF:-1,CRICKLIFE 1
-https://ddy6new.newkso.ru/ddy6/premium282/mono.m3u8
+https://119-ar.vercel.app/hls.live.stream.php/mac=178314/mono.m3u8
+
+
+#EXTINF:-1, CRICBUZZ 2
+https://119-ar.vercel.app/hls.live.stream.php/mac=178214/mono.m3u8
 
 #EXTINF:-1,TEN SPORTS HD
 http://filex.me:8080/live/444476/444476/52106.m3u8
