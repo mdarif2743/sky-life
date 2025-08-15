@@ -286,7 +286,7 @@ https://live.dinesh29.com.np/stream/jiotvplus/starplus/master.m3u8
 https://tiger-hub.vercel.app/Star-plus/tracks-v1a1/mono.ts.m3u8
 
 #EXTINF:-1 tvg-id="23" tvg-name="IN | & TV HD" tvg-logo="https://www.lyngsat.com/logo/tv/aa/and_tv_in.png" group-title="INDIAN ➾ ENTERTAINMENT", IN | & TV HD
-http://filex.me:8080/live/444476/444476/23.m3u8
+https://tiger-hub.vercel.app/&TV/tracks-v1a1/mono.ts.m3u8
 
 
 #EXTINF:-1 tvg-id="starbharathd" tvg-logo="https://live.dinesh29.com.np/logos/jiotvplus/starbharathd.png" group-title="Entertainment",Star Bharat HD
@@ -532,7 +532,7 @@ http://filex.me:8080/live/444476/444476/31.m3u8
 https://live.dinesh29.com.np/stream/jiotvplus/stargold2hd/master.m3u8
 
 #EXTINF:-1 tvg-id="35" tvg-name="IN | & PICTURES HD" tvg-logo="http://filex.tv:8080/images/06ae3d7e2037a51f743e3b718f5f70e9.png" group-title="INDIAN ➾ ENTERTAINMENT", IN | & PICTURES HD
-http://195.181.169.162:80/AND_PICTURES_HD/index.mpd?token=test
+https://tiger-hub.vercel.app/&Picture/tracks-v1a1/mono.ts.m3u8
 
 
 #EXTINF:-1 tvg-id="Zee Classic" , Zee Classic m3u8 Airtel
@@ -1248,8 +1248,18 @@ https://events3.liveboxpro.com/event/114.m3u8
 https://events3.liveboxpro.com/event/115.m3u8
 
 
-
-
+#EXTINF:-1 ALKASS 1
+https://tiger-hub.vercel.app/Al-kass-Sports/1/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 ALKASS 2
+https://tiger-hub.vercel.app/Al-kass-Sports/2/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 ALKASS 3
+https://tiger-hub.vercel.app/Al-kass-Sports/3/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 ALKASS 4
+https://tiger-hub.vercel.app/Al-kass-Sports/4/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 ALKASS 5
+https://tiger-hub.vercel.app/Al-kass-Sports/5/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 ALKASS 6
+https://tiger-hub.vercel.app/Al-kass-Sports/6/tracks-v1a1/mono.ts.m3u8
 
 
 
