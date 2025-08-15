@@ -1248,17 +1248,17 @@ https://events3.liveboxpro.com/event/114.m3u8
 https://events3.liveboxpro.com/event/115.m3u8
 
 
-#EXTINF:-1 ALKASS 1
+#EXTINF:-1,ALKASS 1
 https://tiger-hub.vercel.app/Al-kass-Sports/1/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 ALKASS 2
+#EXTINF:-1,ALKASS 2
 https://tiger-hub.vercel.app/Al-kass-Sports/2/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 ALKASS 3
+#EXTINF:-1,ALKASS 3
 https://tiger-hub.vercel.app/Al-kass-Sports/3/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 ALKASS 4
+#EXTINF:-1,ALKASS 4
 https://tiger-hub.vercel.app/Al-kass-Sports/4/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 ALKASS 5
+#EXTINF:-1,ALKASS 5
 https://tiger-hub.vercel.app/Al-kass-Sports/5/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 ALKASS 6
+#EXTINF:-1,ALKASS 6
 https://tiger-hub.vercel.app/Al-kass-Sports/6/tracks-v1a1/mono.ts.m3u8
 
 
