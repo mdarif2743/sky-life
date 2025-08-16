@@ -506,8 +506,8 @@ https://live.dinesh29.com.np/stream/jiotvplus/stargoldthrills/master.m3u8
 
 
 #EXTINF:-1 tvg-id="29" tvg-name="IN | STAR GOLD HD" tvg-logo="https://www.lyngsat.com/logo/tv/ss/star-gold-hd-india-in.png" group-title="INDIAN ➾ ENTERTAINMENT", IN | STAR GOLD HD
-https://mxon-xtreme.vercel.app/live/785.m3u8
 #https://tiger-hub.vercel.app/Star-Gold/tracks-v1a1/mono.ts.m3u8
+https://mxon-xtreme.vercel.app/live/785.m3u8
 
 #EXTINF:-1 tvg-id="stargold" tvg-logo="https://live.dinesh29.com.np/logos/jiotvplus/stargold.png" group-title="Movies",Star Gold
 https://live.dinesh29.com.np/stream/jiotvplus/stargold/master.m3u8
