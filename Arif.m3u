@@ -619,9 +619,8 @@ https://live.dinesh29.com.np/stream/jiotvplus/natgeowildhd/master.m3u8
 https://live.dinesh29.com.np/stream/jiotv/animalplanethindi/master.m3u8
 
 #EXTINF:-1 tvg-id="historytv18hd" tvg-logo="https://live.dinesh29.com.np/logos/jiotvplus/historytv18hd.png" group-title="Infotainment",History TV18 HD
-https://mxon-xtreme.vercel.app/live/791.m3u8
 #https://tiger-hub.vercel.app/History-tv-18_Hindy/tracks-v1a1/mono.ts.m3u8
-
+https://mxon-xtreme.vercel.app/live/791.m3u8
 
 #EXTINF:-1 tvg-id="animalplanethindi" tvg-logo="https://live.dinesh29.com.np/logos/jiotvplus/animalplanethindi.png" group-title="Infotainment",Animal Planet Hindi
 https://tiger-hub.vercel.app@vodzong.mjunoon.tv:8087/streamtest/Animal-Planet-158-3/playlist.m3u8
@@ -631,9 +630,8 @@ https://tiger-hub.vercel.app@vodzong.mjunoon.tv:8087/streamtest/Animal-Planet-15
 https://tataplay.slivcdn.com/hls/live/2011907/SonyBBCEarthHD/master.m3u8
 
 #EXTINF:-1 tvg-id="484" tvg-logo="https://live.dinesh29.com.np/logos/tataplay/travelxphd.png" group-title="Lifestyle",Travelxp HD Bangla
-https://mxon-xtreme.vercel.app/live/792.m3u8
 #http://tv.bdiptv.store:80/live/restreauu/refstream/15283.m3u8
-
+https://mxon-xtreme.vercel.app/live/792.m3u8
 
 #EXTINF:-1 tvg-id="23" tvg-logo="https://s3.aynaott.com/storage/1d3d06e02fc9ba45a990b65aebd04ebc" group-title="",Duronto TV
 https://tvsen6.aynaott.com/durontotv/index.m3u8?e=1750361610&u=8be812d7-3211-4694-a402-0aa09074dfc1&token=7a24ff3341867ab93788c6403e6338a7
@@ -769,9 +767,8 @@ https://tvsen6.aynaott.com/tsportsfhd/tracks-v1a1/mono.ts.m3u8
 https://mxon-xtreme.vercel.app/live/2673.m3u8
 
 #EXTINF:-1 group-title="Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSKl2XEAhGamZ3AAGuPaXHP0bf3elKcoDmZJIZ-QJ0t8smeEg_VBbTmXy8",Star Sports 1
-https://mxon-xtreme.vercel.app/live/2456.m3u8
 #http://cool365.xyz:900/live/4160189881/DB4ACD54/187268.m3u8
-
+https://mxon-xtreme.vercel.app/live/2456.m3u8
 
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/ac/Star_Sports_2.jpg/revision/latest?cb=20191214232359" group-title="Xfireflix",Star Sports 2
