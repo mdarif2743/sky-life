@@ -238,8 +238,7 @@ http://app.hughag.store/api/4518a8c92f/playlist.m3u8
 
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTLKRWpYF1LQ5Fbwc5R4mDIDWPMMu7yIU8OEw&s" group-title="Xfireflix",Star Jalsha
-https://live.dinesh29.com.np/stream/jiotvplus/starjalsha/master.m3u8
+
 
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://live.dinesh29.com.np/logos/jiotvplus/starjalshahd.png" group-title="Indian bangla",Star Jalsha hd
@@ -279,7 +278,7 @@ https://srknowapp.ncare.live/srktvhlswodrm/srktv.stream/playlist.m3u8
 
 
 #EXTINF:-1 tvg-id="starplus" tvg-logo="https://live.dinesh29.com.np/logos/jiotvplus/starplus.png" group-title="Entertainment",Star Plus
-https://live.dinesh29.com.np/stream/jiotvplus/starplus/master.m3u8
+https://mxon-xtreme.vercel.app/live/1924.m3u8
 
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://live.dinesh29.com.np/logos/jiotvplus/starplushd.png" group-title="Indian hindi",Star Plus HD
@@ -290,19 +289,16 @@ https://tiger-hub.vercel.app/&TV/tracks-v1a1/mono.ts.m3u8
 
 
 #EXTINF:-1 tvg-id="starbharathd" tvg-logo="https://live.dinesh29.com.np/logos/jiotvplus/starbharathd.png" group-title="Entertainment",Star Bharat HD
-https://live.dinesh29.com.np/stream/jiotvplus/starbharathd/master.m3u8
+https://mxon-xtreme.vercel.app/live/780.m3u8
 
 
-#EXTINF:-1 tvg-id="colorssuper" tvg-logo="https://live.dinesh29.com.np/logos/jiotvplus/colorssuper.png" group-title="Entertainment",Colors Super
-https://live.dinesh29.com.np/stream/jiotvplus/colorssuper/master.m3u8
 
 #EXTINF:-1 tvg-id="zee-tv" tvg-name="Zee TV" tvg-language="Hindi" tvg-country="IN" tvg-logo="https://d388d59m61mm0v.cloudfront.net/optimized/content/common/logos/channel/logos/qsrytm.png" tvg-chno="zee-tv" group-title="Entertainment",Zee TV HD
 https://tiger-hub.vercel.app/Zee___tv-/tracks-v1a1/mono.ts.m3u8
 
 
-#EXTINF:-1 tvg-id="0-9-zeetv" group-title="Entertainment" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Zee_TV.png",Zee TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 ygx/69.1 Safari/537.36
-https://z5ak-cmaflive.zee5.com/cmaf/live/2105536/ZeeTVELE/master.m3u8?hdntl=exp=1754571724~acl=%2f*~data=hdntl~hmac=b662d2b5395562dfb6d84c6e640067eb12ad2d97ccc485925589f183445b60a0
+#EXTINF:-1 tvg-id="0-9-zeetv" group-title="Entertainment" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Zee_TV.png",Zee TV India
+https://mxon-xtreme.vercel.app/live/1970.m3u8
 
 
 
@@ -320,8 +316,8 @@ https://tataplay.slivcdn.com/hls/live/2011749/SABHD/master.m3u8
 #EXTINF:-1 tvg-id="colorshd" tvg-logo="https://live.dinesh29.com.np/logos/jiotvplus/colorshd.png" group-title="Entertainment",Colors HD
 http://195.181.169.162/COLORS_HD/index.m3u8?token=test
 
-#EXTINF:-1 tvg-id="colorssd" tvg-logo="https://live.dinesh29.com.np/logos/jiotvplus/colorssd.png" group-title="Entertainment",Colors SD
-https://live.dinesh29.com.np/stream/jiotvplus/colorssd/master.m3u8
+#EXTINF:-1 tvg-id="colorssd" tvg-logo="https://live.dinesh29.com.np/logos/jiotvplus/colorssd.png" group-title="Entertainment",Colors uk
+https://mxon-xtreme.vercel.app/live/2187.m3u8
 
 
 #EXTINF:-1 tvg-id="Music" tvg-name="Zoom" tvg-logo="https://i.postimg.cc/Bb01Tz1C/Picsart-25-01-28-11-30-34-024.jpg" group-title="Music",Zoom
@@ -443,7 +439,7 @@ https://lifetvbd.xyz:8880/play/_IHuWmwwlQ7tot9J5av1LwTlcgb1UGjZBClJrkSqDm4/ts
 
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://live.dinesh29.com.np/logos/jiotvplus/jalshamovies.png" group-title="Indian bangla",Jalsha Movie sd
-https://live.dinesh29.com.np/stream/jiotvplus/jalshamovies/master.m3u8
+https://mxon-xtreme.vercel.app/live/2282.m3u8
 
 
 
@@ -471,7 +467,7 @@ http://66.102.120.18:8000/play/a06i/index.m3u8
 http://filex.me:8080/live/444476/444476/55.m3u8
 
 #EXTINF:-1 tvg-id="0-9-tvpictureshd" group-title="Movies" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/And_Pictures_HD.png",&Pictures
-https://live.dinesh29.com.np/stream/livetv/andpictureshd/master.m3u8
+https://mxon-xtreme.vercel.app/live/783.m3u8
 
 
 #EXTINF:-1 tvg-id="0-9-tvhd_0" group-title="Entertainment" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/And_TV_HD.png",&TV HD
@@ -485,7 +481,7 @@ http://195.181.169.162:80/AND_TV_HD/index.mpd?token=test
 https://live.dinesh29.com.np/stream/jiotv/colorscineplex/master.m3u8
 
 #EXTINF:-1,COLORS CINEPLEX HD
-https://live.dinesh29.com.np/stream/jiotv/colorscineplexhd/master.m3u8
+https://mxon-xtreme.vercel.app/live/803.m3u8
 
 
 #EXTINF:1 tvg-name="Colors Cineplex Superhit" tvg-logo="https://i.ibb.co/XxwRMX6c/images.jpg" group-title="Entertainment",Colors Cineplex Superhit
@@ -510,7 +506,8 @@ https://live.dinesh29.com.np/stream/jiotvplus/stargoldthrills/master.m3u8
 
 
 #EXTINF:-1 tvg-id="29" tvg-name="IN | STAR GOLD HD" tvg-logo="https://www.lyngsat.com/logo/tv/ss/star-gold-hd-india-in.png" group-title="INDIAN ➾ ENTERTAINMENT", IN | STAR GOLD HD
-https://tiger-hub.vercel.app/Star-Gold/tracks-v1a1/mono.ts.m3u8
+https://mxon-xtreme.vercel.app/live/785.m3u8
+#https://tiger-hub.vercel.app/Star-Gold/tracks-v1a1/mono.ts.m3u8
 
 #EXTINF:-1 tvg-id="stargold" tvg-logo="https://live.dinesh29.com.np/logos/jiotvplus/stargold.png" group-title="Movies",Star Gold
 https://live.dinesh29.com.np/stream/jiotvplus/stargold/master.m3u8
@@ -583,7 +580,7 @@ https://live.dinesh29.com.np/stream/jiotvplus/starmoviesselecthd/master.m3u8
 https://rex-streaming.vercel.app/api/BDIX/109971.m3u8|user-agent=@xfireflixbd
 
 #EXTINF:-1 tvg-id="562" tvg-logo="https://live.dinesh29.com.np/logos/jiotvplus/starmovies.png" group-title="Movies",star Movies
-https://live.dinesh29.com.np/stream/jiotvplus/starmovies/master.m3u8
+https://mxon-xtreme.vercel.app/live/2080.m3u8
 
 
 
@@ -607,11 +604,11 @@ https://tiger-hub.vercel.app/Discovery-bangla/tracks-v1a1/mono.m3u8
 
 
 #EXTINF:-1 tvg-id="nationalgeographichd" tvg-logo="https://live.dinesh29.com.np/logos/jiotvplus/nationalgeographichd.png" group-title="Infotainment",National Geographic HD
-https://live.dinesh29.com.np/stream/jiotvplus/nationalgeographichd/master.m3u8
+https://mxon-xtreme.vercel.app/live/790.m3u8
 
 
 #EXTINF:-1 tvg-id="nationalgeographic" tvg-logo="https://live.dinesh29.com.np/logos/jiotvplus/nationalgeographic.png" group-title="Infotainment",National Geographic
-https://live.dinesh29.com.np/stream/jiotvplus/nationalgeographic/master.m3u8
+https://mxon-xtreme.vercel.app/live/2037.m3u8
 
 
 #EXTINF:-1 tvg-id="natgeowildhd" tvg-logo="https://live.dinesh29.com.np/logos/jiotvplus/natgeowildhd.png" group-title="Infotainment",Nat Geo Wild HD
@@ -622,7 +619,8 @@ https://live.dinesh29.com.np/stream/jiotvplus/natgeowildhd/master.m3u8
 https://live.dinesh29.com.np/stream/jiotv/animalplanethindi/master.m3u8
 
 #EXTINF:-1 tvg-id="historytv18hd" tvg-logo="https://live.dinesh29.com.np/logos/jiotvplus/historytv18hd.png" group-title="Infotainment",History TV18 HD
-https://tiger-hub.vercel.app/History-tv-18_Hindy/tracks-v1a1/mono.ts.m3u8
+https://mxon-xtreme.vercel.app/live/791.m3u8
+#https://tiger-hub.vercel.app/History-tv-18_Hindy/tracks-v1a1/mono.ts.m3u8
 
 
 #EXTINF:-1 tvg-id="animalplanethindi" tvg-logo="https://live.dinesh29.com.np/logos/jiotvplus/animalplanethindi.png" group-title="Infotainment",Animal Planet Hindi
@@ -633,7 +631,8 @@ https://tiger-hub.vercel.app@vodzong.mjunoon.tv:8087/streamtest/Animal-Planet-15
 https://tataplay.slivcdn.com/hls/live/2011907/SonyBBCEarthHD/master.m3u8
 
 #EXTINF:-1 tvg-id="484" tvg-logo="https://live.dinesh29.com.np/logos/tataplay/travelxphd.png" group-title="Lifestyle",Travelxp HD Bangla
-http://tv.bdiptv.store:80/live/restreauu/refstream/15283.m3u8
+https://mxon-xtreme.vercel.app/live/792.m3u8
+#http://tv.bdiptv.store:80/live/restreauu/refstream/15283.m3u8
 
 
 #EXTINF:-1 tvg-id="23" tvg-logo="https://s3.aynaott.com/storage/1d3d06e02fc9ba45a990b65aebd04ebc" group-title="",Duronto TV
@@ -650,7 +649,7 @@ http://smart.bengaldigital.live/TLC/index.m3u8
 #EXTINF:-1 tvg-id="hungama-tv" tvg-logo="https://live.dinesh29.com.np/logos/hungama-tv.png" group-title="Kids",Hungama  TV
 https://live.dinesh29.com.np/stream/jiotvplus/superhungama/master.m3u8
 #EXTINF:-1 tvg-id="nick-india" tvg-logo="https://live.dinesh29.com.np/logos/nick-india.png" group-title="Kids",Nick India
-https://live.dinesh29.com.np/stream/jiotvplus/nickhindi/master.m3u8
+https://mxon-xtreme.vercel.app/live/2182.m3u8
 
 
 
@@ -660,7 +659,7 @@ https://live.dinesh29.com.np/stream/jiotvplus/superhungama/master.m3u8
 
 
 #EXTINF:-1 tvg-id="disney-channel" tvg-logo="https://live.dinesh29.com.np/logos/disney-channel.png" group-title="Kids",Disney Channel
-https://live.dinesh29.com.np/stream/jiotvplus/disneychannel/master.m3u8
+https://mxon-xtreme.vercel.app/live/2046.m3u8
 
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://otapp.store/uploads/tv_image/sm/nick-bangla.png" group-title="Kids-(বাচ্চাদের চ্যানেল)",Nick Bangla
@@ -767,10 +766,11 @@ https://cdn.bestream.io:19360/elfaro1/elfaro1.m3u8
 https://tvsen6.aynaott.com/tsportsfhd/tracks-v1a1/mono.ts.m3u8
 
 #EXTINF:-127 tvg-logo="https://live.dinesh29.com.np/logos/jiotvplus/starsportshd1hindi.png" group-title="SPORTS",Star Sports-1 Hindi
-https://live.dinesh29.com.np/stream/jiotvplus/starsportshd1hindi/master.m3u8
+https://mxon-xtreme.vercel.app/live/2673.m3u8
 
 #EXTINF:-1 group-title="Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSKl2XEAhGamZ3AAGuPaXHP0bf3elKcoDmZJIZ-QJ0t8smeEg_VBbTmXy8",Star Sports 1
-http://cool365.xyz:900/live/4160189881/DB4ACD54/187268.m3u8
+https://mxon-xtreme.vercel.app/live/2456.m3u8
+#http://cool365.xyz:900/live/4160189881/DB4ACD54/187268.m3u8
 
 
 
@@ -786,7 +786,7 @@ https://tvsen6.aynaott.com/spsel1/index.m3u8?e=1753741230&u=9a031201-22d8-4f7e-9
 http://cool365.xyz:900/live/4160189881/DB4ACD54/376465.m3u8
 
 #EXTINF:-1 tvg-id="1033" tvg-logo="https://live.dinesh29.com.np/logos/tataplay/starsports2hindihd.png" group-title="Sports",Star Sports 2 Hindi HD
-https://live.dinesh29.com.np/stream/jiotv/starsports2hindihd/master.m3u8
+https://mxon-xtreme.vercel.app/live/2163.m3u8
 
 
 #EXTINF:-1 tvg-id="1033" tvg-logo="https://live.dinesh29.com.np/logos/jiotv/starsportskhel.png" group-title="sports",star sports khel
