@@ -781,7 +781,7 @@ http://cool365.xyz:900/live/4160189881/DB4ACD54/400159568.m3u8
 
 
 #EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/rwZdgMp5/download.png",Star sports select 1
-http://cool365.xyz:900/live/4160189881/DB4ACD54/378739.m3u8
+https://tvsen6.aynaott.com/spsel1/index.m3u8?e=1753741230&u=9a031201-22d8-4f7e-9516-7d246a8fedc3&token=5f45fc60f73036091c4c6ffd19083b5d
 #EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/rwZdgMp5/download.png",Star sports select 2
 http://cool365.xyz:900/live/4160189881/DB4ACD54/376465.m3u8
 
@@ -900,7 +900,7 @@ https://tiger-hub.vercel.app/DAZN-LaLiga/tracks-v1a1/mono.m3u8
 
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/90GBNXPX/A-Sports-HD.jpg" group-title="Sports",A Sports
-https://crichdplaylist.extratvteam.workers.dev/master.m3u8?cid=asportshd
+https://tvsen7.aynaott.com/asports-bkp/index.m3u8?e=1753741206&u=9a031201-22d8-4f7e-9516-7d246a8fedc3&token=5a0bc2356583a90eda9d44a988b1f584
 
 #EXTINF:-1,CRICKLIFE 1
 https://119-ar.vercel.app/hls.live.stream.php/mac=178314/mono.m3u8
