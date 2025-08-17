@@ -266,8 +266,6 @@ http://smart.bengaldigital.live/sun-bangla-paid/index.m3u8
 https://rex-streaming.vercel.app/api/Bdx2/83764.m3u8|user-agent=@xfireflix
 
 
-#EXTINF:-1 tvg-id="colorsbanglasd" tvg-logo="https://live.dinesh29.com.np/logos/jiotvplus/colorsbanglasd.png" group-title="Entertainment",Colors Bangla SD
-https://live.dinesh29.com.np/stream/jiotv/colorsbanglasd/master.m3u8
 
 #EXTINF:-1 tvg-id="sony-aath" tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY%20AATH.png" group-title="Entertainment",Sony Aath
 https://tataplay.slivcdn.com/hls/live/2011641/SonyAathSD/master.m3u8
@@ -277,12 +275,14 @@ https://tataplay.slivcdn.com/hls/live/2011641/SonyAathSD/master.m3u8
 https://srknowapp.ncare.live/srktvhlswodrm/srktv.stream/playlist.m3u8
 
 
-#EXTINF:-1 tvg-id="starplus" tvg-logo="https://live.dinesh29.com.np/logos/jiotvplus/starplus.png" group-title="Entertainment",Star Plus
-https://mxon-xtreme.vercel.app/live/1924.m3u8
+
 
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://live.dinesh29.com.np/logos/jiotvplus/starplushd.png" group-title="Indian hindi",Star Plus HD
-https://tiger-hub.vercel.app/Star-plus/tracks-v1a1/mono.ts.m3u8
+#https://tiger-hub.vercel.app/Star-plus/tracks-v1a1/mono.ts.m3u8
+https://mxon-xtreme.vercel.app/live/1924.m3u8
+
+
 
 #EXTINF:-1 tvg-id="23" tvg-name="IN | & TV HD" tvg-logo="https://www.lyngsat.com/logo/tv/aa/and_tv_in.png" group-title="INDIAN ➾ ENTERTAINMENT", IN | & TV HD
 https://tiger-hub.vercel.app/&TV/tracks-v1a1/mono.ts.m3u8
