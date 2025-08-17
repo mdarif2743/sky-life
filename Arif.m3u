@@ -466,8 +466,6 @@ http://66.102.120.18:8000/play/a06i/index.m3u8
 #EXTINF:-1 tvg-id="55" tvg-name="IN | & FLIX HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQuANx7s-Dxxy35uMqXRag0lUXvXhc19y7DCw&usqp=CAU" group-title="INDIAN ➾ ENTERTAINMENT", IN | & FLIX HD
 http://filex.me:8080/live/444476/444476/55.m3u8
 
-#EXTINF:-1 tvg-id="0-9-tvpictureshd" group-title="Movies" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/And_Pictures_HD.png",&Pictures
-https://mxon-xtreme.vercel.app/live/783.m3u8
 
 
 #EXTINF:-1 tvg-id="0-9-tvhd_0" group-title="Entertainment" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/And_TV_HD.png",&TV HD
@@ -508,13 +506,12 @@ http://115.42.70.201:8000/play/a00o
 #https://tiger-hub.vercel.app/Star-Gold/tracks-v1a1/mono.ts.m3u8
 https://mxon-xtreme.vercel.app/live/785.m3u8
 
-#EXTINF:-1 tvg-id="stargold" tvg-logo="https://live.dinesh29.com.np/logos/jiotvplus/stargold.png" group-title="Movies",Star Gold
-https://live.dinesh29.com.np/stream/jiotvplus/stargold/master.m3u8
+
 
 
 
 #EXTINF:-1 tvg-id="stargoldselecthd" tvg-logo="https://live.dinesh29.com.np/logos/jiotvplus/stargoldselecthd.png" group-title="Movies",Star Gold Select HD
-http://182.176.185.207:7500/play/a06p/index.m3u8
+https://tiger-hub.vercel.app/Star-gold__Select/tracks-v1a1/mono.ts.m3u8
 
 
 #EXTINF:-1 tvg-id="stargoldromance" tvg-logo="https://live.dinesh29.com.np/logos/jiotvplus/stargoldromance.png" group-title="Movies",Star Gold Romance
@@ -524,8 +521,6 @@ http://182.176.185.207:7500/play/a07c/index.m3u8
 http://filex.me:8080/live/444476/444476/31.m3u8
 
 
-#EXTINF:-1 tvg-id="stargold2hd" tvg-logo="https://live.dinesh29.com.np/logos/jiotvplus/stargold2hd.png" group-title="Movies",Star Gold 2 HD
-https://live.dinesh29.com.np/stream/jiotvplus/stargold2hd/master.m3u8
 
 #EXTINF:-1 tvg-id="35" tvg-name="IN | & PICTURES HD" tvg-logo="http://filex.tv:8080/images/06ae3d7e2037a51f743e3b718f5f70e9.png" group-title="INDIAN ➾ ENTERTAINMENT", IN | & PICTURES HD
 https://tiger-hub.vercel.app/&Picture/tracks-v1a1/mono.ts.m3u8
@@ -535,23 +530,18 @@ https://tiger-hub.vercel.app/&Picture/tracks-v1a1/mono.ts.m3u8
 http://line.greatstar.me:80/play/live.php?mac=00:1A:79:C9:AF:CF&stream=311858&extension=m3u8
 
 #EXTINF:-1 tvg-id="0-9-zeecinema" group-title="Movies" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Zee_Cinema.png",Zee Cinema
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 ygx/69.1 Safari/537.36
-https://z5ak-cmaflive.zee5.com/cmaf/live/2105552/ZeeCinemaELE/master.m3u8?hdntl=exp=1754571724~acl=%2f*~data=hdntl~hmac=b662d2b5395562dfb6d84c6e640067eb12ad2d97ccc485925589f183445b60a0
+http://smart.bengaldigital.live/ZeeCinema/index.m3u8
 
 
 #EXTINF:-1 tvg-id="zee-action" tvg-name="Zee Action" tvg-language="Hindi" tvg-country="IN" tvg-logo="https://d388d59m61mm0v.cloudfront.net/optimized/content/common/logos/channel/logos/lopgzj.png" tvg-chno="zee-action" group-title="Movies",Zee Action
 https://tiger-hub.vercel.app/Zee--_action-/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1,SONY MOVIES USA
+https://tiger-hub.vercel.app/SONY/MoviesUS/tracks-v1a1/mono.ts.m3u8
 
-
-
-#EXTINF:-1,Zee cinema 
-http://smart.bengaldigital.live/ZeeCinema/index.m3u8
-#EXTINF:-1,SONY MAX 1
-http://filex.me:8080/live/wbNER77tKU/i1YcYBsPNU/512328.m3u8?play_token=TT7gXEivTD
 #EXTINF:-1 tvg-id="sony-max-hd" tvg-logo="https://sonypicturesnetworks.com/images/logos/Sony_MAX-HD_WHITE.png" group-title="Movies",Sony MAX HD
 https://tataplay.slivcdn.com/hls/live/2011670/SonyMaxhd/master.m3u8
-#EXTINF:-1 tvg-id="sony-max" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_Max_SD.png" group-title="Movies",Sony MAX
-https://tataplay.slivcdn.com/hls/live/2011745/SonyMaxSD/master.m3u8
+#EXTINF:-1 tvg-id="sony-max" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_Max_SD.png" group-title="Movies",Sony MAX uk
+https://tiger-hub.vercel.app/SONY/MaxUK/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-id="160" tvg-logo="https://s3.aynaott.com/storage/d6dd2e3ffede99b3f1d7d4fb8f5061a5" group-title="",Goldmines
 https://tvsen6.aynaott.com/Goldmines/index.m3u8?e=1750361803&u=8be812d7-3211-4694-a402-0aa09074dfc1&token=8a9bebaceeeee174ab489559195b5df3
 https://lifetvbd.xyz:8880/play/_IHuWmwwlQ7tot9J5av1L901NEL73sVCpOF57OOloQM/ts
@@ -563,11 +553,11 @@ https://tvsen6.aynaott.com/GoldminesMovies/index.m3u8?e=1750361808&u=8be812d7-32
 https://lifetvbd.xyz:8880/play/_IHuWmwwlQ7tot9J5av1L3ovfAeXw-gGtL4odwmE7ak/ts
 #EXTINF:-1 group-title="HINDI", B4U KADAK HD
 https://tvsen6.aynaott.com/B4U_Kadak/index.m3u8?e=1750361801&u=8be812d7-3211-4694-a402-0aa09074dfc1&token=18886a5c7ea0b2b7907bb2efef24641a
-https://lifetvbd.xyz:8880/play/_IHuWmwwlQ7tot9J5av1L7z-zyMz-PkxUj8pkAkUAA0/ts
+
 #EXTINF:-1,B4U MOVIES
 http://66.102.120.18:8000/play/a01w/index.m3u8
 #EXTINF:-1 tvg-id="cd113761e022" tvg-logo="https://images.toffeelive.com/images/program/366/logo/240x240/mobile_logo_702115001663003759.png" group-title="",B4U Movies VIP
-https://xfireflix.fun/toffeeWd/live.php?id=cd113761e022&e=.m3u8
+https://tiger-hub.vercel.app/B4U-movie/tracks-v1a1/mono.ts.m3u8
 
 #EXTINF:-1 tvg-id="sony-max-2" tvg-logo="https://www.sonypicturesnetworks.com/images/logos/Sony_MAX2.png" group-title="Movies",Sony MAX 2
 https://tataplay.slivcdn.com/hls/live/2011908/MAX2/master.m3u8
