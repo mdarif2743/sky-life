@@ -325,15 +325,15 @@ https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF9
 
 
 #EXTINF:-1 tvg-id="0-9-zeeanmol" group-title="Movies" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Zee_Anmol.png",Zee Anmol 
-https://live.dinesh29.com.np/stream/livetv/zeetv/master.m3u8
+https://tiger-hub.vercel.app/Zee::Anmol_/tracks-v1a1/mono.ts.m3u8
 
 #EXTINF:-1 tvg-id="187" tvg-logo="https://live.dinesh29.com.np/logos/tataplay/colorsinfinityhd.png" group-title="Entertainment",Colors Infinity HD
 http://tv.bdiptv.store:80/live/restreauu/refstream/15315.m3u8
 
 
 
-#EXTINF:-1,ZEE CAFE
-https://live.dinesh29.com.np/stream/livetv/zeecafehd/master.m3u8
+#EXTINF:-1,Zing
+https://tiger-hub.vercel.app/Zi-ng_/tracks-v1a1/mono.ts.m3u8
 
 #EXTINF:-1, ZEE CAFE HD
 http://66.102.120.18:8000/play/a076/index.m3u8
@@ -393,14 +393,14 @@ https://tvsen6.aynaott.com/dbcnews/index.m3u8?e=1750361661&u=8be812d7-3211-4694-
 https://tvsen6.aynaott.com/news24/index.m3u8?e=1750361551&u=8be812d7-3211-4694-a402-0aa09074dfc1&token=7b0e029aea4fb284d0d25aa845cfaaf7
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/BBC_News_2022_%28Alt%29.svg/2560px-BBC_News_2022_%28Alt%29.svg.png" group-title="",VE-uk-bbcnews
-https://live.dinesh29.com.np/stream/livetv/bbcnews/master.m3u8
+https://d2vnbkvjbims7j.cloudfront.net/containerA/LTN/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://images.mjunoon.tv:8181/logo/cnn-news-logo-mjunoon.webp" group-title="News",CNN
-https://tiger-hub.vercel.app@vodzong.mjunoon.tv:8087/streamtest/cnn-86/playlist.m3u8
-
+#https://tiger-hub.vercel.app@vodzong.mjunoon.tv:8087/streamtest/cnn-86/playlist.m3u8
+https://amg01448-samsungin-cnnnow-samsungin-4npqg.amagi.tv/playlist/amg01448-samsungin-cnnnow-samsungin/playlist.m3u8
 
 #EXTINF:-1 tvg-id="aljazeera" tvg-logo="https://live.dinesh29.com.np/logos/jiotvplus/aljazeera.png" group-title="News",AL Jazeera
-https://live.dinesh29.com.np/stream/jiotvplus/aljazeera/master.m3u8
+https://live-hls-web-aje.getaj.net/AJE/02.m3u8
 
 
 #EXTINF:-1 tvg-id="dw" tvg-logo="https://live.dinesh29.com.np/logos/jiotvplus/dw.png" group-title="News",dw
@@ -454,7 +454,7 @@ http://smart.bengaldigital.live/Zee-Bangla-Cinema/index.m3u8
 https://tiger-hub.vercel.app/Colors-bangla-cinema/tracks-v1a1/mono.ts.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/vijay-iptv/logos/refs/heads/main/Star_Movies_HD.png" group-title="Airtel | Tamil",Star Movies HD
-https://live.dinesh29.com.np/stream/jiotvplus/starmovieshd/master.m3u8
+https://mxon-xtreme.vercel.app/live/2080.m3u8
 
 #EXTINF:-1 tvg-id="sony-pix-hd" tvg-logo="https://sonypicturesnetworks.com/images/logos/PIX%20HD_WHITE.png" group-title="Movies",Sony PIX HD
 http://195.181.169.162/SONY_PIX_HD/index.m3u8?token=test
@@ -477,8 +477,7 @@ http://195.181.169.162:80/AND_TV_HD/index.mpd?token=test
 
 
 
-#EXTINF:-1,COLORS CINEPLEX SD
-https://live.dinesh29.com.np/stream/jiotv/colorscineplex/master.m3u8
+
 
 #EXTINF:-1,COLORS CINEPLEX HD
 https://mxon-xtreme.vercel.app/live/803.m3u8
@@ -579,8 +578,6 @@ https://live.dinesh29.com.np/stream/jiotvplus/starmoviesselecthd/master.m3u8
 #EXTINF:-1,STAR  WORLD HD
 https://rex-streaming.vercel.app/api/BDIX/109971.m3u8|user-agent=@xfireflixbd
 
-#EXTINF:-1 tvg-id="562" tvg-logo="https://live.dinesh29.com.np/logos/jiotvplus/starmovies.png" group-title="Movies",star Movies
-https://mxon-xtreme.vercel.app/live/2080.m3u8
 
 
 
