@@ -552,10 +552,11 @@ https://lifetvbd.xyz:8880/play/_IHuWmwwlQ7tot9J5av1L6qnkbSzECgkqExOupEhxDo/ts
 https://tvsen6.aynaott.com/GoldminesMovies/index.m3u8?e=1750361808&u=8be812d7-3211-4694-a402-0aa09074dfc1&token=58a157bea89490aece9929c5bd25a40f
 https://lifetvbd.xyz:8880/play/_IHuWmwwlQ7tot9J5av1L3ovfAeXw-gGtL4odwmE7ak/ts
 #EXTINF:-1 group-title="HINDI", B4U KADAK HD
-https://tvsen6.aynaott.com/B4U_Kadak/index.m3u8?e=1750361801&u=8be812d7-3211-4694-a402-0aa09074dfc1&token=18886a5c7ea0b2b7907bb2efef24641a
+https://tvsen7.aynaott.com/B4U_Kadak/index.m3u8?e=1750361801&u=8be812d7-3211-4694-a402-0aa09074dfc1&token=18886a5c7ea0b2b7907bb2efef24641a
 
-#EXTINF:-1,B4U MOVIES
-http://66.102.120.18:8000/play/a01w/index.m3u8
+#EXTINF:-1 tvg-id="47b010b6-9296-4e7f-9cfa-284e020a8984" tvg-name="B4U Movies India" tvg-logo="https://s3.aynaott.com/storage/0e9aa42713fcb1abb4b54219666e7d38" group-title="Channels",B4U Movies India
+https://tvsen7.aynaott.com/B4U_Movies_India/index.m3u8?e=1753741221&u=9a031201-22d8-4f7e-9516-7d246a8fedc3&token=a4f5251600a89db5f3acae9fa7ac3514
+
 #EXTINF:-1 tvg-id="cd113761e022" tvg-logo="https://images.toffeelive.com/images/program/366/logo/240x240/mobile_logo_702115001663003759.png" group-title="",B4U Movies VIP
 https://tiger-hub.vercel.app/B4U-movie/tracks-v1a1/mono.ts.m3u8
 
