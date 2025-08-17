@@ -501,7 +501,7 @@ http://182.176.185.207:7500/play/a07w/index.m3u8
 https://tiger-hub.vercel.app/Star__utsab--movies/tracks-v1a1/mono.ts.m3u8
 
 #EXTINF:-1 tvg-id="stargoldthrills" tvg-logo="https://live.dinesh29.com.np/logos/jiotvplus/stargoldthrills.png" group-title="Movies",Star Gold Thrills
-https://live.dinesh29.com.np/stream/jiotvplus/stargoldthrills/master.m3u8
+http://115.42.70.201:8000/play/a00o
 
 
 #EXTINF:-1 tvg-id="29" tvg-name="IN | STAR GOLD HD" tvg-logo="https://www.lyngsat.com/logo/tv/ss/star-gold-hd-india-in.png" group-title="INDIAN ➾ ENTERTAINMENT", IN | STAR GOLD HD
