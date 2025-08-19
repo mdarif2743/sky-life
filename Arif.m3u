@@ -371,7 +371,7 @@ http://66.102.120.18:8000/play/a05i/index.m3u8
 http://66.102.120.18:8000/play/a05e/index.m3u8
 
 #EXTINF:-1 tvg-id="rishtey" tvg-logo="https://live.dinesh29.com.np/logos/jiotvplus/rishtey.png" group-title="Entertainment",Rishtey
-https://live.dinesh29.com.np/stream/jiotvplus/rishtey/master.m3u8
+http://tv.bdiptv.store:80/live/restreauu/refstream/15338.m3u8
 
 
 #EXTINF:-1 tvg-id="103" tvg-name="IN | STAR UTSAV HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2024-08/0745eefbd8a17542003f01bf22735da0.png" group-title="INDIAN ➾ ENTERTAINMENT", IN | STAR UTSAV HD
@@ -676,7 +676,7 @@ https://tataplay.slivcdn.com/hls/live/2011746/SonyYaySD/master.m3u8
 https://www.xfireflix.fun/test/live.php?id=667189f69164&e=.m3u8
 
 #EXTINF:-1 tvg-id="sonichindi" tvg-logo="https://live.dinesh29.com.np/logos/jiotvplus/sonichindi.png" group-title="Kids",Sonic Hindi
-https://live.dinesh29.com.np/stream/jiotvplus/sonichindi/master.m3u8
+http://tv.bdiptv.store:80/live/restreauu/refstream/242.m3u8
 
 #EXTINF:-1 tvg-id="cartoonnetworkhindi" tvg-logo="https://live.dinesh29.com.np/logos/jiotvplus/cartoonnetworkhindi.png" group-title="Kids",Cartoon Network Hindi
 https://www.xfireflix.fun/test/live.php?id=8be5ec5d5d7c&e=.m3u8
