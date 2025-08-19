@@ -573,7 +573,7 @@ https://tiger-hub.vercel.app/B4U-movie/tracks-v1a1/mono.ts.m3u8
 https://tataplay.slivcdn.com/hls/live/2011908/MAX2/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/vijay-iptv/logos/refs/heads/main/Star_Movies_Select_HD.png" group-title="Airtel | Tamil",Star Movies Select HD
-https://live.dinesh29.com.np/stream/jiotvplus/starmoviesselecthd/master.m3u8
+https://rex-streaming-tv.vercel.app/api/BDIX/NSLOCKY/1169.m3u8
 
 #EXTINF:-1,STAR  WORLD HD
 https://rex-streaming.vercel.app/api/BDIX/109971.m3u8|user-agent=@xfireflixbd
