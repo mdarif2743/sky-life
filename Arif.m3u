@@ -467,7 +467,8 @@ https://tiger-hub.vercel.app/Jalsha_movies/tracks-v1a1/mono.ts.m3u8
 http://smart.bengaldigital.live/Zee-Bangla-Cinema/index.m3u8
 
 #EXTINF:-55 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/a4/BanglaCinema.jpeg/revision/latest?cb=20191207094555" group-title="Indian-Bangla",Colors Bangla Cinema
-https://tiger-hub.vercel.app/Colors-bangla-cinema/tracks-v1a1/mono.ts.m3u8
+http://tv.bdiptv.store:80/live/restreauu/refstream/238.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/vijay-iptv/logos/refs/heads/main/Star_Movies_HD.png" group-title="Airtel | Tamil",Star Movies HD
 https://rex-streaming-tv.vercel.app/api/BDIX/NSLOCKY/1169.m3u8
