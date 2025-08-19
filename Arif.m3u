@@ -463,7 +463,7 @@ http://smart.bengaldigital.live/Zee-Bangla-Cinema/index.m3u8
 https://tiger-hub.vercel.app/Colors-bangla-cinema/tracks-v1a1/mono.ts.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/vijay-iptv/logos/refs/heads/main/Star_Movies_HD.png" group-title="Airtel | Tamil",Star Movies HD
-https://mxon-xtreme.vercel.app/live/2080.m3u8
+https://rex-streaming-tv.vercel.app/api/BDIX/NSLOCKY/1169.m3u8
 
 #EXTINF:-1 tvg-id="sony-pix-hd" tvg-logo="https://sonypicturesnetworks.com/images/logos/PIX%20HD_WHITE.png" group-title="Movies",Sony PIX HD
 http://195.181.169.162/SONY_PIX_HD/index.m3u8?token=test
