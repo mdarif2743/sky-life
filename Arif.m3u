@@ -238,6 +238,10 @@ http://182.176.185.207:7500/play/a0d4/index.m3u8
 http://app.hughag.store/api/4518a8c92f/playlist.m3u8
 
 
+#EXTINF:-1 tvg-id="bce59316a966" tvg-name="HUM Masala" tvg-country="IN" tvg-logo="https://assets-prod.services.toffeelive.com/f_webp,w_240,q_100/T9O9X5UBm1RY_In7UXFv/posters/30e0f372-eb3e-4cf9-be1e-b196a40c2fc7.png" tvg-chno="bce59316a966" group-title="",HUM Masala
+https://www.xfireflix.fun/test/live.php?id=bce59316a966&e=.m3u8
+#EXTINF:-1 tvg-id="a53f9e0ba020" tvg-name="HUM Sitaray" tvg-country="IN" tvg-logo="https://assets-prod.services.toffeelive.com/f_webp,w_240,q_100/WtPBX5UBm1RY_In7mXEU/posters/188d51f6-aeef-41ed-835b-e25ff911e209.png" tvg-chno="a53f9e0ba020" group-title="",HUM Sitaray
+https://www.xfireflix.fun/test/live.php?id=a53f9e0ba020&e=.m3u8
 
 
 
@@ -665,13 +669,13 @@ https://live.dinesh29.com.np/stream/jiotv/nickbangla/master.m3u8
 https://tataplay.slivcdn.com/hls/live/2011746/SonyYaySD/master.m3u8
 
 #EXTINF:-1 tvg-id="pogohindi" tvg-logo="https://live.dinesh29.com.np/logos/jiotvplus/pogohindi.png" group-title="Kids",Pogo Hindi
-https://live.dinesh29.com.np/stream/jiotvplus/pogohindi/master.m3u8
+https://www.xfireflix.fun/test/live.php?id=667189f69164&e=.m3u8
 
 #EXTINF:-1 tvg-id="sonichindi" tvg-logo="https://live.dinesh29.com.np/logos/jiotvplus/sonichindi.png" group-title="Kids",Sonic Hindi
 https://live.dinesh29.com.np/stream/jiotvplus/sonichindi/master.m3u8
 
 #EXTINF:-1 tvg-id="cartoonnetworkhindi" tvg-logo="https://live.dinesh29.com.np/logos/jiotvplus/cartoonnetworkhindi.png" group-title="Kids",Cartoon Network Hindi
-https://live.dinesh29.com.np/stream/jiotvplus/cartoonnetworkhindi/master.m3u8
+https://www.xfireflix.fun/test/live.php?id=8be5ec5d5d7c&e=.m3u8
 
 #EXTINF:-86 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSKyMNNb_SRC2dnm7IW84llAJ9aO5Zb7V4jdjHaweOo58tzrc9pSsRv85-TZD1w4L57nc4&usqp=CAU" group-title="MUSIC",Music India
 #https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Musicindia/default/index.m3u8
