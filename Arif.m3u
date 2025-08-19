@@ -513,7 +513,7 @@ http://tv.bdiptv.store:80/live/restreauu/refstream/30705.m3u8
 
 #EXTINF:-1 tvg-id="29" tvg-name="IN | STAR GOLD HD" tvg-logo="https://www.lyngsat.com/logo/tv/ss/star-gold-hd-india-in.png" group-title="INDIAN ➾ ENTERTAINMENT", IN | STAR GOLD HD
 #https://tiger-hub.vercel.app/Star-Gold/tracks-v1a1/mono.ts.m3u8
-https://mxon-xtreme.vercel.app/live/785.m3u8
+http://103.122.252.100:8080/STAR-GOLD/index.m3u8
 
 
 
@@ -758,21 +758,23 @@ https://ap02.iqplay.tv:8082/iqb8002/t5kb86/playlist.m3u8
 https://cdn.bestream.io:19360/elfaro1/elfaro1.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQIdqXkEgtQPqr13XxzXkeDY_GfmDS2eTCrFm6elrGo9Li0-2-KeFCXGNH-&s=10" group-title="Xfireflix",T Sports
-https://tvsen6.aynaott.com/tsportsfhd/tracks-v1a1/mono.ts.m3u8
+#https://tvsen6.aynaott.com/tsportsfhd/tracks-v1a1/mono.ts.m3u8
+http://103.122.252.100:8080/T-SPORTS/index.m3u8
 
 #EXTINF:-127 tvg-logo="https://live.dinesh29.com.np/logos/jiotvplus/starsportshd1hindi.png" group-title="SPORTS",Star Sports-1 Hindi
-https://mxon-xtreme.vercel.app/live/2673.m3u8
+http://103.122.252.100:8080/STAR-SPORTS-1-HINDI/index.m3u8
 
 #EXTINF:-1 group-title="Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSKl2XEAhGamZ3AAGuPaXHP0bf3elKcoDmZJIZ-QJ0t8smeEg_VBbTmXy8",Star Sports 1
 #http://cool365.xyz:900/live/4160189881/DB4ACD54/187268.m3u8
-https://mxon-xtreme.vercel.app/live/2456.m3u8
+http://103.122.252.100:8080/STAR-SPORTS-1/index.m3u8
 
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/ac/Star_Sports_2.jpg/revision/latest?cb=20191214232359" group-title="Xfireflix",Star Sports 2
-http://cool365.xyz:900/live/4160189881/DB4ACD54/378740.m3u8
+#http://cool365.xyz:900/live/4160189881/DB4ACD54/378740.m3u8
+http://103.122.252.100:8080/STAR-SPORTS-2/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSP8j8Vc_lguK13yQO9X3u_hvSXI2kmnJAywg&s" group-title="Xfireflix",Star Sports 3
-http://cool365.xyz:900/live/4160189881/DB4ACD54/400159568.m3u8
-
+#http://cool365.xyz:900/live/4160189881/DB4ACD54/400159568.m3u8
+http://103.122.252.100:8080/STAR-SPORTS-3/index.m3u8
 
 #EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/rwZdgMp5/download.png",Star sports select 1
 https://tvsen6.aynaott.com/spsel1/index.m3u8?e=1753741230&u=9a031201-22d8-4f7e-9516-7d246a8fedc3&token=5f45fc60f73036091c4c6ffd19083b5d
@@ -787,11 +789,13 @@ https://mxon-xtreme.vercel.app/live/2163.m3u8
 https://live.dinesh29.com.np/stream/jiotv/starsportskhel/master.m3u8
 
 #EXTINF:-1 tvg-id="812" tvg-logo="https://live.dinesh29.com.np/logos/tataplay/eurosporthd.png" group-title="Sports",Eurosport HD
-http://app.hughag.store/api/ef22d71b0e/playlist.m3u8
+#http://app.hughag.store/api/ef22d71b0e/playlist.m3u8
+http://103.122.252.100:8080/EUROSPORT/index.m3u8
+
 
 #EXTINF:-1 group-logo="https://img.icons8.com/ios11/512/FFFFFF/github.png" group-title="All Working Channels" tvg-logo="https://i.ibb.co/KzXCnTKy/Ten-Cricket.png", Ten Cricket
-http://app.hughag.store/api/6b9c461155/playlist.m3u8
-
+#http://app.hughag.store/api/6b9c461155/playlist.m3u8
+http://103.122.252.100:8080/TEN-CRICKET/index.m3u8
 
 #EXTINF:-1 tvg-id="sony-ten-1-hd" tvg-logo="https://www.sonypicturesnetworks.com/images/logos/SONY_SportsTen1_HD_Logo_CLR.png" group-title="Sports",Sony Sports Ten 1 HD
 https://tataplay.slivcdn.com//hls/live/2011747/TEN1HD/master.m3u8
@@ -805,7 +809,9 @@ https://tataplay.slivcdn.com/hls/live/2020589/ten4hd/master.m3u8
 https://tataplay.slivcdn.com/hls/live/2020593/SONYSIXHD/master.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e4/PTV_Sports.png" group-title="Sports",PTV Sports
-http://filex.me:8080/live/444476/444476/453434.m3u8
+#http://filex.me:8080/live/444476/444476/453434.m3u8
+http://103.122.252.100:8080/PTV-SPORTS/index.m3u8
+
 
 #EXTINF:-147 tvg-logo="https://i.pinimg.com/originals/a0/f1/02/a0f102f34a179d207602df014cbf203d.jpg" group-title="SPORTS",Geo Super TV
 #http://125.209.88.166:45793/BRN/GeoSuper.stream/playlist.m3u8
