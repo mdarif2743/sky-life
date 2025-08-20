@@ -1,5 +1,22 @@
-#EXTINF:-1, FOOTBALL BANGLA LIVE
-https://fifabd.site/API/FC/play.m3u8?id=https://in-mc-fdlive.fancode.com/mumbai/130830_bengali_hls_fc3349c4f328385adfreeta-di_h264/index.m3u8
+#EXTINF:-1,SONY LIV
+https://mini.allinonereborn.online/jiotv-ww323/app/ts_live_523.m3u8
+
+#EXTINF:-1,SONY LIV
+https://mini.allinonereborn.online/jiotv-ww323/app/ts_live_525.m3u8
+
+
+
+
+
+
+#EXTINF:-1,SONY LIV
+https://mini.allinonereborn.online/jiotv-ww323/app/ts_live_155.m3u8
+
+#EXTINF:-1,SONY LIV
+https://mini.allinonereborn.online/jiotv-ww323/app/ts_live_514.m3u8
+
+#EXTINF:-1, sony liv
+https://mini.allinonereborn.online/jiotv-ww323/app/ts_live_162.m3u8
 
 
 #EXTINF:-1,ALL TIME MOVIES
@@ -736,7 +753,7 @@ https://live.dinesh29.com.np/stream/tataplay/mtvhd/master.m3u8
 
 
 #EXTINF:-1,MTV
-https://live.dinesh29.com.np/stream/livetv/mtv/master.m3u8
+https://mini.allinonereborn.online/jiotv-ww323/app/ts_live_248.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="MUSIC",Hindi Hits
 https://cloudfrontnet.vercel.app/tplay/playout/209592/master.m3u8
