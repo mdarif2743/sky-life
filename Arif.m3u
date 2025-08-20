@@ -274,9 +274,9 @@ https://live.sanonda.tv/sanonda/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://kst.moonplex.net/iptv/img/logo/zee-bangla.jpg" group-title="Indian",Zee Bangla HD
 https://tiger-hub.vercel.app/Zee-bangla/tracks-v1a1/mono.ts.m3u8
 
-#EXTINF:-1 tvg-id="sunbangla" tvg-logo="https://live.dinesh29.com.np/logos/jiotvplus/sunbangla.png" group-title="Entertainment",Sun Bangla
-http://smart.bengaldigital.live/sun-bangla-paid/index.m3u8
-
+#EXTINF:-1 tvg-id="sunbangla" tvg-logo="https://live.dinesh29.com.np/logos/jiotvplus/sunbangla.png" group-title="Entertainment",Sun Bangla HD
+#http://smart.bengaldigital.live/sun-bangla-paid/index.m3u8
+http://103.122.252.100:8080/SUN-BANGLA/index.m3u8
 
 #EXTINF:-1 tvg-id="colorsbengalihd" tvg-logo="https://live.dinesh29.com.np/logos/jiotvplus/colorsbengalihd.png" group-title="Entertainment",Colors Bengali HD
 https://rex-streaming.vercel.app/api/Bdx2/83764.m3u8|user-agent=@xfireflix
