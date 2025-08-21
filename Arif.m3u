@@ -798,13 +798,13 @@ https://mxon-xtreme.vercel.app/live/2163.m3u8
 https://live.dinesh29.com.np/stream/jiotv/starsportskhel/master.m3u8
 
 #EXTINF:-1 tvg-id="812" tvg-logo="https://live.dinesh29.com.np/logos/tataplay/eurosporthd.png" group-title="Sports",Eurosport HD
-#http://app.hughag.store/api/ef22d71b0e/playlist.m3u8
-http://103.122.252.100:8080/EUROSPORT/index.m3u8
+http://app.hughag.store/api/ef22d71b0e/playlist.m3u8
+
 
 
 #EXTINF:-1 group-logo="https://img.icons8.com/ios11/512/FFFFFF/github.png" group-title="All Working Channels" tvg-logo="https://i.ibb.co/KzXCnTKy/Ten-Cricket.png", Ten Cricket
-#http://app.hughag.store/api/6b9c461155/playlist.m3u8
-http://103.122.252.100:8080/TEN-CRICKET/index.m3u8
+http://app.hughag.store/api/6b9c461155/playlist.m3u8
+
 
 #EXTINF:-1 tvg-id="sony-ten-1-hd" tvg-logo="https://www.sonypicturesnetworks.com/images/logos/SONY_SportsTen1_HD_Logo_CLR.png" group-title="Sports",Sony Sports Ten 1 HD
 https://tataplay.slivcdn.com//hls/live/2011747/TEN1HD/master.m3u8
