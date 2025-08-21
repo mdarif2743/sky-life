@@ -911,8 +911,7 @@ https://tiger-hub.vercel.app/DAZN-LaLiga/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/90GBNXPX/A-Sports-HD.jpg" group-title="Sports",A Sports
 https://tvsen7.aynaott.com/asports-bkp/index.m3u8?e=1753741206&u=9a031201-22d8-4f7e-9516-7d246a8fedc3&token=5a0bc2356583a90eda9d44a988b1f584
 
-#EXTINF:-1,CRICKLIFE 1
-https://119-ar.vercel.app/hls.live.stream.php/mac=178314/mono.m3u8
+
 
 
 #EXTINF:-1, CRICBUZZ 2
@@ -951,7 +950,7 @@ https://tiger-hub.vercel.app/SSC-1/tracks-v1a1/mono.m3u8
 https://tiger-hub.vercel.app/SSC-2/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/x1VYmp0L/Ten-Sports.jpg",SSC 3
-https://ddy6new.newkso.ru/ddy6/premium616/mono.m3u8
+https://tiger-hub.vercel.app/SSC-3/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/x1VYmp0L/Ten-Sports.jpg",SSC 5
 https://ddy6new.newkso.ru/ddy6/premium618/mono.m3u8
