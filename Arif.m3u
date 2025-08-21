@@ -863,11 +863,6 @@ http://125x.org:8080/bn6hd/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Sports" tvg-logo="https://i.ibb.co.com/Q3F9JyKH/T-Sports.jpg",DD Sports 2.0
 https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/b17adfe543354fdd8d189b110617cddd/index_3.m3u8
 
-#EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/3NGbmgY2/Star-Sports-2.jpg",Sky Sports Football
-https://ddy6new.newkso.ru/ddy6/premium558/mono.m3u8
-
-#EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/3NGbmgY2/Star-Sports-2.jpg",Sky Sports Football
-https://ddy6new.newkso.ru/ddy6/premium559/mono.m3u8
 
 #EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/cC5zmCyv/Supersports-Cricket.jpg",Euro Sport 1
 https://ddy6new.newkso.ru/ddy6/premium772/mono.m3u8
@@ -946,14 +941,13 @@ https://tiger-hub.vercel.app/SuperSports-Cricket/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 group-title="Sports" tvg-logo="https://crichdplayer.com/assets/uploads/channels/17.gif",SSC 1
 https://tiger-hub.vercel.app/SSC-1/tracks-v1a1/mono.m3u8
-#EXTINF:-1 SSC 2
+#EXTINF:-1, SSC 2
 https://tiger-hub.vercel.app/SSC-2/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/x1VYmp0L/Ten-Sports.jpg",SSC 3
 https://tiger-hub.vercel.app/SSC-3/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/x1VYmp0L/Ten-Sports.jpg",SSC 5
-https://ddy6new.newkso.ru/ddy6/premium618/mono.m3u8
+
 
 
 
@@ -1002,14 +996,10 @@ https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/VE1NDJkMDJjZTY1
 #EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRNXw53gnUV1zL1tDoAFLmfHNOtpMBx7goFFg&s" group-title="",VE- uk - sky sport premier league
 https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/VE1NTMwMTUyNDhlM2ExLTAwMGItNjE3NC02OGM0LThjZDU4YmQy/master.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Sky_Cinema_Comedy_-_Logo_2016.svg/2560px-Sky_Cinema_Comedy_-_Logo_2016.svg.png" group-title="",VE-zeeuk-skycinemacomedy
-https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/VE1MmRkNjU2YTRjODE2LTBhN2EtYzk0NC05OTMzLWZhZDQyZTI5/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a2/DAZN_1_Logo.svg" group-title="",VE-DE - DAZN 1 (sv3)
-https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/VE1MmY4Yjc0ZDFiNzdhLTYzN2EtNzIwNC0wNmEyLWEzM2EwMDM2/master.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Sky_Sport_Top_Event_Logo_2022.svg/2560px-Sky_Sport_Top_Event_Logo_2022.svg.png" group-title="",VE-de-skyde top event
 https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/VE1NjgyNTVmNTE1M2M5LWM5OGItMGNjNC00YzdlLTliZWI4YWY3/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/76/DAZN_2.svg" group-title="",VE-DE - DAZN 2 (sv3)
-https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/VE1NDczNGRiNWVkN2QwLWU3NGItNmRkNC0wYjhiLTFjNmM2NTBj/master.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-logo="https://cdn.freebiesupply.com/logos/thumbs/2x/sky-sports-news-3-logo.png" group-title="",VE-de-skyde news
 https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/VE1ZmE0NzI3MGU5ZmRmLTMwMTktYWFhNC1mZDNhLWI5YjFkZGE2/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Sport-Digital.svg/2560px-Sport-Digital.svg.png" group-title="",VE-de-sportdigital (sv3-CDN)
@@ -1113,14 +1103,6 @@ https://tiger-hub.vercel.app/Hub_Sports-3/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Football",Hub_Sports-4
 https://tiger-hub.vercel.app/Hub_Sports-4/tracks-v1a1/mono.ts.m3u8
 
-#EXTINF:-1,sports max
-https://cdn-l3-jam-1.sportsmax.digicelgroup.com/sportsmax/live/ott/live/1124/CMAF/manifest.mpd?|drmScheme=clearkey&drmLicense=1779c27b9d077a3ba0c9cc1bb9a94b9f:cc5cf3b7928fb9e0a1ee6a8b566f0a8e
-#EXTINF:-1,SPORTS MAX plus
-https://cdn-l3-jam-1.sportsmax.digicelgroup.com/sportsmax/live/ott/live/1123/CMAF/manifest.mpd?|drmScheme=clearkey&drmLicense=1779c27b9d077a3ba0c9cc1bb9a94b9f:cc5cf3b7928fb9e0a1ee6a8b566f0a8e
-#EXTINF:-1,SPORTS MAX 2
-https://cdn-l3-jam-1.sportsmax.digicelgroup.com/sportsmax/live/ott/live/1118/CMAF/manifest.mpd?|drmScheme=clearkey&drmLicense=1779c27b9d077a3ba0c9cc1bb9a94b9f:cc5cf3b7928fb9e0a1ee6a8b566f0a8e
-#EXTINF:-1, SPORTS MAX
-https://cdn-l3-jam-1.sportsmax.digicelgroup.com/sportsmax/live/ott/live/1117/CMAF/manifest.mpd?|drmScheme=clearkey&drmLicense=1779c27b9d077a3ba0c9cc1bb9a94b9f:cc5cf3b7928fb9e0a1ee6a8b566f0a8e
 
 
 
@@ -1181,13 +1163,14 @@ https://tiger-hub.vercel.app/Al-kass-Sports/3/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1,ALKASS 4
 https://tiger-hub.vercel.app/Al-kass-Sports/4/tracks-v1a1/mono.ts.m3u8
 
+#EXTINF:-1, SPORTS TV 1
+https://tiger-hub.vercel.app/Sportv/tracks-v1a1/mono.m3u8
 
+#EXTINF:-1, SPORTS TV 2
+https://tiger-hub.vercel.app/Sport.tv-2/tracks-v1a1/mono.m3u8
 
-
-
-
-
-
+#EXTINF:-1, SPORTS TV 3
+https://tiger-hub.vercel.app/Sport.tv-3/tracks-v1a1/mono.m3u8
 
 
 
