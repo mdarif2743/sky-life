@@ -620,23 +620,22 @@ https://tiger-hub.vercel.app/Discovery-bangla/tracks-v1a1/mono.m3u8
 
 
 #EXTINF:-1 tvg-id="nationalgeographichd" tvg-logo="https://live.dinesh29.com.np/logos/jiotvplus/nationalgeographichd.png" group-title="Infotainment",National Geographic HD
-https://tiger-hub.vercel.app/National-Geographic_Bangla/tracks-v1a1/mono.ts.m3u8
+#https://tiger-hub.vercel.app/National-Geographic_Bangla/tracks-v1a1/mono.ts.m3u8
+https://live.dinesh29.com.np/stream/jiotvplus/nationalgeographichd/master.m3u8
 
 
-#EXTINF:-1 tvg-id="nationalgeographic" tvg-logo="https://live.dinesh29.com.np/logos/jiotvplus/nationalgeographic.png" group-title="Infotainment",National Geographic
-https://mxon-xtreme.vercel.app/live/2037.m3u8
 
 
 #EXTINF:-1 tvg-id="natgeowildhd" tvg-logo="https://live.dinesh29.com.np/logos/jiotvplus/natgeowildhd.png" group-title="Infotainment",Nat Geo Wild HD
 https://live.dinesh29.com.np/stream/jiotvplus/natgeowildhd/master.m3u8
 
 
-#EXTINF:-1 tvg-id="287" tvg-logo="https://live.dinesh29.com.np/logos/tataplay/animalplanethdworld.png" group-title="Knowledge",Animal Planet HD hindi
-https://live.dinesh29.com.np/stream/jiotv/animalplanethindi/master.m3u8
+#EXTINF:-1 tvg-id="287" tvg-logo="https://live.dinesh29.com.np/logos/tataplay/animalplanethdworld.png" group-title="Knowledge",Animal Planet HD world
+https://live.dinesh29.com.np/stream/jiotvplus/animalplanethdworld/master.m3u8
 
 #EXTINF:-1 tvg-id="historytv18hd" tvg-logo="https://live.dinesh29.com.np/logos/jiotvplus/historytv18hd.png" group-title="Infotainment",History TV18 HD
 #https://tiger-hub.vercel.app/History-tv-18_Hindy/tracks-v1a1/mono.ts.m3u8
-https://mxon-xtreme.vercel.app/live/791.m3u8
+https://live.dinesh29.com.np/stream/jiotvplus/historytv18hdhindi/master.m3u8
 
 #EXTINF:-1 tvg-id="animalplanethindi" tvg-logo="https://live.dinesh29.com.np/logos/jiotvplus/animalplanethindi.png" group-title="Infotainment",Animal Planet Hindi
 https://tiger-hub.vercel.app@vodzong.mjunoon.tv:8087/streamtest/Animal-Planet-158-3/playlist.m3u8
@@ -646,8 +645,8 @@ https://tiger-hub.vercel.app@vodzong.mjunoon.tv:8087/streamtest/Animal-Planet-15
 https://tataplay.slivcdn.com/hls/live/2011907/SonyBBCEarthHD/master.m3u8
 
 #EXTINF:-1 tvg-id="484" tvg-logo="https://live.dinesh29.com.np/logos/tataplay/travelxphd.png" group-title="Lifestyle",Travelxp HD Bangla
-#http://tv.bdiptv.store:80/live/restreauu/refstream/15283.m3u8
-https://mxon-xtreme.vercel.app/live/792.m3u8
+http://tv.bdiptv.store:80/live/restreauu/refstream/15283.m3u8
+
 
 #EXTINF:-1 tvg-id="23" tvg-logo="https://s3.aynaott.com/storage/1d3d06e02fc9ba45a990b65aebd04ebc" group-title="",Duronto TV
 https://tvsen6.aynaott.com/durontotv/index.m3u8?e=1750361610&u=8be812d7-3211-4694-a402-0aa09074dfc1&token=7a24ff3341867ab93788c6403e6338a7
