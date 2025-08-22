@@ -453,13 +453,15 @@ https://lifetvbd.xyz:8880/play/_IHuWmwwlQ7tot9J5av1LwTlcgb1UGjZBClJrkSqDm4/ts
 
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://live.dinesh29.com.np/logos/jiotvplus/jalshamovies.png" group-title="Indian bangla",Jalsha Movie sd
-#https://mxon-xtreme.vercel.app/live/2282.m3u8
-https://rex-streaming-tv.vercel.app/api/BDIX/NSLOCKY/543.m3u8
-
+#https://rex-streaming-tv.vercel.app/api/BDIX/NSLOCKY/543.m3u8
+https://live.dinesh29.com.np/stream/jiotvplus/jalshamovies/master.m3u8
 
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://live.dinesh29.com.np/logos/jiotvplus/jalshamovieshd.png" group-title="Xfireflix",Jalsha Movie hd
-https://tiger-hub.vercel.app/Jalsha_movies/tracks-v1a1/mono.ts.m3u8
+#https://tiger-hub.vercel.app/Jalsha_movies/tracks-v1a1/mono.ts.m3u8
+https://live.dinesh29.com.np/stream/jiotvplus/jalshamovieshd/master.m3u8
+
+
 
 #EXTINF:-1 tvg-id="zee-bangla-cinema" tvg-name="Zee Bangla Cinema" tvg-language="Bengali" tvg-country="IN" tvg-logo="https://d388d59m61mm0v.cloudfront.net/optimized/content/common/logos/channel/logos/brmfgr.png" tvg-chno="zee-bangla-cinema" group-title="Movies",Zee Bangla Cinema
 http://smart.bengaldigital.live/Zee-Bangla-Cinema/index.m3u8
@@ -469,13 +471,15 @@ https://mini.allinonereborn.online/jiotv-ww323/app/ts_live_1657.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/vijay-iptv/logos/refs/heads/main/Star_Movies_HD.png" group-title="Airtel | Tamil",Star Movies HD
-https://rex-streaming-tv.vercel.app/api/BDIX/NSLOCKY/1169.m3u8
+#https://rex-streaming-tv.vercel.app/api/BDIX/NSLOCKY/1169.m3u8
+https://live.dinesh29.com.np/stream/jiotvplus/starmovieshd/master.m3u8
+
+
 
 #EXTINF:-1 tvg-id="sony-pix-hd" tvg-logo="https://sonypicturesnetworks.com/images/logos/PIX%20HD_WHITE.png" group-title="Movies",Sony PIX HD
-http://195.181.169.162/SONY_PIX_HD/index.m3u8?token=test
 https://tataplay.slivcdn.com/hls/live/2011748/PIXHD/master.m3u8
 
-#EXIINF:-1,AXN HD
+#EXIINF:-1, AXN HD
 http://66.102.120.18:8000/play/a06i/index.m3u8
 
 #EXTINF:-1 tvg-id="55" tvg-name="IN | & FLIX HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQuANx7s-Dxxy35uMqXRag0lUXvXhc19y7DCw&usqp=CAU" group-title="INDIAN ➾ ENTERTAINMENT", IN | & FLIX HD
@@ -517,8 +521,13 @@ https://tiger-hub.vercel.app/Star__utsab--movies/tracks-v1a1/mono.ts.m3u8
 http://tv.bdiptv.store:80/live/restreauu/refstream/30705.m3u8
 
 
+#EXTINF:-1, tvg-id="29" tvg-name="IN | STAR GOLD " tvg-logo="https://live.dinesh29.com.np/logos/jiotvplus/stargold.png"group-title="INDIAN ➾ ENTERTAINMENT", IN | STAR GOLD HD
+https://live.dinesh29.com.np/stream/jiotvplus/stargold/master.m3u8
+
+
 #EXTINF:-1 tvg-id="29" tvg-name="IN | STAR GOLD HD" tvg-logo="https://www.lyngsat.com/logo/tv/ss/star-gold-hd-india-in.png" group-title="INDIAN ➾ ENTERTAINMENT", IN | STAR GOLD HD
 #https://tiger-hub.vercel.app/Star-Gold/tracks-v1a1/mono.ts.m3u8
+#https://live.dinesh29.com.np/stream/jiotvplus/stargoldhd/master.m3u8
 http://103.122.252.100:8080/STAR-GOLD/index.m3u8
 
 
@@ -526,8 +535,8 @@ http://103.122.252.100:8080/STAR-GOLD/index.m3u8
 
 
 #EXTINF:-1 tvg-id="stargoldselecthd" tvg-logo="https://live.dinesh29.com.np/logos/jiotvplus/stargoldselecthd.png" group-title="Movies",Star Gold Select HD
-https://tiger-hub.vercel.app/Star-gold__Select/tracks-v1a1/mono.ts.m3u8
-
+#https://tiger-hub.vercel.app/Star-gold__Select/tracks-v1a1/mono.ts.m3u8
+https://live.dinesh29.com.np/stream/jiotvplus/stargoldselecthd/master.m3u8
 
 #EXTINF:-1 tvg-id="stargoldromance" tvg-logo="https://live.dinesh29.com.np/logos/jiotvplus/stargoldromance.png" group-title="Movies",Star Gold Romance
 http://182.176.185.207:7500/play/a07c/index.m3u8
@@ -577,11 +586,15 @@ https://tvsen7.aynaott.com/B4U_Movies_India/index.m3u8?e=1753741221&u=9a031201-2
 https://tataplay.slivcdn.com/hls/live/2011908/MAX2/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/vijay-iptv/logos/refs/heads/main/Star_Movies_Select_HD.png" group-title="Airtel | Tamil",Star Movies Select HD
-https://rex-streaming-tv.vercel.app/api/BDIX/NSLOCKY/1169.m3u8
+https://live.dinesh29.com.np/stream/jiotvplus/starmoviesselecthd/master.m3u8
 
 #EXTINF:-1,STAR  WORLD HD
 https://rex-streaming.vercel.app/api/BDIX/109971.m3u8|user-agent=@xfireflixbd
 
+
+
+#EXTINF:-1, STAR MOVIES
+https://live.dinesh29.com.np/stream/jiotvplus/starmovies/master.m3u8
 
 
 
