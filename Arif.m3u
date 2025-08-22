@@ -303,7 +303,7 @@ https://tiger-hub.vercel.app/&TV/tracks-v1a1/mono.ts.m3u8
 
 
 #EXTINF:-1 tvg-id="starbharathd" tvg-logo="https://live.dinesh29.com.np/logos/jiotvplus/starbharathd.png" group-title="Entertainment",Star Bharat HD
-https://mxon-xtreme.vercel.app/live/780.m3u8
+https://live.dinesh29.com.np/stream/jiotvplus/starbharathd/master.m3u8
 
 
 
@@ -342,7 +342,7 @@ https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF9
 https://tiger-hub.vercel.app/Zee::Anmol_/tracks-v1a1/mono.ts.m3u8
 
 #EXTINF:-1 tvg-id="187" tvg-logo="https://live.dinesh29.com.np/logos/tataplay/colorsinfinityhd.png" group-title="Entertainment",Colors Infinity HD
-http://tv.bdiptv.store:80/live/restreauu/refstream/15315.m3u8
+https://live.dinesh29.com.np/stream/jiotvplus/colorsinfinityhd/master.m3u8
 
 
 
@@ -369,11 +369,11 @@ http://66.102.120.18:8000/play/a05i/index.m3u8
 http://66.102.120.18:8000/play/a05e/index.m3u8
 
 #EXTINF:-1 tvg-id="rishtey" tvg-logo="https://live.dinesh29.com.np/logos/jiotvplus/rishtey.png" group-title="Entertainment",Rishtey
-http://tv.bdiptv.store:80/live/restreauu/refstream/15338.m3u8
+https://live.dinesh29.com.np/stream/jiotvplus/rishtey/master.m3u8
 
 
 #EXTINF:-1 tvg-id="103" tvg-name="IN | STAR UTSAV HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2024-08/0745eefbd8a17542003f01bf22735da0.png" group-title="INDIAN ➾ ENTERTAINMENT", IN | STAR UTSAV HD
-http://filex.me:8080/live/444476/444476/103.m3u8
+https://live.dinesh29.com.np/stream/jiotvplus/starutsav/master.m3u8
 
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.jagobd.com/wp-content/uploads/2024/12/btv-news-.jpg" group-title="All",BTV NEWS
