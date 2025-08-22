@@ -781,7 +781,10 @@ https://cdn.bestream.io:19360/elfaro1/elfaro1.m3u8
 http://103.122.252.100:8080/T-SPORTS/index.m3u8
 
 #EXTINF:-127 tvg-logo="https://live.dinesh29.com.np/logos/jiotvplus/starsportshd1hindi.png" group-title="SPORTS",Star Sports-1 Hindi
-http://103.122.252.100:8080/STAR-SPORTS-1-HINDI/index.m3u8
+#http://103.122.252.100:8080/STAR-SPORTS-1-HINDI/index.m3u8
+https://live.dinesh29.com.np/stream/jiotvplus/starsportshd1hindi/master.m3u8
+
+
 
 #EXTINF:-1 group-title="Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSKl2XEAhGamZ3AAGuPaXHP0bf3elKcoDmZJIZ-QJ0t8smeEg_VBbTmXy8",Star Sports 1
 #http://cool365.xyz:900/live/4160189881/DB4ACD54/187268.m3u8
@@ -790,7 +793,10 @@ http://103.122.252.100:8080/STAR-SPORTS-1/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/ac/Star_Sports_2.jpg/revision/latest?cb=20191214232359" group-title="Xfireflix",Star Sports 2
 #http://cool365.xyz:900/live/4160189881/DB4ACD54/378740.m3u8
-http://103.122.252.100:8080/STAR-SPORTS-2/index.m3u8
+#http://103.122.252.100:8080/STAR-SPORTS-2/index.m3u8
+https://live.dinesh29.com.np/stream/jiotvplus/starsportshd2/master.m3u8
+
+
 #EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSP8j8Vc_lguK13yQO9X3u_hvSXI2kmnJAywg&s" group-title="Xfireflix",Star Sports 3
 #http://cool365.xyz:900/live/4160189881/DB4ACD54/400159568.m3u8
 http://103.122.252.100:8080/STAR-SPORTS-3/index.m3u8
@@ -804,11 +810,11 @@ http://103.122.252.100:8080/STAR-SPORTS-SELECT-2/index.m3u8
 
 
 #EXTINF:-1 tvg-id="1033" tvg-logo="https://live.dinesh29.com.np/logos/tataplay/starsports2hindihd.png" group-title="Sports",Star Sports 2 Hindi HD
-https://mxon-xtreme.vercel.app/live/2163.m3u8
+https://live.dinesh29.com.np/stream/jiotvplus/starsports2hindi/master.m3u8
 
 
 #EXTINF:-1 tvg-id="1033" tvg-logo="https://live.dinesh29.com.np/logos/jiotv/starsportskhel.png" group-title="sports",star sports khel
-https://live.dinesh29.com.np/stream/jiotv/starsportskhel/master.m3u8
+https://live.dinesh29.com.np/stream/jiotvplus/starsportskhel/master.m3u8
 
 #EXTINF:-1 tvg-id="812" tvg-logo="https://live.dinesh29.com.np/logos/tataplay/eurosporthd.png" group-title="Sports",Eurosport HD
 http://app.hughag.store/api/ef22d71b0e/playlist.m3u8
@@ -825,7 +831,7 @@ https://tataplay.slivcdn.com//hls/live/2011747/TEN1HD/master.m3u8
 https://tataplay.slivcdn.com/hls/live/2020434/TEN2HD/master.m3u8
 #EXTINF:-1 tvg-id="sony-ten-3-hd" tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY_SportsTen3_HD_Logo_CLR.png" group-title="Sports",Sony Sports Ten 3 HD
 https://tataplay.slivcdn.com/hls/live/2020591/TEN3HD/master.m3u8
-#EXTINF:-1 tvg-id="sony-ten-4-hd" tvg-logo="https://www.sonypicturesnetworks.com/images/logos/SONY_SportsTen4_HD_Logo_CLR.png" group-title="Sports",Sony Sports Ten 4 HD
+#EXTINF:-1 tvg-id="sony-ten-4-hd" tvg-logo="https://wwwhttps://live.dinesh29.com.np/stream/jiotvplus/starsports2hindi/master.m3u8.sonypicturesnetworks.com/images/logos/SONY_SportsTen4_HD_Logo_CLR.png" group-title="Sports",Sony Sports Ten 4 HD
 https://tataplay.slivcdn.com/hls/live/2020589/ten4hd/master.m3u8
 #EXTINF:-1 tvg-id="sony-ten-5-hd" tvg-logo="https://www.sonypicturesnetworks.com/images/logos/SONY_SportsTen5_HD_Logo_CLR.png" group-title="Sports",Sony Sports Ten 5 HD
 https://tataplay.slivcdn.com/hls/live/2020593/SONYSIXHD/master.m3u8
