@@ -1,5 +1,19 @@
 
 
+#EXTINF:-1, SONY LIV
+https://live.dinesh29.com.np/stream/jiotvplus/sonyten5hd/master.m3u8
+#EXTINF:-1, SONY LIV
+https://live.dinesh29.com.np/stream/jiotvplus/sonyten1hd/master.m3u8
+#EXTINF:-1, SONY LIV
+https://live.dinesh29.com.np/stream/jiotvplus/sonyten2hd/master.m3u8
+#EXTINF:-1, SONY LIV
+https://live.dinesh29.com.np/stream/jiotvplus/sonyten3hdhindi/master.m3u8
+#EXTINF:-1, SONY LIV
+
+
+
+
+
 #EXTINF:-1,ALL TIME MOVIES
 https://cloudfrontnet.vercel.app/tplay/playout/209612/master.m3u8
 
@@ -645,8 +659,8 @@ https://tiger-hub.vercel.app@vodzong.mjunoon.tv:8087/streamtest/Animal-Planet-15
 https://tataplay.slivcdn.com/hls/live/2011907/SonyBBCEarthHD/master.m3u8
 
 #EXTINF:-1 tvg-id="484" tvg-logo="https://live.dinesh29.com.np/logos/tataplay/travelxphd.png" group-title="Lifestyle",Travelxp HD Bangla
-http://tv.bdiptv.store:80/live/restreauu/refstream/15283.m3u8
-
+#http://tv.bdiptv.store:80/live/restreauu/refstream/15283.m3u8
+https://live.dinesh29.com.np/stream/jiotvplus/travelxphdhindi/master.m3u8
 
 #EXTINF:-1 tvg-id="23" tvg-logo="https://s3.aynaott.com/storage/1d3d06e02fc9ba45a990b65aebd04ebc" group-title="",Duronto TV
 https://tvsen6.aynaott.com/durontotv/index.m3u8?e=1750361610&u=8be812d7-3211-4694-a402-0aa09074dfc1&token=7a24ff3341867ab93788c6403e6338a7
