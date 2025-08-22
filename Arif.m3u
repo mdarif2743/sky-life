@@ -467,7 +467,7 @@ https://live.dinesh29.com.np/stream/jiotvplus/jalshamovieshd/master.m3u8
 http://smart.bengaldigital.live/Zee-Bangla-Cinema/index.m3u8
 
 #EXTINF:-55 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/a4/BanglaCinema.jpeg/revision/latest?cb=20191207094555" group-title="Indian-Bangla",Colors Bangla Cinema
-https://mini.allinonereborn.online/jiotv-ww323/app/ts_live_1657.m3u8
+https://live.dinesh29.com.np/stream/jiotvplus/colorsbanglacinema/master.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/vijay-iptv/logos/refs/heads/main/Star_Movies_HD.png" group-title="Airtel | Tamil",Star Movies HD
@@ -501,7 +501,7 @@ http://195.181.169.162:80/AND_TV_HD/index.mpd?token=test
 https://mini.allinonereborn.online/jiotv-ww323/app/ts_live_1477.m3u8
 
 #EXTINF:1 tvg-name="Colors Cineplex Superhit" tvg-logo="https://i.ibb.co/XxwRMX6c/images.jpg" group-title="Entertainment",Colors Cineplex Superhit
-https://mini.allinonereborn.online/jiotv-ww323/app/ts_live_1450.m3u8
+https://live.dinesh29.com.np/stream/jiotvplus/colorscineplexsuperhit/master.m3u8
 
 #EXTINF:-1 tvg-id="colorscineplexbollywood" tvg-logo="https://live.dinesh29.com.np/logos/jiotvplus/colorscineplexbollywood.png" group-title="Movies",Colors Cineplex Bollywood
 http://66.102.120.18:8000/play/a01a/index.m3u8
@@ -518,10 +518,10 @@ http://182.176.185.207:7500/play/a07w/index.m3u8
 https://tiger-hub.vercel.app/Star__utsab--movies/tracks-v1a1/mono.ts.m3u8
 
 #EXTINF:-1 tvg-id="stargoldthrills" tvg-logo="https://live.dinesh29.com.np/logos/jiotvplus/stargoldthrills.png" group-title="Movies",Star Gold Thrills
-http://tv.bdiptv.store:80/live/restreauu/refstream/30705.m3u8
+https://live.dinesh29.com.np/stream/jiotvplus/stargoldthrills/master.m3u8
 
 
-#EXTINF:-1, tvg-id="29" tvg-name="IN | STAR GOLD " tvg-logo="https://live.dinesh29.com.np/logos/jiotvplus/stargold.png"group-title="INDIAN ➾ ENTERTAINMENT", IN | STAR GOLD HD
+#EXTINF:-1, tvg-id="29" tvg-name="IN | STAR GOLD " tvg-logo="https://live.dinesh29.com.np/logos/jiotvplus/stargold.png"group-title="INDIAN ➾ ENTERTAINMENT", IN | STAR GOLD
 https://live.dinesh29.com.np/stream/jiotvplus/stargold/master.m3u8
 
 
@@ -539,10 +539,12 @@ http://103.122.252.100:8080/STAR-GOLD/index.m3u8
 https://live.dinesh29.com.np/stream/jiotvplus/stargoldselecthd/master.m3u8
 
 #EXTINF:-1 tvg-id="stargoldromance" tvg-logo="https://live.dinesh29.com.np/logos/jiotvplus/stargoldromance.png" group-title="Movies",Star Gold Romance
-http://182.176.185.207:7500/play/a07c/index.m3u8
+#http://182.176.185.207:7500/play/a07c/index.m3u8
+https://live.dinesh29.com.np/stream/jiotvplus/stargoldromance/master.m3u8
 
-#EXTINF:-1 tvg-id="31" tvg-name="IN | STAR GOLD 2 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Star_Gold_2.svg/1376px-Star_Gold_2.svg.png" group-title="INDIAN ➾ ENTERTAINMENT", IN | STAR GOLD 2
-http://filex.me:8080/live/444476/444476/31.m3u8
+
+#EXTINF:-1 tvg-id="31" tvg-name="IN | STAR GOLD 2 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Star_Gold_2.svg/1376px-Star_Gold_2.svg.png" group-title="INDIAN ➾ ENTERTAINMENT", IN | STAR GOLD 2 hd
+https://live.dinesh29.com.np/stream/jiotvplus/stargold2hd/master.m3u8
 
 
 
