@@ -874,44 +874,77 @@ http://66.102.120.18:8000/play/a05f/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="TIMNASDAY",Bein Sports 1
 https://balance.footballii.ir/hls2/b1.m3u8
 
+#EXTINF:-1 tvg-id="61" tvg-name="beIN Sports MENA English 1" tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/daddylive/logos/bein-sports-mena-english-1.png" group-title="OTHERS",beIN Sports MENA English 1
+https://xfireflix.fun/file/hls.m3u8?c=61|referer=https://jxoplay.xyz/&origin=https://jxoplay.xyz
+#EXTINF:-1 tvg-id="90" tvg-name="beIN Sports MENA English 2" tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/daddylive/logos/bein-sports-mena-english-2.png" group-title="OTHERS",beIN Sports MENA English 2
+https://xfireflix.fun/file/hls.m3u8?c=90|referer=https://jxoplay.xyz/&origin=https://jxoplay.xyz
+#EXTINF:-1 tvg-id="46" tvg-name="beIN Sports MENA English 3" tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/daddylive/logos/bein-sports-mena-english-3.png" group-title="OTHERS",beIN Sports MENA English 3
+https://xfireflix.fun/file/hls.m3u8?c=46|referer=https://jxoplay.xyz/&origin=https://jxoplay.xyz
+#EXTINF:-1 tvg-id="91" tvg-name="beIN Sports MENA 1" tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/daddylive/logos/bein-sports-1.png" group-title="OTHERS",beIN Sports MENA 1
+https://xfireflix.fun/file/hls.m3u8?c=91|referer=https://jxoplay.xyz/&origin=https://jxoplay.xyz
+#EXTINF:-1 tvg-id="92" tvg-name="beIN Sports MENA 2" tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/daddylive/logos/bein-sports-2.png" group-title="OTHERS",beIN Sports MENA 2
+https://xfireflix.fun/file/hls.m3u8?c=92|referer=https://jxoplay.xyz/&origin=https://jxoplay.xyz
+#EXTINF:-1 tvg-id="93" tvg-name="beIN Sports MENA 3" tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/daddylive/logos/bein-sports-3.png" group-title="OTHERS",beIN Sports MENA 3
+https://xfireflix.fun/file/hls.m3u8?c=93|referer=https://jxoplay.xyz/&origin=https://jxoplay.xyz
+#EXTINF:-1 tvg-id="94" tvg-name="beIN Sports MENA 4" tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/daddylive/logos/bein-sports-4.png" group-title="OTHERS",beIN Sports MENA 4
+https://xfireflix.fun/file/hls.m3u8?c=94|referer=https://jxoplay.xyz/&origin=https://jxoplay.xyz
+#EXTINF:-1 tvg-id="95" tvg-name="beIN Sports MENA 5" tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/daddylive/logos/bein-sports-5.png" group-title="OTHERS",beIN Sports MENA 5
+https://xfireflix.fun/file/hls.m3u8?c=95|referer=https://jxoplay.xyz/&origin=https://jxoplay.xyz
+#EXTINF:-1 tvg-id="96" tvg-name="beIN Sports MENA 6" tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/daddylive/logos/bein-sports-6.png" group-title="OTHERS",beIN Sports MENA 6
+https://xfireflix.fun/file/hls.m3u8?c=96|referer=https://jxoplay.xyz/&origin=https://jxoplay.xyz
+#EXTINF:-1 tvg-id="97" tvg-name="beIN Sports MENA 7" tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/daddylive/logos/bein-sports-7.png" group-title="OTHERS",beIN Sports MENA 7
+https://xfireflix.fun/file/hls.m3u8?c=97|referer=https://jxoplay.xyz/&origin=https://jxoplay.xyz
+#EXTINF:-1 tvg-id="98" tvg-name="beIN Sports MENA Premium 1" tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/daddylive/logos/bein-sports-mena-premium-1.png" group-title="OTHERS",beIN Sports MENA Premium 1
+https://xfireflix.fun/file/hls.m3u8?c=98|referer=https://jxoplay.xyz/&origin=https://jxoplay.xyz
+#EXTINF:-1 tvg-id="99" tvg-name="beIN Sports MENA Premium 2" tvg-logo="logodaddy.webp" group-title="Others",beIN Sports MENA Premium 2
+https://xfireflix.fun/file/hls.m3u8?c=99|referer=https://jxoplay.xyz/&origin=https://jxoplay.xyz
+#EXTINF:-1 tvg-id="100" tvg-name="beIN Sports MENA Premium 3" tvg-logo="logodaddy.webp" group-title="Others",beIN Sports MENA Premium 3
+https://xfireflix.fun/file/hls.m3u8?c=100|referer=https://jxoplay.xyz/&origin=https://jxoplay.xyz
+#EXTINF:-1 tvg-id="494" tvg-name="beIN Sports MAX 4 France" tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/daddylive/logos/bein-sports-max-4-france.png" group-title="FRANCE",beIN Sports MAX 4 France
+https://xfireflix.fun/file/hls.m3u8?c=494|referer=https://jxoplay.xyz/&origin=https://jxoplay.xyz
+#EXTINF:-1 tvg-id="495" tvg-name="beIN Sports MAX 5 France" tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/daddylive/logos/bein-sports-max-5-france.png" group-title="FRANCE",beIN Sports MAX 5 France
+https://xfireflix.fun/file/hls.m3u8?c=495|referer=https://jxoplay.xyz/&origin=https://jxoplay.xyz
+#EXTINF:-1 tvg-id="496" tvg-name="beIN Sports MAX 6 France" tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/daddylive/logos/bein-sports-max-6-france.png" group-title="FRANCE",beIN Sports MAX 6 France
+https://xfireflix.fun/file/hls.m3u8?c=496|referer=https://jxoplay.xyz/&origin=https://jxoplay.xyz
+
+#EXTINF:-1 tvg-id="497" tvg-name="beIN Sports MAX 7 France" tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/daddylive/logos/bein-sports-max-7-france.png" group-title="FRANCE",beIN Sports MAX 7 France
+https://xfireflix.fun/file/hls.m3u8?c=497|referer=https://jxoplay.xyz/&origin=https://jxoplay.xyz
+#EXTINF:-1 tvg-id="498" tvg-name="beIN Sports MAX 8 France" tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/daddylive/logos/bein-sports-max-8-france.png" group-title="FRANCE",beIN Sports MAX 8 France
+https://xfireflix.fun/file/hls.m3u8?c=498|referer=https://jxoplay.xyz/&origin=https://jxoplay.xyz
+#EXTINF:-1 tvg-id="499" tvg-name="beIN Sports MAX 9 France" tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/daddylive/logos/bein-sports-max-9-france.png" group-title="FRANCE",beIN Sports MAX 9 France
+https://xfireflix.fun/file/hls.m3u8?c=499|referer=https://jxoplay.xyz/&origin=https://jxoplay.xyz
+#EXTINF:-1 tvg-id="500" tvg-name="beIN Sports MAX 10 France" tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/daddylive/logos/bein-sports-max-10-france.png" group-title="FRANCE",beIN Sports MAX 10 France
+https://xfireflix.fun/file/hls.m3u8?c=500|referer=https://jxoplay.xyz/&origin=https://jxoplay.xyz
+#EXTINF:-1 tvg-id="116" tvg-name="beIN SPORTS 1 France" tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/daddylive/logos/bein-sports-1-france.png" group-title="FRANCE",beIN SPORTS 1 France
+https://xfireflix.fun/file/hls.m3u8?c=116|referer=https://jxoplay.xyz/&origin=https://jxoplay.xyz
+#EXTINF:-1 tvg-id="117" tvg-name="beIN SPORTS 2 France" tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/daddylive/logos/bein-sports-2-france.png" group-title="FRANCE",beIN SPORTS 2 France
+https://xfireflix.fun/file/hls.m3u8?c=117|referer=https://jxoplay.xyz/&origin=https://jxoplay.xyz
+#EXTINF:-1 tvg-id="118" tvg-name="beIN SPORTS 3 France" tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/daddylive/logos/bein-sports-3-france.png" group-title="FRANCE",beIN SPORTS 3 France
+https://xfireflix.fun/file/hls.m3u8?c=118|referer=https://jxoplay.xyz/&origin=https://jxoplay.xyz
+#EXTINF:-1 tvg-id="62" tvg-name="beIN SPORTS 1 Turkey" tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/daddylive/logos/bein-sports-1.png" group-title="TURKEY",beIN SPORTS 1 Turkey
+https://xfireflix.fun/file/hls.m3u8?c=62|referer=https://jxoplay.xyz/&origin=https://jxoplay.xyz
+#EXTINF:-1 tvg-id="63" tvg-name="beIN SPORTS 2 Turkey" tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/daddylive/logos/bein-sports-2.png" group-title="TURKEY",beIN SPORTS 2 Turkey
+https://xfireflix.fun/file/hls.m3u8?c=63|referer=https://jxoplay.xyz/&origin=https://jxoplay.xyz
+#EXTINF:-1 tvg-id="64" tvg-name="beIN SPORTS 3 Turkey" tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/daddylive/logos/bein-sports-3.png" group-title="TURKEY",beIN SPORTS 3 Turkey
+https://xfireflix.fun/file/hls.m3u8?c=64|referer=https://jxoplay.xyz/&origin=https://jxoplay.xyz
+
+logo="https://abusaeeidx.github.io/Tv-Channel-Logo/daddylive/logos/bein-sports-4.png" group-title="TURKEY",beIN SPORTS 4 Turkey
+https://xfireflix.fun/file/hls.m3u8?c=67|referer=https://jxoplay.xyz/&origin=https://jxoplay.xyz
+#EXTINF:-1 tvg-id="578" tvg-name="BeIN Sports HD Qatar" tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/daddylive/logos/bein-sports-hd.png" group-title="QATAR",BeIN Sports HD Qatar
+https://xfireflix.fun/file/hls.m3u8?c=578|referer=https://jxoplay.xyz/&origin=https://jxoplay.xyz
+#EXTINF:-1 tvg-id="425" tvg-name="BeIN SPORTS USA" tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/daddylive/logos/bein-sports-6.png" group-title="UNITED STATES",BeIN SPORTS USA
+https://xfireflix.fun/file/hls.m3u8?c=425|referer=https://jxoplay.xyz/&origin=https://jxoplay.xyz
+#EXTINF:-1 tvg-id="372" tvg-name="beIN SPORTS en Espa?ol" tvg-logo="logodaddy.webp" group-title="Others",beIN SPORTS en Espa?ol
+https://xfireflix.fun/file/hls.m3u8?c=372|referer=https://jxoplay.xyz/&origin=https://jxoplay.xyz
+#EXTINF:-1 tvg-id="491" tvg-name="beIN SPORTS Australia 1" tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/daddylive/logos/bein-sports-1.png" group-title="AUSTRALIA",beIN SPORTS Australia 1
+https://xfireflix.fun/file/hls.m3u8?c=491|referer=https://jxoplay.xyz/&origin=https://jxoplay.xyz
+#EXTINF:-1 tvg-id="492" tvg-name="beIN SPORTS Australia 2" tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/daddylive/logos/bein-sports-2.png" group-title="AUSTRALIA",beIN SPORTS Australia 2
+https://xfireflix.fun/file/hls.m3u8?c=492|referer=https://jxoplay.xyz/&origin=https://jxoplay.xyz
+#EXTINF:-1 tvg-id="493" tvg-name="beIN SPORTS Australia 3" tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/daddylive/logos/bein-sports-3.png" group-title="AUSTRALIA",beIN SPORTS Australia 3
+https://xfireflix.fun/file/hls.m3u8?c=493|referer=https://jxoplay.xyz/&origin=https://jxoplay.xyz
 
 
-#EXTINF:-1 group-title="Sports" tvg-logo="https://i.ibb.co.com/VpLFC41v/Astro-Cricket.jpg",Bein Sports 1
-http://125x.org:8080/bn1hd/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 group-title="Sports" tvg-logo="https://i.ibb.co.com/VpLFC41v/Astro-Cricket.jpg",Bein Sports 2
-http://125x.org:8080/bn2hd/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 group-title="Sports" tvg-logo="https://i.ibb.co.com/VpLFC41v/Astro-Cricket.jpg",Bein Sports 3
-http://125x.org:8080/bn3hd/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 group-title="Sports" tvg-logo="https://i.ibb.co.com/VpLFC41v/Astro-Cricket.jpg",Bein Sports 4
-http://125x.org:8080/bn4hd/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 group-title="Sports" tvg-logo="https://i.ibb.co.com/VpLFC41v/Astro-Cricket.jpg",Bein Sports 6
-http://125x.org:8080/bn6hd/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 group-title="Sports" tvg-logo="https://i.ibb.co.com/Q3F9JyKH/T-Sports.jpg",DD Sports 2.0
-https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/b17adfe543354fdd8d189b110617cddd/index_3.m3u8
-
-
-#EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/cC5zmCyv/Supersports-Cricket.jpg",Euro Sport 1
-https://ddy6new.newkso.ru/ddy6/premium772/mono.m3u8
-
-#EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/cC5zmCyv/Supersports-Cricket.jpg",Fox Soccer Plus
-https://ddy6new.newkso.ru/ddy6/premium756/mono.m3u8
-
-#EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/qMtBrnST/Astro-Cricket.jpg",Nova Sports 5
-https://ddy6new.newkso.ru/ddy6/premium774/mono.m3u8
-
-#EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/qMtBrnST/Astro-Cricket.jpg",OneToro
-https://ddy6new.newkso.ru/ddy6/premium749/mono.m3u8
-
-#EXTINF:-1 group-title="Sports" tvg-logo="https://i.ibb.co.com/7Jzck3ZR/PTV-Sports.jpg",Premier Sports 1
-https://ddy6new.newkso.ru/ddy6/premium771/mono.m3u8
-
-#EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/4yyTcJWn/GTV.jpg",Ziggo Sports
-https://ddy6new.newkso.ru/ddy6/premium393/mono.m3u8
 
 #EXTINF:-1 group-title="Sports" tvg-logo="https://i.ibb.co.com/HT0W29vz/Tennis-Channel.jpg",Tennis Channel
 https://tennischannel-int-samsunguk.amagi.tv/playlist.m3u8
