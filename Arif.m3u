@@ -737,16 +737,16 @@ https://d3kdywbtdfbp9z.cloudfront.net/v1/manifest/93ce20f0f52760bf38be911ff4c91e
 http://146.59.253.52:8080/hindihitshd/index.m3u8
 
 #EXTINF:-1,YRF MUSIC
-https://live.dinesh29.com.np/stream/livetv/yrfmusic/master.m3u8
+https://live.dinesh29.com.np/stream/jiotvplus/yrfmusic/master.m3u8
 
 
-#EXTINF:-1 tvg-id="406" tvg-logo="https://live.dinesh29.com.np/logos/tataplay/mtvhd.png" group-title="Music",MTV HD
-https://live.dinesh29.com.np/stream/tataplay/mtvhd/master.m3u8
+#EXTINF:-1 tvg-id="406" tvg-logo="https://live.dinesh29.com.np/logos/tataplay/mtvhd.png" group-title="Music",MTV hd
+https://live.dinesh29.com.np/stream/jiotvplus/mtvhd/master.m3u8
 
 
+#EXTINF:-1,DOOM MUSIC BANGLA
+https://live.dinesh29.com.np/stream/jiotvplus/dhoommusicbangla/master.m3u8
 
-#EXTINF:-1,MTV
-https://mini.allinonereborn.online/jiotv-ww323/app/ts_live_248.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="MUSIC",Hindi Hits
 https://cloudfrontnet.vercel.app/tplay/playout/209592/master.m3u8
