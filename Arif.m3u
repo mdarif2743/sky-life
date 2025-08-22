@@ -988,7 +988,22 @@ https://xfireflix.fun/file/hls.m3u8?c=370|referer=https://jxoplay.xyz/&origin=ht
 https://NadimRazaTV.short.gy/TheSkySports1.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Live Sports",SkySports 2 New Zealand
 https://tiger-hub.vercel.app/SkySports-2_NZ/tracks-v1a1/mono.m3u8
-
+#EXTINF:-1 tvg-id="590" tvg-name="Sky Sport 3 NZ" tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/daddylive/logos/sky-sport-3-nz.png" group-title="NEW ZEALAND",Sky Sport 3 NZ
+https://xfireflix.fun/file/hls.m3u8?c=590|referer=https://jxoplay.xyz/&origin=https://jxoplay.xyz
+#EXTINF:-1 tvg-id="591" tvg-name="Sky Sport 4 NZ" tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/daddylive/logos/sky-sport-4-nz.png" group-title="NEW ZEALAND",Sky Sport 4 NZ
+https://xfireflix.fun/file/hls.m3u8?c=591|referer=https://jxoplay.xyz/&origin=https://jxoplay.xyz
+#EXTINF:-1 tvg-id="592" tvg-name="Sky Sport 5 NZ" tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/daddylive/logos/sky-sport-5-nz.png" group-title="NEW ZEALAND",Sky Sport 5 NZ
+https://xfireflix.fun/file/hls.m3u8?c=592|referer=https://jxoplay.xyz/&origin=https://jxoplay.xyz
+#EXTINF:-1 tvg-id="593" tvg-name="Sky Sport 6 NZ" tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/daddylive/logos/sky-sport-6-nz.png" group-title="NEW ZEALAND",Sky Sport 6 NZ
+https://xfireflix.fun/file/hls.m3u8?c=593|referer=https://jxoplay.xyz/&origin=https://jxoplay.xyz
+#EXTINF:-1 tvg-id="594" tvg-name="Sky Sport 7 NZ" tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/daddylive/logos/sky-sport-7-nz.png" group-title="NEW ZEALAND",Sky Sport 7 NZ
+https://xfireflix.fun/file/hls.m3u8?c=594|referer=https://jxoplay.xyz/&origin=https://jxoplay.xyz
+#EXTINF:-1 tvg-id="595" tvg-name="Sky Sport 8 NZ" tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/daddylive/logos/sky-sport-8-nz.png" group-title="NEW ZEALAND",Sky Sport 8 NZ
+https://xfireflix.fun/file/hls.m3u8?c=595|referer=https://jxoplay.xyz/&origin=https://jxoplay.xyz
+#EXTINF:-1 tvg-id="596" tvg-name="Sky Sport 9 NZ" tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/daddylive/logos/sky-sport-9-nz.png" group-title="NEW ZEALAND",Sky Sport 9 NZ
+https://xfireflix.fun/file/hls.m3u8?c=596|referer=https://jxoplay.xyz/&origin=https://jxoplay.xyz
+#EXTINF:-1 tvg-id="587" tvg-name="Sky Sport Select NZ" tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/daddylive/logos/sky-sport-select-nz.png" group-title="NEW ZEALAND",Sky Sport Select NZ
+https://xfireflix.fun/file/hls.m3u8?c=587|referer=https://jxoplay.xyz/&origin=https://jxoplay.xyz
 
 
 
@@ -1239,12 +1254,71 @@ https://tiger-hub.vercel.app/Sport.tv-2/tracks-v1a1/mono.m3u8
 https://tiger-hub.vercel.app/Sport.tv-3/tracks-v1a1/mono.m3u8
 
 
+#EXTINF:-1 tvg-id="387" tvg-name="ESPN Premium Argentina" tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/daddylive/logos/espn-premium.png" group-title="ARGENTINA",ESPN Premium Argentina
+https://xfireflix.fun/file/hls.m3u8?c=387|referer=https://jxoplay.xyz/&origin=https://jxoplay.xyz
+#EXTINF:-1 tvg-id="81" tvg-name="ESPN Brasil" tvg-logo="logodaddy.webp" group-title="Others",ESPN Brasil
+https://xfireflix.fun/file/hls.m3u8?c=81|referer=https://jxoplay.xyz/&origin=https://jxoplay.xyz
+#EXTINF:-1 tvg-id="82" tvg-name="ESPN2 Brasil" tvg-logo="logodaddy.webp" group-title="Others",ESPN2 Brasil
+https://xfireflix.fun/file/hls.m3u8?c=82|referer=https://jxoplay.xyz/&origin=https://jxoplay.xyz
+#EXTINF:-1 tvg-id="83" tvg-name="ESPN3 Brasil" tvg-logo="logodaddy.webp" group-title="Others",ESPN3 Brasil
+https://xfireflix.fun/file/hls.m3u8?c=83|referer=https://jxoplay.xyz/&origin=https://jxoplay.xyz
+#EXTINF:-1 tvg-id="85" tvg-name="ESPN4 Brasil" tvg-logo="logodaddy.webp" group-title="Others",ESPN4 Brasil
+https://xfireflix.fun/file/hls.m3u8?c=85|referer=https://jxoplay.xyz/&origin=https://jxoplay.xyz
+#EXTINF:-1 tvg-id="149" tvg-name="ESPN SUR" tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/daddylive/logos/espn-sur.png" group-title="ARGENTINA",ESPN SUR
+https://xfireflix.fun/file/hls.m3u8?c=149|referer=https://jxoplay.xyz/&origin=https://jxoplay.xyz
+#EXTINF:-1 tvg-id="150" tvg-name="ESPN2 SUR" tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/daddylive/logos/espn-2-sur.png" group-title="ARGENTINA",ESPN2 SUR
+https://xfireflix.fun/file/hls.m3u8?c=150|referer=https://jxoplay.xyz/&origin=https://jxoplay.xyz
+#EXTINF:-1 tvg-id="375" tvg-name="ESPN Deportes" tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/daddylive/logos/espn-deportes.png" group-title="UNITED STATES",ESPN Deportes
+https://xfireflix.fun/file/hls.m3u8?c=375|referer=https://jxoplay.xyz/&origin=https://jxoplay.xyz
+
+#EXTINF:-1 tvg-id="756" tvg-name="FOX Soccer Plus" tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/daddylive/logos/fox-soccer-plus.png" group-title="UNITED STATES",FOX Soccer Plus
+https://xfireflix.fun/file/hls.m3u8?c=756|referer=https://jxoplay.xyz/&origin=https://jxoplay.xyz
 
 
+#EXTINF:-1 tvg-id="101" tvg-name="Sport Klub 1 Serbia" tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/daddylive/logos/sport-klub-1-serbia.png" group-title="SERBIA",Sport Klub 1 Serbia
+https://xfireflix.fun/file/hls.m3u8?c=101|referer=https://jxoplay.xyz/&origin=https://jxoplay.xyz
+#EXTINF:-1 tvg-id="102" tvg-name="Sport Klub 2 Serbia" tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/daddylive/logos/sport-klub-2-serbia.png" group-title="SERBIA",Sport Klub 2 Serbia
+https://xfireflix.fun/file/hls.m3u8?c=102|referer=https://jxoplay.xyz/&origin=https://jxoplay.xyz
+#EXTINF:-1 tvg-id="103" tvg-name="Sport Klub 3 Serbia" tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/daddylive/logos/sport-klub-3-serbia.png" group-title="SERBIA",Sport Klub 3 Serbia
+https://xfireflix.fun/file/hls.m3u8?c=103|referer=https://jxoplay.xyz/&origin=https://jxoplay.xyz
+#EXTINF:-1 tvg-id="104" tvg-name="Sport Klub 4 Serbia" tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/daddylive/logos/sport-klub-4-serbia.png" group-title="SERBIA",Sport Klub 4 Serbia
+https://xfireflix.fun/file/hls.m3u8?c=104|referer=https://jxoplay.xyz/&origin=https://jxoplay.xyz
+#EXTINF:-1 tvg-id="453" tvg-name="Sport Klub HD Serbia" tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/daddylive/logos/sport-klub-hd-serbia.png" group-title="SERBIA",Sport Klub HD Serbia
+https://xfireflix.fun/file/hls.m3u8?c=453|referer=https://jxoplay.xyz/&origin=https://jxoplay.xyz
+#EXTINF:-1 tvg-id="406" tvg-name="Sportsnet Ontario" tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/daddylive/logos/sportsnet-ontario.png" group-title="UNITED STATES",Sportsnet Ontario
+https://xfireflix.fun/file/hls.m3u8?c=406|referer=https://jxoplay.xyz/&origin=https://jxoplay.xyz
+#EXTINF:-1 tvg-id="411" tvg-name="Sportsnet One" tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/daddylive/logos/sportsnet-one.png" group-title="CANADA",Sportsnet One
+https://xfireflix.fun/file/hls.m3u8?c=411|referer=https://jxoplay.xyz/&origin=https://jxoplay.xyz
+#EXTINF:-1 tvg-id="407" tvg-name="Sportsnet West" tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/daddylive/logos/sportsnet-west.png" group-title="UNITED STATES",Sportsnet West
+https://xfireflix.fun/file/hls.m3u8?c=407|referer=https://jxoplay.xyz/&origin=https://jxoplay.xyz
+#EXTINF:-1 tvg-id="408" tvg-name="Sportsnet East" tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/daddylive/logos/sportsnet-east.png" group-title="CANADA",Sportsnet East
+https://xfireflix.fun/file/hls.m3u8?c=408|referer=https://jxoplay.xyz/&origin=https://jxoplay.xyz
+#EXTINF:-1 tvg-id="409" tvg-name="Sportsnet 360" tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/daddylive/logos/sportsnet-360.png" group-title="CANADA",Sportsnet 360
+https://xfireflix.fun/file/hls.m3u8?c=409|referer=https://jxoplay.xyz/&origin=https://jxoplay.xyz
+#EXTINF:-1 tvg-id="410" tvg-name="Sportsnet World" tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/daddylive/logos/sportsnet-world.png" group-title="UNITED STATES",Sportsnet World
+https://xfireflix.fun/file/hls.m3u8?c=410|referer=https://jxoplay.xyz/&origin=https://jxoplay.xyz
 
 
-
-
+#EXTINF:-1 tvg-id="412" tvg-name="SuperSport Grandstand" tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/daddylive/logos/supersport-grandstand.png" group-title="SOUTH AFRICA",SuperSport Grandstand
+https://xfireflix.fun/file/hls.m3u8?c=412|referer=https://jxoplay.xyz/&origin=https://jxoplay.xyz
+#EXTINF:-1 tvg-id="413" tvg-name="SuperSport PSL" tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/daddylive/logos/supersport-psl.png" group-title="SOUTH AFRICA",SuperSport PSL
+https://xfireflix.fun/file/hls.m3u8?c=413|referer=https://jxoplay.xyz/&origin=https://jxoplay.xyz
+#EXTINF:-1 tvg-id="414" tvg-name="SuperSport Premier league" tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/daddylive/logos/supersport-premier-league.png" group-title="SOUTH AFRICA",SuperSport Premier league
+https://xfireflix.fun/file/hls.m3u8?c=414|referer=https://jxoplay.xyz/&origin=https://jxoplay.xyz
+#EXTINF:-1 tvg-id="415" tvg-name="SuperSport LaLiga" tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/daddylive/logos/supersport-laliga.png" group-title="SOUTH AFRICA",SuperSport LaLiga
+https://xfireflix.fun/file/hls.m3u8?c=415|referer=https://jxoplay.xyz/&origin=https://jxoplay.xyz
+#EXTINF:-1 tvg-id="416" tvg-name="SuperSport Variety 1" tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/daddylive/logos/supersport-variety-1.png" group-title="SOUTH AFRICA",SuperSport Variety 1
+https://xfireflix.fun/file/hls.m3u8?c=416|referer=https://jxoplay.xyz/&origin=https://jxoplay.xyz
+#EXTINF:-1 tvg-id="419" tvg-name="SuperSport Variety 4" tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/daddylive/logos/supersport-variety-4.png" group-title="SOUTH AFRICA",SuperSport Variety 4
+https://xfireflix.fun/file/hls.m3u8?c=419|referer=https://jxoplay.xyz/&origin=https://jxoplay.xyz
+#EXTINF:-1 tvg-id="420" tvg-name="SuperSport Action" tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/daddylive/logos/supersport-action.png" group-title="SOUTH AFRICA",SuperSport Action
+https://xfireflix.fun/file/hls.m3u8?c=420|referer=https://jxoplay.xyz/&origin=https://jxoplay.xyz
+#EXTINF:-1 tvg-id="421" tvg-name="SuperSport Rugby" tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/daddylive/logos/supersport-rugby.png" group-title="SOUTH AFRICA",SuperSport Rugby
+https://xfireflix.fun/file/hls.m3u8?c=421|referer=https://jxoplay.xyz/&origin=https://jxoplay.xyz
+#EXTINF:-1 tvg-id="423" tvg-name="SuperSport Tennis" tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/daddylive/logos/supersport-tennis.png" group-title="SOUTH AFRICA",SuperSport Tennis
+https://xfireflix.fun/file/hls.m3u8?c=423|referer=https://jxoplay.xyz/&origin=https://jxoplay.xyz
+#EXTINF:-1 tvg-id="424" tvg-name="SuperSport Motorsport" tvg-logo="logodaddy.webp" group-title="Others",SuperSport Motorsport
+https://xfireflix.fun/file/hls.m3u8?c=424|referer=https://jxoplay.xyz/&origin=https://jxoplay.xyz
 
 
 
