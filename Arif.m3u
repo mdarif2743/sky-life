@@ -552,6 +552,14 @@ https://tiger-hub.vercel.app/Zee__anmoL-Cinema_/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-id="0-9-zeeclassic" group-title="Movies" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Classic.png",Zee Bollywood 📺 (zee5)
 http://182.176.185.207:7500/play/a07w/index.m3u8
 
+#EXTINF:-1 tvg-id="160" tvg-logo="https://s3.aynaott.com/storage/d6dd2e3ffede99b3f1d7d4fb8f5061a5" group-title="",Goldmines
+https://cdn-2.pishow.tv/live/1459/master.m3u8
+
+#EXTINF:-1 tvg-id="161" tvg-logo="https://s3.aynaott.com/storage/d9a0314f5f9165176f492db3923709bd" group-title="",Goldmines Bollywood
+https://tvsen6.aynaott.com/GoldminesBollywood/index.m3u8?e=1750361806&u=8be812d7-3211-4694-a402-0aa09074dfc1&token=89bfb8ddda1e6584a20868a05effcc58
+
+#EXTINF:-1 tvg-id="162" tvg-logo="https://s3.aynaott.com/storage/26c1570891267164e40563806b25ccdb" group-title="",Goldmines Movies
+https://cdn-2.pishow.tv/live/1461/master.m3u8
 
 
 #EXTINF:-1 tvg-id="starutsavmovies" tvg-logo="https://live.dinesh29.com.np/logos/jiotvplus/starutsavmovies.png" group-title="Movies",Star Utsav Movies
@@ -608,14 +616,13 @@ https://tiger-hub.vercel.app/SONY/MoviesUS/tracks-v1a1/mono.ts.m3u8
 https://tataplay.slivcdn.com/hls/live/2011670/SonyMaxhd/master.m3u8
 #EXTINF:-1 tvg-id="sony-max" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_Max_SD.png" group-title="Movies",Sony MAX uk
 https://tiger-hub.vercel.app/SONY/MaxUK/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 tvg-id="160" tvg-logo="https://s3.aynaott.com/storage/d6dd2e3ffede99b3f1d7d4fb8f5061a5" group-title="",Goldmines
-https://cdn-2.pishow.tv/live/1459/master.m3u8
-https://lifetvbd.xyz:8880/play/_IHuWmwwlQ7tot9J5av1L901NEL73sVCpOF57OOloQM/ts
-#EXTINF:-1 tvg-id="161" tvg-logo="https://s3.aynaott.com/storage/d9a0314f5f9165176f492db3923709bd" group-title="",Goldmines Bollywood
-https://tvsen6.aynaott.com/GoldminesBollywood/index.m3u8?e=1750361806&u=8be812d7-3211-4694-a402-0aa09074dfc1&token=89bfb8ddda1e6584a20868a05effcc58
-https://lifetvbd.xyz:8880/play/_IHuWmwwlQ7tot9J5av1L6qnkbSzECgkqExOupEhxDo/ts
-#EXTINF:-1 tvg-id="162" tvg-logo="https://s3.aynaott.com/storage/26c1570891267164e40563806b25ccdb" group-title="",Goldmines Movies
-https://cdn-2.pishow.tv/live/1461/master.m3u8
+
+
+
+
+
+
+
 https://lifetvbd.xyz:8880/play/_IHuWmwwlQ7tot9J5av1L3ovfAeXw-gGtL4odwmE7ak/ts
 #EXTINF:-1 tvg-id="B4UKadak.in@SD" tvg-logo="https://i.imgur.com/CKLn0ft.png" group-title="Movies",B4U Kadak (1080p) [Not 24/7]
 https://cdnb4u.wiseplayout.com/B4U_Kadak/master.m3u8
