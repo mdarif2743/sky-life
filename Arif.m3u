@@ -106,12 +106,14 @@ http://103.122.252.100:8080/NAGORIK-TV/index.m3u8
 https://tvsen6.aynaott.com/anandatv/index.m3u8?e=1750361671&u=8be812d7-3211-4694-a402-0aa09074dfc1&token=314d326793f96edf472404265d4b5d4c
 
 
+
+#EXTINF:0 group-title="2. JAGOBD" ,CHANNEL S HD
+https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/channels.stream/playlist.m3u8
+
 #EXTINF:-1 tvg-id="31" tvg-logo="https://s3.aynaott.com/storage/bda05e1c2173251baebc20ffe43dea0b" group-title="",Global TV
 https://tvsen6.aynaott.com/globaltvhd/index.m3u8?e=1750361548&u=8be812d7-3211-4694-a402-0aa09074dfc1&token=482292ef4760d31e19ded10573b6ea61
 
 
-#EXTINF:-1,Channel S BD
-https://static.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/channels.stream/playlist.m3u8|referer=https://www.jagobd.com
 
 
 =================JAGOBD ===============================[
