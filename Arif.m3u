@@ -208,7 +208,15 @@ https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF9
 
 
 
+#EXTINF:-1 tvg-id="7c21a8ade135" tvg-logo="https://images.toffeelive.com/images/program/303937/logo/240x240/mobile_logo_880134001738072763.ZINDEGYoup-title="",Hum TV
+http://app.hughag.store/api/4518a8c92f/playlist.m3u8
 
+
+#EXTINF:-1 tvg-id="bce59316a966" tvg-name="HUM Masala" tvg-country="IN" tvg-logo="https://assets-prod.services.toffeelive.com/f_webp,w_240,q_100/T9O9X5UBm1RY_In7UXFv/posters/30e0f372-eb3e-4cf9-be1e-b196a40c2fc7.png" tvg-chno="bce59316a966" group-title="",HUM Masala
+https://www.xfireflix.fun/test/live.php?id=bce59316a966&e=.m3u8
+
+#EXTINF:-1 tvg-id="a53f9e0ba020" tvg-name="HUM Sitaray" tvg-country="IN" tvg-logo="https://assets-prod.services.toffeelive.com/f_webp,w_240,q_100/WtPBX5UBm1RY_In7mXEU/posters/188d51f6-aeef-41ed-835b-e25ff911e209.png" tvg-chno="a53f9e0ba020" group-title="",HUM Sitaray
+https://www.xfireflix.fun/test/live.php?id=a53f9e0ba020&e=.m3u8
 
 
 
@@ -264,14 +272,6 @@ http://66.102.120.18:8000/play/a031/index.m3u8
 #EXTINF:-1,ARY QTV
 http://182.176.185.207:7500/play/a0d4/index.m3u8
 
-#EXTINF:-1 tvg-id="7c21a8ade135" tvg-logo="https://images.toffeelive.com/images/program/303937/logo/240x240/mobile_logo_880134001738072763.ZINDEGYoup-title="",Hum TV
-http://app.hughag.store/api/4518a8c92f/playlist.m3u8
-
-
-#EXTINF:-1 tvg-id="bce59316a966" tvg-name="HUM Masala" tvg-country="IN" tvg-logo="https://assets-prod.services.toffeelive.com/f_webp,w_240,q_100/T9O9X5UBm1RY_In7UXFv/posters/30e0f372-eb3e-4cf9-be1e-b196a40c2fc7.png" tvg-chno="bce59316a966" group-title="",HUM Masala
-https://www.xfireflix.fun/test/live.php?id=bce59316a966&e=.m3u8
-#EXTINF:-1 tvg-id="a53f9e0ba020" tvg-name="HUM Sitaray" tvg-country="IN" tvg-logo="https://assets-prod.services.toffeelive.com/f_webp,w_240,q_100/WtPBX5UBm1RY_In7mXEU/posters/188d51f6-aeef-41ed-835b-e25ff911e209.png" tvg-chno="a53f9e0ba020" group-title="",HUM Sitaray
-https://www.xfireflix.fun/test/live.php?id=a53f9e0ba020&e=.m3u8
 
 
 
