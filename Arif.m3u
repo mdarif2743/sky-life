@@ -889,7 +889,7 @@ https://tataplay.slivcdn.com/hls/live/2020589/ten4hd/master.m3u8
 https://tataplay.slivcdn.com/hls/live/2020593/SONYSIXHD/master.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e4/PTV_Sports.png" group-title="Sports",PTV Sports
-http://103.122.252.100:8080/PTV-SPORTS/index.m3u8
+https://biz3.dlolcast.com:7059/hls/ptvpk.m3u8?md6=M_sEJwTX7rt-8sI_gssXHw&expires=1757098210|Referer=https://dlolcast.com/&Origin=https://dlolcast.com
 
 
 
