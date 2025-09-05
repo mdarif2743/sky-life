@@ -978,9 +978,17 @@ https://tvsen7.aynaott.com/asports-bkp/index.m3u8?e=1753741206&u=9a031201-22d8-4
 
 
 
+#EXTINF:-1 tvg-id="criclife1" tvg-name="CricLife 1" tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/V2.0/new/criclife.jpg" group-title="CricHD",CricLife 1
+#EXTVLCOPT:http-referrer=https://dlolcast.com/
+#EXTVLCOPT:http-origin=https://dlolcast.com
+https://biz3.dlolcast.com:7059/hls/criclife1.m3u8?md6=aDTG3FoiDJMmdeSa3M1buw&expires=1757098232|Referer=https://dlolcast.com/&Origin=https://dlolcast.com
 
-#EXTINF:-1, CRICBUZZ 2
-https://119-ar.vercel.app/hls.live.stream.php/mac=178214/mono.m3u8
+#EXTINF:-1 tvg-id="criclife2" tvg-name="CricLife 2" tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/V2.0/new/criclife.jpg" group-title="CricHD",CricLife 2
+#EXTVLCOPT:http-referrer=https://dlolcast.com/
+#EXTVLCOPT:http-origin=https://dlolcast.com
+https://biz3.dlolcast.com:7059/hls/criclife2.m3u8?md6=MrXiEulWWuXK6NuSZp_epg&expires=1757098232|Referer=https://dlolcast.com/&Origin=https://dlolcast.com
+
+
 
 #EXTINF:-1,TEN SPORTS HD
 http://fast.luckonline.eu/live/2Nw6SArNhs/9754302190/1372.m3u8
@@ -1047,7 +1055,15 @@ https://crichdplaylist.extratvteam.workers.dev/master.m3u8?cid=skysfor1
 https://biz3.dlolcast.com:7059/hls/skypremol.m3u8?md6=_ezT-IDxLaLRtlJrBWG2iw&expires=1757098219|Referer=https://dlolcast.com/&Origin=https://dlolcast.com
 
 
+#EXTINF:-1 tvg-id="viaplaysp1" tvg-name="Premier Sports 1" tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/V2.0/new/Premiers1.jpg" group-title="CricHD",Premier Sports 1
+#EXTVLCOPT:http-referrer=https://dlolcast.com/
+#EXTVLCOPT:http-origin=https://dlolcast.com
+https://biz3.dlolcast.com:7059/hls/viaplaysp1.m3u8?md6=iu0wLFiM8-rVWQOekwvvaQ&expires=1757098235|Referer=https://dlolcast.com/&Origin=https://dlolcast.com
 
+#EXTINF:-1 tvg-id="viaplaysp2" tvg-name="Premier Sports 2" tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/V2.0/new/Premiers2.jpg" group-title="CricHD",Premier Sports 2
+#EXTVLCOPT:http-referrer=https://dlolcast.com/
+#EXTVLCOPT:http-origin=https://dlolcast.com
+https://biz3.dlolcast.com:7059/hls/viaplaysp2.m3u8?md6=wayQweKT96Gwhntbm2x67A&expires=1757098236|Referer=https://dlolcast.com/&Origin=https://dlolcast.com
 
 
 
