@@ -1025,18 +1025,6 @@ Sky sports all channel
 
 
 ---------------------------
-#EXTINF:-1 tvg-id="" tvg-logo="https://media.info/l/o/1/1539.1690027797.png" group-title="",ve-tnt1
-https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/VE1NTE5MmVjYzhmYTE3LWZkMDgtZDQ2NC0xMzU3LWE5MmE0Mzk3/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://media.info/l/o/1/1540.1690027877.png" group-title="",ve-tnt2
-https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/VE1NGY2YTlkMjFlMzNiLTNlN2ItZTQ4NC1jMWVjLWY5ZjU0Mzg5/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://media.info/l/o/5/5712.1690027954.png" group-title="",ve-tnt3
-https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/VE1ZDU3NjA3NzY4OTFjLWRkNzktMjE4NC1lN2E1LTkwNWRmY2Fm/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://media.info/l/o/1/1491.1690027975.png" group-title="",ve-tnt4
-https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/VE1MzMyYzk1MGY3ZWIyLWM3NzgtNjNkNC1jODNhLWZmYjRjYzg1/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://assets.tv24.co/channels/bt-sport-extra-1-l.webp" group-title="",VE-2uk-tntsport5 (sv3-CDN)
-https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/VE1ZGE3MDdjOWNmOGNhLWY1MjktYmRiNC1kYjY4LTQwMTQ3OWZj/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2e/LaLiga_TV_Bar_HD.png" group-title="",VE-SV3-UK-LALIGA
-https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/VE1ZmI2MjFhZjYyOGVlLWUyNjgtNDI5NC03ZjVkLTc1M2ZjN2Q5/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Sky_Sport_Football_-_Logo_2020.svg/2560px-Sky_Sport_Football_-_Logo_2020.svg.png" group-title="",VEsky sport football
 https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/VE1MjY1NWIyOTgyOTRjLTlhZWEtOTc3NC04NTE3LWI1OGU2NWI4/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Sky_Sport_Tennis_HD.svg/2560px-Sky_Sport_Tennis_HD.svg.png" group-title="",VE-1uk-skysporttennis
@@ -1170,7 +1158,7 @@ https://tiger-hub.vercel.app/Hub_Sports-1/tracks-v1a1/mono.ts.m3u8
 https://tiger-hub.vercel.app/Hub_Sports-2/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Football",Hub_Sports-3
 https://tiger-hub.vercel.app/Hub_Sports-3/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Football",Hub_Sports-4
+#EXTINF:-1,Hub_Sports-4
 https://tiger-hub.vercel.app/Hub_Sports-4/tracks-v1a1/mono.ts.m3u8
 
 
