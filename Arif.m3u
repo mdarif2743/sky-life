@@ -922,6 +922,23 @@ http://66.102.120.18:8000/play/a05f/index.m3u8
 
 
 
+#EXTINF:-1, PREMIER SPORTS 1
+https://rex-streaming-tv.vercel.app/api/BDIX/NSLOCKY/4954.m3u8
+#EXTINF:-1, PREMIER SPORTS 2
+https://rex-streaming-tv.vercel.app/api/BDIX/NSLOCKY/4955.m3u8
+
+#EXTINF:-1, SUPER SPORTS cricket
+https://rex-streaming-tv.vercel.app/api/BDIX/NSLOCKY/1317.m3u8
+#EXTINF:-1, SUPER SPORTS football
+https://rex-streaming-tv.vercel.app/api/BDIX/NSLOCKY/1064.m3u8
+
+#EXTINF:-1, SUPER SPORTS premier league
+https://rex-streaming-tv.vercel.app/api/BDIX/NSLOCKY/451.m3u8
+#EXTINF:-1, SUPER SPORTS la Liga 
+https://rex-streaming-tv.vercel.app/api/BDIX/NSLOCKY/2572.m3u8
+
+#EXTINF:-1, DD SPORTS
+https://rex-streaming-tv.vercel.app/api/BDIX/NSLOCKY/1359.m3u8
 
 
 
@@ -1033,17 +1050,17 @@ https://tiger-hub.vercel.app/SuperSports-Cricket/tracks-v1a1/mono.m3u8
 
 
 #EXTINF:-1 group-title="Sports" tvg-logo="https://crichdplayer.com/assets/uploads/channels/17.gif",SSC 1
-https://tiger-hub.vercel.app/SSC-1/tracks-v1a1/mono.m3u8
+https://rex-streaming-tv.vercel.app/api/BDIX/NSLOCKY/6650.m3u8
 #EXTINF:-1, SSC 2
-https://tiger-hub.vercel.app/SSC-2/tracks-v1a1/mono.m3u8
+https://rex-streaming-tv.vercel.app/api/BDIX/NSLOCKY/6652.m3u8
 
 #EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/x1VYmp0L/Ten-Sports.jpg",SSC 3
-https://tiger-hub.vercel.app/SSC-3/tracks-v1a1/mono.m3u8
+https://rex-streaming-tv.vercel.app/api/BDIX/NSLOCKY/6653.m3u8
 
-
-
-
-
+#EXTINF:-1,SSC 4
+https://rex-streaming-tv.vercel.app/api/BDIX/NSLOCKY/6654.m3u8
+#EXTINF:-1,SSC 5
+https://rex-streaming-tv.vercel.app/api/BDIX/NSLOCKY/6655.m3u8
 Sky sports all channel
 
 
@@ -1084,18 +1101,18 @@ https://biz3.dlolcast.com:7059/hls/viaplaysp2.m3u8?md6=wayQweKT96Gwhntbm2x67A&ex
 
 -------------------------------------
 ---------##৳#৳########################
-
-
+#EXTINF:-1,WWEE
+https://rex-streaming-tv.vercel.app/api/BDIX/NSLOCKY/526.m3u8
 
 
 #EXTINF:-1,FOX sports 501
 http://ee0c5e74.akadatel.com/iptv/QRDWGTBMDHSDGK/19146/index.m3u8
 #EXTINF:-1,DEZAN 1
 http://cool365.xyz:900/live/4160189881/DB4ACD54/165068.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/76/DAZN_2.svg" group-title="",VE-DE - DAZN 2 (sv3)
-https://yfkijlwj1wm320xr.youaresoselfish.online/v3/director/VE1NDczNGRiNWVkN2QwLWU3NGItNmRkNC0wYjhiLTFjNmM2NTBj/master.m3u8
-
-
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/76/DAZN_2.svg" group-title="",VE-DE - DAZN laliga
+https://rex-streaming-tv.vercel.app/api/BDIX/NSLOCKY/4957.m3u8
+#EXTINF:-1, LI LIGA TV HD
+https://rex-streaming-tv.vercel.app/api/BDIX/NSLOCKY/5009.m3u8
 
 
 #EXTINF:-1, rush sports 2
