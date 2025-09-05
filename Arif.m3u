@@ -1,3 +1,20 @@
+#EXTINF:-1,FANCOAD LIVE 1
+https://rex-streaming-tv.vercel.app/api/BDIX/NSLOCKY/4958.m3u8
+#EXTINF:-1,FANCOAD LIVE 2
+https://rex-streaming-tv.vercel.app/api/BDIX/NSLOCKY/932.m3u8
+#EXTINF:-1,FANCOAD LIVE 3
+https://rex-streaming-tv.vercel.app/api/BDIX/NSLOCKY/6657.m3u8
+#EXTINF:-1,FANCOAD LIVE 4
+https://rex-streaming-tv.vercel.app/api/BDIX/NSLOCKY/6659.m3u8
+#EXTINF:-1,FANCOAD LIVE 5
+https://rex-streaming-tv.vercel.app/api/BDIX/NSLOCKY/1423.m3u8
+#EXTINF:-1,FANCOAD LIVE 6
+https://rex-streaming-tv.vercel.app/api/BDIX/NSLOCKY/5008.m3u8
+#EXTINF:-1,FANCOAD LIVE 7
+https://rex-streaming-tv.vercel.app/api/BDIX/NSLOCKY/1582.m3u8
+
+
+
 
 
 #EXTINF:-1, SONY LIV
@@ -889,13 +906,11 @@ https://tataplay.slivcdn.com/hls/live/2020589/ten4hd/master.m3u8
 https://tataplay.slivcdn.com/hls/live/2020593/SONYSIXHD/master.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e4/PTV_Sports.png" group-title="Sports",PTV Sports
-https://biz3.dlolcast.com:7059/hls/ptvpk.m3u8?md6=M_sEJwTX7rt-8sI_gssXHw&expires=1757098210|Referer=https://dlolcast.com/&Origin=https://dlolcast.com
+https://rex-streaming-tv.vercel.app/api/BDIX/NSLOCKY/498.m3u8
 
 
 
 #EXTINF:-147 tvg-logo="https://i.pinimg.com/originals/a0/f1/02/a0f102f34a179d207602df014cbf203d.jpg" group-title="SPORTS",Geo Super TV
-#http://125.209.88.166:45793/BRN/GeoSuper.stream/playlist.m3u8
-#http://xott.live:8080/17871787/17871787/167568
 http://175.107.244.52:4456/play/a06z/index.m3u8
 
 
@@ -1034,25 +1049,25 @@ Sky sports all channel
 
 ---------------------------
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Sky_Sport_Football_-_Logo_2020.svg/2560px-Sky_Sport_Football_-_Logo_2020.svg.png" group-title="",VEsky sport football
-https://biz3.dlolcast.com:7059/hls/kasdloasxaddskysfottadxasdllk.m3u8?md6=WB7KmRvNE9eEf7I7ciyPNg&expires=1757098215|Referer=https://dlolcast.com/&Origin=https://dlolcast.com
+https://rex-streaming-tv.vercel.app/api/BDIX/NSLOCKY/1647.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Sky_Sport_Tennis_HD.svg/2560px-Sky_Sport_Tennis_HD.svg.png" group-title="",VE-1uk-skysporttennis
-https://biz3.dlolcast.com:7059/hls/skyten.m3u8?md6=_ntJpXDNHJrEKUi3vEgmJQ&expires=1757098221|Referer=https://dlolcast.com/&Origin=https://dlolcast.com
+https://rex-streaming-tv.vercel.app/api/BDIX/NSLOCKY/4956.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e8/Sky-sports-main-event.jpg" group-title="",VEsky sport main
-https://biz3.dlolcast.com:7059/hls/laxkiaxnasdjpdskykxahsdsme.m3u8?md6=fdFZnG7jjznSD0oid7Eq3w&expires=1757098214|Referer=https://dlolcast.com/&Origin=https://dlolcast.com
+https://rex-streaming-tv.vercel.app/api/BDIX/NSLOCKY/3995.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Sky_Sport_Mix_Logo_2022.svg/2560px-Sky_Sport_Mix_Logo_2022.svg.png" group-title="",VE-1UK - Sky Sport Mix (sv3-CDN)
-https://biz3.dlolcast.com:7059/hls/skysmixx.m3u8?md6=hh57AWL5lKqEy0Uwb7_R4g&expires=1757098220|Referer=https://dlolcast.com/&Origin=https://dlolcast.com
+https://rex-streaming-tv.vercel.app/api/BDIX/NSLOCKY/943.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTHrp6iuQzLwISQa7S4inz3kY6FUzR-10hBGQ&s" group-title="",VE-uk-skysportcricket
-https://tiger-hub.vercel.app/Sky-Cricket/tracks-v1a1/mono.m3u8
+https://rex-streaming-tv.vercel.app/api/BDIX/NSLOCKY/505.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sky-sports-action-uk.svg" group-title="",VE-1cdn - uk-skysportaction
-https://biz3.dlolcast.com:7059/hls/skysact.m3u8?md6=FGA9Ysv6LzdnmHUdy0IQrA&expires=1757098217|Referer=https://dlolcast.com/&Origin=https://dlolcast.com
+https://rex-streaming-tv.vercel.app/api/BDIX/NSLOCKY/506.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Sky_Sport_Arena_-_Logo_2020.svg/2560px-Sky_Sport_Arena_-_Logo_2020.svg.png" group-title="",VE-uk-skysportarena
-https://biz3.dlolcast.com:7059/hls/amnoasdkaxasdsdkaskylolkjarejona.m3u8?md6=6n_PLZLiGBfPmCGYRanT3w&expires=1757098216|Referer=https://dlolcast.com/&Origin=https://dlolcast.com
+https://rex-streaming-tv.vercel.app/api/BDIX/NSLOCKY/1648.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Sky_Sport_Golf_-_Logo_2018.svg/2560px-Sky_Sport_Golf_-_Logo_2018.svg.png" group-title="",VE-1uk-skysportgolf
-https://biz3.dlolcast.com:7059/hls/skysgol.m3u8?md6=o5sl8zqh3x7d7BoWEvonsQ&expires=1757098218|Referer=https://dlolcast.com/&Origin=https://dlolcas
+https://rex-streaming-tv.vercel.app/api/BDIX/NSLOCKY/507.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Sky_Sport_F1_-_Logo_2020.svg/2560px-Sky_Sport_F1_-_Logo_2020.svg.png" group-title="",VE-uk-skysportf1
-https://crichdplaylist.extratvteam.workers.dev/master.m3u8?cid=skysfor1
+https://rex-streaming-tv.vercel.app/api/BDIX/NSLOCKY/1001.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRNXw53gnUV1zL1tDoAFLmfHNOtpMBx7goFFg&s" group-title="",VE- uk - sky sport premier league
-https://biz3.dlolcast.com:7059/hls/skypremol.m3u8?md6=_ezT-IDxLaLRtlJrBWG2iw&expires=1757098219|Referer=https://dlolcast.com/&Origin=https://dlolcast.com
+https://rex-streaming-tv.vercel.app/api/BDIX/NSLOCKY/3996.m3u8
 
 
 #EXTINF:-1 tvg-id="viaplaysp1" tvg-name="Premier Sports 1" tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/V2.0/new/Premiers1.jpg" group-title="CricHD",Premier Sports 1
@@ -1116,6 +1131,16 @@ http://88.212.15.19/live/test_ctsport_25p/playlist.m3u8
 
 
 
+#EXTINF:-1 tvg-logo="" group-title="Football",Hub_Sports-1
+https://tiger-hub.vercel.app/Hub_Sports-1/tracks-v1a1/mono.ts.m3u8
+
+
+#EXTINF:-1 tvg-logo="" group-title="Football",Hub_Sports-2
+https://tiger-hub.vercel.app/Hub_Sports-2/tracks-v1a1/mono.ts.m3u8
+
+
+#EXTINF:-1 tvg-logo="" group-title="Football",Hub_Sports-3
+https://tiger-hub.vercel.app/Hub_Sports-3/tracks-v1a1/mono.ts.m3u8
 
 
 
@@ -1151,12 +1176,8 @@ https://tiger-hub.vercel.app/Hub_Sports-4/tracks-v1a1/mono.ts.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="Football",TYC Sports
 https://tiger-hub.vercel.app/TYC_Sports-Argentina/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Football",Hub_Sports-1
-https://tiger-hub.vercel.app/Hub_Sports-1/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Football",Hub_Sports-2
-https://tiger-hub.vercel.app/Hub_Sports-2/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Football",Hub_Sports-3
-https://tiger-hub.vercel.app/Hub_Sports-3/tracks-v1a1/mono.ts.m3u8
+
+
 
 
 
