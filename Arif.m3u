@@ -540,8 +540,6 @@ https://live.dinesh29.com.np/stream/jiotvplus/starmovieshd/master.m3u8
 #EXTINF:-1 tvg-id="sony-pix-hd" tvg-logo="https://sonypicturesnetworks.com/images/logos/PIX%20HD_WHITE.png" group-title="Movies",Sony PIX HD
 https://tataplay.slivcdn.com/hls/live/2011748/PIXHD/master.m3u8
 
-#EXIINF:-1, AXN HD
-http://66.102.120.18:8000/play/a06i/index.m3u8
 
 #EXTINF:-1 tvg-id="55" tvg-name="IN | & FLIX HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQuANx7s-Dxxy35uMqXRag0lUXvXhc19y7DCw&usqp=CAU" group-title="INDIAN ➾ ENTERTAINMENT", IN | & FLIX HD
 http://filex.me:8080/live/444476/444476/55.m3u8
@@ -658,8 +656,6 @@ https://tataplay.slivcdn.com/hls/live/2011908/MAX2/master.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/vijay-iptv/logos/refs/heads/main/Star_Movies_Select_HD.png" group-title="Airtel | Tamil",Star Movies Select HD
 https://live.dinesh29.com.np/stream/jiotvplus/starmoviesselecthd/master.m3u8
 
-#EXTINF:-1,STAR  WORLD HD
-https://rex-streaming.vercel.app/api/BDIX/109971.m3u8|user-agent=@xfireflixbd
 
 
 
