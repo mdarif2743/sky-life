@@ -538,8 +538,8 @@ http://195.181.169.162:80/AND_TV_HD/index.mpd?token=test
 
 
 #EXTINF:-1,COLORS CINEPLEX HD
-#https://tiger-hub.vercel.app/Colors-Cineplex/tracks-v1a1/mono.ts.m3u8
-https://mini.allinonereborn.online/jiotv-ww323/app/ts_live_1477.m3u8
+https://tiger-hub.vercel.app/Colors-Cineplex/tracks-v1a1/mono.ts.m3u8
+
 
 #EXTINF:1 tvg-name="Colors Cineplex Superhit" tvg-logo="https://i.ibb.co/XxwRMX6c/images.jpg" group-title="Entertainment",Colors Cineplex Superhit
 https://live.dinesh29.com.np/stream/jiotvplus/colorscineplexsuperhit/master.m3u8
