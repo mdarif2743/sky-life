@@ -302,8 +302,9 @@ http://182.176.185.207:7500/play/a0d4/index.m3u8
 
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://live.dinesh29.com.np/logos/jiotvplus/starjalshahd.png" group-title="Indian bangla",Star Jalsha hd
-#http://tvsen5.aynaott.com/gUX8BJmNc2yF/tracks-v1a1/mono.ts.m3u8
-https://tiger-hub.vercel.app/Star-jalsha/tracks-v1a1/mono.ts.m3u8
+#https://tiger-hub.vercel.app/Star-jalsha/tracks-v1a1/mono.ts.m3u8
+http://tvsen5.aynaott.com/gUX8BJmNc2yF/tracks-v1a1/mono.ts.m3u8
+
 
 #EXTINF:-1,ZEE BANGLA sd
 http://smart.bengaldigital.live/Zee-Bangla/index.m3u8
@@ -514,9 +515,8 @@ https://tvsen6.aynaott.com/TV9Bangla/index.m3u8?e=1750361767&u=8be812d7-3211-469
 
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://live.dinesh29.com.np/logos/jiotvplus/jalshamovies.png" group-title="Indian bangla",Jalsha Movie sd
-#https://rex-streaming-tv.vercel.app/api/BDIX/NSLOCKY/543.m3u8
-https://live.dinesh29.com.np/stream/jiotvplus/jalshamovies/master.m3u8
-
+#https://live.dinesh29.com.np/stream/jiotvplus/jalshamovies/master.m3u8
+https://tiger-hub.vercel.app/Star-jalsha/tracks-v1a1/mono.ts.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://live.dinesh29.com.np/logos/jiotvplus/jalshamovieshd.png" group-title="Xfireflix",Jalsha Movie hd
 #https://tiger-hub.vercel.app/Jalsha_movies/tracks-v1a1/mono.ts.m3u8
