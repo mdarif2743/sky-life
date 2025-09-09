@@ -515,8 +515,8 @@ https://tvsen6.aynaott.com/TV9Bangla/index.m3u8?e=1750361767&u=8be812d7-3211-469
 
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://live.dinesh29.com.np/logos/jiotvplus/jalshamovies.png" group-title="Indian bangla",Jalsha Movie sd
-#https://live.dinesh29.com.np/stream/jiotvplus/jalshamovies/master.m3u8
-https://tiger-hub.vercel.app/Star-jalsha/tracks-v1a1/mono.ts.m3u8
+https://live.dinesh29.com.np/stream/jiotvplus/jalshamovies/master.m3u8
+
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://live.dinesh29.com.np/logos/jiotvplus/jalshamovieshd.png" group-title="Xfireflix",Jalsha Movie hd
 #https://tiger-hub.vercel.app/Jalsha_movies/tracks-v1a1/mono.ts.m3u8
