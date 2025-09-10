@@ -905,8 +905,8 @@ https://tataplay.slivcdn.com/hls/live/2020589/ten4hd/master.m3u8
 https://tataplay.slivcdn.com/hls/live/2020593/SONYSIXHD/master.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e4/PTV_Sports.png" group-title="Sports",PTV Sports
-https://tiger-hub.vercel.app/PTV-Sports/tracks-v1a1/mono.m3u8
-
+#https://tiger-hub.vercel.app/PTV-Sports/tracks-v1a1/mono.m3u8
+https://tvsen5.aynaott.com/PtvSports/index.m3u8
 
 
 #EXTINF:-147 tvg-logo="https://i.pinimg.com/originals/a0/f1/02/a0f102f34a179d207602df014cbf203d.jpg" group-title="SPORTS",Geo Super TV
