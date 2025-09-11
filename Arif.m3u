@@ -1,16 +1,16 @@
-#EXTINF:-1,FANCOAD LIVE 1
+#EXTINF:-1 tvg-logo="https://fancode.com/skillup-uploads/fc-web-logo/fc-logo-orange-block-bg.png",FANCOAD LIVE 1
 https://rex-streaming-tv.vercel.app/api/BDIX/NSLOCKY/4958.m3u8
-#EXTINF:-1,FANCOAD LIVE 2
+#EXTINF:-1 tvg-logo="https://fancode.com/skillup-uploads/fc-web-logo/fc-logo-orange-block-bg.png", FANCOAD LIVE 2
 https://rex-streaming-tv.vercel.app/api/BDIX/NSLOCKY/932.m3u8
-#EXTINF:-1,FANCOAD LIVE 3
+#EXTINF:-1 tvg-logo="https://fancode.com/skillup-uploads/fc-web-logo/fc-logo-orange-block-bg.png",FANCOAD LIVE 3
 https://rex-streaming-tv.vercel.app/api/BDIX/NSLOCKY/6657.m3u8
-#EXTINF:-1,FANCOAD LIVE 4
+#EXTINF:-1 tvg-logo="https://fancode.com/skillup-uploads/fc-web-logo/fc-logo-orange-block-bg.png",FANCOAD LIVE 4
 https://rex-streaming-tv.vercel.app/api/BDIX/NSLOCKY/6659.m3u8
-#EXTINF:-1,FANCOAD LIVE 5
+#EXTINF:-1 tvg-logo="https://fancode.com/skillup-uploads/fc-web-logo/fc-logo-orange-block-bg.png",FANCOAD LIVE 5
 https://rex-streaming-tv.vercel.app/api/BDIX/NSLOCKY/1423.m3u8
-#EXTINF:-1,FANCOAD LIVE 6
+#EXTINF:-1 tvg-logo="https://fancode.com/skillup-uploads/fc-web-logo/fc-logo-orange-block-bg.png",FANCOAD LIVE 6
 https://rex-streaming-tv.vercel.app/api/BDIX/NSLOCKY/5008.m3u8
-#EXTINF:-1,FANCOAD LIVE 7
+#EXTINF:-1 tvg-logo="https://fancode.com/skillup-uploads/fc-web-logo/fc-logo-orange-block-bg.png",FANCOAD LIVE 7
 https://rex-streaming-tv.vercel.app/api/BDIX/NSLOCKY/1582.m3u8
 
 
