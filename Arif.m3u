@@ -118,12 +118,17 @@ https://tvsen6.aynaott.com/globaltvhd/index.m3u8?e=1753741206&u=9a031201-22d8-4f
 #EXTINF:-1 tvg-id="24" tvg-logo="https://s3.aynaott.com/storage/5b22893ae4e816ef2cf87e63c96e9e08" group-title="",Bangla TV
 https://tvsen6.aynaott.com/banglatv/index.m3u8?e=1750361554&u=8be812d7-3211-4694-a402-0aa09074dfc1&token=331426a6477d76d38c55b00929455e2d
 
+
+#EXTINF:-1 tvg-id="33" tvg-logo="https://s3.aynaott.com/storage/225c955ff4174c976ab01d7214b3f28f" group-title="",Ananda TV
+https://tvsen6.aynaott.com/anandatv/index.m3u8?e=1753741206&u=9a031201-22d8-4f7e-9516-7d246a8fedc3&token=900f1845941c664ca464417a666816f6
+
+
+
+
 #EXTINF:-1 group-title="BANGLADESH" tvg-logo="https://i.ibb.co.com/JwTDXgRf/images.png",NAGORIK TV
 http://103.122.252.100:8080/NAGORIK-TV/index.m3u8
 
 
-#EXTINF:-1 tvg-id="33" tvg-logo="https://s3.aynaott.com/storage/225c955ff4174c976ab01d7214b3f28f" group-title="",Ananda TV
-https://tvsen6.aynaott.com/anandatv/index.m3u8?e=1753741206&u=9a031201-22d8-4f7e-9516-7d246a8fedc3&token=900f1845941c664ca464417a666816f6
 
 
 
