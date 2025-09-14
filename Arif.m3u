@@ -110,7 +110,9 @@ https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF9
 
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://s3.aynaott.com/storage/effb608ccd66e46f6b263cfdbc541f09" group-title="AynaOTT",Deepto TV
-https://owrcovcrpy.gpcdn.net/bpk-tv/1711/output/index.m3u8
+#https://owrcovcrpy.gpcdn.net/bpk-tv/1711/output/index.m3u8
+https://byphdgllyk.gpcdn.net/hls/deeptotv/index.m3u8
+
 
 #EXTINF:-1 tvg-id="31" tvg-logo="https://s3.aynaott.com/storage/bda05e1c2173251baebc20ffe43dea0b" group-title="",Global TV
 https://tvsen6.aynaott.com/globaltvhd/index.m3u8?e=1753741206&u=9a031201-22d8-4f7e-9516-7d246a8fedc3&token=cd4842acdaf8f0723f
