@@ -408,6 +408,8 @@ https://tiger-hub.vercel.app/Zee::Anmol_/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-id="187" tvg-logo="https://live.dinesh29.com.np/logos/tataplay/colorsinfinityhd.png" group-title="Entertainment",Colors Infinity HD
 https://live.dinesh29.com.np/stream/jiotvplus/colorsinfinityhd/master.m3u8
 
+#EXTINF:-1,DD NATIONAL HD
+https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/40492a64c1db4a1385ba1a397d357d3a/index.m3u8
 
 
 #EXTINF:-1,Zing
@@ -546,9 +548,12 @@ https://live.dinesh29.com.np/stream/jiotvplus/colorsbanglacinema/master.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/vijay-iptv/logos/refs/heads/main/Star_Movies_HD.png" group-title="Airtel | Tamil",Star Movies HD
-#https://rex-streaming-tv.vercel.app/api/BDIX/NSLOCKY/1169.m3u8
-https://live.dinesh29.com.np/stream/jiotvplus/starmovieshd/master.m3u8
+#https://live.dinesh29.com.np/stream/jiotvplus/starmovieshd/master.m3u8
+http://89.187.189.98/STARMOVIESHD/index.m3u8
 
+
+#EXTINF:-1, MOVIES NOW HD
+http://89.187.189.98/MOVIESNOWHD/index.m3u8
 
 
 #EXTINF:-1 tvg-id="sony-pix-hd" tvg-logo="https://sonypicturesnetworks.com/images/logos/PIX%20HD_WHITE.png" group-title="Movies",Sony PIX HD
@@ -564,8 +569,8 @@ http://filex.me:8080/live/444476/444476/55.m3u8
 http://195.181.169.162:80/AND_TV_HD/index.mpd?token=test
 
 
-
-
+#EXTINF:-1,MBC BOLLYWOOD
+http://93.184.10.248/MBCBollywood/index.m3u8
 
 
 
@@ -834,7 +839,10 @@ https://cloudfrontnet.vercel.app/tplay/playout/209592/master.m3u8
 #EXTINF:-1 tvg-id="Music" tvg-name="Burno TV" tvg-logo="https://i.postimg.cc/Bb01Tz1C/Picsart-25-01-28-11-30-34-024.jpg" group-title="Music",Burno TV
 https://stream1.xdevel.com/video0s975758-1047/stream/chunks.m3u8
 #EXTINF:-1 tvg-id="Music" tvg-name="Balle Balle" tvg-logo="https://i.postimg.cc/Bb01Tz1C/Picsart-25-01-28-11-30-34-024.jpg" group-title="Music",Balle Balle
-https://mcncdndigital.com/balleballetv/tracks-v1a1/mono.m3u8
+#https://mcncdndigital.com/balleballetv/tracks-v1a1/mono.m3u8
+https://mcncdndigital.com/balleballetv/index.m3u8
+
+
 #EXTINF:-1 tvg-id="Music" tvg-name="Saga Music" tvg-logo="https://i.postimg.cc/Bb01Tz1C/Picsart-25-01-28-11-30-34-024.jpg" group-title="Music",Saga Music
 https://mcncdndigital.com/balleballetv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="Music" tvg-name="Joo Music" tvg-logo="https://i.postimg.cc/Bb01Tz1C/Picsart-25-01-28-11-30-34-024.jpg" group-title="Music",Joo Music
