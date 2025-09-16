@@ -412,11 +412,11 @@ http://195.181.169.162/ZEE_TV_HD/index.m3u8?token=test
 
 
 #EXTINF:-1 tvg-id="sony-hd" tvg-logo="https://sonypicturesnetworks.com/images/logos/SET-LOGO-HD.png" group-title="Entertainment",SET HD
-https://tataplay.slivcdn.com/hls/live/2011671/SETHD/master.m3u8
+https://dish.slivcdn.com/hls/live/2011671-b/SETHD/master.m3u8
 
 
 #EXTINF:-1 tvg-id="sony-sab-hd" tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY%20SAB%20HD_WHITE.png" group-title="Entertainment",Sony SAB HD
-https://tataplay.slivcdn.com/hls/live/2011749/SABHD/master.m3u8
+https://dish.slivcdn.com/hls/live/2011749-b/SABHD/master.m3u8
 
 
 #EXTINF:-1 tvg-id="colorshd" tvg-logo="https://live.dinesh29.com.np/logos/jiotvplus/colorshd.png" group-title="Entertainment",Colors HD
@@ -588,7 +588,7 @@ http://89.187.189.98/MOVIESNOWHD/index.m3u8
 
 
 #EXTINF:-1 tvg-id="sony-pix-hd" tvg-logo="https://sonypicturesnetworks.com/images/logos/PIX%20HD_WHITE.png" group-title="Movies",Sony PIX HD
-https://tataplay.slivcdn.com/hls/live/2011748/PIXHD/master.m3u8
+https://dish.slivcdn.com/hls/live/2011748-b/PIXHD/master.m3u8
 
 
 #EXTINF:-1 tvg-id="55" tvg-name="IN | & FLIX HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQuANx7s-Dxxy35uMqXRag0lUXvXhc19y7DCw&usqp=CAU" group-title="INDIAN ➾ ENTERTAINMENT", IN | & FLIX HD
@@ -682,7 +682,7 @@ https://tiger-hub.vercel.app/Zee--_action-/tracks-v1a1/mono.ts.m3u8
 https://tiger-hub.vercel.app/SONY/MoviesUS/tracks-v1a1/mono.ts.m3u8
 
 #EXTINF:-1 tvg-id="sony-max-hd" tvg-logo="https://sonypicturesnetworks.com/images/logos/Sony_MAX-HD_WHITE.png" group-title="Movies",Sony MAX HD
-https://tataplay.slivcdn.com/hls/live/2011670/SonyMaxhd/master.m3u8
+https://dish.slivcdn.com/hls/live/2011670-b/SonyMaxhd/master.m3u8
 #EXTINF:-1 tvg-id="sony-max" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_Max_SD.png" group-title="Movies",Sony MAX uk
 https://tiger-hub.vercel.app/SONY/MaxUK/tracks-v1a1/mono.ts.m3u8
 
@@ -701,7 +701,7 @@ https://tvsen7.aynaott.com/B4U_Movies_India/index.m3u8?e=1753741221&u=9a031201-2
 
 
 #EXTINF:-1 tvg-id="sony-max-2" tvg-logo="https://www.sonypicturesnetworks.com/images/logos/Sony_MAX2.png" group-title="Movies",Sony MAX 2
-https://tataplay.slivcdn.com/hls/live/2011908/MAX2/master.m3u8
+https://dish.slivcdn.com/hls/live/2011908-b/MAX2/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/vijay-iptv/logos/refs/heads/main/Star_Movies_Select_HD.png" group-title="Airtel | Tamil",Star Movies Select HD
 https://live.dinesh29.com.np/stream/jiotvplus/starmoviesselecthd/master.m3u8
@@ -758,7 +758,7 @@ https://tiger-hub.vercel.app@vodzong.mjunoon.tv:8087/streamtest/Animal-Planet-15
 
 
 #EXTINF:-1 group-title="Infotainment" tvg-logo="https://i.postimg.cc/Y05S4Fjz/Animal-Planet.jpg",BBC Earth
-https://tataplay.slivcdn.com/hls/live/2011907/SonyBBCEarthHD/master.m3u8
+https://dish.slivcdn.com/hls/live/2011907-b/SonyBBCEarthHD/master.m3u8
 
 #EXTINF:-1 tvg-id="484" tvg-logo="https://live.dinesh29.com.np/logos/tataplay/travelxphd.png" group-title="Lifestyle",Travelxp HD Bangla
 #http://tv.bdiptv.store:80/live/restreauu/refstream/15283.m3u8
@@ -798,7 +798,7 @@ http://tv.bdiptv.store:80/live/restreauuX58y/refstream/96.m3u8
 
 
 #EXTINF:-1 tvg-id="sony-yay" tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY%20YAY.png" group-title="Kids",Sony Yay
-https://tataplay.slivcdn.com/hls/live/2011746/SonyYaySD/master.m3u8
+https://dish.slivcdn.com/hls/live/2011746/SonyYaySD/master.m3u8
 
 #EXTINF:-1 tvg-id="pogohindi" tvg-logo="https://live.dinesh29.com.np/logos/jiotvplus/pogohindi.png" group-title="Kids",Pogo Hindi
 https://www.xfireflix.fun/test/live.php?id=667189f69164&e=.m3u8
@@ -949,15 +949,15 @@ http://app.hughag.store/api/6b9c461155/playlist.m3u8
 
 
 #EXTINF:-1 tvg-id="sony-ten-1-hd" tvg-logo="https://www.sonypicturesnetworks.com/images/logos/SONY_SportsTen1_HD_Logo_CLR.png" group-title="Sports",Sony Sports Ten 1 HD
-https://tataplay.slivcdn.com//hls/live/2011747/TEN1HD/master.m3u8
+https://dish.slivcdn.com/hls/live/2011747-b/TEN1HD/master.m3u8
 #EXTINF:-1 tvg-id="sony-ten-2-hd" tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY_SportsTen2_HD_Logo_CLR.png" group-title="Sports",Sony Sports Ten 2 HD
-https://tataplay.slivcdn.com/hls/live/2020434/TEN2HD/master.m3u8
+https://dish.slivcdn.com/hls/live/2020434-b/TEN2HD/master.m3u8
 #EXTINF:-1 tvg-id="sony-ten-3-hd" tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY_SportsTen3_HD_Logo_CLR.png" group-title="Sports",Sony Sports Ten 3 HD
-https://tataplay.slivcdn.com/hls/live/2020591/TEN3HD/master.m3u8
+https://dish.slivcdn.com/hls/live/2020591-b/TEN3HD/master.m3u8
 #EXTINF:-1 tvg-id="sony-ten-4-hd" tvg-logo="https://wwwhttps://live.dinesh29.com.np/stream/jiotvplus/starsports2hindi/master.m3u8.sonypicturesnetworks.com/images/logos/SONY_SportsTen4_HD_Logo_CLR.png" group-title="Sports",Sony Sports Ten 4 HD
 https://tataplay.slivcdn.com/hls/live/2020589/ten4hd/master.m3u8
 #EXTINF:-1 tvg-id="sony-ten-5-hd" tvg-logo="https://www.sonypicturesnetworks.com/images/logos/SONY_SportsTen5_HD_Logo_CLR.png" group-title="Sports",Sony Sports Ten 5 HD
-https://tataplay.slivcdn.com/hls/live/2020593/SONYSIXHD/master.m3u8
+https://dish.slivcdn.com/hls/live/2020593-b/SONYSIXHD/master.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e4/PTV_Sports.png" group-title="Sports",PTV Sports
 #https://tiger-hub.vercel.app/PTV-Sports/tracks-v1a1/mono.m3u8
