@@ -1,5 +1,7 @@
-#EXTINF:-1,TAMASHA LIVE ASIA CUP⚾
+#EXTINF:-1 tvg-logo="https://www.app.com.pk/wp-content/uploads/2025/07/Tamasha-kashmir-english-1024x576-1.webp", TAMASHA
 https://cdn5aws.tamashaweb.com/out/v1/9fff7780125a4614a7f3567bc506dc7a/index.m3u8?start=1758110280
+
+
 
 #EXTINF:-1 tvg-logo="https://fancode.com/skillup-uploads/fc-web-logo/fc-logo-orange-block-bg.png",FANCOAD LIVE 1
 https://rex-streaming-tv.vercel.app/api/BDIX/NSLOCKY/4958.m3u8
