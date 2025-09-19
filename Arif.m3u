@@ -744,8 +744,8 @@ https://aynapubluc.vercel.app/api/stream/e64e1c11-1167-43a1-9e0f-995cbf6f7ff9.m3
 https://aynapubluc.vercel.app/api/stream/0579659b-2854-40d1-ad6a-69b70641ad17.m3u8
 
 #EXTINF:-1 group-title="Infotainment" tvg-logo="https://i.postimg.cc/fTyctVD3/Discovery-HD.jpg",Discovery
-https://tvsen6.aynaott.com/discovery_hd_bangla/mono.ts.m3u8
-https://tiger-hub.vercel.app/Discovery-Bangla/tracks-v1a1/mono.ts.m3u8
+https://aynapubluc.vercel.app/api/stream/db6759ab-4cf1-4970-9007-c15d977e33de.m3u8
+
 
 
 #EXTINF:-1 group-title="Infotainment" tvg-logo="https://i.postimg.cc/fTyctVD3/Discovery-SD.jpg",Discovery sd
