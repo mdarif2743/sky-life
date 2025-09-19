@@ -616,7 +616,7 @@ http://filex.me:8080/live/444476/444476/55.m3u8
 
 
 #EXTINF:-1 tvg-id="0-9-tvhd_0" group-title="Entertainment" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/And_TV_HD.png",&TV HD
-http://195.181.169.162:80/AND_TV_HD/index.mpd?token=test
+https://aynapubluc.vercel.app/api/stream/97bad0e5-0210-4380-802c-12ce3b01f775.m3u8
 
 
 #EXTINF:-1,MBC BOLLYWOOD
@@ -644,7 +644,7 @@ http://182.176.185.207:7500/play/a07w/index.m3u8
 https://cdn-2.pishow.tv/live/1459/master.m3u8
 
 #EXTINF:-1 tvg-id="161" tvg-logo="https://s3.aynaott.com/storage/d9a0314f5f9165176f492db3923709bd" group-title="",Goldmines Bollywood
-https://tvsen6.aynaott.com/GoldminesBollywood/index.m3u8?e=1750361806&u=8be812d7-3211-4694-a402-0aa09074dfc1&token=89bfb8ddda1e6584a20868a05effcc58
+https://aynapubluc.vercel.app/api/stream/b80579f2-22d3-4b12-881e-60139810a791.m3u8
 
 #EXTINF:-1 tvg-id="162" tvg-logo="https://s3.aynaott.com/storage/26c1570891267164e40563806b25ccdb" group-title="",Goldmines Movies
 https://cdn-2.pishow.tv/live/1461/master.m3u8
@@ -844,15 +844,15 @@ https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c
 
 
 #EXTINF:-1 tvg-id="167" tvg-logo="https://s3.aynaott.com/storage/d1cf092bb1408a2f79185a307880f4f7" group-title="",B4u Music
-https://xfireflix.fun/live/16924cee-bc7a-470b-895f-4c8bf5fc9019/index.m3u8
+https://aynapubluc.vercel.app/api/stream/16924cee-bc7a-470b-895f-4c8bf5fc9019.m3u8
 
 #EXTINF:-1 tvg-id="124" tvg-logo="https://s3.aynaott.com/storage/90ef4ee59dd2a536c91e7ac13df8e558" group-title="",Sangeet Bangla
-https://xfireflix.fun/live/75412270-ce20-4376-8e7f-21fc76f84ed4/index.m3u8
+https://aynapubluc.vercel.app/api/stream/75412270-ce20-4376-8e7f-21fc76f84ed4.m3u8
 
 #EXTINF:-1 tvg-id="141" tvg-logo="https://s3.aynaott.com/storage/30e0db44c31b8f7fe50eb88f3ebcc5c3" group-title="",Dabangg
-https://xfireflix.fun/live/ff7cadd6-b13a-40af-9976-e92057e30a40/index.m3u8
+https://aynapubluc.vercel.app/api/stream/ff7cadd6-b13a-40af-9976-e92057e30a40.m3u8
 #EXTINF:-1 tvg-id="142" tvg-logo="https://s3.aynaott.com/storage/a9bfa44f1b6d53e81088e9d443549b6a" group-title="",Dhamaal
-https://xfireflix.fun/live/630b8f21-f5b8-4c05-b2c1-af8333d533c1/index.m3u8
+https://aynapubluc.vercel.app/api/stream/630b8f21-f5b8-4c05-b2c1-af8333d533c1.m3u8
 
 #EXTINF:-1 tvg-id="Music" tvg-name="Masti" tvg-logo="https://i.postimg.cc/Bb01Tz1C/Picsart-25-01-28-11-30-34-024.jpg" group-title="Music",Masti
 https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/mastiiiin.stream/playlist.m3u8
@@ -916,9 +916,8 @@ https://ap02.iqplay.tv:8082/iqb8002/t5kb86/playlist.m3u8
 https://cdn.bestream.io:19360/elfaro1/elfaro1.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQIdqXkEgtQPqr13XxzXkeDY_GfmDS2eTCrFm6elrGo9Li0-2-KeFCXGNH-&s=10" group-title="Xfireflix",T Sports
-#https://tvsen6.aynaott.com/tsportsfhd/tracks-v1a1/mono.ts.m3u8
-https://iptvcable.netlify.app/Altogether-007/Tsports.m3u8
-
+#https://iptvcable.netlify.app/Altogether-007/Tsports.m3u8
+https://aynapubluc.vercel.app/api/stream/fc95d30e-5323-4c12-bb38-7a1e3f04acc2.m3u8
 
 
 #EXTINF:-127 tvg-logo="https://live.dinesh29.com.np/logos/jiotvplus/starsportshd1hindi.png" group-title="SPORTS",Star Sports-1 Hindi
@@ -942,7 +941,7 @@ https://live.dinesh29.com.np/stream/jiotvplus/starsports3/master.m3u8
 
 #EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/rwZdgMp5/download.png",Star sports select 1
 #https://tvsen6.aynaott.com/spsel1/index.m3u8?e=1753741230&u=9a031201-22d8-4f7e-9516-7d246a8fedc3&token=5f45fc60f73036091c4c6ffd19083b5d
-https://xfireflix.fun/live/594809c8-574e-46cf-a3e5-26e0bec1fe33/index.m3u8
+https://aynapubluc.vercel.app/api/stream/594809c8-574e-46cf-a3e5-26e0bec1fe33.m3u8
 
 
 #EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/rwZdgMp5/download.png",Star sports select 2
@@ -979,8 +978,9 @@ https://tataplay.slivcdn.com/hls/live/2020589/ten4hd/master.m3u8
 https://dish.slivcdn.com/hls/live/2020593-b/SONYSIXHD/master.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e4/PTV_Sports.png" group-title="Sports",PTV Sports
-#https://xfireflix.fun/live/eacf6c3f-0773-4bc3-a03a-cfee09f10348/index.m3u8
-http://c1.frsports.info/Asia019/tracks-v1a1/mono.m3u8
+#http://c1.frsports.info/Asia019/tracks-v1a1/mono.m3u8
+https://aynapubluc.vercel.app/api/stream/eacf6c3f-0773-4bc3-a03a-cfee09f10348.m3u8
+
 
 
 #EXTINF:-147 tvg-logo="https://i.pinimg.com/originals/a0/f1/02/a0f102f34a179d207602df014cbf203d.jpg" group-title="SPORTS",Geo Super TV
@@ -1067,7 +1067,7 @@ https://lightning-tracesport-samsungau.amagi.tv/playlist.m3u8
 
 
 #EXTINF:-1 tvg-logo="" group-title="Live Sports",Willow HD
-https://xfireflix.fun/live/abfabaee-3898-4279-8645-3da5b0232867/index.m3u8
+https://aynapubluc.vercel.app/api/stream/abfabaee-3898-4279-8645-3da5b0232867.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Live Sports",Willow HD Extra
 https://tiger-hub.vercel.app/WillowHD-2/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Live Sports",ESPN
@@ -1079,8 +1079,8 @@ https://tiger-hub.vercel.app/DAZN-LaLiga/tracks-v1a1/mono.m3u8
 
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/90GBNXPX/A-Sports-HD.jpg" group-title="Sports",A Sports
-https://NadimTV.short.gy/NadimTV/247168/Index.m3u8
-
+#https://NadimTV.short.gy/NadimTV/247168/Index.m3u8
+https://aynapubluc.vercel.app/api/stream/a3d48c46-7902-45e2-abf9-0fab60c4d117.m3u8
 
 
 
