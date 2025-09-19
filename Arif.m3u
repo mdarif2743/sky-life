@@ -34,6 +34,10 @@ https://dish.slivcdn.com/hls/live/2011747-b/TEN1HD/master.m3u8
 #EXTINF:-1 tvg-logo="https://images.sftcdn.net/images/t_app-icon-m/p/9f01fe3e-99bf-11e6-81dc-676fb6608552/4165599953/sony-liv-logo", SONY Asia cup live ⚾ hindi
 https://dish.slivcdn.com/hls/live/2020591-b/TEN3HD/master.m3u8
 
+#EXTINF:-1,HINDI DUBBING MOVIES
+https://cloudfrontnet.vercel.app/tplay/playout/209593/master.m3u8
+
+
 
 #EXTINF:-1,ALL TIME MOVIES
 https://cloudfrontnet.vercel.app/tplay/playout/209612/master.m3u8
@@ -570,7 +574,7 @@ https://amg01448-samsungin-news18bangla-samsungin-ad-qy.amagi.tv/playlist/amg014
 
 
 #EXTINF:-1 tvg-id="tv9bangla" tvg-logo="https://live.dinesh29.com.np/logos/jiotvplus/tv9bangla.png" group-title="News",TV9 Bangla
-https://xfireflix.fun/live/f6bbc77e-574c-4bb1-b1d5-44aae24ac5d6/index.m3u8
+https://amg01448-samsungin-tv9bangla-samsungin-9lgnh.amagi.tv/playlist/amg01448-samsungin-tv9bangla-samsungin/playlist.m3u8
 
 
 
