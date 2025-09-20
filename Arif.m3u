@@ -917,8 +917,8 @@ https://cdn.bestream.io:19360/elfaro1/elfaro1.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQIdqXkEgtQPqr13XxzXkeDY_GfmDS2eTCrFm6elrGo9Li0-2-KeFCXGNH-&s=10" group-title="Xfireflix",T Sports
 #https://iptvcable.netlify.app/Altogether-007/Tsports.m3u8
-#https://aynapubluc.vercel.app/api/stream/fc95d30e-5323-4c12-bb38-7a1e3f04acc2.m3u8
-http://203.18.159.115:8081/T_SPORTS/index.m3u8
+https://aynapubluc.vercel.app/api/stream/fc95d30e-5323-4c12-bb38-7a1e3f04acc2.m3u8
+
 
 #EXTINF:-127 tvg-logo="https://live.dinesh29.com.np/logos/jiotvplus/starsportshd1hindi.png" group-title="SPORTS",Star Sports-1 Hindi
 https://live.dinesh29.com.np/stream/jiotvplus/starsportshd1hindi/master.m3u8
