@@ -1156,6 +1156,8 @@ https://rex-streaming-tv.vercel.app/api/BDIX/NSLOCKY/6654.m3u8
 https://rex-streaming-tv.vercel.app/api/BDIX/NSLOCKY/6655.m3u8
 Sky sports all channel
 
+#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRNXw53gnUV1zL1tDoAFLmfHNOtpMBx7goFFg&s" group-title="",VE- uk - sky sport premier league
+https://tiger-hub.vercel.app/SkySports-premire_League/tracks-v1a1/mono.m3u8
 
 ---------------------------
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Sky_Sport_Football_-_Logo_2020.svg/2560px-Sky_Sport_Football_-_Logo_2020.svg.png" group-title="",VEsky sport football
@@ -1176,8 +1178,6 @@ https://rex-streaming-tv.vercel.app/api/BDIX/NSLOCKY/1648.m3u8
 https://freelivtv.xyz/stream4k/stream.php?id=770
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Sky_Sport_F1_-_Logo_2020.svg/2560px-Sky_Sport_F1_-_Logo_2020.svg.png" group-title="",VE-uk-skysportf1
 http://fortv.cc:8080/live/clarencekingrh@hotmail.com/pKgSdl4ZFX/53704.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRNXw53gnUV1zL1tDoAFLmfHNOtpMBx7goFFg&s" group-title="",VE- uk - sky sport premier league
-https://tiger-hub.vercel.app/SkySports-premire_League/tracks-v1a1/mono.m3u8
 
 
 
