@@ -1096,11 +1096,19 @@ https://lightning-tracesport-samsungau.amagi.tv/playlist.m3u8
 
 
 #EXTINF:-1 tvg-logo="" group-title="Live Sports",Willow HD
-https://aynapubluc.vercel.app/api/stream/abfabaee-3898-4279-8645-3da5b0232867.m3u8
+#https://aynapubluc.vercel.app/api/stream/abfabaee-3898-4279-8645-3da5b0232867.m3u8
+https://fl7.moveonjoy.com/WILLOW_CRICKET/index.m3u8
+
+
+
 #EXTINF:-1 tvg-logo="" group-title="Live Sports",Willow HD Extra
 https://tiger-hub.vercel.app/WillowHD-2/tracks-v1a1/mono.m3u8
+
+
 #EXTINF:-1 tvg-logo="" group-title="Live Sports",ESPN
 https://tiger-hub.vercel.app/ESPN/tracks-v1a1/mono.m3u8
+
+
 #EXTINF:-1 tvg-logo="" group-title="Live Sports",LaLiga tv(DAZN)
 https://tiger-hub.vercel.app/DAZN-LaLiga/tracks-v1a1/mono.m3u8
 
