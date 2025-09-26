@@ -360,13 +360,15 @@ https://live.sanonda.tv/sanonda/index.m3u8
 
 
 #EXTINF:-1 tvg-id="" tvg-logo="http://kst.moonplex.net/iptv/img/logo/zee-bangla.jpg" group-title="Indian",Zee Bangla HD
-https://aynapubluc.vercel.app/api/stream/890a1a92-0602-4c2d-93ca-a2c43e7aec54.m3u8
+https://tiger-hub.vercel.app/Zee-bangla/tracks-v1a1/mono.ts.m3u8
 
 
 
 
 #EXTINF:-1 tvg-id="sunbangla" tvg-logo="https://live.dinesh29.com.np/logos/jiotvplus/sunbangla.png" group-title="Entertainment",Sun Bangla HD
-http://smart.bengaldigital.live/sun-bangla-paid/index.m3u8
+#http://smart.bengaldigital.live/sun-bangla-paid/index.m3u8
+https://tiger-hub.vercel.app/Sun-bangla/tracks-v1a1/mono.ts.m3u8
+
 
 
 #EXTINF:-1 tvg-id="colorsbengalihd" tvg-logo="https://live.dinesh29.com.np/logos/jiotvplus/colorsbengalihd.png" group-title="Entertainment",Colors Bengali HD
@@ -732,7 +734,7 @@ https://aynapubluc.vercel.app/api/stream/e64e1c11-1167-43a1-9e0f-995cbf6f7ff9.m3
 https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/globaltv.stream/playlist.m3u8
 
 #EXTINF:-1 group-title="Infotainment" tvg-logo="https://i.postimg.cc/fTyctVD3/Discovery-HD.jpg",Discovery
-https://aynapubluc.vercel.app/api/stream/db6759ab-4cf1-4970-9007-c15d977e33de.m3u8
+https://tiger-hub.vercel.app/Discovery-Bangla/tracks-v1a1/mono.ts.m3u8
 
 
 
@@ -765,7 +767,7 @@ https://tiger-hub.vercel.app@vodzong.mjunoon.tv:8087/streamtest/Animal-Planet-15
 
 
 #EXTINF:-1 group-title="Infotainment" tvg-logo="https://i.postimg.cc/Y05S4Fjz/Animal-Planet.jpg",BBC Earth
-https://dish.slivcdn.com/hls/live/2011907-b/SonyBBCEarthHD/master.m3u8
+https://tiger-hub.vercel.app/SONY/BBC_Earth/tracks-v1a1/mono.ts.m3u8
 
 #EXTINF:-1 tvg-id="484" tvg-logo="https://live.dinesh29.com.np/logos/tataplay/travelxphd.png" group-title="Lifestyle",Travelxp HD Bangla
 #http://tv.bdiptv.store:80/live/restreauu/refstream/15283.m3u8
@@ -832,10 +834,10 @@ https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c
 
 
 #EXTINF:-1 tvg-id="167" tvg-logo="https://s3.aynaott.com/storage/d1cf092bb1408a2f79185a307880f4f7" group-title="",B4u Music
-https://aynapubluc.vercel.app/api/stream/16924cee-bc7a-470b-895f-4c8bf5fc9019.m3u8
+https://tiger-hub.vercel.app/B4U-music/tracks-v1a1/mono.ts.m3u8
 
 #EXTINF:-1 tvg-id="124" tvg-logo="https://s3.aynaott.com/storage/90ef4ee59dd2a536c91e7ac13df8e558" group-title="",Sangeet Bangla
-https://aynapubluc.vercel.app/api/stream/75412270-ce20-4376-8e7f-21fc76f84ed4.m3u8
+https://tiger-hub.vercel.app/Sangeet-Bangla/tracks-v1a1/mono.ts.m3u8
 
 #EXTINF:-1 tvg-id="141" tvg-logo="https://s3.aynaott.com/storage/30e0db44c31b8f7fe50eb88f3ebcc5c3" group-title="",Dabangg
 https://aynapubluc.vercel.app/api/stream/ff7cadd6-b13a-40af-9976-e92057e30a40.m3u8
@@ -909,15 +911,14 @@ https://aynapubluc.vercel.app/api/stream/fc95d30e-5323-4c12-bb38-7a1e3f04acc2.m3
 
 
 #EXTINF:-127 tvg-logo="https://live.dinesh29.com.np/logos/jiotvplus/starsportshd1hindi.png" group-title="SPORTS",Star Sports-1 Hindi
+#https://tiger-hub.vercel.app/Star_Sports-1_Hindy/tracks-v1a1/mono.m3u8
 https://live.dinesh29.com.np/stream/jiotvplus/starsportshd1hindi/master.m3u8
 
 
 
 #EXTINF:-1 group-title="Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSKl2XEAhGamZ3AAGuPaXHP0bf3elKcoDmZJIZ-QJ0t8smeEg_VBbTmXy8",Star Sports 1
-#http://cool365.xyz:900/live/4160189881/DB4ACD54/187268.m3u8
-#https://live.dinesh29.com.np/stream/jiotvplus/starsportshd1/master.m3u8
-https://live20.bozztv.com/akamaissh101/ssh101/starsports/chunks.m3u8
-
+#https://live20.bozztv.com/akamaissh101/ssh101/starsports/chunks.m3u8
+https://tiger-hub.vercel.app/Star_Sports-1/tracks-v1a1/mono.m3u8
 
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/ac/Star_Sports_2.jpg/revision/latest?cb=20191214232359" group-title="Xfireflix",Star Sports 2
@@ -927,11 +928,14 @@ https://live.dinesh29.com.np/stream/jiotvplus/starsportshd2/master.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSP8j8Vc_lguK13yQO9X3u_hvSXI2kmnJAywg&s" group-title="Xfireflix",Star Sports 3
 #http://cool365.xyz:900/live/4160189881/DB4ACD54/400159568.m3u8
-https://live.dinesh29.com.np/stream/jiotvplus/starsports3/master.m3u8
+#https://live.dinesh29.com.np/stream/jiotvplus/starsports3/master.m3u8
+https://tiger-hub.vercel.app/Star_sports-3/tracks-v1a1/mono.ts.m3u8
+
+
 
 #EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/rwZdgMp5/download.png",Star sports select 1
-#https://tvsen6.aynaott.com/spsel1/index.m3u8?e=1753741230&u=9a031201-22d8-4f7e-9516-7d246a8fedc3&token=5f45fc60f73036091c4c6ffd19083b5d
-https://aynapubluc.vercel.app/api/stream/594809c8-574e-46cf-a3e5-26e0bec1fe33.m3u8
+https://tiger-hub.vercel.app/Starsports_Select-1/tracks-v1a1/mono.m3u8
+
 
 
 #EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/rwZdgMp5/download.png",Star sports select 2
@@ -969,7 +973,7 @@ https://dish.slivcdn.com/hls/live/2020593-b/SONYSIXHD/master.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e4/PTV_Sports.png" group-title="Sports",PTV Sports
 #http://c1.frsports.info/Asia019/tracks-v1a1/mono.m3u8
-https://aynapubluc.vercel.app/api/stream/eacf6c3f-0773-4bc3-a03a-cfee09f10348.m3u8
+https://tiger-hub.vercel.app/PTV-Sports/tracks-v1a1/mono.m3u8
 
 
 
@@ -997,8 +1001,8 @@ https://rex-streaming-tv.vercel.app/api/BDIX/NSLOCKY/1064.m3u8
 
 #EXTINF:-1, SUPER SPORTS premier league
 https://rex-streaming-tv.vercel.app/api/BDIX/NSLOCKY/451.m3u8
-#EXTINF:-1, SUPER SPORTS la Liga 
-https://rex-streaming-tv.vercel.app/api/BDIX/NSLOCKY/2572.m3u8
+#EXTINF:-1, la Liga tv
+https://tiger-hub.vercel.app/LaLiga_TV/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1, DD SPORTS
 https://rex-streaming-tv.vercel.app/api/BDIX/NSLOCKY/1359.m3u8
@@ -1010,9 +1014,9 @@ https://rex-streaming-tv.vercel.app/api/BDIX/NSLOCKY/1359.m3u8
 https://balance.footballii.ir/hls2/b1.m3u8
 
 #EXTINF:-1 tvg-id="61" tvg-name="beIN Sports MENA English 1" tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/daddylive/logos/bein-sports-mena-english-1.png" group-title="OTHERS",beIN Sports MENA English 1
-https://freelivtv.xyz/stream4k/stream.php?id=1239
+https://tiger-hub.vercel.app/Bein-sports_1_ENG/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="90" tvg-name="beIN Sports MENA English 2" tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/daddylive/logos/bein-sports-mena-english-2.png" group-title="OTHERS",beIN Sports MENA English 2
-https://freelivtv.xyz/stream4k/stream.php?id=1240
+https://tiger-hub.vercel.app/Bein-sports_2_ENG/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="46" tvg-name="beIN Sports MENA English 3" tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/daddylive/logos/bein-sports-mena-english-3.png" group-title="OTHERS",beIN Sports MENA English 3
 https://rex-streaming-tv.vercel.app/api/BDIX/NSLOCKY/3906.m3u8
 #EXTINF:-1 tvg-id="91" tvg-name="beIN Sports MENA 1" tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/daddylive/logos/bein-sports-1.png" group-title="OTHERS",beIN Sports MENA 1
@@ -1086,8 +1090,7 @@ https://lightning-tracesport-samsungau.amagi.tv/playlist.m3u8
 
 
 #EXTINF:-1 tvg-logo="" group-title="Live Sports",Willow HD
-#https://aynapubluc.vercel.app/api/stream/abfabaee-3898-4279-8645-3da5b0232867.m3u8
-https://fl7.moveonjoy.com/WILLOW_CRICKET/index.m3u8
+https://tiger-hub.vercel.app/WillowHD/tracks-v1a1/mono.m3u8
 
 
 
@@ -1167,7 +1170,7 @@ https://rex-streaming-tv.vercel.app/api/BDIX/NSLOCKY/3995.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Sky_Sport_Mix_Logo_2022.svg/2560px-Sky_Sport_Mix_Logo_2022.svg.png" group-title="",VE-1UK - Sky Sport Mix (sv3-CDN)
 https://tiger-hub.vercel.app/SkySports-mix/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTHrp6iuQzLwISQa7S4inz3kY6FUzR-10hBGQ&s" group-title="",VE-uk-skysportcricket
-https://freelivtv.xyz/stream4k/stream.php?id=472276
+https://tiger-hub.vercel.app/Sky-Cricket/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sky-sports-action-uk.svg" group-title="",VE-1cdn - uk-skysportaction
 https://freelivtv.xyz/stream4k/stream.php?id=774
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Sky_Sport_Arena_-_Logo_2020.svg/2560px-Sky_Sport_Arena_-_Logo_2020.svg.png" group-title="",VE-uk-skysportarena
@@ -1310,13 +1313,13 @@ https://tiger-hub.vercel.app/SPORT-ZONE/Cablenet_Sports-2/tracks-v1a1/mono.ts.m3
 
 
 #EXTINF:-1,TNT SPORTS 1 🇺🇸
-https://freelivtv.xyz/stream4k/stream.php?id=715
+https://tiger-hub.vercel.app/TNT-Sports_1/tracks-v1a1/mono.m3u8
 #EXTINF:-1,TNT SPORTS 2 🇺🇸
-https://freelivtv.xyz/stream4k/stream.php?id=716
+https://tiger-hub.vercel.app/TNT-Sports_2/tracks-v1a1/mono.m3u8
 #EXTINF:-1,TNT SPORTS 3 🇺🇸
-https://freelivtv.xyz/stream4k/stream.php?id=717
+https://tiger-hub.vercel.app/TNT-Sports_3/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://media.info/l/o/1/1491.1690027975.png" group-title="",ve-tnt4
-https://freelivtv.xyz/stream4k/stream.php?id=476979
+https://tiger-hub.vercel.app/TNT-Sports_4/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/TSN1.svg/2560px-TSN1.svg.png" group-title="",VE-TSN 1
 https://tiger-hub.vercel.app/SPORT-ZONE/TSN-1/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/sutruq1433379787.png" group-title="",VE-TSN 2
