@@ -28,8 +28,8 @@ https://live-ak.vimeocdn.com/exp=1758821490~acl=%2Fe77dc29e-74d6-4eec-b8b2-69531
 
 #EXTINF:-1,HINDI DUBBING MOVIES
 https://cloudfrontnet.vercel.app/tplay/playout/209593/master.m3u8
-
-
+#EXTINF:-1,ALL TIME BD SONG
+https://tplay.live/originals/bengali-beats/index.m3u8
 
 #EXTINF:-1,ALL TIME MOVIES
 https://cloudfrontnet.vercel.app/tplay/playout/209612/master.m3u8
