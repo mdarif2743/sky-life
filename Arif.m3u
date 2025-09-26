@@ -344,9 +344,8 @@ http://182.176.185.207:7500/play/a0d4/index.m3u8
 
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://live.dinesh29.com.np/logos/jiotvplus/starjalshahd.png" group-title="Indian bangla",Star Jalsha hd
-#https://tiger-hub.vercel.app/Star-jalsha/tracks-v1a1/mono.ts.m3u8
-https://aynapubluc.vercel.app/api/stream/f07177e9-d1a9-48b4-8e2e-1718d098bbfb.m3u8
-
+#https://live.dinesh29.com.np/stream/jiotvplus/starjalshahd/master.m3u8
+https://tiger-hub.vercel.app/Star-jalsha/tracks-v1a1/mono.ts.m3u8
 
 
 
