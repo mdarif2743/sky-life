@@ -1,5 +1,3 @@
-#EXTINF:-1 tvg-logo="https://www.app.com.pk/wp-content/uploads/2025/07/Tamasha-kashmir-english-1024x576-1.webp", TAMASHA
-https://ev-fast-mpd.starzplayarabia.com/live/eds/CricLifeMax/DASH/CricLifeMax.mpd?|drmScheme=clearkey&drmLicense=ad59b720bd4b44d063686212b99484b5:e1744990edf98acc729c0773a3766583
 
 
 
@@ -9,18 +7,10 @@ https://fl7.moveonjoy.com/WILLOW_CRICKET/index.m3u8
 https://tgn.bozztv.com/eshgtv-dvrfl05/gin-lemar/index.m3u8
 #EXTINF:-1 tvg-logo="https://fancode.com/skillup-uploads/fc-web-logo/fc-logo-orange-block-bg.png",FANCOAD LIVE 3
 https://rex-streaming-tv.vercel.app/api/BDIX/NSLOCKY/6657.m3u8
-#EXTINF:-1 tvg-logo="https://fancode.com/skillup-uploads/fc-web-logo/fc-logo-orange-block-bg.png",FANCOAD LIVE 4
-https://rex-streaming-tv.vercel.app/api/BDIX/NSLOCKY/6659.m3u8
-#EXTINF:-1 tvg-logo="https://fancode.com/skillup-uploads/fc-web-logo/fc-logo-orange-block-bg.png",FANCOAD LIVE 5
-https://rex-streaming-tv.vercel.app/api/BDIX/NSLOCKY/1423.m3u8
-#EXTINF:-1 tvg-logo="https://fancode.com/skillup-uploads/fc-web-logo/fc-logo-orange-block-bg.png",FANCOAD LIVE 6
-https://rex-streaming-tv.vercel.app/api/BDIX/NSLOCKY/5008.m3u8
-#EXTINF:-1 tvg-logo="https://fancode.com/skillup-uploads/fc-web-logo/fc-logo-orange-block-bg.png",FANCOAD LIVE 7
-https://rex-streaming-tv.vercel.app/api/BDIX/NSLOCKY/1582.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://media.licdn.com/dms/image/v2/C560BAQH4VBSB9lGpTA/company-logo_200_200/company-logo_200_200/0/1630668356175?e=2147483647&v=beta&t=YHP4YFiZr_hR9Xyu8PlNcxfCbr1PTYjjqPw5zTzsyfU", Toffee
-http://103.73.107.122:3255/TSportsHD/index.m3u8
+https://tvsen7.aynascope.net/tsportshd/tracks-v1a1/mono.ts.m3u8?e=1758901859&token=c2df9cdff1adfbf3295f74714152740c&u=7a511720-17fc-44bc-a9a7-9222de71898c
 
 
 #EXTINF:-1 tvg-logo="https://images.sftcdn.net/images/t_app-icon-m/p/9f01fe3e-99bf-11e6-81dc-676fb6608552/4165599953/sony-liv-logo", SONY LIV
