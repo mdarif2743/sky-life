@@ -14,6 +14,24 @@ https://tvsen5.aynaott.com/PNEb3v2q6GBk/index.m3u8
 https://tvsen5.aynaott.com/c9EpzZ6fQBJ3/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.sonypicturesnetworks.com/images/logos/SONY_SportsTen1_SD_Logo_CLR.png" group-title="AynaOTT - Sports",Sony Ten 1
 https://tvsen5.aynaott.com/snTn1HD/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Ten2_HD.png" group-title="SPORTS", Sony Sports 2 HD
+#https://nxtlive.net/sliv/stream.m3u8?id=1000009277|Referer=https://nxtlive.net/sliv/stream.m3u8?id=1000009277
+http://dhoomtv.xyz///live/8zpo3GsVY7/beneficial2concern/31314.ts
+
+#EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Ten3_HD.png" group-title="SPORTS", Sony Sports 3 HD
+#https://nxtlive.net/sliv/stream.m3u8?id=1000009278|Referer=https://nxtlive.net/sliv/stream.m3u8?id=1000009278
+#http://dhoomtv.xyz///live/8zpo3GsVY7/beneficial2concern/9404.ts
+http://87.255.35.150:18848/
+
+
+
+#EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Six_HD.png" group-title="SPORTS", Sony Sports 5
+#https://nxtlive.net/sliv/stream.m3u8?id=1000009275|Referer=https://nxtlive.net/sliv/stream.m3u8?id=1000009275
+http://dhoomtv.xyz///live/8zpo3GsVY7/beneficial2concern/176.ts
+
+
+
 #EXTINF:-1 tvg-logo="https://icon2.cleanpng.com/20180611/pks/aa8l5aros.webp" group-title="AynaOTT - Sports",Star Sports 2
 https://tvsen5.aynaott.com/cXPB2LKkErN9/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d7/Duronto_TV_Logo.png" group-title="AynaOTT - Bangladesh",Duronto TV
@@ -60,4 +78,27 @@ https://tvsen6.aynaott.com/ColorsHD/index.m3u8
 https://tvsen6.aynaott.com/SangeetBangla/index.m3u8
 
 
+#EXTINF:-1 group-title="UK - Sports" tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/320/140/skychb1302.png",UK | Sky Sports Cricket
+#http://kstv.us:8080/live/carloskiu/4461542986/47864.m3u8
+http://dhoomtv.xyz///live/8zpo3GsVY7/beneficial2concern/122412.ts
 
+EXTINF:-1, SUPER SPORTS cricket
+#https://stalker.tnm3us.workers.dev/12167.m3u8
+http://dhoomtv.xyz///live/8zpo3GsVY7/beneficial2concern/157939.ts
+
+
+#EXTINF:-1 group-logo="https://img.icons8.com/ios11/512/FFFFFF/github.png" group-title="All Working Channels" tvg-logo="https://i.ibb.co/KzXCnTKy/Ten-Cricket.png", Ten Cricket
+https://allottplay.com/tv/toffee/live.php?id=ten_cricket&e=.m3u8|Referer=https://allottplay.com/tv/toffee/live.php?id=ten_cricket&e=.m3u8
+
+
+#EXTINF:-1 group-title="Bein Sports" tvg-logo="https://github.com/fraudiay79/logos/blob/master/bein/beinsports1.png?raw=true",Bein Sport 01
+https://sdmmt162.provegooott.com/1_.m3u8
+
+
+
+#EXTINF:-1 group-title="Bein Sports" tvg-logo="https://github.com/fraudiay79/logos/blob/master/bein/beinsports2.png?raw=truebeinsports2.default.svg",Bein Sport 02
+https://sdmmt162.provegooott.com/2_.m3u8
+#EXTINF:-1 group-title="Bein Sports" tvg-logo="https://github.com/picons/picons/blob/master/build-source/logos/beinsports3.default.png?raw=true",Bein Sport 03
+https://sdmmt162.provegooott.com/3_.m3u8
+#EXTINF:-1 group-title="Bein Sports" tvg-logo="https://github.com/picons/picons/blob/master/build-source/logos/beinsports4.default.png?raw=true",Bein Sport 04
+https://sdmmt162.provegooott.com/4_.m3u8
