@@ -4,8 +4,6 @@
 https://tvsen5.aynaott.com/R_Bangla/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/24/News_18_India.png" group-title="AynaOTT - Indian News",News India
 https://tvsen5.aynaott.com/NewsIndia24x7/index.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/59/Peace_TV_official_logo.png" group-title="AynaOTT - Islamic",Peace TV
-https://tvsen5.aynaott.com/peacetv/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MRM3UK/FanzoneLive/refs/heads/main/logo/file_0000000051787209ac49b199a548c78f.png" group-title="AynaOTT - Indian ENT",B4U hitz
 https://tvsen5.aynaott.com/B4UHitz/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/SET_India_Logo_%282022%29.png/250px-SET_India_Logo_%282022%29.png" group-title="AynaOTT - Indian ENT",Sony Entertainment
@@ -22,22 +20,11 @@ https://tvsen5.aynaott.com/snTn1HD/index.m3u8
 https://tvsen5.aynaott.com/cXPB2LKkErN9/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d7/Duronto_TV_Logo.png" group-title="AynaOTT - Bangladesh",Duronto TV
 https://tvsen5.aynaott.com/durontotv/index.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7a/Republic_TV.jpg" group-title="AynaOTT - Indian News",Republic TV
-https://tvsen5.aynaott.com/REPUBLIC_TV/index.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/News_channel.jpg/500px-News_channel.jpg" group-title="AynaOTT - Indian News",Bharat 24
-https://tvsen5.aynaott.com/Bharat24Vi/index.m3u8
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/fgubHuPlj4LBggjUvqhmEWxu1SG.jpg" group-title="AynaOTT - Indian News",News 24
 https://tvsen5.aynaott.com/News24/index.m3u8
-#EXTINF:-1 tvg-logo="https://anjan.tv/sites/default/files/logo_0.png" group-title="AynaOTT - Indian ENT",Anjan TV
-https://tvsen5.aynaott.com/AnjanTV/index.m3u8
 #EXTINF:-1 tvg-logo="https://ptv.com.pk/frontend/media/introduction/logosarchive/ptvsports.png" group-title="AynaOTT - Sports",PTV Sports
 https://tvsen5.aynaott.com/Ptvsports/index.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Times_Now_logo.svg/500px-Times_Now_logo.svg.png" group-title="AynaOTT - Indian News",Time TV
-https://tvsen5.aynaott.com/timetv/index.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a6/TV9_Bharatvarsh.svg/500px-TV9_Bharatvarsh.svg.png" group-title="AynaOTT - Indian News",TV9 Bharatvarsh
-https://tvsen5.aynaott.com/TV9Bharatvarsh/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MRM3UK/FanzoneLive/refs/heads/main/logo/file_0000000051787209ac49b199a548c78f.png" group-title="AynaOTT - Indian ENT",Dhamaka Movies
-https://tvsen5.aynaott.com/DhamakaMovies/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7b/Colors_Bangla.png" group-title="AynaOTT - IN Bangla",Colors Bangla
 https://tvsen5.aynaott.com/u3LkNQ7UHhFX/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ef/Star_Jalsha_logo_2023.png" group-title="AynaOTT - IN Bangla",Star Jalsha
@@ -48,32 +35,13 @@ https://tvsen5.aynaott.com/Ravc7gPCZpxk/index.m3u8
 https://tvsen7.aynaott.com/tsportshd/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d7/StarPlus_Logo.png" group-title="AynaOTT - Indian ENT",StarPlus HD
 https://tvsen7.aynaott.com/sphdbd/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.jagobd.com/wp-content/uploads/2024/08/logo_50.png" group-title="AynaOTT - Islamic",Peace TV Bangla HD
-https://tvsen7.aynaott.com/PeaceTvBanglaHD/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c3/Republic_Bangla_logo.png" group-title="AynaOTT - Indian News",Republic Bangla
 https://tvsen7.aynaott.com/R_Bangla/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MRM3UK/FanzoneLive/refs/heads/main/logo/file_0000000051787209ac49b199a548c78f.png" group-title="AynaOTT - Indian ENT",VTV USA
-https://tvsen7.aynaott.com/vtvusa/index.m3u8
 #EXTINF:-1 tvg-logo="https://madanichannelbangla.tv/img/img/logo/b-logo.png" group-title="AynaOTT - Islamic",Madani TV
 https://tvsen7.aynaott.com/MadaniTV/index.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/ef/NTV_%28Bangladesh%29_logo.svg/500px-NTV_%28Bangladesh%29_logo.svg.png" group-title="AynaOTT - Bangladesh",NTV Europe
-https://tvsen7.aynaott.com/ntveurope/index.m3u8
-#EXTINF:-1 tvg-logo="https://moviebangla.tv/wp-content/uploads/2024/06/moviebanglatv-logo-2.png" group-title="AynaOTT - Bangladesh",Movie Bangla
-https://tvsen7.aynaott.com/moviebangla/index.m3u8
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/71m06Cbp3xL.png" group-title="AynaOTT - Bangladesh",Millennium TV
-https://tvsen7.aynaott.com/millenniumtv/index.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/bn/d/de/%E0%A6%86%E0%A6%B0_%E0%A6%AA%E0%A7%8D%E0%A6%B2%E0%A6%BE%E0%A6%B8_%E0%A6%B2%E0%A7%8B%E0%A6%97%E0%A7%8B.png" group-title="AynaOTT - Indian News",R Plus
-https://tvsen6.aynaott.com/Rplus/index.m3u8
-#EXTINF:-1 tvg-logo="https://oxolive.com/wp-content/uploads/2025/05/ChatGPT-Image-May-24-2025-05_37_47-PM-200x300.png" group-title="AynaOTT - IN Bangla",R Plus Gold
-https://tvsen6.aynaott.com/RplusGold/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/02/Kolkata_TV_2010.png" group-title="AynaOTT - IN Bangla",Kolkata TV
 https://tvsen6.aynaott.com/kolkatatv/index.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Zee_24_Ghanta_2025.svg/1598px-Zee_24_Ghanta_2025.svg.png" group-title="AynaOTT - Indian News",Zee 24 Ghanta
-https://tvsen6.aynaott.com/zee24/index.m3u8
-#EXTINF:-1 tvg-logo="https://vectorseek.com/wp-content/uploads/2024/02/Dost-TV-Logo-Vector.svg-.png" group-title="AynaOTT - Indian ENT",Hi Dost
-https://tvsen6.aynaott.com/HiDost/index.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b9/Shemaroo_Entertainment_Logo.png" group-title="AynaOTT - Indian ENT",Shemaroo TV
-https://tvsen6.aynaott.com/ShemarooTV/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/hi/d/dc/Dhammaltvlogo.png" group-title="AynaOTT - Indian ENT",Dhamaal
 https://tvsen6.aynaott.com/Dhamaal/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/bf/DangalTVLogo.png" group-title="AynaOTT - Indian ENT",Dangal
@@ -88,18 +56,8 @@ https://tvsen6.aynaott.com/MusicIndia/index.m3u8
 https://tvsen6.aynaott.com/9xjalwa/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.paulmerchants.net/paulmerchants/wp-content/uploads/2018/10/9xtashan-1.png" group-title="AynaOTT - Indian ENT",9X Tashan
 https://tvsen6.aynaott.com/9X_Tashan/index.m3u8
-#EXTINF:-1 tvg-logo="https://image.roku.com/developer_channels/prod/5b534aa9a53d76610556c1b123f9239bae42c71f1d9b727dcb6aa60c98c0755f.png" group-title="AynaOTT - Indian ENT",All Time Movies
-https://tvsen6.aynaott.com/Dhinchaak/index.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b5/Manoranjan-Movies-Logo.jpg" group-title="AynaOTT - Indian ENT",Manoranjan Movies
-https://tvsen6.aynaott.com/ManoranjanMovies/index.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/bn/c/c1/%E0%A6%96%E0%A7%81%E0%A6%B6%E0%A6%AC%E0%A7%81_%E0%A6%AC%E0%A6%BE%E0%A6%82%E0%A6%B2%E0%A6%BE_%E0%A6%9F%E0%A7%87%E0%A6%B2%E0%A6%BF%E0%A6%AD%E0%A6%BF%E0%A6%B6%E0%A6%A8_%E0%A6%9A%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%A8%E0%A7%87%E0%A6%B2%E0%A7%87%E0%A6%B0_%E0%A6%B2%E0%A7%8B%E0%A6%97%E0%A7%8B.jpeg" group-title="AynaOTT - IN Bangla",Khushboo
+EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/bn/c/c1/%E0%A6%96%E0%A7%81%E0%A6%B6%E0%A6%AC%E0%A7%81_%E0%A6%AC%E0%A6%BE%E0%A6%82%E0%A6%B2%E0%A6%BE_%E0%A6%9F%E0%A7%87%E0%A6%B2%E0%A6%BF%E0%A6%AD%E0%A6%BF%E0%A6%B6%E0%A6%A8_%E0%A6%9A%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%A8%E0%A7%87%E0%A6%B2%E0%A7%87%E0%A6%B0_%E0%A6%B2%E0%A7%8B%E0%A6%97%E0%A7%8B.jpeg" group-title="AynaOTT - IN Bangla",Khushboo
 https://tvsen6.aynaott.com/Khushboo/index.m3u8
-#EXTINF:-1 tvg-logo="https://the-media-ant.mo.cloudinary.net/medias/5b8682c9b808a913ce2ab0e3/1565811095303/d5948876360da6886d1100adb30ffcb7.jpg" group-title="AynaOTT - IN Bangla",Dhoom
-https://tvsen6.aynaott.com/dhoom/index.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/17/E24-TV-Channel.jpg" group-title="AynaOTT - Indian ENT",E24
-https://tvsen6.aynaott.com/e24/index.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1f/News_Time_new_logo.png" group-title="AynaOTT - Indian News",News Time
-https://tvsen6.aynaott.com/NewsTime/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/bn/a/a1/%E0%A6%B0%E0%A7%82%E0%A6%AA%E0%A6%B8%E0%A7%80_%E0%A6%AC%E0%A6%BE%E0%A6%82%E0%A6%B2%E0%A6%BE_%E0%A6%9F%E0%A7%87%E0%A6%B2%E0%A6%BF%E0%A6%AD%E0%A6%BF%E0%A6%B6%E0%A6%A8_%E0%A6%9A%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%A8%E0%A7%87%E0%A6%B2%E0%A7%87%E0%A6%B0_%E0%A6%B2%E0%A7%8B%E0%A6%97%E0%A7%8B.png" group-title="AynaOTT - IN Bangla",Ruposhi Bangla
 https://tvsen6.aynaott.com/RupshiBangla/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Colors_Bangla.png/352px-Colors_Bangla.png" group-title="AynaOTT - IN Bangla",Colors Bangla
@@ -110,3 +68,4 @@ https://tvsen6.aynaott.com/aakaashBangla/index.m3u8
 https://tvsen6.aynaott.com/ColorsHD/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Sangeet_Bangla_Logo_%282025%29.png/970px-Sangeet_Bangla_Logo_%282025%29.png" group-title="AynaOTT - Indian ENT",Sangeet Bangla
 https://tvsen6.aynaott.com/SangeetBangla/index.m3u8
+
