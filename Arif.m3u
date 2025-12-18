@@ -4,8 +4,6 @@
 https://tvsen5.aynaott.com/R_Bangla/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/24/News_18_India.png" group-title="AynaOTT - Indian News",News India
 https://tvsen5.aynaott.com/NewsIndia24x7/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MRM3UK/FanzoneLive/refs/heads/main/logo/file_0000000051787209ac49b199a548c78f.png" group-title="AynaOTT - Indian ENT",B4U hitz
-https://tvsen5.aynaott.com/B4UHitz/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/SET_India_Logo_%282022%29.png/250px-SET_India_Logo_%282022%29.png" group-title="AynaOTT - Indian ENT",Sony Entertainment
 https://tvsen5.aynaott.com/Wfn4bVp3dLgA/index.m3u8
 #EXTINF:-1 tvg-logo="https://img.willow.tv/apps/wlw-nw-lgo.png" group-title="AynaOTT - Sports",Willow Sports
@@ -20,8 +18,6 @@ https://tvsen5.aynaott.com/snTn1HD/index.m3u8
 https://tvsen5.aynaott.com/cXPB2LKkErN9/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d7/Duronto_TV_Logo.png" group-title="AynaOTT - Bangladesh",Duronto TV
 https://tvsen5.aynaott.com/durontotv/index.m3u8
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/fgubHuPlj4LBggjUvqhmEWxu1SG.jpg" group-title="AynaOTT - Indian News",News 24
-https://tvsen5.aynaott.com/News24/index.m3u8
 #EXTINF:-1 tvg-logo="https://ptv.com.pk/frontend/media/introduction/logosarchive/ptvsports.png" group-title="AynaOTT - Sports",PTV Sports
 https://tvsen5.aynaott.com/Ptvsports/index.m3u8
 
@@ -62,5 +58,6 @@ https://tvsen6.aynaott.com/ColorsBangla/index.m3u8
 https://tvsen6.aynaott.com/ColorsHD/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Sangeet_Bangla_Logo_%282025%29.png/970px-Sangeet_Bangla_Logo_%282025%29.png" group-title="AynaOTT - Indian ENT",Sangeet Bangla
 https://tvsen6.aynaott.com/SangeetBangla/index.m3u8
+
 
 
