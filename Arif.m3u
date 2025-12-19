@@ -2,8 +2,8 @@ live event
 #EXTINF:-1 tvg-logo="https://images.sftcdn.net/images/t_app-icon-m/p/9f01fe3e-99bf-11e6-81dc-676fb6608552/4165599953/sony-liv-logo", only live crickets
 https://live-en.aisports.cc/moviebox/device01/playlist.m3u8
 
-
-
+#EXTINF:-1,MADANI CHANNEL URDU
+http://163.61.227.29:8000/play/a02j/index.m3u8
 
 
 
@@ -205,8 +205,9 @@ http://dhoomtv.xyz///live/8zpo3GsVY7/beneficial2concern/98.ts
 http://dhoomtv.xyz///live/8zpo3GsVY7/beneficial2concern/612020.ts
 
 #EXTINF:-1 tvg-id="1033" tvg-logo="https://live.dinesh29.com.np/logos/tataplay/starsports2hindihd.png" group-title="Sports",Star Sports 2 Hindi HD
-#http://66.102.120.18:8000/play/a00v/index.m3u8
-http://dhoomtv.xyz///live/8zpo3GsVY7/beneficial2concern/213049.ts
+#http://dhoomtv.xyz///live/8zpo3GsVY7/beneficial2concern/213049.ts
+http://163.61.227.29:8000/play/a012/index.m3u8
+
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSP8j8Vc_lguK13yQO9X3u_hvSXI2kmnJAywg&s" group-title="Xfireflix",Star Sports 3
 http://dhoomtv.xyz///live/8zpo3GsVY7/beneficial2concern/1080.ts
@@ -614,6 +615,7 @@ https://indiatodaylive.akamaized.net/hls/live/2014320/indiatoday/indiatodaylive/
 https://ndtv24x7elemarchana.akamaized.net/hls/live/2003678/ndtv24x7/master.m3u8
 #EXTINF:-1 tvg-logo="" group-title="NEWS INTERNASIONAL" tvg-logo="https://i.imgur.com/ldXaLJK.png",NDTV Hindi
 https://ndtvindiaelemarchana.akamaized.net/hls/live/2003679/ndtvindia/master.m3u8
+
 
 
 
