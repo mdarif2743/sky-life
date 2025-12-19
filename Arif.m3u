@@ -112,6 +112,30 @@ https://tvsen6.aynaott.com/anandatv/tracks-v1a1/mono.ts.m3u8
 #https://dhoomtv.xyz:443/live/8zpo3GsVY7/beneficial2concern/3802.ts
 http://116.204.149.16/nagorik/index.m3u8
 
+#EXTINF:-1,BANGLA DRAMA
+https://vods2.aynascope.net/gseriesDrama/index.m3u8
+
+
+
+
+#EXTINF:-1,HINDI DUBBING MOVIES
+https://tplay.live/playlist/movies/dubbed-movies/index.m3u8
+#EXTINF:-1,ALL TIME BD SONG
+https://tplay.live/originals/bengali-beats/index.m3u8
+#EXTINF:-1,T SERIES MUSIC
+http://45.148.145.57/TSER247/tracks-v1a1/mono.m3u8
+
+
+#EXTINF:-1,DEWANA HD
+https://live20.bozztv.com/giatvplayout7/giatv-209592/tracks-v1a1/mono.ts.m3u8
+
+#EXTINF:-1,ALL TIME MOVIES
+https://tplay.live/playlist/movies/bollywood-movies/index.m3u8
+
+#EXTINF:-1,ALL TIME BANGLA MOVIES
+https://tplay.live/playlist/movies/bangla-movies/index.m3u8
+#EXTINF:-1,MOTO PALTU
+https://tplay.live/playlist/kids/motu-patlu/index.m3u8
 
 
 
@@ -146,6 +170,10 @@ https://tvsen5.aynaott.com/c9EpzZ6fQBJ3/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.sonypicturesnetworks.com/images/logos/SONY_SportsTen1_SD_Logo_CLR.png" group-title="AynaOTT - Sports",Sony Ten 1
 #https://tvsen5.aynaott.com/snTn1HD/index.m3u8
 http://dhoomtv.xyz///live/8zpo3GsVY7/beneficial2concern/154.ts
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Sun%20Bangla.png"group-title="Kolkata Bangla" group-title="",Sun Bangla HD
+#https://smart.bengaldigital.live/sun-bangla-paid/tracks-v1a1/mono.m3u8
+http://dhoomtv.xyz///live/8zpo3GsVY7/beneficial2concern/3753.ts
 
 
 #EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Ten2_HD.png" group-title="SPORTS", Sony Sports 2 HD
@@ -290,6 +318,20 @@ https://stalker.tnm3us.workers.dev/66798.m3u8
 #https://dhoomtv.xyz:443/live/8zpo3GsVY7/beneficial2concern/98884.ts
 https://cdn-tamp.vercel.app/Kalkata/AR/Live_Stream/Star-Jalsha-Movies-Bangla/tracks-v1a1/mono.m3u8
 
+
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Shakil1294/pcv/main/logo/star_gold2_hd.png" group-title="HINDI",Star Gold 2 HD
+http://dhoomtv.xyz///live/8zpo3GsVY7/beneficial2concern/157081.ts
+
+
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Shakil1294/pcv/main/logo/star_gold_select_hd.png" group-title="HINDI",Star Gold Select HD
+#http://66.102.120.18:8000/play/a01s/index.m3u8
+http://dhoomtv.xyz///live/8zpo3GsVY7/beneficial2concern/9376.ts
+
+
+
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Shakil1294/pcv/main/logo/star_gold_logo.png" group-title="HINDI",Star Gold HD
 #http://66.102.120.18:8000/play/a00f/index.m3u8
 #http://dhoomtv.xyz///live/8zpo3GsVY7/beneficial2concern/9375.ts
@@ -308,6 +350,8 @@ http://dhoomtv.xyz///live/8zpo3GsVY7/beneficial2concern/98843.ts
 #EXTINF:-1 tvg-id="colorscineplexbollywood" tvg-logo="https://live.dinesh29.com.np/logos/jiotvplus/colorscineplexbollywood.png" group-title="Movies",Colors Cineplex Bollywood
 http://66.102.120.18:8000/play/a01a/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Colors_Rishtey_logo.png/1200px-Colors_Rishtey_logo.png" group-title="HINDI", COLORS RISHTEY
+http://dhoomtv.xyz///live/8zpo3GsVY7/beneficial2concern/241.ts
 
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/NF5M3vk/20240803-164348.png" group-title="KOLKATA",Colors Bangla Cinema
@@ -462,6 +506,115 @@ https://sdmmt162.provegooott.com/4_.m3u8
 
 
 
+#EXTINF:-1 tvg-logo="https://images.sftcdn.net/images/t_app-icon-m/p/9f01fe3e-99bf-11e6-81dc-676fb6608552/4165599953/sony-liv-logo", ASTRO CRICKET
+http://dhoomtv.xyz///live/8zpo3GsVY7/beneficial2concern/2494.ts
+
+
+#EXTINF:-1 tvg-logo="https://images.sftcdn.net/images/t_app-icon-m/p/9f01fe3e-99bf-11e6-81dc-676fb6608552/4165599953/sony-liv-logo", FOX ASHES
+http://dhoomtv.xyz///live/8zpo3GsVY7/beneficial2concern/1856.ts
+
+
+#EXTINF:-1, SUPER SPORTS cricket
+#https://stalker.tnm3us.workers.dev/12167.m3u8
+http://dhoomtv.xyz///live/8zpo3GsVY7/beneficial2concern/157939.ts
+#EXTINF:-1, SUPER SPORTS football
+http://dhoomtv.xyz///live/8zpo3GsVY7/beneficial2concern/157942.ts
+
+
+#EXTINF:-1, SUPER SPORTS TENNIS
+http://dhoomtv.xyz///live/8zpo3GsVY7/beneficial2concern/7603.ts
+#EXTINF:-1, SUPER SPORTS GOLF
+http://dhoomtv.xyz///live/8zpo3GsVY7/beneficial2concern/525.ts
+
+#EXTINF:-1, SUPER SPORTS premier league
+http://dhoomtv.xyz///live/8zpo3GsVY7/beneficial2concern/157940.ts
+#EXTINF:-1, SUPER SPORTS la Liga tv
+http://dhoomtv.xyz///live/8zpo3GsVY7/beneficial2concern/157941.ts
+
+#EXTINF:-1 group-title="UK - Sports" tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/320/140/skychb1333.png",UK | Sky Sports Action
+#http://kstv.us:8080/live/carloskiu/4461542986/47862.m3u8
+http://dhoomtv.xyz///live/8zpo3GsVY7/beneficial2concern/122413.ts
+
+
+#EXTINF:-1 group-title="UK - Sports" tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/320/140/skychb3839.png",UK | Sky Sports Arena
+http://dhoomtv.xyz///live/8zpo3GsVY7/beneficial2concern/122414.ts
+
+#EXTINF:-1 group-title="UK - Sports" tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/320/140/skychb1306.png",UK | Sky Sports F1
+#http://kstv.us:8080/live/carloskiu/4461542986/47865.m3u8
+http://dhoomtv.xyz///live/8zpo3GsVY7/beneficial2concern/122181.ts
+
+#EXTINF:-1 group-title="UK - Sports" tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/320/140/skychb3838.png",UK | Sky Sports Football
+http://dhoomtv.xyz///live/8zpo3GsVY7/beneficial2concern/23334.ts
+#EXTINF:-1 group-title="UK - Sports" tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/320/140/skychb1322.png",UK | Sky Sports GOLF
+http://dhoomtv.xyz///live/8zpo3GsVY7/beneficial2concern/11.ts
+#EXTINF:-1 group-title="UK - Sports" tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/320/140/skychb1301.png",UK | Sky Sports Main Event
+#http://kstv.us:8080/live/carloskiu/4461542986/47868.m3u8
+http://dhoomtv.xyz///live/8zpo3GsVY7/beneficial2concern/122409.ts
+
+#EXTINF:-1 group-title="UK - Sports" tvg-logo="https://imgu.rs/i/TNTSports/TNT1.png",UK | TNT Sports 1
+http://kstv.us:8080/live/carloskiu/4461542986/47850.m3u8
+
+
+#EXTINF:-1 group-title="UK - Sports" tvg-logo="https://imgu.rs/i/TNTSports/TNT2.png",UK | TNT Sports 2
+http://kstv.us:8080/live/carloskiu/4461542986/47851.m3u8
+#EXTINF:-1 group-title="UK - Sports" tvg-logo="https://imgu.rs/i/TNTSports/TNT3.png",UK | TNT Sports 3
+http://kstv.us:8080/live/carloskiu/4461542986/47852.m3u8
+#EXTINF:-1 group-title="UK - Sports" tvg-logo="https://imgu.rs/i/TNTSports/TNT4.png",UK | TNT Sports 4
+http://kstv.us:8080/live/carloskiu/4461542986/47853.m3u8
+
+#EXTINF:-1 group-title="UK - Sports" tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/320/240/skychb4091.png",UK | Sky Sports Mix
+#http://kstv.us:8080/live/carloskiu/4461542986/47869.m3u8
+#http://178.33.239.54:8080/507a/index.m3u8
+http://dhoomtv.xyz///live/8zpo3GsVY7/beneficial2concern/148684.ts
+
+#EXTINF:-1 group-title="UK - Sports" tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/320/140/skychb1314.png",UK | Sky Sports News
+http://kstv.us:8080/live/carloskiu/4461542986/47870.m3u8
+#EXTINF:-1 group-title="UK - Sports" tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/320/140/skychb1333.png",UK | Sky Sports Premier League
+#http://kstv.us:8080/live/carloskiu/4461542986/47871.m3u8
+http://dhoomtv.xyz///live/8zpo3GsVY7/beneficial2concern/9891.ts
+
+#EXTINF:-1 group-title="UK - Sports" tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/320/140/skychb1354.png",UK | Sky Sports Racing
+#http://kstv.us:8080/live/carloskiu/4461542986/47872.m3u8
+http://dhoomtv.xyz///live/8zpo3GsVY7/beneficial2concern/122415.ts
+
+#EXTINF:-1,SKY SPORTS TENNIS
+http://dhoomtv.xyz///live/8zpo3GsVY7/beneficial2concern/428098.ts
+-------------------------------------
+---------##৳#৳########################
+#EXTINF:-1,WWEE
+http://dhoomtv.xyz///live/8zpo3GsVY7/beneficial2concern/157970.ts
+
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/CzCnTHV/aljazeera-home-tv.png"" group-title="NEWS INTERNASIONAL", Aljazeera HD
+
+
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/BBC%20World%20News.png"group-title="English News" group-title="",BBC World
+http://66.102.120.18:8000/play/a074/index.m3u8
+
+#EXTINF:-1 tvg-logo=""group-title="English News" group-title="",CNN
+https://amg01448-samsungin-cnnnow-samsungin-4npqg.amagi.tv/playlist/amg01448-samsungin-cnnnow-samsungin/playlist.m3u8
+#EXTINF:-1 tvg-logo=""group-title="English News" group-title="",CGTN News
+https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/cgtn.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo=""group-title="English News" group-title="",DW Naws
+https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/65/FRANCE_24_logo.svg/1200px-FRANCE_24_logo.svg.png"group-title="English News" group-title="",France 24
+https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/fr24.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo=""group-title="English News" group-title="",RT Now
+https://rt-glb.rttv.com/live/rtnews/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="NEWS INTERNASIONAL" tvg-logo="https://is.gd/ih6x8j", NDTV NEWS
+https://ndtv24x7elemarchana.akamaized.net/hls/live/2003678-b/ndtv24x7/master.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="NEWS INTERNASIONAL" tvg-logo="https://i.imgur.com/kcMUGOE.jpg",Global News (US)
+https://live.corusdigitaldev.com/groupb/live/3062d0e3-ed4c-4f47-8482-95648250f4b8/live.isml/.m3u8
+#EXTINF:-1 tvg-logo="" group-title="NEWS INTERNASIONAL" tvg-logo="https://i.imgur.com/kcMUGOE.jpg",India Today
+https://indiatodaylive.akamaized.net/hls/live/2014320/indiatoday/indiatodaylive/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="NEWS INTERNASIONAL" tvg-logo="https://i.imgur.com/ldXaLJK.png",NDTV English
+https://ndtv24x7elemarchana.akamaized.net/hls/live/2003678/ndtv24x7/master.m3u8
+#EXTINF:-1 tvg-logo="" group-title="NEWS INTERNASIONAL" tvg-logo="https://i.imgur.com/ldXaLJK.png",NDTV Hindi
+https://ndtvindiaelemarchana.akamaized.net/hls/live/2003679/ndtvindia/master.m3u8
 
 
 
