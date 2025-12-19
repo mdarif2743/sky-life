@@ -169,7 +169,9 @@ https://tvsen5.aynaott.com/PNEb3v2q6GBk/tracks-v1a1/mono.ts.m3u8
 https://tvsen5.aynaott.com/c9EpzZ6fQBJ3/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.sonypicturesnetworks.com/images/logos/SONY_SportsTen1_SD_Logo_CLR.png" group-title="AynaOTT - Sports",Sony Ten 1
 #https://tvsen5.aynaott.com/snTn1HD/index.m3u8
-http://dhoomtv.xyz///live/8zpo3GsVY7/beneficial2concern/154.ts
+#http://dhoomtv.xyz///live/8zpo3GsVY7/beneficial2concern/154.ts
+http://163.61.227.29:8000/play/a060/index.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Sun%20Bangla.png"group-title="Kolkata Bangla" group-title="",Sun Bangla HD
 #https://smart.bengaldigital.live/sun-bangla-paid/tracks-v1a1/mono.m3u8
@@ -615,6 +617,7 @@ https://indiatodaylive.akamaized.net/hls/live/2014320/indiatoday/indiatodaylive/
 https://ndtv24x7elemarchana.akamaized.net/hls/live/2003678/ndtv24x7/master.m3u8
 #EXTINF:-1 tvg-logo="" group-title="NEWS INTERNASIONAL" tvg-logo="https://i.imgur.com/ldXaLJK.png",NDTV Hindi
 https://ndtvindiaelemarchana.akamaized.net/hls/live/2003679/ndtvindia/master.m3u8
+
 
 
 
