@@ -192,9 +192,9 @@ http://87.255.35.150:18848/
 http://dhoomtv.xyz///live/8zpo3GsVY7/beneficial2concern/176.ts
 
 #EXTINF:-1 group-title="Sports Auto Update" tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/runded/1-by-xfireflix.png",Star Sports 1 Hindi
-#https://tiger-hub.vercel.app/Star_Sports-1_Hindy/tracks-v1a1/mono.m3u8
-#http://66.102.120.18:8000/play/a072/index.m3u8
-http://dhoomtv.xyz///live/8zpo3GsVY7/beneficial2concern/9399.ts
+#http://dhoomtv.xyz///live/8zpo3GsVY7/beneficial2concern/9399.ts
+http://163.61.227.29:8000/play/a062/index.m3u8
+
 
 #EXTINF:-1,TEN SPORTS HD
 #http://66.102.120.18:8000/play/a00d/index.m3u8
@@ -209,7 +209,6 @@ http://dhoomtv.xyz///live/8zpo3GsVY7/beneficial2concern/612020.ts
 http://dhoomtv.xyz///live/8zpo3GsVY7/beneficial2concern/213049.ts
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSP8j8Vc_lguK13yQO9X3u_hvSXI2kmnJAywg&s" group-title="Xfireflix",Star Sports 3
-#https://tiger-hub.vercel.app/Star_sports-3/tracks-v1a1/mono.ts.m3u8
 http://dhoomtv.xyz///live/8zpo3GsVY7/beneficial2concern/1080.ts
 
 
@@ -615,6 +614,7 @@ https://indiatodaylive.akamaized.net/hls/live/2014320/indiatoday/indiatodaylive/
 https://ndtv24x7elemarchana.akamaized.net/hls/live/2003678/ndtv24x7/master.m3u8
 #EXTINF:-1 tvg-logo="" group-title="NEWS INTERNASIONAL" tvg-logo="https://i.imgur.com/ldXaLJK.png",NDTV Hindi
 https://ndtvindiaelemarchana.akamaized.net/hls/live/2003679/ndtvindia/master.m3u8
+
 
 
 
