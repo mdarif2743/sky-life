@@ -130,8 +130,6 @@ https://tvsen6.aynaott.com/GreenTvHD/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-id="a3d48c46-7902-45e2-abf9-0fab60c4d117" tvg-name="A sports" tvg-logo="https://s3.aynaott.com/storage/f32cb68f73e383cf0e3f12ad2732b902" group-title="Channels",A sports
 https://tvsen6.aynaott.com/asports/tracks-v1a1/mono.ts.m3u8
 
-#EXTINF:-1 tvg-id="db6759ab-4cf1-4970-9007-c15d977e33de" tvg-name="Discovery HD (Bangla)" tvg-logo="https://s3.aynaott.com/storage/ec5f76b3e7135687627ffec2b324758f" group-title="Bangla",Discovery HD (Bangla)
-https://tvsen6.aynaott.com/discovery_hd_bangla/index.m3u8?e=1753741240&u=9a031201-22d8-4f7e-9516-7d246a8fedc3&token=34d7b0c19081575434647d295f60ea41
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bf/R._Bangla_transparent_PNG.png" group-title="AynaOTT - Indian News",R Bangla
 https://tvsen5.aynaott.com/R_Bangla/index.m3u8
@@ -146,7 +144,9 @@ https://tvsen5.aynaott.com/PNEb3v2q6GBk/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Star_Sports_1_HD.png/1600px-Star_Sports_1_HD.png" group-title="AynaOTT - Sports",Star Sports 1
 https://tvsen5.aynaott.com/c9EpzZ6fQBJ3/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.sonypicturesnetworks.com/images/logos/SONY_SportsTen1_SD_Logo_CLR.png" group-title="AynaOTT - Sports",Sony Ten 1
-https://tvsen5.aynaott.com/snTn1HD/index.m3u8
+#https://tvsen5.aynaott.com/snTn1HD/index.m3u8
+http://dhoomtv.xyz///live/8zpo3GsVY7/beneficial2concern/154.ts
+
 
 #EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Ten2_HD.png" group-title="SPORTS", Sony Sports 2 HD
 #https://nxtlive.net/sliv/stream.m3u8?id=1000009277|Referer=https://nxtlive.net/sliv/stream.m3u8?id=1000009277
@@ -233,18 +233,29 @@ https://tvsen6.aynaott.com/9xm/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-logo="https://www.bizasialive.com/wp-content/uploads/2024/11/musicindia001.jpg" group-title="AynaOTT - Indian ENT",Music India
 https://tvsen6.aynaott.com/MusicIndia/index.m3u8
 #EXTINF:-1 tvg-logo="https://img-cdn.publive.online/fit-in/640x430/filters:format(webp)/afaqs/media/post_attachments/a4e5fbf23a54106f0fb08d6950f35e332d4766923db80ed413049bd35a121bf8.jpg" group-title="AynaOTT - Indian ENT",9X Jalwa
-https://tvsen6.aynaott.com/9xjalwa/index.m3u8
+#https://tvsen6.aynaott.com/9xjalwa/index.m3u8
+http://dhoomtv.xyz///live/8zpo3GsVY7/beneficial2concern/9057.ts
+
+
+
 #EXTINF:-1 tvg-logo="https://www.paulmerchants.net/paulmerchants/wp-content/uploads/2018/10/9xtashan-1.png" group-title="AynaOTT - Indian ENT",9X Tashan
 https://tvsen6.aynaott.com/9X_Tashan/index.m3u8
 
 #EXTINF:-1 tvg-id="16924cee-bc7a-470b-895f-4c8bf5fc9019" tvg-name="B4u Music" tvg-logo="https://s3.aynaott.com/storage/d1cf092bb1408a2f79185a307880f4f7" group-title="Hindi",B4u Music
-https://tvsen6.aynaott.com/b4umusic/index.m3u8?e=1753741247&u=9a031201-22d8-4f7e-9516-7d246a8fedc3&token=1df77761ea63b6181d11e016ab05f6f0
+#https://tvsen6.aynaott.com/b4umusic/index.m3u8?e=1753741247&u=9a031201-22d8-4f7e-9516-7d246a8fedc3&token=1df77761ea63b6181d11e016ab05f6f0
+http://dhoomtv.xyz///live/8zpo3GsVY7/beneficial2concern/7258.ts
+
+
 
 #EXTINF:-1 tvg-id="47b010b6-9296-4e7f-9cfa-284e020a8984" tvg-name="B4U Movies India" tvg-logo="https://s3.aynaott.com/storage/0e9aa42713fcb1abb4b54219666e7d38" group-title="Hindi",B4U Movies India
-https://tvsen7.aynaott.com/B4U_Movies_India/index.m3u8?e=1753741247&u=9a031201-22d8-4f7e-9516-7d246a8fedc3&token=ca16230f49f02dde564d4f22f9f784b5
+#https://tvsen7.aynaott.com/B4U_Movies_India/index.m3u8?e=1753741247&u=9a031201-22d8-4f7e-9516-7d246a8fedc3&token=ca16230f49f02dde564d4f22f9f784b5
+https://cdnb4u.wiseplayout.com/B4U_Movies/HD1080/HD1080.m3u8
+
 
 #EXTINF:-1 tvg-id="b80579f2-22d3-4b12-881e-60139810a791" tvg-name="Goldmines Bollywood" tvg-logo="https://s3.aynaott.com/storage/d9a0314f5f9165176f492db3923709bd" group-title="Hindi",Goldmines Bollywood
-https://tvsen6.aynaott.com/GoldminesBollywood/tracks-v1a1/mono.ts.m3u8
+#https://tvsen6.aynaott.com/GoldminesBollywood/tracks-v1a1/mono.ts.m3u8
+http://dhoomtv.xyz///live/8zpo3GsVY7/beneficial2concern/355478.ts
+
 
 #EXTINF:-1 tvg-id="1f8a84b3-8079-4c29-9e73-f219664e9d4d" tvg-name="Goldmines Movies" tvg-logo="https://s3.aynaott.com/storage/26c1570891267164e40563806b25ccdb" group-title="Hindi",Goldmines Movies
 https://tvsen6.aynaott.com/GoldminesMovies/tracks-v1a1/mono.ts.m3u8
@@ -257,9 +268,10 @@ http://dhoomtv.xyz///live/8zpo3GsVY7/beneficial2concern/34156.ts
 #EXTINF:-1 tvg-name="Hum TV" tvg-logo="https://w7.pngwing.com/pngs/75/199/png-transparent-pakistan-hum-tv-television-channel-drama-hum-television-text-logo-thumbnail.png" group-title="PK DRAMA",HUM TV
 http://45.148.145.57/PAK_HUMTVG/index.m3u8
 #EXTINF:-1 tvg-logo="https://w7.pngwing.com/pngs/75/199/png-transparent-pakistan-hum-tv-television-channel-drama-hum-television-text-logo-thumbnail.png" group-title="PK DRAMA",HUM TV (Europe)
-https://bongoflixbd.top/test/live.php?id=hum_tv&e=.m3u8
-#EXTINF:-1 tvg-logo="https://arydigital.tv/img/digital-logo.gif" group-title="PK DRAMA",Ary Digital
-http://212.32.241.201:8000/play/a01q
+
+
+
+
 #EXTINF:-1 tvg-logo="https://cdn.imgbin.com/24/4/24/imgbin-pakistan-television-channel-geo-tv-national-geographic-others-5JCuzUhQ3GHMUnNZ0ycbEhaWk.jpg" group-title="PK DRAMA",Geo Entertainment
 https://jk3lz82elw79-hls-live.5centscdn.com/harPalGeo/955ad3298db330b5ee880c2c9e6f23a0.sdp/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://images.seeklogo.com/logo-png/61/1/green-entertainment-tv-logo-png_seeklogo-616407.png" group-title="PK DRAMA",Green Entertainment
@@ -269,8 +281,8 @@ https://ml-pull-dvc-myco.io:2096/GREEN_ENTERTAINMENT/index.m3u8
 http://dhoomtv.xyz///live/8zpo3GsVY7/beneficial2concern/124.ts
 
 #EXTINF:-1 tvg-id="77" group-title="Movies" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1739965013824.png",Jalsha Movies 
-#https://stalker.tnm3us.workers.dev/66798.m3u8
-http://bazario.space/token/stream.php?id=245900&token=mnS4OU64gUv1WP8ZCSngAqxfNX0DDmgM
+https://stalker.tnm3us.workers.dev/66798.m3u8
+
 
 
 
@@ -378,7 +390,9 @@ https://tvsen6.aynaott.com/ColorsBangla/index.m3u8
 #EXTINF:-1 tvg-logo="https://wallpapers.com/images/high/colors-tv-logo-7meur4bah5m7mm8i.webp" group-title="AynaOTT - Indian ENT",Colors HD
 https://tvsen6.aynaott.com/ColorsHD/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Sangeet_Bangla_Logo_%282025%29.png/970px-Sangeet_Bangla_Logo_%282025%29.png" group-title="AynaOTT - Indian ENT",Sangeet Bangla
-https://tvsen6.aynaott.com/SangeetBangla/index.m3u8
+#https://tvsen6.aynaott.com/SangeetBangla/index.m3u8
+http://dhoomtv.xyz///live/8zpo3GsVY7/beneficial2concern/405.ts
+
 
 #EXTINF:-1 tvg-id="" tvg-name="HUNGAMA HINDI" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/61/Hungama_TV_Logo.svg" group-title="KIDS CHANNELS", HUNGAMA HINDI
 http://dhoomtv.xyz///live/8zpo3GsVY7/beneficial2concern/18456.ts
@@ -445,6 +459,7 @@ https://sdmmt162.provegooott.com/2_.m3u8
 https://sdmmt162.provegooott.com/3_.m3u8
 #EXTINF:-1 group-title="Bein Sports" tvg-logo="https://github.com/picons/picons/blob/master/build-source/logos/beinsports4.default.png?raw=true",Bein Sport 04
 https://sdmmt162.provegooott.com/4_.m3u8
+
 
 
 
