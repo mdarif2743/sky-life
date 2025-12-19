@@ -113,19 +113,15 @@ https://tvsen6.aynaott.com/anandatv/tracks-v1a1/mono.ts.m3u8
 http://116.204.149.16/nagorik/index.m3u8
 
 
-#EXTINF:-1,DBC NEWS
-https://tvsen6.aynaott.com/dbcnews/tracks-v1a1/mono.ts.m3u8
 
 
 
 #EXTINF:-1 tvg-id="141" group-title="Entertainment" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1746005940155.png",SRK TV 
 https://srknowapp.ncare.live/srktvhlswodrm/srktv.stream/playlist.m3u8
 
-
-#EXTINF:-1, CHANNEL S BD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Shakil1294/pcv/main/logo/Channel_S.png" group-title="BANGLADESH",Channel S
 https://tvsen6.aynaott.com/channels/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d3/Nexus_Television_Logo.png" group-title="BANGLADESH", নেক্সাস টেলিভিশন
-http://dhoomtv.xyz///live/8zpo3GsVY7/beneficial2concern/411.ts
+
 
 #EXTINF:-1, tvg-logo="https://cdnhost.akashbd.net/assets/uploads/channels_images/1683606878-6994272.png" group-title="Bangladesh", গ্ৰীন টিভি বাংলাদেশ
 #https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/greentv.stream/playlist.m3u8
@@ -449,6 +445,7 @@ https://sdmmt162.provegooott.com/2_.m3u8
 https://sdmmt162.provegooott.com/3_.m3u8
 #EXTINF:-1 group-title="Bein Sports" tvg-logo="https://github.com/picons/picons/blob/master/build-source/logos/beinsports4.default.png?raw=true",Bein Sport 04
 https://sdmmt162.provegooott.com/4_.m3u8
+
 
 
 
