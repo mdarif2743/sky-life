@@ -139,7 +139,9 @@ http://dhoomtv.xyz///live/8zpo3GsVY7/beneficial2concern/98.ts
 http://dhoomtv.xyz///live/8zpo3GsVY7/beneficial2concern/612020.ts
 #EXTINF:-1 tvg-id="1033" tvg-logo="https://live.dinesh29.com.np/logos/tataplay/starsports2hindihd.png" group-title="Sports",Star Sports 2 Hindi HD
 #http://dhoomtv.xyz///live/8zpo3GsVY7/beneficial2concern/213049.ts
-http://163.61.227.29:8000/play/a012/index.m3u8
+#http://163.61.227.29:8000/play/a012/index.m3u8
+http://103.140.254.2:3500/live/1984.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSP8j8Vc_lguK13yQO9X3u_hvSXI2kmnJAywg&s" group-title="Xfireflix",Star Sports 3
 http://dhoomtv.xyz///live/8zpo3GsVY7/beneficial2concern/1080.ts
 #EXTINF:-1 tvg-id="87" group-title="Sports" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1735043602147.png",Star Sports Select 1 HD 
@@ -427,6 +429,7 @@ https://indiatodaylive.akamaized.net/hls/live/2014320/indiatoday/indiatodaylive/
 https://ndtv24x7elemarchana.akamaized.net/hls/live/2003678/ndtv24x7/master.m3u8
 #EXTINF:-1 tvg-logo="" group-title="NEWS INTERNASIONAL" tvg-logo="https://i.imgur.com/ldXaLJK.png",NDTV Hindi
 https://ndtvindiaelemarchana.akamaized.net/hls/live/2003679/ndtvindia/master.m3u8
+
 
 
 
