@@ -131,10 +131,12 @@ http://87.255.35.150:18848/
 http://66.102.120.18:8000/play/a010/index.m3u8
 #EXTINF:-1 group-title="Sports Auto Update" tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/runded/1-by-xfireflix.png",Star Sports 1 Hindi
 #http://dhoomtv.xyz///live/8zpo3GsVY7/beneficial2concern/9399.ts
-http://163.61.227.29:8000/play/a062/index.m3u8
+http://66.102.120.18:8000/play/a072/index.m3u8
+
+
 #EXTINF:-1,TEN SPORTS HD
-#http://66.102.120.18:8000/play/a00d/index.m3u8
-http://dhoomtv.xyz///live/8zpo3GsVY7/beneficial2concern/98.ts
+http://66.102.120.18:8000/play/a018/index.m3u8
+
 #EXTINF:-1, STAR SPORTS KHEL
 #http://dhoomtv.xyz///live/8zpo3GsVY7/beneficial2concern/612020.ts
 http://103.140.254.2:3500/live/1998.m3u8
@@ -205,6 +207,12 @@ http://dhoomtv.xyz///live/8zpo3GsVY7/beneficial2concern/7258.ts
 #https://tvsen7.aynaott.com/B4U_Movies_India/index.m3u8?e=1753741247&u=9a031201-22d8-4f7e-9516-7d246a8fedc3&token=ca16230f49f02dde564d4f22f9f784b5
 #https://cdnb4u.wiseplayout.com/B4U_Movies/HD1080/HD1080.m3u8
 http://103.140.254.2:3500/live/182.m3u8
+#EXTINF:-1,ARY GINDEGY
+http://66.102.120.18:8000/play/a031/index.m3u8
+#EXTINF:-1,ARY SPORTS
+http://66.102.120.18:8000/play/a032/index.m3u8
+#EXTINF:-1,GEO SUPER
+http://66.102.120.18:8000/play/a063/index.m3u8
 
 
 #EXTINF:-1 tvg-id="b80579f2-22d3-4b12-881e-60139810a791" tvg-name="Goldmines Bollywood" tvg-logo="https://s3.aynaott.com/storage/d9a0314f5f9165176f492db3923709bd" group-title="Hindi",Goldmines Bollywood
@@ -217,21 +225,34 @@ http://dhoomtv.xyz///live/8zpo3GsVY7/beneficial2concern/34156.ts
 #EXTM3U
 #EXTINF:-1 tvg-name="Hum TV" tvg-logo="https://w7.pngwing.com/pngs/75/199/png-transparent-pakistan-hum-tv-television-channel-drama-hum-television-text-logo-thumbnail.png" group-title="PK DRAMA",HUM TV
 http://45.148.145.57/PAK_HUMTVG/index.m3u8
-#EXTINF:-1 tvg-logo="https://w7.pngwing.com/pngs/75/199/png-transparent-pakistan-hum-tv-television-channel-drama-hum-television-text-logo-thumbnail.png" group-title="PK DRAMA",HUM TV (Europe)
+#EXTINF:-1 tvg-logo="ng" group-title="PK DRAMA",GEO KHAHANI
+http://66.102.120.18:8000/play/a062/index.m3u8
+
+
+
+#EXTINF:-1, EXPRESS HD
+http://66.102.120.18:8000/play/a054/index.m3u8
+#EXTINF:-1,HUM MASALA
+http://66.102.120.18:8000/play/a059/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://cdn.imgbin.com/24/4/24/imgbin-pakistan-television-channel-geo-tv-national-geographic-others-5JCuzUhQ3GHMUnNZ0ycbEhaWk.jpg" group-title="PK DRAMA",Geo Entertainment
 https://jk3lz82elw79-hls-live.5centscdn.com/harPalGeo/955ad3298db330b5ee880c2c9e6f23a0.sdp/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://images.seeklogo.com/logo-png/61/1/green-entertainment-tv-logo-png_seeklogo-616407.png" group-title="PK DRAMA",Green Entertainment
 https://ml-pull-dvc-myco.io:2096/GREEN_ENTERTAINMENT/index.m3u8
 #EXTINF:-1 tvg-id="arydigital.pk" tvg-logo="http://tv.fusion4k.cc/stalker_portal/misc/logos/320/5523.png" tvg-name="ARY DIGITAL BK" group-title="URDU | TV",ARY DIGITAL BK
-http://dhoomtv.xyz///live/8zpo3GsVY7/beneficial2concern/124.ts
+http://66.102.120.18:8000/play/a030/index.m3u8
+#EXTINF:-1,&FILX HD
+http://66.102.120.18:8000/play/a022/index.m3u8
+
 #EXTINF:-1 tvg-id="77" group-title="Movies" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1739965013824.png",Jalsha Movies 
 https://stalker.tnm3us.workers.dev/66798.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTGqiOBYecrK6JrYC4gq5t-ISoacG6TC15kxA&s" group-title="KOLKATA", Jalsha Movies HD
 #https://dhoomtv.xyz:443/live/8zpo3GsVY7/beneficial2concern/98884.ts
 https://cdn-tamp.vercel.app/Kalkata/AR/Live_Stream/Star-Jalsha-Movies-Bangla/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Shakil1294/pcv/main/logo/star_gold2_hd.png" group-title="HINDI",Star Gold 2 HD
-http://dhoomtv.xyz///live/8zpo3GsVY7/beneficial2concern/157081.ts
+#http://dhoomtv.xyz///live/8zpo3GsVY7/beneficial2concern/157081.ts
+http://66.102.120.18:8000/play/a077/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Shakil1294/pcv/main/logo/star_gold_select_hd.png" group-title="HINDI",Star Gold Select HD
 #http://66.102.120.18:8000/play/a01s/index.m3u8
 http://dhoomtv.xyz///live/8zpo3GsVY7/beneficial2concern/9376.ts
@@ -242,11 +263,11 @@ http://87.255.35.150:18859/
 #EXTINF:-1 tvg-logo="https://smartads.in/resources/assets/uploads/product_group/television/star--bharat-hd.jpg" group-title="HINDI",Star Bharat HD
 http://dhoomtv.xyz///live/8zpo3GsVY7/beneficial2concern/9367.ts
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Shakil1294/pcv/main/logo/star_movies_hd.png" group-title="ENGLISH",Star Movies HD
-#http://66.102.120.18:8000/play/a021/index.m3u8
-http://dhoomtv.xyz///live/8zpo3GsVY7/beneficial2concern/98842.ts
+http://66.102.120.18:8000/play/a021/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/vijay-iptv/logos/refs/heads/main/Star_Movies_Select_HD.png" group-title="Airtel | Tamil",Star Movies Select HD
-#http://66.102.120.18:8000/play/a020/index.m3u8
-http://dhoomtv.xyz///live/8zpo3GsVY7/beneficial2concern/98843.ts
+http://66.102.120.18:8000/play/a020/index.m3u8
+
 #EXTINF:-1 tvg-id="colorscineplexbollywood" tvg-logo="https://live.dinesh29.com.np/logos/jiotvplus/colorscineplexbollywood.png" group-title="Movies",Colors Cineplex Bollywood
 #http://66.102.120.18:8000/play/a01a/index.m3u8
 http://103.140.254.2:3500/live/1763.m3u8
@@ -277,8 +298,8 @@ http://dhoomtv.xyz///live/8zpo3GsVY7/beneficial2concern/4077.ts
 #https://nxtlive.net/sliv/stream.m3u8?id=1000009258|Referer=https://nxtlive.net/sliv/stream.m3u8?id=1000009258
 http://dhoomtv.xyz///live/8zpo3GsVY7/beneficial2concern/98846.ts
 #EXTINF:-1 tvg-logo="https://www.sonypicturesnetworks.com/images/logos/Sony_MAX-HD_WHITE.png" group-title="HINDI", Sony Max HD
-#https://nxtlive.net/sliv/stream.m3u8?id=1000009247|Referer=https://nxtlive.net/sliv/stream.m3u8?id=1000009247
-http://dhoomtv.xyz///live/8zpo3GsVY7/beneficial2concern/98857.ts
+http://66.102.120.18:8000/play/a071/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://brand-websites-prod.s3.ap-south-1.amazonaws.com/sonypix-live/pix_images/logo/6_7791.jpg" group-title="HINDI", Sony Pal
 #https://nxtlive.net/sliv/stream.m3u8?id=1000009273|Referer=https://nxtlive.net/sliv/stream.m3u8?id=1000009273
 http://dhoomtv.xyz///live/8zpo3GsVY7/beneficial2concern/6627.ts
@@ -309,6 +330,9 @@ http://dhoomtv.xyz///live/8zpo3GsVY7/beneficial2concern/970.ts
 https://tvsen6.aynaott.com/ZeeBanglaCinema/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1, ZEE CAFE HD
 http://66.102.120.18:8000/play/a076/index.m3u8
+#EXTINF:-1,&EXPLOR HD
+http://66.102.120.18:8000/play/a012/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/ea/Enterr10_Bangla.jpeg/200px-Enterr10_Bangla.jpeg" group-title="Indian-Bangla",TARA BANGLA CINEMA
 http://103.145.48.150:90/laosat24/taratv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/bn/c/c1/%E0%A6%96%E0%A7%81%E0%A6%B6%E0%A6%AC%E0%A7%81_%E0%A6%AC%E0%A6%BE%E0%A6%82%E0%A6%B2%E0%A6%BE_%E0%A6%9F%E0%A7%87%E0%A6%B2%E0%A6%BF%E0%A6%AD%E0%A6%BF%E0%A6%B6%E0%A6%A8_%E0%A6%9A%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%A8%E0%A7%87%E0%A6%B2%E0%A7%87%E0%A6%B0_%E0%A6%B2%E0%A7%8B%E0%A6%97%E0%A7%8B.jpeg" group-title="AynaOTT - IN Bangla",Khushboo
@@ -319,6 +343,9 @@ https://tvsen6.aynaott.com/ColorsBangla/index.m3u8
 #http://103.140.254.2:3500/live/144.m3u8
 https://tvsen6.aynaott.com/ColorsHD/index.m3u8
 
+
+#EXTINF:-1, COLORS INFINITY HD
+http://66.102.120.18:8000/play/a014/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Sangeet_Bangla_Logo_%282025%29.png/970px-Sangeet_Bangla_Logo_%282025%29.png" group-title="AynaOTT - Indian ENT",Sangeet Bangla
 #https://tvsen6.aynaott.com/SangeetBangla/index.m3u8
@@ -459,7 +486,8 @@ https://ndtv24x7elemarchana.akamaized.net/hls/live/2003678/ndtv24x7/master.m3u8
 #EXTINF:-1 tvg-logo="" group-title="NEWS INTERNASIONAL" tvg-logo="https://i.imgur.com/ldXaLJK.png",NDTV Hindi
 https://ndtvindiaelemarchana.akamaized.net/hls/live/2003679/ndtvindia/master.m3u8
 
-
+#EXTINF:-1,DISNEP INTERNATIONAL HD
+http://66.102.120.18:8000/play/a078/index.m3u8
 
 
 
