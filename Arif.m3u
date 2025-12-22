@@ -136,7 +136,15 @@ http://163.61.227.29:8000/play/a062/index.m3u8
 #http://66.102.120.18:8000/play/a00d/index.m3u8
 http://dhoomtv.xyz///live/8zpo3GsVY7/beneficial2concern/98.ts
 #EXTINF:-1, STAR SPORTS KHEL
-http://dhoomtv.xyz///live/8zpo3GsVY7/beneficial2concern/612020.ts
+#http://dhoomtv.xyz///live/8zpo3GsVY7/beneficial2concern/612020.ts
+http://103.140.254.2:3500/live/1998.m3u8
+
+#EXTINF:-1,STAR SPORTS 2 HINDI SD
+http://103.140.254.2:3500/live/1985.m3u8
+
+#EXTINF:-1,EUROSPORT
+http://103.140.254.2:3500/live/875.m3u8
+
 #EXTINF:-1 tvg-id="1033" tvg-logo="https://live.dinesh29.com.np/logos/tataplay/starsports2hindihd.png" group-title="Sports",Star Sports 2 Hindi HD
 #http://dhoomtv.xyz///live/8zpo3GsVY7/beneficial2concern/213049.ts
 #http://163.61.227.29:8000/play/a012/index.m3u8
@@ -195,7 +203,10 @@ https://tvsen6.aynaott.com/9X_Tashan/index.m3u8
 http://dhoomtv.xyz///live/8zpo3GsVY7/beneficial2concern/7258.ts
 #EXTINF:-1 tvg-id="47b010b6-9296-4e7f-9cfa-284e020a8984" tvg-name="B4U Movies India" tvg-logo="https://s3.aynaott.com/storage/0e9aa42713fcb1abb4b54219666e7d38" group-title="Hindi",B4U Movies India
 #https://tvsen7.aynaott.com/B4U_Movies_India/index.m3u8?e=1753741247&u=9a031201-22d8-4f7e-9516-7d246a8fedc3&token=ca16230f49f02dde564d4f22f9f784b5
-https://cdnb4u.wiseplayout.com/B4U_Movies/HD1080/HD1080.m3u8
+#https://cdnb4u.wiseplayout.com/B4U_Movies/HD1080/HD1080.m3u8
+http://103.140.254.2:3500/live/182.m3u8
+
+
 #EXTINF:-1 tvg-id="b80579f2-22d3-4b12-881e-60139810a791" tvg-name="Goldmines Bollywood" tvg-logo="https://s3.aynaott.com/storage/d9a0314f5f9165176f492db3923709bd" group-title="Hindi",Goldmines Bollywood
 #https://tvsen6.aynaott.com/GoldminesBollywood/tracks-v1a1/mono.ts.m3u8
 http://dhoomtv.xyz///live/8zpo3GsVY7/beneficial2concern/355478.ts
@@ -237,14 +248,21 @@ http://dhoomtv.xyz///live/8zpo3GsVY7/beneficial2concern/98842.ts
 #http://66.102.120.18:8000/play/a020/index.m3u8
 http://dhoomtv.xyz///live/8zpo3GsVY7/beneficial2concern/98843.ts
 #EXTINF:-1 tvg-id="colorscineplexbollywood" tvg-logo="https://live.dinesh29.com.np/logos/jiotvplus/colorscineplexbollywood.png" group-title="Movies",Colors Cineplex Bollywood
-http://66.102.120.18:8000/play/a01a/index.m3u8
+#http://66.102.120.18:8000/play/a01a/index.m3u8
+http://103.140.254.2:3500/live/1763.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Colors_Rishtey_logo.png/1200px-Colors_Rishtey_logo.png" group-title="HINDI", COLORS RISHTEY
 http://dhoomtv.xyz///live/8zpo3GsVY7/beneficial2concern/241.ts
 #EXTINF:-1 tvg-logo="https://i.ibb.co/NF5M3vk/20240803-164348.png" group-title="KOLKATA",Colors Bangla Cinema
 https://dhoomtv.xyz:443/live/8zpo3GsVY7/beneficial2concern/271038.ts
 #EXTINF:-1 tvg-logo="https://i.ibb.co/h7T6MCW/20240803-110652.png" group-title="HINDI", COLORS CINEPLEX HD
-#http://66.102.120.18:8000/play/a06z/index.m3u8
-http://dhoomtv.xyz///live/8zpo3GsVY7/beneficial2concern/98908.ts
+#http://dhoomtv.xyz///live/8zpo3GsVY7/beneficial2concern/98908.ts
+http://103.140.254.2:3500/live/1477.m3u8
+#EXTINF:-1, COLORS CINEPLEX
+http://103.140.254.2:3500/live/482.m3u8
+
+#EXTINF:-1, COLORS SUPERHITS
+http://103.140.254.2:3500/live/1450.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/4WFgUYW.png" group-title="HINDI", COLORS CINEPLEX SUPERHIT
 http://dhoomtv.xyz///live/8zpo3GsVY7/beneficial2concern/172368.ts
 #EXTINF:-1,MBC BOLLYWOOD
@@ -298,7 +316,10 @@ https://tvsen6.aynaott.com/Khushboo/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Colors_Bangla.png/352px-Colors_Bangla.png" group-title="AynaOTT - IN Bangla",Colors Bangla
 https://tvsen6.aynaott.com/ColorsBangla/index.m3u8
 #EXTINF:-1 tvg-logo="https://wallpapers.com/images/high/colors-tv-logo-7meur4bah5m7mm8i.webp" group-title="AynaOTT - Indian ENT",Colors HD
+#http://103.140.254.2:3500/live/144.m3u8
 https://tvsen6.aynaott.com/ColorsHD/index.m3u8
+
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Sangeet_Bangla_Logo_%282025%29.png/970px-Sangeet_Bangla_Logo_%282025%29.png" group-title="AynaOTT - Indian ENT",Sangeet Bangla
 #https://tvsen6.aynaott.com/SangeetBangla/index.m3u8
 http://dhoomtv.xyz///live/8zpo3GsVY7/beneficial2concern/405.ts
@@ -309,6 +330,12 @@ http://dhoomtv.xyz///live/8zpo3GsVY7/beneficial2concern/66162.ts
 #EXTINF:-1 tvg-id="disney-channel" tvg-logo="https://live.dinesh29.com.np/logos/disney-channel.png" group-title="Kids",Disney Channel
 #http://66.102.120.18:8000/play/a013/index.m3u8
 http://dhoomtv.xyz///live/8zpo3GsVY7/beneficial2concern/19741.ts
+#EXTINF:-1,POGO
+http://103.140.254.2:3500/live/559.m3u8
+#EXTINF:-1,SONIC
+http://103.140.254.2:3500/live/815.m3u8
+#EXTINF:-1, CARTOON NETWORK
+http://103.140.254.2:3500/live/816.m3u8
 #EXTINF:-1,ETV BAL BHARAT
 http://dhoomtv.xyz///live/8zpo3GsVY7/beneficial2concern/355286.ts
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Shakil1294/pcv/main/logo/History_TV18_HD.png" group-title="Documentary",History TV18 HD HINDI
@@ -326,7 +353,9 @@ http://dhoomtv.xyz///live/8zpo3GsVY7/beneficial2concern/98874.ts
 http://dhoomtv.xyz///live/8zpo3GsVY7/beneficial2concern/20622.ts
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Shakil1294/pcv/main/logo/Nick.png" group-title="Cartoon",Nick
 #https://xfireflix.fun/playlist/bdix-playlist/Nick.m3u8
-http://66.102.120.18:8000/play/a00w/index.m3u8
+#http://66.102.120.18:8000/play/a00w/index.m3u8
+http://103.140.254.2:3500/live/545.m3u8
+
 #EXTINF:-1 tvg-id="202995ff-6d89-4f7e-9bcb-ab36cf530a17" tvg-name="Quran" tvg-logo="https://s3.aynaott.com/storage/35088d7015b1509b2c9cbc94503d5a6e" group-title="Religious",Quran
 https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/makkah.stream/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="feb40b2a-e10d-45d2-9e89-786f7d29ab2c" tvg-name="SUNNAH" tvg-logo="https://s3.aynaott.com/storage/965c0999ab09ebcf1c9f5803c8309460" group-title="Religious",SUNNAH
@@ -429,6 +458,7 @@ https://indiatodaylive.akamaized.net/hls/live/2014320/indiatoday/indiatodaylive/
 https://ndtv24x7elemarchana.akamaized.net/hls/live/2003678/ndtv24x7/master.m3u8
 #EXTINF:-1 tvg-logo="" group-title="NEWS INTERNASIONAL" tvg-logo="https://i.imgur.com/ldXaLJK.png",NDTV Hindi
 https://ndtvindiaelemarchana.akamaized.net/hls/live/2003679/ndtvindia/master.m3u8
+
 
 
 
