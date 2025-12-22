@@ -368,7 +368,7 @@ http://dhoomtv.xyz///live/8zpo3GsVY7/beneficial2concern/355286.ts
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Shakil1294/pcv/main/logo/History_TV18_HD.png" group-title="Documentary",History TV18 HD HINDI
 http://dhoomtv.xyz///live/8zpo3GsVY7/beneficial2concern/98877.ts
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Shakil1294/pcv/main/logo/Animal_Planet.png" group-title="Documentary",Animal Planet HD (ENG)
-http://dhoomtv.xyz///live/8zpo3GsVY7/beneficial2concern/98873.ts
+http://66.102.120.18:8000/play/a001/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/m61hzPR/20240803-101724.png" group-title="DOCUMENTORY", DISCOVERY বাংলা
 #https://mexum.vercel.app/restream/hls/discovery_bengali.m3u8
 http://dhoomtv.xyz///live/8zpo3GsVY7/beneficial2concern/98872.ts
@@ -488,6 +488,7 @@ https://ndtvindiaelemarchana.akamaized.net/hls/live/2003679/ndtvindia/master.m3u
 
 #EXTINF:-1,DISNEP INTERNATIONAL HD
 http://66.102.120.18:8000/play/a078/index.m3u8
+
 
 
 
