@@ -4,8 +4,8 @@ https://live-en.aisports.cc/moviebox/device01/playlist.m3u8
 
 #EXTINF:-1,BBL LIVE
 http://7igyx9fm.ukminlt.org/iptv/QV9B3Q26PP49RMV53WP4A7FT/19146/index.m3u8
-
-
+#EXTINF:-1,BBL LIVE
+http://7igyx9fm.ukminlt.org/iptv/QV9B3Q26PP49RMV53WP4A7FT/9258/index.m3u8
 
 #EXTINF:-1,MADANI CHANNEL URDU
 http://163.61.227.29:8000/play/a02j/index.m3u8
@@ -494,6 +494,7 @@ https://ndtvindiaelemarchana.akamaized.net/hls/live/2003679/ndtvindia/master.m3u
 
 #EXTINF:-1,DISNEP INTERNATIONAL HD
 http://66.102.120.18:8000/play/a078/index.m3u8
+
 
 
 
