@@ -5,7 +5,9 @@ https://live-en.aisports.cc/moviebox/device01/playlist.m3u8
 #EXTINF:-1,BBL LIVE
 http://7igyx9fm.ukminlt.org/iptv/QV9B3Q26PP49RMV53WP4A7FT/19146/index.m3u8
 #EXTINF:-1,BBL LIVE
-http://7igyx9fm.ukminlt.org/iptv/QV9B3Q26PP49RMV53WP4A7FT/9258/index.m3u8
+#http://7igyx9fm.ukminlt.org/iptv/QV9B3Q26PP49RMV53WP4A7FT/9258/index.m3u8
+http://178.33.239.54:8080/503/index.m3u8
+
 
 #EXTINF:-1,MADANI CHANNEL URDU
 http://163.61.227.29:8000/play/a02j/index.m3u8
@@ -431,20 +433,29 @@ http://dhoomtv.xyz///live/8zpo3GsVY7/beneficial2concern/122413.ts
 http://dhoomtv.xyz///live/8zpo3GsVY7/beneficial2concern/122414.ts
 #EXTINF:-1 group-title="UK - Sports" tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/320/140/skychb1306.png",UK | Sky Sports F1
 #http://kstv.us:8080/live/carloskiu/4461542986/47865.m3u8
-http://dhoomtv.xyz///live/8zpo3GsVY7/beneficial2concern/122181.ts
+http://178.33.239.54:8080/508/index.m3u8
 #EXTINF:-1 group-title="UK - Sports" tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/320/140/skychb3838.png",UK | Sky Sports Football
-http://dhoomtv.xyz///live/8zpo3GsVY7/beneficial2concern/23334.ts
+#http://dhoomtv.xyz///live/8zpo3GsVY7/beneficial2concern/23334.ts
+http://178.33.239.54:8080/500/index.m3u8
+
 #EXTINF:-1 group-title="UK - Sports" tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/320/140/skychb1322.png",UK | Sky Sports GOLF
 http://dhoomtv.xyz///live/8zpo3GsVY7/beneficial2concern/11.ts
 #EXTINF:-1 group-title="UK - Sports" tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/320/140/skychb1301.png",UK | Sky Sports Main Event
 #http://kstv.us:8080/live/carloskiu/4461542986/47868.m3u8
 http://dhoomtv.xyz///live/8zpo3GsVY7/beneficial2concern/122409.ts
 #EXTINF:-1 group-title="UK - Sports" tvg-logo="https://imgu.rs/i/TNTSports/TNT1.png",UK | TNT Sports 1
-http://kstv.us:8080/live/carloskiu/4461542986/47850.m3u8
+#http://kstv.us:8080/live/carloskiu/4461542986/47850.m3u8
+http://178.33.239.54:8080/509/index.m3u8
+
+
 #EXTINF:-1 group-title="UK - Sports" tvg-logo="https://imgu.rs/i/TNTSports/TNT2.png",UK | TNT Sports 2
-http://kstv.us:8080/live/carloskiu/4461542986/47851.m3u8
+#http://kstv.us:8080/live/carloskiu/4461542986/47851.m3u8
+http://178.33.239.54:8080/510/index.m3u8
+
 #EXTINF:-1 group-title="UK - Sports" tvg-logo="https://imgu.rs/i/TNTSports/TNT3.png",UK | TNT Sports 3
-http://kstv.us:8080/live/carloskiu/4461542986/47852.m3u8
+#http://kstv.us:8080/live/carloskiu/4461542986/47852.m3u8
+http://178.33.239.54:8080/511/index.m3u8
+
 #EXTINF:-1 group-title="UK - Sports" tvg-logo="https://imgu.rs/i/TNTSports/TNT4.png",UK | TNT Sports 4
 http://kstv.us:8080/live/carloskiu/4461542986/47853.m3u8
 #EXTINF:-1 group-title="UK - Sports" tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/320/240/skychb4091.png",UK | Sky Sports Mix
@@ -455,7 +466,9 @@ http://dhoomtv.xyz///live/8zpo3GsVY7/beneficial2concern/148684.ts
 http://kstv.us:8080/live/carloskiu/4461542986/47870.m3u8
 #EXTINF:-1 group-title="UK - Sports" tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/320/140/skychb1333.png",UK | Sky Sports Premier League
 #http://kstv.us:8080/live/carloskiu/4461542986/47871.m3u8
-http://dhoomtv.xyz///live/8zpo3GsVY7/beneficial2concern/9891.ts
+http://178.33.239.54:8080/506/index.m3u8
+
+
 #EXTINF:-1 group-title="UK - Sports" tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/320/140/skychb1354.png",UK | Sky Sports Racing
 #http://kstv.us:8080/live/carloskiu/4461542986/47872.m3u8
 http://dhoomtv.xyz///live/8zpo3GsVY7/beneficial2concern/122415.ts
@@ -492,6 +505,7 @@ https://ndtvindiaelemarchana.akamaized.net/hls/live/2003679/ndtvindia/master.m3u
 
 #EXTINF:-1,DISNEP INTERNATIONAL HD
 http://66.102.120.18:8000/play/a078/index.m3u8
+
 
 
 
