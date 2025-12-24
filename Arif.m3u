@@ -138,8 +138,8 @@ http://87.255.35.150:18848/
 #http://dhoomtv.xyz///live/8zpo3GsVY7/beneficial2concern/176.ts
 http://66.102.120.18:8000/play/a010/index.m3u8
 #EXTINF:-1 group-title="Sports Auto Update" tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/runded/1-by-xfireflix.png",Star Sports 1 Hindi
-#http://66.102.120.18:8000/play/a072/index.m3u8
-https://starsportshindiii.pages.dev/index.m3u8
+http://66.102.120.18:8000/play/a072/index.m3u8
+
 
 #EXTINF:-1,TEN SPORTS HD
 http://66.102.120.18:8000/play/a018/index.m3u8
@@ -505,6 +505,7 @@ https://ndtvindiaelemarchana.akamaized.net/hls/live/2003679/ndtvindia/master.m3u
 
 #EXTINF:-1,DISNEP INTERNATIONAL HD
 http://66.102.120.18:8000/play/a078/index.m3u8
+
 
 
 
