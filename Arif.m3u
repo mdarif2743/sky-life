@@ -136,27 +136,26 @@ http://87.255.35.150:18848/
 #http://dhoomtv.xyz///live/8zpo3GsVY7/beneficial2concern/176.ts
 http://66.102.120.18:8000/play/a010/index.m3u8
 #EXTINF:-1 group-title="Sports Auto Update" tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/runded/1-by-xfireflix.png",Star Sports 1 Hindi
-#http://dhoomtv.xyz///live/8zpo3GsVY7/beneficial2concern/9399.ts
-http://66.102.120.18:8000/play/a072/index.m3u8
-
+#http://66.102.120.18:8000/play/a072/index.m3u8
+https://starsportshindiii.pages.dev/index.m3u8
 
 #EXTINF:-1,TEN SPORTS HD
 http://66.102.120.18:8000/play/a018/index.m3u8
 
 #EXTINF:-1, STAR SPORTS KHEL
-#http://dhoomtv.xyz///live/8zpo3GsVY7/beneficial2concern/612020.ts
-http://103.140.254.2:3500/live/1998.m3u8
+http://dhoomtv.xyz///live/8zpo3GsVY7/beneficial2concern/612020.ts
+
 
 #EXTINF:-1,STAR SPORTS 2 HINDI SD
-http://103.140.254.2:3500/live/1985.m3u8
+
 
 #EXTINF:-1,EUROSPORT
-http://103.140.254.2:3500/live/875.m3u8
+
 
 #EXTINF:-1 tvg-id="1033" tvg-logo="https://live.dinesh29.com.np/logos/tataplay/starsports2hindihd.png" group-title="Sports",Star Sports 2 Hindi HD
 #http://dhoomtv.xyz///live/8zpo3GsVY7/beneficial2concern/213049.ts
-#http://163.61.227.29:8000/play/a012/index.m3u8
-http://103.140.254.2:3500/live/1984.m3u8
+http://163.61.227.29:8000/play/a012/index.m3u8
+
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSP8j8Vc_lguK13yQO9X3u_hvSXI2kmnJAywg&s" group-title="Xfireflix",Star Sports 3
 http://dhoomtv.xyz///live/8zpo3GsVY7/beneficial2concern/1080.ts
@@ -275,20 +274,19 @@ http://66.102.120.18:8000/play/a021/index.m3u8
 http://66.102.120.18:8000/play/a020/index.m3u8
 
 #EXTINF:-1 tvg-id="colorscineplexbollywood" tvg-logo="https://live.dinesh29.com.np/logos/jiotvplus/colorscineplexbollywood.png" group-title="Movies",Colors Cineplex Bollywood
-#http://66.102.120.18:8000/play/a01a/index.m3u8
-http://103.140.254.2:3500/live/1763.m3u8
+http://66.102.120.18:8000/play/a01a/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Colors_Rishtey_logo.png/1200px-Colors_Rishtey_logo.png" group-title="HINDI", COLORS RISHTEY
 http://dhoomtv.xyz///live/8zpo3GsVY7/beneficial2concern/241.ts
 #EXTINF:-1 tvg-logo="https://i.ibb.co/NF5M3vk/20240803-164348.png" group-title="KOLKATA",Colors Bangla Cinema
 https://dhoomtv.xyz:443/live/8zpo3GsVY7/beneficial2concern/271038.ts
 #EXTINF:-1 tvg-logo="https://i.ibb.co/h7T6MCW/20240803-110652.png" group-title="HINDI", COLORS CINEPLEX HD
-#http://dhoomtv.xyz///live/8zpo3GsVY7/beneficial2concern/98908.ts
-http://103.140.254.2:3500/live/1477.m3u8
-#EXTINF:-1, COLORS CINEPLEX
-http://103.140.254.2:3500/live/482.m3u8
+http://dhoomtv.xyz///live/8zpo3GsVY7/beneficial2concern/98908.ts
 
-#EXTINF:-1, COLORS SUPERHITS
-http://103.140.254.2:3500/live/1450.m3u8
+#EXTINF:-1, COLORS CINEPLEX
+
+
+
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/4WFgUYW.png" group-title="HINDI", COLORS CINEPLEX SUPERHIT
 http://dhoomtv.xyz///live/8zpo3GsVY7/beneficial2concern/172368.ts
@@ -494,6 +492,7 @@ https://ndtvindiaelemarchana.akamaized.net/hls/live/2003679/ndtvindia/master.m3u
 
 #EXTINF:-1,DISNEP INTERNATIONAL HD
 http://66.102.120.18:8000/play/a078/index.m3u8
+
 
 
 
