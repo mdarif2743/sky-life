@@ -1,266 +1,181 @@
-#EXTINF:-1 tvg-logo="https://ottking.top/app/uploads/tv_image/1live.png" group-title="BDIX TV",LIVE
-http://103.112.62.111:80/play/n5so6d1haGfCinuCaFUXHmgSiT8v2PQQqUTUSCWavCI/m3u8
 
-#EXTINF:-1 tvg-logo="https://ottking.top/app/uploads/tv_image/ipl-bangla.png" group-title="BDIX TV",IPL BANGLA
-http://103.112.62.111:80/play/n5so6d1haGfCinuCaFUXHttxTG4bANZW7zUQ_JlmUbM/m3u8
+#EXTINF:-1 tvg-logo="http://ftpbdlive.com/assets/images/BTV.png" group-title="SM BDIX",BTV
+http://180.94.28.28:8097//BTV/index.fmp4.m3u8?token=8e9616c21d1ce3454bb9171c3c68550574f121aa-12a55987e1a817f2a4c12b2cfa6c3b78-1776169971-1776166371&remote=no_check_ip
 
-#EXTINF:-1 tvg-logo="https://ottking.top/app/uploads/tv_image/t-sports.png" group-title="BDIX TV",T SPORTS
-http://103.112.62.111:80/play/n5so6d1haGfCinuCaFUXHmgSiT8v2PQQqUTUSCWavCI/m3u8
+#EXTINF:-1 tvg-logo="http://ftpbdlive.com/assets/images/Jamuna Tv.png" group-title="SM BDIX",Jamuna Tv
+http://180.94.28.28:8097//Jamuna-TV/index.fmp4.m3u8?token=f66e6595a1b2af73b05c754ee7628968068d9d89-7dd046e803e2399c98283ab8a0827538-1776169971-1776166371&remote=no_check_ip
 
-#EXTINF:-1 tvg-logo="https://ottking.top/app/uploads/tv_image/sony-ten-1.png" group-title="BDIX TV",SONY SPORTS TEN 1 HD
-http://103.112.62.111:80/play/n5so6d1haGfCinuCaFUXHh-UxB610FciBF1Tj_bGNKI/m3u8
+#EXTINF:-1 tvg-logo="http://ftpbdlive.com/assets/images/MAASRANGA TV HD.png" group-title="SM BDIX",MAASRANGA TV HD
+http://180.94.28.28:8097//Maasranga-tv/index.fmp4.m3u8?token=77e4c138fdd20cc2c5a122caf5c8c10a7a826cd3-f75393e951173bcadf796b7cbf5c8bef-1776169971-1776166371&remote=no_check_ip
 
-#EXTINF:-1 tvg-logo="https://ottking.top/app/uploads/tv_image/nagorik-tv.png" group-title="BDIX TV",NAGORIK TV
-http://103.112.62.111:80/play/n5so6d1haGfCinuCaFUXHgGF3Kt-wtQAHmegTeUK6ms/m3u8
+#EXTINF:-1 tvg-logo="http://ftpbdlive.com/assets/images/Nagorik TV .png" group-title="SM BDIX",Nagorik TV
+http://180.94.28.28:8097//Nagorik-TV/index.fmp4.m3u8?token=544f08111346de6231cb27cc5df8d732ef8cfd3a-09a292e51717f3456b187cfccec43169-1776169971-1776166371&remote=no_check_ip
 
-#EXTINF:-1 tvg-logo="https://ottking.top/app/uploads/tv_image/fancode.png" group-title="BDIX TV",FANCODE
-http://103.112.62.111:80/play/n5so6d1haGfCinuCaFUXHvT8fGGYNJtmzXP-uaQ-2Yg/m3u8
+#EXTINF:-1 tvg-logo="http://ftpbdlive.com/assets/images/Somoy TV.png" group-title="SM BDIX",Somoy TV
+http://180.94.28.28:8097//Somoy-TV/index.fmp4.m3u8?token=4fde3d8957e50f434586227e0235025478768f0e-ed9e7afca3040a69f8179bfff33845e0-1776169971-1776166371&remote=no_check_ip
 
-#EXTINF:-1 tvg-logo="https://ottking.top/app/uploads/tv_image/willow-hd-tv.png" group-title="BDIX TV",WILLOW TV
-http://103.112.62.111:80/play/n5so6d1haGfCinuCaFUXHvSSYAHFV1g0pFbOXu7GMJM/m3u8
+#EXTINF:-1 tvg-logo="http://ftpbdlive.com/assets/images/Gazi TV.png" group-title="SM BDIX",Gazi TV
+http://180.94.28.28:8097//GAZI-TV/index.fmp4.m3u8?token=400bcae797249d11b14d2d2d7c79f420be526c6c-ddb0dcf96098de24e09d7f9a9476072e-1776169971-1776166371&remote=no_check_ip
 
-#EXTINF:-1 tvg-logo="https://ottking.top/app/uploads/tv_image/star-sports-2.png" group-title="BDIX TV",STAR SPORTS 2
-http://103.112.62.111:80/play/n5so6d1haGfCinuCaFUXHohKF4H7nKD0n_EenyefoTE/m3u8
+#EXTINF:-1 tvg-logo="http://ftpbdlive.com/assets/images/Ekattur.png" group-title="SM BDIX",Ekattur
+http://180.94.28.28:8097//EKATTOR-TV/index.fmp4.m3u8?token=0d80c53c8d7a2e251432cfffe110b67fd4b8b606-c7914bdabf0e7814be276ff104f5d3ef-1776169971-1776166371&remote=no_check_ip
 
-#EXTINF:-1 tvg-logo="https://ottking.top/app/uploads/tv_image/star-sports-1.png" group-title="BDIX TV",STAR SPORTS 1
-http://103.112.62.111:80/play/n5so6d1haGfCinuCaFUXHuVlGRAaKYcIN0heTvETivU/m3u8
+#EXTINF:-1 tvg-logo="http://ftpbdlive.com/assets/images/Channel i .png" group-title="SM BDIX",Channel i
+http://180.94.28.28:8097//CHANNEL-i/index.fmp4.m3u8?token=edd3c5a4856fce1c8debb946340b0c1b7136c671-53d53c09b3f212c40bad1c86d5e2f087-1776169971-1776166371&remote=no_check_ip
 
-#EXTINF:-1 tvg-logo="https://ottking.top/app/uploads/tv_image/sony-8.png" group-title="BDIX TV",SONY AATH
-http://103.112.62.111:80/play/n5so6d1haGfCinuCaFUXHlBxumBQDxpSbB4cjkzCNPU/m3u8
+#EXTINF:-1 tvg-logo="http://ftpbdlive.com/assets/images/Channel 24 .png" group-title="SM BDIX",Channel 24
+http://180.94.28.28:8097//CHANNEL-24/index.fmp4.m3u8?token=3cf1ed172b24b2ddf480880795c5c49dd3bb2f03-b8bc5d5b81b61e912f1c7d6fc2a14073-1776169971-1776166371&remote=no_check_ip
 
-#EXTINF:-1 tvg-logo="https://ottking.top/app/uploads/tv_image/sun-বল.png" group-title="BDIX TV",SUN BANGLA HD
-http://103.112.62.111:80/play/n5so6d1haGfCinuCaFUXHnGf1-640ZKlGJmeX-ck5IM/m3u8
+#EXTINF:-1 tvg-logo="http://ftpbdlive.com/assets/images/Channel 9 .png" group-title="SM BDIX",Channel 9
+http://180.94.28.28:8097//CHANNEL-9/index.fmp4.m3u8?token=5584b50e79d470aeab64154d9164717cf5d244de-26c9120137659cadaecf27875bc1132b-1776169971-1776166371&remote=no_check_ip
 
-#EXTINF:-1 tvg-logo="https://ottking.top/app/uploads/tv_image/colors-bangla-hd.png" group-title="BDIX TV",COLORS BANGLA HD
-http://103.112.62.111:80/play/n5so6d1haGfCinuCaFUXHog106eTdeZlUqOfZiGX9NY/m3u8
+#EXTINF:-1 tvg-logo="http://ftpbdlive.com/assets/images/Deepto  TV .png" group-title="SM BDIX",Deepto  TV
+http://180.94.28.28:8097//DEEPTO-TV/index.fmp4.m3u8?token=5bee4ec31ea2d3ee32e609e6bbe58ae3375c0d59-be4243f7fda9d160de60366af4c15fc9-1776169971-1776166371&remote=no_check_ip
 
-#EXTINF:-1 tvg-logo="https://ottking.top/app/uploads/tv_image/enter-10-bangla.png" group-title="BDIX TV",ENTER 10 BANGLA
-http://103.112.62.111:80/play/n5so6d1haGfCinuCaFUXHlQ0ODBYjYnVaiGiWQ2Z3n8/m3u8
+#EXTINF:-1 tvg-logo="http://ftpbdlive.com/assets/images/DBC News.png" group-title="SM BDIX",DBC News
+http://180.94.28.28:8097//DBC-NEWS/index.fmp4.m3u8?token=f15be11ef838db5c35c8249c9ece7828167f4ea3-db47749f678d3ea3d45d0eeb8b45e56c-1776169971-1776166371&remote=no_check_ip
 
-#EXTINF:-1 tvg-logo="https://ottking.top/app/uploads/tv_image/জলস-movies-hd.png" group-title="BDIX TV",JALSHA MOVIES HD
-http://103.112.62.111:80/play/n5so6d1haGfCinuCaFUXHogFYqTR2G8EGiiWQCI5qxc/m3u8
+#EXTINF:-1 tvg-logo="http://ftpbdlive.com/assets/images/Independent TV.png" group-title="SM BDIX",Independent TV
+http://180.94.28.28:8097//Independent-TV/index.fmp4.m3u8?token=3cf561b8857223891e679bb51abb8258d108dbd2-2b04e13f44ea8f7763a64880cd8fa166-1776169971-1776166371&remote=no_check_ip
 
-#EXTINF:-1 tvg-logo="https://ottking.top/app/uploads/tv_image/zee-bangla-hd.png" group-title="BDIX TV",ZEE BANGLA HD
-http://103.112.62.111:80/play/n5so6d1haGfCinuCaFUXHiLve9iCFH17ZsxyFJZ6W6A/m3u8
+#EXTINF:-1 tvg-logo="http://ftpbdlive.com/assets/images/Rtv .png" group-title="SM BDIX",Rtv
+http://180.94.28.28:8097//RTV/index.fmp4.m3u8?token=3e67857b3a30b349cfcee04c568e522f823b1f98-97e413b19434555ee18530e886a6762f-1776169971-1776166371&remote=no_check_ip
 
-#EXTINF:-1 tvg-logo="https://ottking.top/app/uploads/tv_image/star-jalsha.jpg" group-title="BDIX TV",STAR JALSHA HD
-http://103.112.62.111:80/play/n5so6d1haGfCinuCaFUXHuIkoNYLkAeGEhRhH5SzfaE/m3u8
+#EXTINF:-1 tvg-logo="http://ftpbdlive.com/assets/images/Zee Bangla.png" group-title="SM BDIX",Zee Bangla
+http://180.94.28.28:8097//ZEE-BANGLA/index.fmp4.m3u8?token=f0e935f7ded22ca5ec138a8a1bdd0783c143f2f0-72abea8effadde408717c21c70ba02fa-1776169971-1776166371&remote=no_check_ip
 
-#EXTINF:-1 tvg-logo="https://ottking.top/app/uploads/tv_image/rtv.png" group-title="BDIX TV",RTV
-http://103.112.62.111:80/play/n5so6d1haGfCinuCaFUXHppCg_WOjbZZm7X3Ra7eVIQ/m3u8
+#EXTINF:-1 tvg-logo="http://ftpbdlive.com/assets/images/Star Jalsha.png" group-title="SM BDIX",Star Jalsha
+http://180.94.28.28:8097//STAR-JALSHA/index.fmp4.m3u8?token=eeaada9525f94e1ad69a2ecab3ce4e18e32e2966-ab0e7f5d5e47ac31007b7cd3f64b1811-1776169971-1776166371&remote=no_check_ip
 
-#EXTINF:-1 tvg-logo="https://ottking.top/app/uploads/tv_image/nexus-tv.png" group-title="BDIX TV",NEXUS TV
-http://103.112.62.111:80/play/n5so6d1haGfCinuCaFUXHg4UQVwo4IGaPuEu46D2RuI/m3u8
+#EXTINF:-1 tvg-logo="http://ftpbdlive.com/assets/images/Jalsha Movies.png" group-title="SM BDIX",Jalsha Movies
+http://180.94.28.28:8097//JALSHA-MOVIES/index.fmp4.m3u8?token=db2538fdd0d868b1f01d342ee7929f62a5083d97-7601b35e404354f1cb113317091539cf-1776169971-1776166371&remote=no_check_ip
 
-#EXTINF:-1 tvg-logo="https://ottking.top/app/uploads/tv_image/global-tv.png" group-title="BDIX TV",GLOBAL TV
-http://103.112.62.111:80/play/n5so6d1haGfCinuCaFUXHu26Bt-doJO37_xokMGRnAM/m3u8
+#EXTINF:-1 tvg-logo="http://ftpbdlive.com/assets/images/Enter 10 Bangla.png" group-title="SM BDIX",Enter 10 Bangla
+http://180.94.28.28:8097//ENTER-10-BANGLA/index.fmp4.m3u8?token=02eef7d9345d291f15522f1bc4669e0a9f6961f3-14561c859cf15d313dca958e04ccf510-1776169972-1776166372&remote=no_check_ip
 
-#EXTINF:-1 tvg-logo="https://ottking.top/app/uploads/tv_image/asian-tv.png" group-title="BDIX TV",ASIAN TV
-http://103.112.62.111:80/play/n5so6d1haGfCinuCaFUXHuArOQlM0VI5bBTiK5Ama5Q/m3u8
+#EXTINF:-1 tvg-logo="http://ftpbdlive.com/assets/images/Sony Aath.png" group-title="SM BDIX",Sony Aath
+http://180.94.28.28:8097//SONY-AATH/index.fmp4.m3u8?token=1da1361f5596113df8a71926e1d7831369938f93-dc2b512c88af04d4ed4ff9087e498efa-1776169972-1776166372&remote=no_check_ip
 
-#EXTINF:-1 tvg-logo="https://ottking.top/app/uploads/tv_image/bijoy-tv.png" group-title="BDIX TV",BIJOY TV
-http://103.112.62.111:80/play/n5so6d1haGfCinuCaFUXHmUVUj-HPb9QIt88-SgQBng/m3u8
+#EXTINF:-1 tvg-logo="http://ftpbdlive.com/assets/images/Colors Bangla.png" group-title="SM BDIX",Colors Bangla
+http://180.94.28.28:8097//COLORS-BANGLA/index.fmp4.m3u8?token=429a387b63ac8a32c732fefb835365ad92425ccc-92e5b67b31a4719886a661390e8c1554-1776169972-1776166372&remote=no_check_ip
 
-#EXTINF:-1 tvg-logo="https://ottking.top/app/uploads/tv_image/ananda-tv.png" group-title="BDIX TV",ANANDA TV
-http://103.112.62.111:80/play/n5so6d1haGfCinuCaFUXHqzWPsk1L-H_lguZdSgo8LU/m3u8
+#EXTINF:-1 tvg-logo="http://ftpbdlive.com/assets/images/Color Bangla Cinema.png" group-title="SM BDIX",Color Bangla Cinema
+http://180.94.28.28:8097//COLORS-BANGLA-CINEMA/index.fmp4.m3u8?token=8ca2733bb3561762a5d9763fd28feeb9d2d359f6-4d9200a87f58f150277d9239d8ed4039-1776169972-1776166372&remote=no_check_ip
 
-#EXTINF:-1 tvg-logo="https://ottking.top/app/uploads/tv_image/mohona-tv.png" group-title="BDIX TV",MOHONA TV
-http://103.112.62.111:80/play/n5so6d1haGfCinuCaFUXHqS6462sWaOLssve0aj2xbI/m3u8
+#EXTINF:-1 tvg-logo="http://ftpbdlive.com/assets/images/Sun Bangla.png" group-title="SM BDIX",Sun Bangla
+http://180.94.28.28:8097//SUN-BANGLA/index.fmp4.m3u8?token=ddf83cdff5d2a3215579fa2d1303886e18ab6d5c-749917c00731c4d6f44b52a2cfc14557-1776169972-1776166372&remote=no_check_ip
 
-#EXTINF:-1 tvg-logo="https://ottking.top/app/uploads/tv_image/bangla-tv.png" group-title="BDIX TV",BANGLA TV
-http://103.112.62.111:80/play/n5so6d1haGfCinuCaFUXHgcz6c2XooioeLu_Xl1JFdk/m3u8
+#EXTINF:-1 tvg-logo="http://ftpbdlive.com/assets/images/T Sports.png" group-title="SM BDIX",T Sports
+http://180.94.28.28:8097//T-Sports/index.fmp4.m3u8?token=a86bfb1e2a928aeee08fc0c58b11d209f70b23d3-b99a6977433e109d959eb367dc02d10c-1776169972-1776166372&remote=no_check_ip
 
-#EXTINF:-1 tvg-logo="https://ottking.top/app/uploads/tv_image/gazi-tv.png" group-title="BDIX TV",GAZI TV
-http://103.112.62.111:80/play/n5so6d1haGfCinuCaFUXHoVx89n4Ti3rolgqaANl8Gk/m3u8
+#EXTINF:-1 tvg-logo="http://ftpbdlive.com/assets/images/Bein Sports Xtra .png" group-title="SM BDIX",Bein Sports Xtra
+http://180.94.28.28:8097//BEIN-SPORTS-USA/index.fmp4.m3u8?token=5af85681ece27cf6ff75c8cf98011ed963cdc921-751d86c207c94b315329edd8befafe1f-1776169972-1776166372&remote=no_check_ip
 
-#EXTINF:-1 tvg-logo="https://ottking.top/app/uploads/tv_image/atn-bangla.png" group-title="BDIX TV",ATN BANGLA
-http://103.112.62.111:80/play/n5so6d1haGfCinuCaFUXHosVoyROcnU_X7VRt1zn80g/m3u8
+#EXTINF:-1 tvg-logo="http://ftpbdlive.com/assets/images/Star Sports 1 .png" group-title="SM BDIX",Star Sports 1
+http://180.94.28.28:8097//STAR-SPORTS-1/index.fmp4.m3u8?token=fb6ee95c5c3d1a20b3e8844dbb1fe46ead382667-d0a4cae4e9c0f0505ace1339c3cd5af8-1776169972-1776166372&remote=no_check_ip
 
-#EXTINF:-1 tvg-logo="https://ottking.top/app/uploads/tv_image/depto-tv.png" group-title="BDIX TV",DEEPTO TV HD
-http://103.112.62.111:80/play/n5so6d1haGfCinuCaFUXHh3EUWYtVKckUwvjbakFT78/m3u8
+#EXTINF:-1 tvg-logo="http://ftpbdlive.com/assets/images/Star Sports 2 .png" group-title="SM BDIX",Star Sports 2
+http://180.94.28.28:8097//Star-Sports-2/index.fmp4.m3u8?token=5613c684b847093e8f45b5020bb87a2d45678ad3-b3b82f2d9a0cf8f683c107c1683fe983-1776169972-1776166372&remote=no_check_ip
 
-#EXTINF:-1 tvg-logo="https://ottking.top/app/uploads/tv_image/sa-tv.png" group-title="BDIX TV",SATV HD
-http://103.112.62.111:80/play/n5so6d1haGfCinuCaFUXHuqIWbdx7c3qIaAwZsHR4NU/m3u8
+#EXTINF:-1 tvg-logo="http://ftpbdlive.com/assets/images/StarSports Select 1 .png" group-title="SM BDIX",StarSports Select 1
+http://180.94.28.28:8097//Star-Sports-Select-1/index.fmp4.m3u8?token=ed44e1cbf1d099b4fa3eeccba3ab15dba69d98fb-d5c78afb9e4abb2133d238d30eef57ff-1776169972-1776166372&remote=no_check_ip
 
-#EXTINF:-1 tvg-logo="https://ottking.top/app/uploads/tv_image/channel-i.png" group-title="BDIX TV",CHANNEL I HD
-http://103.112.62.111:80/play/n5so6d1haGfCinuCaFUXHtl2oMPmM5jMwVcx3VxaOHM/m3u8
+#EXTINF:-1 tvg-logo="http://ftpbdlive.com/assets/images/Star Sports Select 2 .png" group-title="SM BDIX",Star Sports Select 2
+http://180.94.28.28:8097//star-Sports-Select-2/index.fmp4.m3u8?token=b0d646cff7f63de4fde17ec1a1e5a01e5aea730b-6b45f5fc1d63c40458ac11a76b10b724-1776169972-1776166372&remote=no_check_ip
 
-#EXTINF:-1 tvg-logo="https://ottking.top/app/uploads/tv_image/bangla-vision.png" group-title="BDIX TV",BANGLA VISION
-http://103.112.62.111:80/play/n5so6d1haGfCinuCaFUXHvONVYsvFHgA40KcRnmBagM/m3u8
+#EXTINF:-1 tvg-logo="http://ftpbdlive.com/assets/images/Star Sports 3 .png" group-title="SM BDIX",Star Sports 3
+http://180.94.28.28:8097//Star-Sports-3/index.fmp4.m3u8?token=02a7a97c199f9688074f82699bdc3e4aa5e2a6c5-ad8d66b6ccc5ba553dfbfbeebed78a67-1776169972-1776166372&remote=no_check_ip
 
-#EXTINF:-1 tvg-logo="https://ottking.top/app/uploads/tv_image/ntv.png" group-title="BDIX TV",NTV
-http://103.112.62.111:80/play/n5so6d1haGfCinuCaFUXHqlBQNrpo5iSDC2DNEkrXGo/m3u8
+#EXTINF:-1 tvg-logo="http://ftpbdlive.com/assets/images/Sony Ten 1 HD.png" group-title="SM BDIX",Sony Ten 1 HD
+http://180.94.28.28:8097//Sony-Ten-1/index.fmp4.m3u8?token=e36ea0e67c5b2dac30bdbfd4d631f1506cf21aea-e97915c1c35a4d2d06d20640504d1c58-1776169972-1776166372&remote=no_check_ip
 
-#EXTINF:-1 tvg-logo="https://ottking.top/app/uploads/tv_image/btv-hd.png" group-title="BDIX TV",BTV
-http://103.112.62.111:80/play/n5so6d1haGfCinuCaFUXHl76lzKQFKpcwL_B1-PZEBo/m3u8
+#EXTINF:-1 tvg-logo="http://ftpbdlive.com/assets/images/Sony Ten 2 HD.png" group-title="SM BDIX",Sony Ten 2 HD
+http://180.94.28.28:8097//Sony-Ten-2/index.fmp4.m3u8?token=326328f15ca0d37a1595076d33dee5cf91778a06-2dfa3fb07e401745f484536a2cab6a5c-1776169972-1776166372&remote=no_check_ip
 
-#EXTINF:-1 tvg-logo="https://ottking.top/app/uploads/tv_image/ekhon-tv.png" group-title="BDIX TV",EKHON TV
-http://103.112.62.111:80/play/n5so6d1haGfCinuCaFUXHhEypigcAT25EEtDy_BZ5nM/m3u8
+#EXTINF:-1 tvg-logo="http://ftpbdlive.com/assets/images/Sony Ten 3 HD.png" group-title="SM BDIX",Sony Ten 3 HD
+http://180.94.28.28:8097//Sony-Ten-3/index.fmp4.m3u8?token=526f36c79f8180dd8daca779fc642c13669b3238-cf703a1bd89dcf07e7cb0fa4b566af8d-1776169972-1776166372&remote=no_check_ip
 
-#EXTINF:-1 tvg-logo="https://ottking.top/app/uploads/tv_image/desh-tv.png" group-title="BDIX TV",DESH TV
-http://103.112.62.111:80/play/n5so6d1haGfCinuCaFUXHsDTFttilK0phEumbUS7xEY/m3u8
+#EXTINF:-1 tvg-logo="http://ftpbdlive.com/assets/images/Sony Ten 5 HD.png" group-title="SM BDIX",Sony Ten 5 HD
+http://180.94.28.28:8097//Sony-Ten-5/index.fmp4.m3u8?token=a88b5a9fde25cedeb5f5cb8ca202a4754fe5b034-5499b22cfe75b04843bf08ac3a7c8988-1776169972-1776166372&remote=no_check_ip
 
-#EXTINF:-1 tvg-logo="https://ottking.top/app/uploads/tv_image/dbc-news.png" group-title="BDIX TV",DBC NEWS HD
-http://103.112.62.111:80/play/n5so6d1haGfCinuCaFUXHqHSl6DNuD2F-9xlgBKb9HU/m3u8
+#EXTINF:-1 tvg-logo="http://ftpbdlive.com/assets/images/PTV Sports.png" group-title="SM BDIX",PTV Sports
+http://180.94.28.28:8097//PTV-Sports/index.fmp4.m3u8?token=93bfc3e373ae64dfc86a2b064efcf164ab636f88-e915256d9d836a2b50774d2e1507e3b7-1776169972-1776166372&remote=no_check_ip
 
-#EXTINF:-1 tvg-logo="https://ottking.top/app/uploads/tv_image/atn-news.png" group-title="BDIX TV",ATN NEWS
-http://103.112.62.111:80/play/n5so6d1haGfCinuCaFUXHnABLU4jd1kVVUuxEjgtLzU/m3u8
 
-#EXTINF:-1 tvg-logo="https://ottking.top/app/uploads/tv_image/news-24.png" group-title="BDIX TV",NEWS 24 HD
-http://103.112.62.111:80/play/n5so6d1haGfCinuCaFUXHntT56yDr7ReY5A8Wd8xPzE/m3u8
+#EXTINF:-1 tvg-logo="http://ftpbdlive.com/assets/images/A Sports.png" group-title="SM BDIX",A Sports
+http://180.94.28.28:8097//A-Sports/index.fmp4.m3u8?token=665a0082a282ee8c3bca72d2397f4f804786e912-e28e29b2b0adcb34dcc735b4cad51009-1776169972-1776166372&remote=no_check_ip
 
-#EXTINF:-1 tvg-logo="https://ottking.top/app/uploads/tv_image/somoy-news.png" group-title="BDIX TV",SOMOY TV
-http://103.112.62.111:80/play/n5so6d1haGfCinuCaFUXHt7aXnQ93sdFqUcVKMa8QJI/m3u8
+#EXTINF:-1 tvg-logo="http://ftpbdlive.com/assets/images/Ten Sports.png" group-title="SM BDIX",Ten Sports
+http://180.94.28.28:8097//Ten-Sports/index.fmp4.m3u8?token=72ce4652a4e42932d26c89cdfaa936e4a6b6e600-bf2451f2e58e4fc6df9505fb8197d33d-1776169972-1776166372&remote=no_check_ip
 
-#EXTINF:-1 tvg-logo="https://ottking.top/app/uploads/tv_image/jamuna-tv.png" group-title="BDIX TV",JAMUNA TV
-http://103.112.62.111:80/play/n5so6d1haGfCinuCaFUXHpimKhR-hIb2LFRDp0WUGS0/m3u8
+#EXTINF:-1 tvg-logo="http://ftpbdlive.com/assets/images/ten cricket.png" group-title="SM BDIX",ten cricket
+http://180.94.28.28:8097//Ten-Cricket/index.fmp4.m3u8?token=fb1dd36dc35227732853816f05dc69adf7d95585-8dde7791632553859a25b18523140d53-1776169972-1776166372&remote=no_check_ip
 
-#EXTINF:-1 tvg-logo="https://ottking.top/app/uploads/tv_image/channel-9.png" group-title="BDIX TV",CHANNEL 9 HD
-http://103.112.62.111:80/play/n5so6d1haGfCinuCaFUXHp0ySDsabAW6OF3odNTlZ-A/m3u8
+#EXTINF:-1 tvg-logo="http://ftpbdlive.com/assets/images/SuperSportcricket.png" group-title="SM BDIX",SuperSportcricket
+http://180.94.28.28:8097//SUPERSPORT-CRICKET/index.fmp4.m3u8?token=9b6f76a20021940cfcfffb622ceec7a55eb367da-831be8e0c78ea5e531a5f0947c329250-1776169972-1776166372&remote=no_check_ip
 
-#EXTINF:-1 tvg-logo="https://ottking.top/app/uploads/tv_image/channel-24.png" group-title="BDIX TV",CHANNEL 24 HD
-http://103.112.62.111:80/play/n5so6d1haGfCinuCaFUXHrRM17vd2FO2sC6Tv5cI4Lw/m3u8
+#EXTINF:-1 tvg-logo="http://ftpbdlive.com/assets/images/SKY-SPORTS-CRICKET.png" group-title="SM BDIX",SKY-SPORTS-CRICKET
+http://180.94.28.28:8097//SKY-SPORTS-CRICKET/index.fmp4.m3u8?token=5d86b515f8a8ecd816ec325c3a85fbff1eaf6908-e590c66f54ad2e640f5e98fce1f1cec2-1776169972-1776166372&remote=no_check_ip
 
-#EXTINF:-1 tvg-logo="https://ottking.top/app/uploads/tv_image/ekatoor-tv.png" group-title="BDIX TV",EKATTOR HD
-http://103.112.62.111:80/play/n5so6d1haGfCinuCaFUXHkefo0PDiP7ZfPUftmlq6YY/m3u8
+#EXTINF:-1 tvg-logo="http://ftpbdlive.com/assets/images/WILLOW_SPORTS.png" group-title="SM BDIX",WILLOW_SPORTS
+http://180.94.28.28:8097//WILLOW-TV/index.fmp4.m3u8?token=6055d76fde871383221f98bb1dd55a0b96eca3f3-00a64a8486be06e5211e7b9fd64016f2-1776169972-1776166372&remote=no_check_ip
 
-#EXTINF:-1 tvg-logo="https://ottking.top/app/uploads/tv_image/independent-tv.png" group-title="BDIX TV",INDEPENDENT TV
-http://103.112.62.111:80/play/n5so6d1haGfCinuCaFUXHub--vxuEgL9iVpPdaKOL6o/m3u8
+#EXTINF:-1 tvg-logo="http://ftpbdlive.com/assets/images/BEIN-SPORTS-ARABIC.png" group-title="SM BDIX",BEIN-SPORTS-ARABIC
+http://180.94.28.28:8097//BEIN-SPORTS-ARABIC/index.fmp4.m3u8?token=919eb890a7c8d2ee3b314990a2bc9216e693006b-761f6117c043eec3da928690e74e7edb-1776169972-1776166372&remote=no_check_ip
 
-#EXTINF:-1 tvg-logo="https://ottking.top/app/uploads/tv_image/duranto-tv.png" group-title="BDIX TV",DURONTO TV
-http://103.112.62.111:80/play/n5so6d1haGfCinuCaFUXHhTiv1OlV1jscsCBc3HYhhU/m3u8
+#EXTINF:-1 tvg-logo="http://ftpbdlive.com/assets/images/BEIN-SPORTS-1-ENG.png" group-title="SM BDIX",BEIN-SPORTS-1-ENG
+http://180.94.28.28:8097//BEIN-SPORTS-1-ENG/index.fmp4.m3u8?token=101b413f9747e376a3ccb843671aa0e95823613c-de085e0ef7cc48f47932afa0e948ce19-1776169972-1776166372&remote=no_check_ip
 
-#EXTINF:-1 tvg-logo="https://ottking.top/app/uploads/tv_image/nick-bangla.png" group-title="BDIX TV",NICK BANGLA
-http://103.112.62.111:80/play/n5so6d1haGfCinuCaFUXHiyUbLW0XLKcGSzptoIPB84/m3u8
+#EXTINF:-1 tvg-logo="http://ftpbdlive.com/assets/images/BEIN-SPORTS-1.png" group-title="SM BDIX",BEIN-SPORTS-1
+http://180.94.28.28:8097//BEIN-SPORTS-1/index.fmp4.m3u8?token=5eab7ba95f3d335d26e3ad4491e9f668abb584ff-c1d3638421a0d5cda9d66463d271448c-1776169972-1776166372&remote=no_check_ip
 
-#EXTINF:-1 tvg-logo="https://ottking.top/app/uploads/tv_image/super-hungama.png" group-title="BDIX TV",SUPER HUNGAMA
-http://103.112.62.111:80/play/n5so6d1haGfCinuCaFUXHmOHyba_g7WRkUt4Kvkkouk/m3u8
+#EXTINF:-1 tvg-logo="http://ftpbdlive.com/assets/images/BEIN-SPORTS-2.png" group-title="SM BDIX",BEIN-SPORTS-2
+http://180.94.28.28:8097//BEIN-SPORTS-2/index.fmp4.m3u8?token=af10d2450bd50aa1384201fea7addb50ef7fa027-679308bb73fd47fb85eafa19a865f4ae-1776169972-1776166372&remote=no_check_ip
 
-#EXTINF:-1 tvg-logo="https://ottking.top/app/uploads/tv_image/pogo-tv.png" group-title="BDIX TV",POGO
-http://103.112.62.111:80/play/n5so6d1haGfCinuCaFUXHtHGuLvTv8KlIVpseilLGRI/m3u8
+#EXTINF:-1 tvg-logo="http://ftpbdlive.com/assets/images/BEIN-SPORTS-3.png" group-title="SM BDIX",BEIN-SPORTS-3
+http://180.94.28.28:8097//BEIN-SPORTS-3/index.fmp4.m3u8?token=3e077901acd7e621c65da4feea942cf4b625b7c5-e8dfb812be39a1e0afca013e8be03c92-1776169972-1776166372&remote=no_check_ip
 
-#EXTINF:-1 tvg-logo="https://ottking.top/app/uploads/tv_image/sony-yay-bangla.png" group-title="BDIX TV",SONY YAY
-http://103.112.62.111:80/play/n5so6d1haGfCinuCaFUXHs9yzkwC67MIp0F7xtfFTaw/m3u8
+#EXTINF:-1 tvg-logo="http://ftpbdlive.com/assets/images/GEO-SUPER.png" group-title="SM BDIX",GEO-SUPER
+http://180.94.28.28:8097//GEO-SUPER/index.fmp4.m3u8?token=f5b4ce67300b29e050ae700257a9374db940abf4-b061eaf4710e0580275735bbaf162439-1776169972-1776166372&remote=no_check_ip
 
-#EXTINF:-1 tvg-logo="https://ottking.top/app/uploads/tv_image/cartoon-network.png" group-title="BDIX TV",CARTOON NETWORK
-http://103.112.62.111:80/play/n5so6d1haGfCinuCaFUXHkWY1O6rYFwtTdRdWLwLvQc/m3u8
+#EXTINF:-1 tvg-logo="http://ftpbdlive.com/assets/images/ARENA-SPORTS-1.png" group-title="SM BDIX",ARENA-SPORTS-1
+http://180.94.28.28:8097//ARENA-SPORTS-1/index.fmp4.m3u8?token=c7c6f973817a81a0610ada735014774f9df45518-a639b079a52584c7e6307e9d014afdd9-1776169972-1776166372&remote=no_check_ip
 
-#EXTINF:-1 tvg-logo="https://ottking.top/app/uploads/tv_image/sony-sab-hd.png" group-title="BDIX TV",SONY SAB HD
-http://103.112.62.111:80/play/n5so6d1haGfCinuCaFUXHr4R_HOr-ALzbD45_N6rF4g/m3u8
+#EXTINF:-1 tvg-logo="http://ftpbdlive.com/assets/images/DAZN-1.png" group-title="SM BDIX",DAZN-1
+http://180.94.28.28:8097//DAZN-1/index.fmp4.m3u8?token=c55b2f7bc9be21a0b8e5d0ab8c25370c50f318b7-4ca8bd8aa3b17dfb3e541af1d9577e75-1776169972-1776166372&remote=no_check_ip
 
-#EXTINF:-1 tvg-logo="https://ottking.top/app/uploads/default_image/tv_thumbnail.jpg" group-title="BDIX TV",SONY BBC EARTH HD
-http://103.112.62.111:80/play/n5so6d1haGfCinuCaFUXHht6ok6aPB3qdietbkF4fr0/m3u8
+#EXTINF:-1 tvg-logo="http://ftpbdlive.com/assets/images/Star Plus.png" group-title="SM BDIX",Star Plus
+http://180.94.28.28:8097//STAR-PLUS/index.fmp4.m3u8?token=54ec691e0faaa50f8c844bf9ef53f00028fff31b-9c4b112ad338d4e1a26fceeae11ff1e0-1776169972-1776166372&remote=no_check_ip
 
-#EXTINF:-1 tvg-logo="https://ottking.top/app/uploads/default_image/tv_thumbnail.jpg" group-title="BDIX TV",& PICTURES HD
-http://103.112.62.111:80/play/n5so6d1haGfCinuCaFUXHr7muRjuM-Zh0LYhUR_1Lvg/m3u8
+#EXTINF:-1 tvg-logo="http://ftpbdlive.com/assets/images/Sony Max HD.png" group-title="SM BDIX",Sony Max HD
+http://180.94.28.28:8097//SONY-MAX/index.fmp4.m3u8?token=3cb50ef3d94ad1661590b7d21df6f5f56856da25-0e28ff981157c82e879c35fbff082361-1776169972-1776166372&remote=no_check_ip
 
-#EXTINF:-1 tvg-logo="https://ottking.top/app/uploads/default_image/tv_thumbnail.jpg" group-title="BDIX TV",STAR BHARAT
-http://103.112.62.111:80/play/n5so6d1haGfCinuCaFUXHkmD6fvjLbde6fMf0mu5nQs/m3u8
+#EXTINF:-1 tvg-logo="http://ftpbdlive.com/assets/images/Sony max 2.png" group-title="SM BDIX",Sony max 2
+http://180.94.28.28:8097//SONY-MAX-2/index.fmp4.m3u8?token=e3612fc46a92bab0b7c1889e7fd025713ef4b9bb-118f1af1694b4ae17317a6152a1fbd3f-1776169972-1776166372&remote=no_check_ip
 
-#EXTINF:-1 tvg-logo="https://ottking.top/app/uploads/default_image/tv_thumbnail.jpg" group-title="BDIX TV",ZEE TV HD
-http://103.112.62.111:80/play/n5so6d1haGfCinuCaFUXHqQyFbhyQkLYZ-qQFV3g07c/m3u8
+#EXTINF:-1 tvg-logo="http://ftpbdlive.com/assets/images/Sony Pix HD.png" group-title="SM BDIX",Sony Pix HD
+http://180.94.28.28:8097//SONY-PIX/index.fmp4.m3u8?token=4badf6f374c4646a88bbd2e6bed3c644389100f5-4fc7ab9f87beac766715a822dbfa108c-1776169972-1776166372&remote=no_check_ip
 
-#EXTINF:-1 tvg-logo="https://ottking.top/app/uploads/default_image/tv_thumbnail.jpg" group-title="BDIX TV",COLORS CINEPLEX HD
-http://103.112.62.111:80/play/n5so6d1haGfCinuCaFUXHqNhq5lCgMVswvuRS2D5GLs/m3u8
+#EXTINF:-1 tvg-logo="http://ftpbdlive.com/assets/images/Zee Cinema HD .png" group-title="SM BDIX",Zee Cinema HD
+http://180.94.28.28:8097//ZEE-CINEMA/index.fmp4.m3u8?token=0e73452eabec9200801db1b31a9ec47a0808face-62fc389819392a38f719f3a9e375f563-1776169973-1776166373&remote=no_check_ip
 
-#EXTINF:-1 tvg-logo="https://ottking.top/app/uploads/default_image/tv_thumbnail.jpg" group-title="BDIX TV",COLORS HD
-http://103.112.62.111:80/play/n5so6d1haGfCinuCaFUXHhcP2JyGmxD724Ya1ev_hOk/m3u8
+#EXTINF:-1 tvg-logo="http://ftpbdlive.com/assets/images/MOVIES-NOW.png" group-title="SM BDIX",MOVIES-NOW
+http://180.94.28.28:8097//MOVIES-NOW/index.fmp4.m3u8?token=8827e074d26958c8c9daa9a832390e68a169cd09-601dde3eea52847bbdd05b326099c905-1776169973-1776166373&remote=no_check_ip
 
-#EXTINF:-1 tvg-logo="https://ottking.top/app/uploads/default_image/tv_thumbnail.jpg" group-title="BDIX TV",SONY ENTERTAINMENT
-http://103.112.62.111:80/play/n5so6d1haGfCinuCaFUXHryjs8ZE_zxKoJfkxGdERVo/m3u8
+#EXTINF:-1 tvg-logo="http://ftpbdlive.com/assets/images/CN.png" group-title="SM BDIX",CN
+http://180.94.28.28:8097//CARTOON-NETWORK/index.fmp4.m3u8?token=52636e5178ffde884455262dfbdd706f2c27950a-f06a3bb6e61cb1e4bfcd77721dda68b9-1776169973-1776166373&remote=no_check_ip
 
-#EXTINF:-1 tvg-logo="https://ottking.top/app/uploads/default_image/tv_thumbnail.jpg" group-title="BDIX TV",SONY PIX
-http://103.112.62.111:80/play/n5so6d1haGfCinuCaFUXHjwuBMIFWW6UPPi31RYslUQ/m3u8
+#EXTINF:-1 tvg-logo="http://ftpbdlive.com/assets/images/POGO1664977122.png" group-title="SM BDIX",POGO1664977122
+http://180.94.28.28:8097//POGO/index.fmp4.m3u8?token=2717e17ddf4e43e1e645268bdfba89a1649b0470-aff2f5f6145b48c212e9854819292120-1776169973-1776166373&remote=no_check_ip
 
-#EXTINF:-1 tvg-logo="https://ottking.top/app/uploads/default_image/tv_thumbnail.jpg" group-title="BDIX TV",ZEE CINEMA
-http://103.112.62.111:80/play/n5so6d1haGfCinuCaFUXHnsktLgHXHPzumpQ3buQ-rA/m3u8
+#EXTINF:-1 tvg-logo="http://ftpbdlive.com/assets/images/Discovery_kids.png" group-title="SM BDIX",Discovery_kids
+http://180.94.28.28:8097//DISCOVERY-KIDS/index.fmp4.m3u8?token=d588925c8e8b76efd133d62d8fd249b034835c6d-79817bfc16de854dcf89bd731eb17e75-1776169973-1776166373&remote=no_check_ip
 
-#EXTINF:-1 tvg-logo="https://ottking.top/app/uploads/default_image/tv_thumbnail.jpg" group-title="BDIX TV",SONY MAX HD
-http://103.112.62.111:80/play/n5so6d1haGfCinuCaFUXHpD2yx3-rw-KiUOhP6t8Qek/m3u8
+#EXTINF:-1 tvg-logo="http://ftpbdlive.com/assets/images/Duronto-TV.png" group-title="SM BDIX",Duronto-TV
+http://180.94.28.28:8097//Duronto-TV/index.fmp4.m3u8?token=e75fb97048890b77770eb83dbf6ba162d7146f10-0b19b41c8305385db0d73e7de5baa853-1776169973-1776166373&remote=no_check_ip
 
-#EXTINF:-1 tvg-logo="https://ottking.top/app/uploads/default_image/tv_thumbnail.jpg" group-title="BDIX TV",STAR PLUS
-http://103.112.62.111:80/play/n5so6d1haGfCinuCaFUXHukSoMret6TRDD7kWd9vWcY/m3u8
+#EXTINF:-1 tvg-logo="http://ftpbdlive.com/assets/images/Discovery.png" group-title="SM BDIX",Discovery
+http://180.94.28.28:8097//DISCOVERY-BANGLA/index.fmp4.m3u8?token=2c8ee71be8bca324c7695c06255bb0df4ef4efc8-161b0b59279082dc59bee57ac116fd64-1776169973-1776166373&remote=no_check_ip
 
-#EXTINF:-1 tvg-logo="https://ottking.top/app/uploads/default_image/tv_thumbnail.jpg" group-title="BDIX TV",STAR MOVIES
-http://103.112.62.111:80/play/n5so6d1haGfCinuCaFUXHjnWsvKpsBisODy08iuFWXY/m3u8
-
-#EXTINF:-1 tvg-logo="https://ottking.top/app/uploads/tv_image/star-gold-hd.png" group-title="BDIX TV",STAR GOLD HD
-http://103.112.62.111:80/play/n5so6d1haGfCinuCaFUXHkVBC1m9zfVFJSyq4y7g-FI/m3u8
-
-#EXTINF:-1 tvg-logo="https://ottking.top/app/uploads/default_image/tv_thumbnail.jpg" group-title="BDIX TV",OTT-KING TV
-http://103.112.62.111:80/play/n5so6d1haGfCinuCaFUXHirXzA9v-iF67tJhiU67Z8g/m3u8
-
-#EXTINF:-1 tvg-logo="https://ottking.top/app/uploads/default_image/tv_thumbnail.jpg" group-title="BDIX TV",STAR NEWS
-http://103.112.62.111:80/play/n5so6d1haGfCinuCaFUXHpW6CfvSSgm9TbwiQsfaUeY/m3u8
-
-#EXTINF:-1 tvg-logo="https://ottking.top/app/uploads/default_image/tv_thumbnail.jpg" group-title="BDIX TV",MAASRANGA TV
-http://103.112.62.111:80/play/n5so6d1haGfCinuCaFUXHoZHaQSVvpyEdoV6dxJeLLc/m3u8
-
-#EXTINF:-1 tvg-logo="https://ottking.top/app/uploads/default_image/tv_thumbnail.jpg" group-title="BDIX TV",ZEE BANGLA CINEMA
-http://103.112.62.111:80/play/n5so6d1haGfCinuCaFUXHkcIplnxIsmhoOTHWsKCAU8/m3u8
-
-#EXTINF:-1 tvg-logo="https://ottking.top/app/uploads/default_image/tv_thumbnail.jpg" group-title="BDIX TV",COLORS BANGLA CINEMA
-http://103.112.62.111:80/play/n5so6d1haGfCinuCaFUXHqxA_wtar5xGHl1neuRE51U/m3u8
-
-#EXTINF:-1 tvg-logo="https://ottking.top/app/uploads/default_image/tv_thumbnail.jpg" group-title="BDIX TV",FAST SPORTS HD
-http://103.112.62.111:80/play/n5so6d1haGfCinuCaFUXHvlTaBI18coWNDqrO38mYO4/m3u8
-
-#EXTINF:-1 tvg-logo="https://ottking.top/app/uploads/default_image/tv_thumbnail.jpg" group-title="BDIX TV",TNT SPORTS 2
-http://103.112.62.111:80/play/n5so6d1haGfCinuCaFUXHppGq0bSD7CFXkXh_-20VOQ/m3u8
-
-#EXTINF:-1 tvg-logo="https://ottking.top/app/uploads/default_image/tv_thumbnail.jpg" group-title="BDIX TV",EUROSPORTS HD
-http://103.112.62.111:80/play/n5so6d1haGfCinuCaFUXHtAj4uifsS6euyVBqzKgdHA/m3u8
-
-#EXTINF:-1 tvg-logo="https://ottking.top/app/uploads/default_image/tv_thumbnail.jpg" group-title="BDIX TV",BEIN SPORTS 1
-http://103.112.62.111:80/play/n5so6d1haGfCinuCaFUXHnsMJE5r7P9RE3lfKsLQWnc/m3u8
-
-#EXTINF:-1 tvg-logo="https://ottking.top/app/uploads/default_image/tv_thumbnail.jpg" group-title="BDIX TV",TEN CRICKET
-http://103.112.62.111:80/play/n5so6d1haGfCinuCaFUXHoUbeEhU55kNqbS-YfGVC-I/m3u8
-
-#EXTINF:-1 tvg-logo="https://ottking.top/app/uploads/default_image/tv_thumbnail.jpg" group-title="BDIX TV",A SPORTS
-http://103.112.62.111:80/play/n5so6d1haGfCinuCaFUXHo7MLT8FTbzAtUj5Z0SUpfE/m3u8
-
-#EXTINF:-1 tvg-logo="https://ottking.top/app/uploads/default_image/tv_thumbnail.jpg" group-title="BDIX TV",PTV SPORTS
-http://103.112.62.111:80/play/n5so6d1haGfCinuCaFUXHlH_7kWjpNCqgOZHNv6li80/m3u8
-
-#EXTINF:-1 tvg-logo="https://ottking.top/app/uploads/default_image/tv_thumbnail.jpg" group-title="BDIX TV",SONY SPORTS TEN 5 HD
-http://103.112.62.111:80/play/n5so6d1haGfCinuCaFUXHsiN5gbipJ6vUCkdAxUzUe8/m3u8
-
-#EXTINF:-1 tvg-logo="https://ottking.top/app/uploads/default_image/tv_thumbnail.jpg" group-title="BDIX TV",SONY SPORTS TEN 3 HD
-http://103.112.62.111:80/play/n5so6d1haGfCinuCaFUXHlPNI9t68BHj54dsPowAFUE/m3u8
-
-#EXTINF:-1 tvg-logo="https://ottking.top/app/uploads/default_image/tv_thumbnail.jpg" group-title="BDIX TV",SONY SPORTS TEN 2 HD
-http://103.112.62.111:80/play/n5so6d1haGfCinuCaFUXHtx7HvwRCMbMWJV-O0squEI/m3u8
-
-#EXTINF:-1 tvg-logo="https://ottking.top/app/uploads/default_image/tv_thumbnail.jpg" group-title="BDIX TV",STAR SPORTS SELECT 2
-http://103.112.62.111:80/play/n5so6d1haGfCinuCaFUXHtOGPe5Mw5bSND116DNfVlA/m3u8
-
-#EXTINF:-1 tvg-logo="https://ottking.top/app/uploads/default_image/tv_thumbnail.jpg" group-title="BDIX TV",STAR SPORTS SELECT 1
-http://103.112.62.111:80/play/n5so6d1haGfCinuCaFUXHt-6UuECPfcGIEumeifHQcY/m3u8
-
-#EXTINF:-1 tvg-logo="https://ottking.top/app/uploads/tv_image/travel-xp-bangla.png" group-title="BDIX TV",TRAVEL XP BANGLA
-http://103.112.62.111:80/play/n5so6d1haGfCinuCaFUXHnkpGyAl7e3xotgZI9n-P3E/m3u8
-
-#EXTINF:-1 tvg-logo="https://ottking.top/app/uploads/tv_image/discovery-bangla.png" group-title="BDIX TV",DISCOVERY BANGLA HD
-http://103.112.62.111:80/play/n5so6d1haGfCinuCaFUXHpnMqTvv43nvMshaZB66kj4/m3u8
-
-#EXTINF:-1 tvg-logo="https://ottking.top/app/uploads/tv_image/nat-geo-bangla.png" group-title="BDIX TV",NAT GEO BANGLA
-http://103.112.62.111:80/play/n5so6d1haGfCinuCaFUXHhLoqlkjEIaHlaTIhZkcKuY/m3u8
-
-#EXTINF:-1 tvg-logo="https://ottking.top/app/uploads/tv_image/b4u-music.png" group-title="BDIX TV",B4U MUSIC
-http://103.112.62.111:80/play/n5so6d1haGfCinuCaFUXHrIHoySdaA4LVmh65AtHFb4/m3u8
-
-#EXTINF:-1 tvg-logo="https://ottking.top/app/uploads/tv_image/masti-tv.png" group-title="BDIX TV",MASTIII
-http://103.112.62.111:80/play/n5so6d1haGfCinuCaFUXHs34oxq1aXB_J1bu1zJUWYU/m3u8
-
-#EXTINF:-1 tvg-logo="https://ottking.top/app/uploads/tv_image/snageet-bangla.png" group-title="BDIX TV",SANGEET BANGLA
-http://103.112.62.111:80/play/n5so6d1haGfCinuCaFUXHhsoZ0bcmGr1lMoaB3FkdpE/m3u8
-
-#EXTINF:-1 tvg-logo="https://ottking.top/app/uploads/tv_image/music-india.png" group-title="BDIX TV",MUSIC INDIA
-http://103.112.62.111:80/play/n5so6d1haGfCinuCaFUXHlbdk5YQFF_esbAejC0CBIs/m3u8
-
-#EXTINF:-1 tvg-logo="https://ottking.top/app/uploads/tv_image/zoom-tv.png" group-title="BDIX TV",ZOOM TV
-http://103.112.62.111:80/play/n5so6d1haGfCinuCaFUXHu4LAgtAHApGEy5aPNofor4/m3u8
-
-#EXTINF:-1 tvg-logo="https://ottking.top/app/uploads/tv_image/9xm.png" group-title="BDIX TV",9XM
-http://103.112.62.111:80/play/n5so6d1haGfCinuCaFUXHhjnZjUgg34Y2_xlUrBegDA/m3u8
+#EXTINF:-1 tvg-logo="http://ftpbdlive.com/assets/images/National Geography.png" group-title="SM BDIX",National Geography
+http://180.94.28.28:8097//NAT-GEO-BANGLA/index.fmp4.m3u8?token=b65b1f2861f21a6ab3b4916d72ad33c40559f5f2-93bd82f1e08068f6a05007af78dc76bb-1776169973-1776166373&remote=no_check_ip
