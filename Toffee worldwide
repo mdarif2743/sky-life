@@ -51,3 +51,180 @@ https://media.hmair.xyz/api/play/Somoy%20TV.m3u8
 #EXTHTTP:{"Cookie":"Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29tLw:Expires=1750297799:KeyName=prod_linear:Signature=TDBMq5Xc03aTvlgHIbGzOJRfXo1Ci6MBkMVPtER7RMKYwBr6xRLqsXpDCYdHaDC_ojg5k5EC7ww-uWB62kirBg","User-Agent":"Toffee (Linux;Android 14) AndroidXMedia3/1.1.1/64103898/4d2ec9b8c7534adc","Referer":"https://toffeelive.com/","client-api-header":"angM1aXCHQLmmSW6cDlpXMD6tLdwnhMoUeaBBFKmd98bX6Vrae5xCMbm4gg0+u33rnxeGQDZNr2GD1tW0cWwKEpWimNlGqXVQGhpiIBz1JFxN+OxXcQqaMPrjwUhCyI5mO1DGyNv18+Z2EpmHtVnLzV9SrGsQWu4oRKjxE8QIMsRs6LrvL6hWGPlOGQke/qb5QxQZNetPzI39jHhX7Zi2XrCMIT4a+gk2Wu1c3wIybwkqknPcTp4Bj1cEF3Q+q1dV05SBhzpEDfoR2BLyQ6dV3LvmY6MNKxbUjby7hMsg35lFl2Df2mZsr7C27309w/qWi8lLXDjB7B1MozIGKn8rw3bXY5YlrPKBKztyiisAjQQi7kc5ISXyGSwRmhciwkciuitsSL0LlqHY7/Qkkh71EtaK3XEgVpLdH8zRCsTwfu1iIVPiDwTycuuBy4XWkcNnd0iLB35yftQpiL8HfpO2jQnrAwzePxszJ7mewVG+M0P/qyTBD52NkPR8uW0AZmDKp5LHTCGf7sqldDzpZvU+gsSdvtsBUcmHzjINGEoyXk="}
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 https://media.hmair.xyz/api/play/Jamuna%20TV.m3u8
+
+#EXTINF:-1 group-title="[LIVE] BDIX ♛" tvg-logo="https://assets-prod.services.toffeelive.com/f_png,w_300,q_85/kK2aX5UBrjBfS2_RBcKf/posters/ba5dd8dc-4f87-414a-b57f-c9ecdeda5253.png",[BD] Zee Bangla
+https://media.hmair.xyz/api/play/Zee%20Bangla.m3u8
+#EXTVLCOPT:http-user-agent=Toffee (Linux;Android 14)
+
+#EXTINF:-1 group-title="[LIVE] BDIX ♛" tvg-logo="https://assets-prod.services.toffeelive.com/f_png,w_300,q_85/0C63X5UBv9knK3AHxaOs/posters/6dce1143-1045-4fec-ac4f-86d2bfb32447.png",[BD] HUM
+https://media.hmair.xyz/api/play/HUM.m3u8
+#EXTVLCOPT:http-user-agent=Toffee (Linux;Android 14)
+
+#EXTINF:-1 group-title="[LIVE] BDIX ♛" tvg-logo="https://assets-prod.services.toffeelive.com/f_png,w_300,q_85/T9O9X5UBm1RY_In7UXFv/posters/30e0f372-eb3e-4cf9-be1e-b196a40c2fc7.png",[BD] HUM Masala
+https://media.hmair.xyz/api/play/HUM%20Masala.m3u8
+#EXTVLCOPT:http-user-agent=Toffee (Linux;Android 14)
+
+#EXTINF:-1 group-title="[LIVE] BDIX ♛" tvg-logo="https://assets-prod.services.toffeelive.com/f_png,w_300,q_85/WtPBX5UBm1RY_In7mXEU/posters/188d51f6-aeef-41ed-835b-e25ff911e209.png",[BD] HUM Sitaray
+https://media.hmair.xyz/api/play/HUM%20Sitaray.m3u8
+#EXTVLCOPT:http-user-agent=Toffee (Linux;Android 14)
+
+#EXTINF:-1 group-title="[LIVE] BDIX ♛" tvg-logo="https://assets-prod.services.toffeelive.com/f_png,w_300,q_85/xi6xX5UBv9knK3AH9aMk/posters/f4db1c12-b10f-46e8-a09b-e0efb8820970.png",[BD] Sony Aath
+https://media.hmair.xyz/api/play/Sony%20Aath.m3u8
+#EXTVLCOPT:http-user-agent=Toffee (Linux;Android 14)
+
+#EXTINF:-1 group-title="[LIVE] BDIX ♛" tvg-logo="https://assets-prod.services.toffeelive.com/f_png,w_300,q_85/7x0Jd5YBEef-9-uVv_Gy/posters/f9c07bfc-9fde-40d0-91a1-e28c5840f400.png",[BD] Zee Anmol
+https://media.hmair.xyz/api/play/Zee%20Anmol.m3u8
+#EXTVLCOPT:http-user-agent=Toffee (Linux;Android 14)
+
+#EXTINF:-1 group-title="[LIVE] BDIX ♛" tvg-logo="https://assets-prod.services.toffeelive.com/f_png,w_300,q_85/PS6F-JQBv9knK3AHqjVz/posters/0f83ee72-be0f-4861-94df-30b158d3df8d.webp",[BD] B4U Music
+https://media.hmair.xyz/api/play/B4U%20Music.m3u8
+#EXTVLCOPT:http-user-agent=Toffee (Linux;Android 14)
+
+#EXTINF:-1 group-title="[LIVE] BDIX ♛" tvg-logo="https://assets-prod.services.toffeelive.com/f_png,w_300,q_85/DK8dd5YBrjBfS2_Ru22e/posters/a4e57fd0-1853-4540-a9bc-0265ee43b5cb.png",[BD] Zing
+https://media.hmair.xyz/api/play/Zing.m3u8
+#EXTVLCOPT:http-user-agent=Toffee (Linux;Android 14)
+
+#EXTINF:-1 group-title="[LIVE] BDIX ♛" tvg-logo="https://assets-prod.services.toffeelive.com/f_png,w_300,q_85/-y50-JQBv9knK3AHLzSn/posters/0ab48ac0-ec84-4ca2-9601-746ff3cb809e.webp",[BD] Sony Entertainment Television HD
+https://media.hmair.xyz/api/play/Sony%20Entertainment%20Television%20HD.m3u8
+#EXTVLCOPT:http-user-agent=Toffee (Linux;Android 14)
+
+#EXTINF:-1 group-title="[LIVE] BDIX ♛" tvg-logo="https://assets-prod.services.toffeelive.com/f_png,w_300,q_85/ES55-JQBv9knK3AHNDWC/posters/13411be9-62b9-4a99-a062-b6e91dfb1099.webp",[BD] Sony SAB HD
+https://media.hmair.xyz/api/play/Sony%20SAB%20HD.m3u8
+#EXTVLCOPT:http-user-agent=Toffee (Linux;Android 14)
+
+#EXTINF:-1 group-title="[LIVE] BDIX ♛" tvg-logo="https://assets-prod.services.toffeelive.com/f_png,w_300,q_85/ltPQX5UBm1RY_In7b3F1/posters/d039d9df-9877-4969-a0b6-56888ebe2385.png",[BD] Zee TV HD
+https://media.hmair.xyz/api/play/Zee%20TV%20HD.m3u8
+#EXTVLCOPT:http-user-agent=Toffee (Linux;Android 14)
+
+#EXTINF:-1 group-title="[LIVE] BDIX ♛" tvg-logo="https://assets-prod.services.toffeelive.com/f_png,w_300,q_85/5cwRnZUBtpl-Sbt7wWrN/posters/5779ade3-e9ba-4107-b3da-bae6f891500a.png",[BD] &TV HD
+https://media.hmair.xyz/api/play/%26TV%20HD.m3u8
+#EXTVLCOPT:http-user-agent=Toffee (Linux;Android 14)
+
+#EXTINF:-1 group-title="[LIVE] BDIX ♛" tvg-logo="https://assets-prod.services.toffeelive.com/f_png,w_300,q_85/2S5t-JQBv9knK3AHJTTW/posters/ae74f943-77c9-4395-a16c-8ed84b439080.webp",[BD] Sony Entertainment Television
+https://media.hmair.xyz/api/play/Sony%20Entertainment%20Television.m3u8
+#EXTVLCOPT:http-user-agent=Toffee (Linux;Android 14)
+
+#EXTINF:-1 group-title="[LIVE] BDIX ♛" tvg-logo="https://assets-prod.services.toffeelive.com/f_png,w_300,q_85/py5j-JQBv9knK3AHxDTY/posters/ea3358b9-2bec-4615-a889-daa2e396c74c.webp",[BD] Sony Ten Sports 1 HD
+https://media.hmair.xyz/api/play/Sony%20Ten%20Sports%201%20HD.m3u8
+#EXTVLCOPT:http-user-agent=Toffee (Linux;Android 14)
+
+#EXTINF:-1 group-title="[LIVE] BDIX ♛" tvg-logo="https://assets-prod.services.toffeelive.com/f_png,w_300,q_85/vi5n-JQBv9knK3AHqzTC/posters/d171fd4d-0369-4213-b0c5-e241974f5459.png",[BD] Sony Ten Sports 5 HD
+https://media.hmair.xyz/api/play/Sony%20Ten%20Sports%205%20HD.m3u8
+#EXTVLCOPT:http-user-agent=Toffee (Linux;Android 14)
+
+#EXTINF:-1 group-title="[LIVE] BDIX ♛" tvg-logo="https://assets-prod.services.toffeelive.com/f_png,w_300,q_85/ra2x_pQBrjBfS2_RWG9l/posters/795170c2-ec78-457e-9fa0-54a23d23361c.webp",[BD] Sony Ten Cricket
+https://media.hmair.xyz/api/play/Sony%20Ten%20Cricket.m3u8
+#EXTVLCOPT:http-user-agent=Toffee (Linux;Android 14)
+
+#EXTINF:-1 group-title="[LIVE] BDIX ♛" tvg-logo="https://assets-prod.services.toffeelive.com/f_png,w_300,q_85/Uy6Q-JQBv9knK3AHcDUQ/posters/01709bcd-6d53-4710-a64f-bc49cecf1d61.webp",[BD] Eurosport HD
+https://media.hmair.xyz/api/play/Eurosport%20HD.m3u8
+#EXTVLCOPT:http-user-agent=Toffee (Linux;Android 14)
+
+#EXTINF:-1 group-title="[LIVE] BDIX ♛" tvg-logo="https://assets-prod.services.toffeelive.com/f_png,w_300,q_85/Ai51-JQBv9knK3AH_jWs/posters/663e52a6-1a9f-4458-b4aa-7c03d84972f1.webp",[BD] Sony MAX HD
+https://media.hmair.xyz/api/play/Sony%20MAX%20HD.m3u8
+#EXTVLCOPT:http-user-agent=Toffee (Linux;Android 14)
+
+#EXTINF:-1 group-title="[LIVE] BDIX ♛" tvg-logo="https://assets-prod.services.toffeelive.com/f_png,w_300,q_85/Ay52-JQBv9knK3AHFDWt/posters/00afb30b-3c19-4c4c-abd8-891db94e4767.webp",[BD] Sony MAX
+https://media.hmair.xyz/api/play/Sony%20MAX.m3u8
+#EXTVLCOPT:http-user-agent=Toffee (Linux;Android 14)
+
+#EXTINF:-1 group-title="[LIVE] BDIX ♛" tvg-logo="https://assets-prod.services.toffeelive.com/f_png,w_300,q_85/Ly6C-JQBv9knK3AHOjXt/posters/252e64ca-8d99-46e7-a951-e10c1703c11d.webp",[BD] Sony PIX HD
+https://media.hmair.xyz/api/play/Sony%20PIX%20HD.m3u8
+#EXTVLCOPT:http-user-agent=Toffee (Linux;Android 14)
+
+#EXTINF:-1 group-title="[LIVE] BDIX ♛" tvg-logo="https://assets-prod.services.toffeelive.com/f_png,w_300,q_85/U3QEd5YBcqxnFHJBpYzc/posters/8bc7ae1b-1a46-4b76-bdb1-13c7dbd3a95c.png",[BD] Zee Cafe
+https://media.hmair.xyz/api/play/Zee%20Cafe.m3u8
+#EXTVLCOPT:http-user-agent=Toffee (Linux;Android 14)
+
+#EXTINF:-1 group-title="[LIVE] BDIX ♛" tvg-logo="https://assets-prod.services.toffeelive.com/f_png,w_300,q_85/PC6F-JQBv9knK3AHlTUO/posters/fb0243ba-39a0-4101-a78c-c197be550c6c.webp",[BD] B4U Movies APAC
+https://media.hmair.xyz/api/play/B4U%20Movies%20APAC.m3u8
+#EXTVLCOPT:http-user-agent=Toffee (Linux;Android 14)
+
+#EXTINF:-1 group-title="[LIVE] BDIX ♛" tvg-logo="https://assets-prod.services.toffeelive.com/f_png,w_300,q_85/Ii5_-JQBv9knK3AHLDV3/posters/d961cc87-81b6-4b30-8414-8c0af2774818.webp",[BD] Sony MAX 2
+https://media.hmair.xyz/api/play/Sony%20MAX%202.m3u8
+#EXTVLCOPT:http-user-agent=Toffee (Linux;Android 14)
+
+#EXTINF:-1 group-title="[LIVE] BDIX ♛" tvg-logo="https://assets-prod.services.toffeelive.com/f_png,w_300,q_85/-C7MX5UBv9knK3AHdKOi/posters/e37fef13-9bf3-4ecc-8b74-fca091874fa0.png",[BD] Zee Bangla Cinema
+https://media.hmair.xyz/api/play/Zee%20Bangla%20Cinema.m3u8
+#EXTVLCOPT:http-user-agent=Toffee (Linux;Android 14)
+
+#EXTINF:-1 group-title="[LIVE] BDIX ♛" tvg-logo="https://assets-prod.services.toffeelive.com/f_png,w_300,q_85/5y7HX5UBv9knK3AHs6Nk/posters/7582fb79-c15f-4247-ba5b-1d2dd27f3d71.png",[BD] Zee Cinema HD
+https://media.hmair.xyz/api/play/Zee%20Cinema%20HD.m3u8
+#EXTVLCOPT:http-user-agent=Toffee (Linux;Android 14)
+
+#EXTINF:-1 group-title="[LIVE] BDIX ♛" tvg-logo="https://assets-prod.services.toffeelive.com/f_png,w_300,q_85/QMwWnZUBtpl-Sbt7S2sx/posters/8cad9a82-842a-47bf-a060-f17011f11c07.png",[BD] & Pictures HD
+https://media.hmair.xyz/api/play/%26%20Pictures%20HD.m3u8
+#EXTVLCOPT:http-user-agent=Toffee (Linux;Android 14)
+
+#EXTINF:-1 group-title="[LIVE] BDIX ♛" tvg-logo="https://assets-prod.services.toffeelive.com/f_png,w_300,q_85/OnSlPJYBcqxnFHJB6lFX/posters/d9ccb2a6-227f-4a41-8714-efaddab5cf5e.png",[BD] Zee Bollywood
+https://media.hmair.xyz/api/play/Zee%20Bollywood.m3u8
+#EXTVLCOPT:http-user-agent=Toffee (Linux;Android 14)
+
+#EXTINF:-1 group-title="[LIVE] BDIX ♛" tvg-logo="https://assets-prod.services.toffeelive.com/f_png,w_300,q_85/Pc3RD5YBtpl-Sbt7doxr/posters/33d667ae-bcc3-4f6b-b376-76c552136923.png",[BD] Zee Action
+https://media.hmair.xyz/api/play/Zee%20Action.m3u8
+#EXTVLCOPT:http-user-agent=Toffee (Linux;Android 14)
+
+#EXTINF:-1 group-title="[LIVE] BDIX ♛" tvg-logo="https://assets-prod.services.toffeelive.com/f_png,w_300,q_85/7S6j-JQBv9knK3AHbzXC/posters/0973097c-bc5c-4b28-aaca-f04d6f6cb5e2.webp",[BD] TLC HD
+https://media.hmair.xyz/api/play/TLC%20HD.m3u8
+#EXTVLCOPT:http-user-agent=Toffee (Linux;Android 14)
+
+#EXTINF:-1 group-title="[LIVE] BDIX ♛" tvg-logo="https://assets-prod.services.toffeelive.com/f_png,w_300,q_85/7C6j-JQBv9knK3AHVzUA/posters/e8f84105-5efe-4e91-a0d4-18a0849cf2f2.webp",[BD] TLC
+https://media.hmair.xyz/api/play/TLC.m3u8
+#EXTVLCOPT:http-user-agent=Toffee (Linux;Android 14)
+
+#EXTINF:-1 group-title="[LIVE] BDIX ♛" tvg-logo="https://assets-prod.services.toffeelive.com/f_png,w_300,q_85/Ny61-JQBv9knK3AHgzZ7/posters/0909b36a-afd5-426a-93b3-4512800977db.webp",[BD] Animal Planet
+https://media.hmair.xyz/api/play/Animal%20Planet.m3u8
+#EXTVLCOPT:http-user-agent=Toffee (Linux;Android 14)
+
+#EXTINF:-1 group-title="[LIVE] BDIX ♛" tvg-logo="https://assets-prod.services.toffeelive.com/f_png,w_300,q_85/Ni61-JQBv9knK3AHcDYc/posters/c16e8633-6b2a-401a-9cd6-ac26a4fcdedb.webp",[BD] Animal Planet HD
+https://media.hmair.xyz/api/play/Animal%20Planet%20HD.m3u8
+#EXTVLCOPT:http-user-agent=Toffee (Linux;Android 14)
+
+#EXTINF:-1 group-title="[LIVE] BDIX ♛" tvg-logo="https://assets-prod.services.toffeelive.com/f_png,w_300,q_85/MC6C-JQBv9knK3AHUzUT/posters/a8c32fd3-2ba7-437c-85ac-de2f1b2fa6ca.webp",[BD] Sony BBC Earth HD
+https://media.hmair.xyz/api/play/Sony%20BBC%20Earth%20HD.m3u8
+#EXTVLCOPT:http-user-agent=Toffee (Linux;Android 14)
+
+#EXTINF:-1 group-title="[LIVE] BDIX ♛" tvg-logo="https://assets-prod.services.toffeelive.com/f_png,w_300,q_85/KS6x-JQBv9knK3AHwDZy/posters/6594d216-aaca-4eee-b6f5-bbc6b80feb15.webp",[BD] Discovery
+https://media.hmair.xyz/api/play/Discovery.m3u8
+#EXTVLCOPT:http-user-agent=Toffee (Linux;Android 14)
+
+#EXTINF:-1 group-title="[LIVE] BDIX ♛" tvg-logo="https://assets-prod.services.toffeelive.com/f_png,w_300,q_85/KC6x-JQBv9knK3AHqjYc/posters/55e554f1-dbbb-47bd-97fe-fca878726c4c.webp",[BD] Discovery HD
+https://media.hmair.xyz/api/play/Discovery%20HD.m3u8
+#EXTVLCOPT:http-user-agent=Toffee (Linux;Android 14)
+
+#EXTINF:-1 group-title="[LIVE] BDIX ♛" tvg-logo="https://assets-prod.services.toffeelive.com/f_png,w_300,q_85/AS6s-JQBv9knK3AHDTZb/posters/eab8fd0f-9351-464c-b45e-332f38b49f4b.webp",[BD] Discovery Science
+https://media.hmair.xyz/api/play/Discovery%20Science.m3u8
+#EXTVLCOPT:http-user-agent=Toffee (Linux;Android 14)
+
+#EXTINF:-1 group-title="[LIVE] BDIX ♛" tvg-logo="https://assets-prod.services.toffeelive.com/f_png,w_300,q_85/Ay6s-JQBv9knK3AHJTY1/posters/e8f65578-e82d-4e4a-a1ff-073becc5bd71.webp",[BD] Discovery Turbo
+https://media.hmair.xyz/api/play/Discovery%20Turbo.m3u8
+#EXTVLCOPT:http-user-agent=Toffee (Linux;Android 14)
+
+#EXTINF:-1 group-title="[LIVE] BDIX ♛" tvg-logo="https://assets-prod.services.toffeelive.com/f_png,w_300,q_85/ay7uX5UBv9knK3AHs6TI/posters/deb3c186-b2e1-4a91-aafb-d86f9128b851.png",[BD] Investigation Discovery HD
+https://media.hmair.xyz/api/play/Investigation%20Discovery%20HD.m3u8
+#EXTVLCOPT:http-user-agent=Toffee (Linux;Android 14)
+
+#EXTINF:-1 group-title="[LIVE] BDIX ♛" tvg-logo="https://assets-prod.services.toffeelive.com/f_png,w_300,q_85/mC6W-JQBv9knK3AHfDWA/posters/d2a02d82-fde4-4769-a6d9-95c0560e2120.webp",[BD] Cartoon Network
+https://media.hmair.xyz/api/play/Cartoon%20Network.m3u8
+#EXTVLCOPT:http-user-agent=Toffee (Linux;Android 14)
+
+#EXTINF:-1 group-title="[LIVE] BDIX ♛" tvg-logo="https://assets-prod.services.toffeelive.com/f_png,w_300,q_85/1y6e-JQBv9knK3AHNDWb/posters/ee9ba01b-1bcf-436b-b273-7b857f0810fb.webp",[BD] Cartoon Network HD +
+https://media.hmair.xyz/api/play/Cartoon%20Network%20HD%20%2B.m3u8
+#EXTVLCOPT:http-user-agent=Toffee (Linux;Android 14)
+
+#EXTINF:-1 group-title="[LIVE] BDIX ♛" tvg-logo="https://assets-prod.services.toffeelive.com/f_png,w_300,q_85/1i6e-JQBv9knK3AHHTXR/posters/325887a7-84ea-4cf9-a6fd-6111ddc25671.webp",[BD] Discovery Kids
+https://media.hmair.xyz/api/play/Discovery%20Kids.m3u8
+#EXTVLCOPT:http-user-agent=Toffee (Linux;Android 14)
+
+#EXTINF:-1 group-title="[LIVE] BDIX ♛" tvg-logo="https://assets-prod.services.toffeelive.com/f_png,w_300,q_85/ny6W-JQBv9knK3AHujXC/posters/7e7c2afe-a663-4c09-983a-2d0fa0f1ca9a.webp",[BD] POGO
+https://media.hmair.xyz/api/play/POGO.m3u8
+#EXTVLCOPT:http-user-agent=Toffee (Linux;Android 14)
+
+#EXTINF:-1 group-title="[LIVE] BDIX ♛" tvg-logo="https://assets-prod.services.toffeelive.com/f_png,w_300,q_85/IC5_-JQBv9knK3AHFDXh/posters/36df4012-80f2-4a98-9970-3b663f62093f.webp",[BD] Sony YAY
+https://media.hmair.xyz/api/play/Sony%20YAY.m3u8
+#EXTVLCOPT:http-user-agent=Toffee (Linux;Android 14)
+
+
+
+
+
